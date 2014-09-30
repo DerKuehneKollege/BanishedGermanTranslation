@@ -4,11 +4,11 @@ StringTable resource
 	[ 
 		{
 			String _name = "Topic";
-			String _text = "DÎRTRÔÂD";
+			String _text = "Feldweg";
 		}
 		{
 			String _name = "Title";
-			String _text = "DÎRT RÔÂDS";
+			String _text = "Feldwege";
 		}
 		{
 			String _name = "Text";
