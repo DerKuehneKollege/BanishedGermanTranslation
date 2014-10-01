@@ -4,7 +4,7 @@ StringTable resource
 	[ 
 		{
 			String _name = "Topic";
-			String _text = "Ereignisverlauf";
+			String _text = "EventLog";
 		}
 		{
 			String _name = "Title";

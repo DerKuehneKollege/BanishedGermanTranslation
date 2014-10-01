@@ -10,7 +10,7 @@ StringTable tutorialStrings
 			String _name = "Step_Build_0_Pre";
 			String _text = "Platzieren zunächst eine Schmiede. Der Schmied stellt Arbeitswerkzeuge für Ihre Stadtbewohner her.
 
-Beginnen Sie, indem Sie zunächst in der unteren Leiste die Kategorie 'Ressourcenproduktion' auswählen.";
+Beginnen Sie, indem Sie zunächst in der unteren Hauptleiste die Kategorie 'Ressourcenproduktion' auswählen.";
 		}
 		{
 			String _name = "Step_Build_1_Pre";
@@ -36,7 +36,7 @@ Wählen Sie hierzu";
 			String _name = "Step_Build_5_Pre";
 			String _text = "Platzieren Sie als nächstes eine Schneiderei. Schneider stellen warme Kleidung für Ihre Stadtbevölkerung her.
 
-Wählen Sie aus der unteren Leiste die Kategorie 'Ressourcenproduktion'.";
+Wählen Sie in der Hauptleiste die Kategorie 'Ressourcenproduktion'.";
 		}
 		{
 			String _name = "Step_Build_6_Pre";
@@ -76,7 +76,7 @@ Sie müssen das Gebäude entsprechend der Markierung rotieren, dies können Sie mit
 			String _name = "Step_Profession_0_Pre";
 			String _text = "Da die Gebäude nun gesetzt sind, sollten Sie den Gebäuden Arbeiter zuweisen.
 
-Wählen Sie in der unteren Leiste die Kategorie 'Toolfenster und Statistiken' aus.";
+Wählen Sie in der Hauptleiste die Kategorie 'Toolfenster und Statistiken' aus.";
 		}
 		{
 			String _name = "Step_Profession_1_Pre";

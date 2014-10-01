@@ -26,87 +26,87 @@ StringTable resource
 			mehr Informationen zu erhalten!
 			^p
 			^lb
-			^li ^abGrundlagen Grundlagen zum Spiel^ae
-			^li ^abKamerasteuerung Kamerasteuerung^ae
-			^li ^abMenüleiste Menüleiste^ae
-			^li ^abSiedler Siedler^ae
-			^li ^abRessource Ressourcen^ae
-			^li ^abGebäude Gebäudebau und Gebäude^ae
-			^li ^abKatastrophe Katastrophen^ae
-			^li ^abSpielgeschwindigkeit Spielgeschwindigkeit^ae
-			^li ^abToolfenster Toolfenster und Statistiken^ae
+			^li ^abGettingStarted Grundlagen zum Spiel^ae
+			^li ^abNavigation Kamerasteuerung^ae
+			^li ^abToolbar Hauptleiste^ae
+			^li ^abCitizen Siedler^ae
+			^li ^abResource Ressourcen^ae
+			^li ^abBuildings Gebäudebau und Gebäude^ae
+			^li ^abDisaster Katastrophen^ae
+			^li ^abToolbarTime Spielgeschwindigkeit^ae
+			^li ^abToolbarTools Toolfenster und Statistiken^ae
 			^lb
-			    ^li ^abSTÂTÛSBÂR STÂTÛS BÂR ^ae
-			    ^li ^abEreignisverlauf Ereignisverlauf ^ae
-			    ^li ^abMÂP ÂRÊÂ MÂP ^ae
-			    ^li ^abPRÔFÊSSÎÔN PRÔFÊSSÎÔNS ^ae
-			    ^li ^abLÎMÎT RÊSÔÛRCÊ LÎMÎTS ^ae
-			    ^li ^abPRÎÔRÎTY PRÎÔRÎTY TÔÔL ^ae
-			    ^li ^abPÂTH PÂTH TÔÔL ^ae
-			    ^li ^abKamera Kameraansichten ^ae
-			    ^li ^abRathaus Zensusdaten ^ae
-			    ^li ^abHilfe Hilfe ^ae
+			    ^li ^abStatusBar Statusfenster^ae
+			    ^li ^abEventLog Ereignisverlauf^ae
+			    ^li ^abMap Übersichtskarte^ae
+			    ^li ^abProfession Berufe^ae
+			    ^li ^abLimit Ressourcenlimits^ae
+			    ^li ^abPriority Priorität erhöhen^ae
+			    ^li ^abPath Laufwege^ae
+			    ^li ^abCamera Kameraansichten^ae
+			    ^li ^abGotoTownHall Zensusdaten^ae
+			    ^li ^abHelp Hilfe^ae
             ^le
-            ^li ^abTÔÔLBÂRHÔÛSÎNG HÔMÊS & HÔÛSÎNG^ae
+            ^li ^abToolbarHousing Behausungen und Unterkünfte^ae
             ^lb
-                ^li ^abWÔÔDHÔÛSÊ WÔÔDÊN HÔÛSÊS ^ae
-                ^li ^abSTÔNÊHÔÛSÊ STÔNÊ HÔÛSÊS ^ae
-                ^li ^abNotunterkunft Notunterkünfte ^ae
+                ^li ^abWoodHouse Holzhäuser^ae
+                ^li ^abStoneHouse Steinhäuser^ae
+                ^li ^abBoardingHouse Notunterkünfte^ae
             ^le
-            ^li ^abTÔÔLBÂRRÔÂDS RÔÂDS & BRÎDGÊS ^ae
+            ^li ^abToolbarRoads Straßen und Brücken^ae
             ^lb
-                ^li ^abFeldweg Feldwege ^ae
-                ^li ^abSTÔNÊRÔÂD STÔNÊ RÔÂDS ^ae
-                ^li ^abBrücke Brücken ^ae
-                ^li ^abTÛNNÊL TÛNNÊLS ^ae
+                ^li ^abDirtRoad Feldwege^ae
+                ^li ^abStoneRoad Gepflasterte Straße^ae
+                ^li ^abBridge Brücken^ae
+                ^li ^abTunnel Tunnel^ae
             ^le
-            ^li ^abTÔÔLBÂRSTÔRÂGÊ STÔRÂGÊ, MÂRKÊTS & TRÂDÊ ^ae
+            ^li ^abToolbarStorage Lagerraum und Handel^ae
             ^lb
-                ^li ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRNS ^ae
-                ^li ^abSTÔCKPÎLÊ STÔCK PÎLÊS ^ae
-                ^li ^abMÂRKÊT MÂRKÊTS ^ae
-                ^li ^abTRÂDÎNGPÔST TRÂDÎNG PÔSTS ^ae
+                ^li ^abStorageBarn Lagerhäuser^ae
+                ^li ^abStockPile Lagerplätze^ae
+                ^li ^abMarket Märkte^ae
+                ^li ^abTradingPost Handelsposten^ae
             ^le
-            ^li ^abTÔÔLBÂRSÊRVÎCÊS TÔWN SÊRVÎCÊS^ae
+            ^li ^abToolbarServices Stadtgebäude^ae
             ^lb
-                ^li ^abWÊLL WÊLLS ^ae
-                ^li ^abSCHÔÔL SCHÔÔLS ^ae
-                ^li ^abKrankenhaus Krankenhäuser ^ae
-                ^li ^abTÔWNHÂLL TÔWN HÂLLS ^ae
-                ^li ^abKapelle Kapellen ^ae
-                ^li ^abFriedhof Friedhöfe ^ae
+                ^li ^abWell Brunnen^ae
+                ^li ^abSchool Schulen^ae
+                ^li ^abHospital Krankenhäuser^ae
+                ^li ^abTownHall Rathäuser^ae
+                ^li ^abChapel Kapellen^ae
+                ^li ^abCemetery Friedhöfe^ae
             ^le
-            ^li ^abTÔÔLBÂRFÔÔD FÔÔD PRÔDÛCTÎÔN ^ae
+            ^li ^abToolbarFood Nahrungsproduktion ^ae
             ^lb
-                ^li ^abAcker Äcker ^ae
-                ^li ^abÔRCHÂRD ÔRCHÂRDS ^ae
-                ^li ^abPÂSTÛRÊ PÂSTÛRÊS ^ae
-                ^li ^abFischerhütte Fischerhütten ^ae
-                ^li ^abJagdhütte Jagdhütte ^ae
-                ^li ^abSammler Sammler ^ae
+                ^li ^abCropField Äcker^ae
+                ^li ^abOrchard Obstgärten^ae
+                ^li ^abPasture Viehweiden^ae
+                ^li ^abFishingDock Fischerhütten^ae
+                ^li ^abHunterLodge Jagdhütte^ae
+                ^li ^abGathererHut Sammler^ae
             ^le
-            ^li ^abTÔÔLBÂRPRÔDÛCTÎÔN RÊSÔÛRCÊ PRÔDÛCTÎÔN^ae
+            ^li ^abToolbarProduction Ressourcenproduktion^ae
             ^lb
-                ^li ^abWÔÔDCÛTTÊR WÔÔDCÛTTÊRS ^ae
-                ^li ^abFörster Förster ^ae
-                ^li ^abKräutersammler Kräutersammler ^ae
-                ^li ^abSchmied Schmied ^ae
-                ^li ^abTÂÎLÔR TÂÎLÔRS ^ae
-                ^li ^abTÂVÊRN TÂVÊRNS ^ae
-                ^li ^abMÎNÊ MÎNÊS ^ae
-                ^li ^abQÛÂRRY QÛÂRRÎÊS ^ae
+                ^li ^abWoodcutter Holzhacker^ae
+                ^li ^abForester Förster^ae
+                ^li ^abHerbalist Kräutersammler^ae
+                ^li ^abBlacksmith Schmied^ae
+                ^li ^abTailor Schneidereien^ae
+                ^li ^abTavern Wirtshäuser^ae
+                ^li ^abMine Minen^ae
+                ^li ^abQuarry Steinbrüche^ae
             ^le
-            ^li ^abTÔÔLBÂRRÊMÔVÂL DÊSTRÛCTÎÔN & RÊMÔVÂL TÔÔLS ^ae
+            ^li ^abToolbarRemoval Ressourcenabbau und Gebäudeabriss^ae
             ^lb
-                ^li ^abRÊMÔVÊSTRÛCTÛRÊ RÊMÔVÎNG STRÛCTÛRÊS ^ae
-                ^li ^abRÊMÔVÊRÊSÔÛRCÊ RÊMÔVÎNG RÊSÔÛRCÊS ^ae
-                ^li ^abRÊMÔVÊTRÊÊ HÂRVÊSTÎNG TRÊÊS ^ae
-                ^li ^abRÊMÔVÊSTÔNÊ CÔLLÊCTÎNG STÔNÊ ^ae
-                ^li ^abRÊMÔVÊÎRÔN CÔLLÊCTÎNG ÎRÔN ^ae
-                ^li ^abRÊMÔVÊRÔÂD RÊMÔVÎNG RÔÂDS ^ae
-                ^li ^abRÊMÔVÊCÂNCÊL CÂNCÊLÎNG RÊMÔVÂL ^ae
+                ^li ^abRemoveStructure Gebäude abreißen^ae
+                ^li ^abRemoveResource Ressourcen abbauen^ae
+                ^li ^abRemoveTree Bäume fällen^ae
+                ^li ^abRemoveStone Stein abbauen^ae
+                ^li ^abRemoveIron Eisen abbauen^ae
+                ^li ^abRemoveRoad Wege entfernen^ae
+                ^li ^abRemoveCancel Abbau stoppen^ae
             ^le
-            ^li ^abMitwirkende Mitwirkende^ae ^le ";
+            ^li ^abCredits Mitwirkende^ae ^le ";
 		}
 	]
 }

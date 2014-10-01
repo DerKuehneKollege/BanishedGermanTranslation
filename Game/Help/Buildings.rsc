@@ -4,7 +4,7 @@ StringTable resource
 	[ 
 		{
 			String _name = "Topic";
-			String _text = "Gebäude";
+			String _text = "Buildings";
 		}
 		{
 			String _name = "Title";

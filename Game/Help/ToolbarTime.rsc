@@ -4,7 +4,7 @@ StringTable resource
 	[ 
 		{
 			String _name = "Topic";
-			String _text = "Spielgeschwindigkeit";
+			String _text = "ToolbarTime";
 		}
 		{
 			String _name = "Title";

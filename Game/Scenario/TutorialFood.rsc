@@ -12,7 +12,7 @@ Jagen, Fischen und Sammeln sind einfache Mittel, um Nahrung aus der Stadtumgebun
 			String _name = "Step_Build_0_Pre";
 			String _text = "Bevor Nahrung produziert werden kann, müssen dafür spezielle Gebäude gebaut und Sammel- bzw. Anbaugebiete ausgewiesen werden.
 
-Beginnen Sie, indem Sie eine Viehweide platzieren. Wählen Sie dazu in der unteren Leiste 'Nahrungsproduktion' oder drücken Sie ";
+Beginnen Sie, indem Sie eine Viehweide platzieren. Wählen Sie dazu in der Hauptleiste 'Nahrungsproduktion' oder drücken Sie ";
 		}
 		{
 			String _name = "Step_Build_1_Pre";

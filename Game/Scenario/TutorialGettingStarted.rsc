@@ -67,11 +67,11 @@ Die von Ihnen gesteuerten Siedler brauchen drei Dinge zum Überleben: Unterkunft,
 		}
 		{
 			String _name = "Step_FirstHouse_1_Pre";
-			String _text = "Sie können für die Siedler Wohnraum schaffen, indem Sie Häuser bauen. Wählen Sie dazu zunächst das Menü 'Behausungen' in der unteren Leiste.";
+			String _text = "Sie können für die Siedler Wohnraum schaffen, indem Sie Häuser bauen. Wählen Sie dazu zunächst in der Hauptleiste das Menü 'Behausungen'.";
 		}
 		{
 			String _name = "Step_FirstHouse_2_Pre";
-			String _text = "Wählen Sie nun in der Leiste das 'Holzhaus' aus.";
+			String _text = "Wählen Sie nun in der Hauptleiste das 'Holzhaus' aus.";
 		}
 		{
 			String _name = "Step_FirstHouse_3_Pre";
@@ -189,7 +189,7 @@ Wenn Ihre Siedler drohen zu verhungern, erscheint über ihren Köpfen das folgende
 		}
 		{
 			String _name = "Step_Fish_0_Pre";
-			String _text = "Da sich die Stadt direkt an einem Fluss befindet, ist der einfachste Weg an Nahrung zu kommen, eine Fischerhütte zu platzieren. Wählen Sie in der unteren Leiste das Menü 'Nahrungsproduktion' durch Auswahl von";
+			String _text = "Da sich die Stadt direkt an einem Fluss befindet, ist der einfachste Weg an Nahrung zu kommen, eine Fischerhütte zu platzieren. Wählen Sie in der Hauptleiste das Menü 'Nahrungsproduktion' durch Auswahl von";
 		}
 		{
 			String _name = "Step_Fish_1_Pre";
@@ -275,7 +275,7 @@ Sie müssen mehr Bäume fällen lassen, bevor der Bau begonnen werden kann.";
 		}
 		{
 			String _name = "Step_Cutter_4_Pre";
-			String _text = "Wählen Sie in der unteren Leiste das Menü 'Ressourcenabbau und Gebäudeabriss'.";
+			String _text = "Wählen Sie in der Hauptleiste das Menü 'Ressourcenabbau und Gebäudeabriss'.";
 		}
 		{
 			String _name = "Step_Cutter_5_Pre";
@@ -289,7 +289,7 @@ Sie müssen mehr Bäume fällen lassen, bevor der Bau begonnen werden kann.";
 			String _name = "Step_Cutter_0_Pre";
 			String _text = "Ihre Bevölkerung benötigt Brennmaterial, um im Winter zu heizen. Der einfachste Weg, Brennmaterial zu beschaffen ist, Holz zu Brennholz hacken zu lassen. Sie benötigen hierzu ein Arbeitsgebäude für den Holzhacker.
 
-Wählen Sie hierzu 'Ressourcenproduktion' in der unteren Leiste.";
+Wählen Sie hierzu in der Hauptleiste 'Ressourcenproduktion' aus.";
 		}
 		{
 			String _name = "Step_Cutter_1_Pre";
@@ -349,7 +349,7 @@ Wenn Sie möchten, können Sie die Spielgeschwindigkeit erhöhen, um den Vorgang sc
 			String _name = "Step_Road_0_Pre";
 			String _text = "Der Bau von Wegen bzw. Straßen ermöglicht es, dass sich Ihre Siedler schneller zwischen verschiedenen Orten fortbewegen.
 
-Platzieren Sie Wege durch Auswahl des Menüs 'Straßen und Brücken' in der unteren Leiste.";
+Platzieren Sie Wege durch Auswahl des Menüs 'Straßen und Brücken' in der Hauptleiste.";
 		}
 		{
 			String _name = "Step_Road_1_Pre";

@@ -1607,11 +1607,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HelpBackTip";
-			String _text = "Klicken, um zurückzugehen.";
+			String _text = "Eine Seite zurückblättern.";
 		}
 		{
 			String _name = "HelpForwardTip";
-			String _text = "Klicken, um weiterzugehen.";
+			String _text = "Eine Seite weiterblättern.";
 		}
 		{
 			String _name = "BuildingStatusPausedTip";
@@ -3804,11 +3804,11 @@ StringTable objects
 		}
 		{
 			String _name = "IronMine";
-			String _text = "Eisenmine";
+			String _text = "Mine";
 		}
 		{
 			String _name = "IronMineLwr";
-			String _text = "Eisenmine";
+			String _text = "Mine";
 		}
 		{
 			String _name = "IronMineTip";
@@ -4385,7 +4385,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionMinerTip";
-			String _text = "Bergarbeiter bauen Eisenerz aus dem Untergrund ab.";
+			String _text = "Bergarbeiter bauen Eisenerz und Kohle aus dem Untergrund ab.";
 		}
 		{
 			String _name = "ProfessionMinerDeath";
