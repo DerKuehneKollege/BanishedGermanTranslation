@@ -96,7 +96,7 @@ StringTable achievement
 		}
 		{
 			String _name = "OnewithNatureDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 400 Einwohnern, ohne Äcker, Obstplantagen oder Weideflächen zu errichten.";
+			String _text = "Erreichen Sie eine Bevölkerungszahl von 400 Einwohnern, ohne Äcker, Obstgärten oder Viehweiden zu errichten.";
 		}
 		{
 			String _name = "Trader";
@@ -1674,23 +1674,23 @@ StringTable gameKeys
 	[ 
 		{
 			String _name = "Mouse_X";
-			String _text = "Nicht zuordenbar";
+			String _text = "Nicht zuweisbar";
 		}
 		{
 			String _name = "Mouse_Y";
-			String _text = "Nicht zuordenbar";
+			String _text = "Nicht zuweisbar";
 		}
 		{
 			String _name = "Mouse_DeltaX";
-			String _text = "Nicht zuordenbar";
+			String _text = "Nicht zuweisbar";
 		}
 		{
 			String _name = "Mouse_DeltaY";
-			String _text = "Nicht zuordenbar";
+			String _text = "Nicht zuweisbar";
 		}
 		{
 			String _name = "Mouse_Wheel";
-			String _text = "Nicht zuordenbar";
+			String _text = "Nicht zuweisbar";
 		}
 		{
 			String _name = "Mouse_Left";
@@ -2777,7 +2777,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading6";
-			String _text = "(Wildtiere suchen)";
+			String _text = "(Wilde Tiere suchen)";
 		}
 		{
 			String _name = "Loading7";
@@ -2841,7 +2841,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading22";
-			String _text = "(Apfelsamen pflanzen)";
+			String _text = "(Apfelbäume pflanzen)";
 		}
 		{
 			String _name = "Loading23";
@@ -2907,6 +2907,100 @@ StringTable loadingDetails
 			String _name = "Loading38";
 			String _text = "(Hühnereier verstecken)";
 		}
+	]
+}
+
+StringTable modUpload
+{
+	Entry _strings
+	[
+		{
+			String _name = "UserAgreement";
+			String _text = "Durch das Hochladen dieser Mod erklären Sie sich mit den Nutzungsbedingungen vom Steam Workshop einverstanden. Klicken Sie auf den unteren Link, um sich die Nutzungsbedingungen durchzulesen.";
+		}
+		{
+            String _name = "BeginSearch";
+            String _text = "Suche nach bisher veröffentlichten Mods...";
+        }
+		{
+            String _name = "Searching";
+            String _text = "Suche nach bisher veröffentlichten Mods...";
+        }
+		{
+            String _name = "SearchFailed";
+            String _text = "Es konnten keine bisher veröffentlichten Mods gefunden werden oder es ist ein Fehler während der Suche aufgetreten.";
+        }
+		{
+            String _name = "SearchComplete";
+            String _text = "Klicken Sie im Steam Workshop auf die Mod, die Sie aktualisieren möchten.";
+        }
+		{
+            String _name = "SearchConfirm";
+            String _text = "Sind Sie sicher, dass Sie den Steam-Workshop-Inhalt '@1' mit dem lokalen Inhalt namens '@0' ersetzen wollen?";
+        }
+		{
+            String _name = "ChangeNote";
+            String _text = "Sie können in einer Notiz angeben, welche Änderungen mit dieser Mod-Version vorgenommen wurden.";
+        }
+		{
+            String _name = "BeginCreate";
+            String _text = "Erstelle '@0'...";
+        }
+		{
+            String _name = "Creating";
+            String _text = "Erstelle '@0'...";
+        }
+		{
+            String _name = "CreateFailed";
+            String _text = "Hochladen zum Steam Workshop fehlgeschlagen.";
+        }
+		{
+            String _name = "CreateComplete";
+            String _text = "Hochladen von '@0' zum Steam Workshop erfolgreich abgeschlossen.";
+        }
+		{
+            String _name = "BeginUpdate";
+            String _text = "Lade '@0' in den Steam Workshop hoch...";
+        }
+		{
+            String _name = "Updating";
+            String _text = "Lade '@0' in den Steam Workshop hoch...";
+        }
+		{
+            String _name = "UpdateFailed";
+            String _text = "Hochladen der Aktualisierung zum Steam Workshop fehlgeschlagen.";
+        }
+		{
+            String _name = "UpdateComplete";
+            String _text = "Hochladen der Aktualisierung von '@0' zum Steam Workshop erfolgreich abgeschlossen.";
+        }
+		{
+            String _name = "FinishedCreate";
+            String _text = "'@0' wurde erfolgreich erstellt und zum Steam Workshop hochgeladen.~n~nBesuchen Sie den unten angezeigten Link, um Änderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
+        }
+		{
+            String _name = "FinishedUpdate";
+            String _text = "'@0' wurde erfolgreich beim Steam Workshop aktualisiert.~n~nBesuchen Sie den unten angezeigten Link, um Änderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
+        }
+	]
+}
+
+StringTable modBrowserSort
+{
+	Entry _strings
+	[
+		{
+			String _name = "Sort0";
+			String _text = "Beliebteste";
+		}
+		{
+            String _name = "Sort1";
+            String _text = "Neueste Mods";
+        }
+		{
+            String _name = "Sort1";
+            String _text = "Abonniert";
+        }
 	]
 }
 
@@ -3007,6 +3101,62 @@ StringTable mainMenu
 			String _text = ". . .";
 		}
 		{
+			String _name = "ModUpload";
+			String _text = "Hochladen";
+		}
+		{
+			String _name = "ModBrowse";
+			String _text = "Steam Workshop";
+		}
+		{
+			String _name = "ModAdd";
+			String _text = "Hinzufügen";
+		}
+		{
+			String _name = "ModUpdate";
+			String _text = "Beim Workshop aktualisieren";
+		}
+		{
+			String _name = "ModCreate";
+			String _text = "Zum Workshop hinzufügen";
+		}
+		{
+			String _name = "ModUpdating";
+			String _text = "Aktualisiere Mod '@0'...";
+		}
+		{
+			String _name = "ModInstalled";
+			String _text = "Installierte Mods";
+		}
+		{
+			String _name = "ModDefaultTip";
+			String _text = "";
+		}
+		{
+			String _name = "ModUpdateAvailable";
+			String _text = "Aktualisierungen verfügbar.";
+		}
+		{
+			String _name = "ModSubscribeTip";
+			String _text = "Diese Mod abonnieren und herunterladen.";
+		}
+		{
+			String _name = "ModSearchError";
+			String _text = "Während der Suche ist ein Fehler aufgetreten. Versuchen Sie es später nochmal.";
+		}
+		{
+			String _name = "ModSearchNone";
+			String _text = "Es wurden keine Ergebnisse gefunden. Bitte passen Sie das Suchkriterium an.";
+		}
+		{
+			String _name = "ModUnsubscribeTip";
+			String _text = "Diese Mod deabonnieren. Die Mod wird erst nach Neustart des Spiels entfernt.";
+		}
+		{
+			String _name = "ModUpdateReload";
+			String _text = "Eine oder mehrere Mods wurden heruntergeladen oder aktualisiert. Ein Klick auf diesen Button startet das Spiel neu und macht die Verwendung der Mods möglich. Ansonsten sind die neuen Mods verfügbar, sobald das nächste mal ein Spiel oder das Hauptmenü geladen wird.";
+		}
+		{
 			String _name = "ModConflictTitle";
 			String _text = "^jl^f1^c0Konflikte^f0^n Diese Mod steht möglicherweise in Konflikt mit den unten aufgelisteten Mods. Die in Konflikt stehenden Einträge sind ^c1in orange hervorgehoben^c0.";
 		}
@@ -3016,7 +3166,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModDetailsTip";
-			String _text = "Details dieser Mod zeigen, inklusive enthaltene Dateien und vorhandene Konflikte.";
+			String _text = "Details dieser Mod zeigen, inklusive enthaltene Dateien und verursachte Konflikte.";
 		}
 		{
 			String _name = "ModTopTip";
@@ -3272,7 +3422,7 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "MapTip";
-			String _text = "Zeige die Parameter der Kartenerstellung.";
+			String _text = "Zeige die Parameter, die bei der Kartenerstellung verwendet wurden.";
 		}
 		{
 			String _name = "PercentComplete";

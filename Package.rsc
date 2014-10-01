@@ -2,10 +2,10 @@ PackageFile translationGerman
 {
 	String _name = "German translation";
 	String _author = "Martin Kuehn";
-	String _description = "All text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more informations at http://www.atomkraftzwerg.de";
+	String _description = "All text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
-	int _userVersion = 2;
+	int _userVersion = 3;
 
 	// all files in resource directory
 	String _includeList
