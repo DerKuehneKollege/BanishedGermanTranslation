@@ -14,15 +14,15 @@ StringTable resource
 			String _name = "Text";
 			String _text = "
 			^jc ^i3Title ^f1 ^jl
-			Willkommen in der Welt von Banished! In diesem Strategiespiel geht es um den Aufbau mittelalterlicher Städte.
+			Willkommen in der Welt von Banished! In diesem Strategiespiel geht es um den Aufbau mittelalterlicher Siedlungen.
 			Sie steuern eine Gruppe im Exil lebender Reisender, die in einer fernen, unbesiedelten Gegend ein neues Leben anfangen wollen.
-			Außer ihrer Kleidung führen die Reisenden nur einen Lagerkarren mit ein paar Startressourcen mit, den sie aus ihrer Heimat
+			Außer ihrer Kleidung führen die Reisenden nur einen Lagerkarren mit ein paar Startressourcen mit sich, den sie aus ihrer Heimat
 			mitgebracht haben. Ziel des Spiels ist es, dass Sie die Siedler am Leben erhalten und eine wachsende, florierende
 			Stadt errichten.
 			^p
 			Diese Hilfe enthält Informationen zu nahezu allen Elementen des Spiels, wie beispielsweise Gebäude und Berufe.
 			Um einen interaktiven Einstieg ins Spiel zu erhalten, sollten Sie die im Hauptmenü angebotenen Tutorials ausprobieren.
-			klicken Sie auf die ^c2 hervorgehobenen Themen ^c0 in der unten angezeigten Liste, um zu einzelnen Aspekten des Spiels
+			Klicken Sie auf die ^c2 hervorgehobenen Themen ^c0 in der unten angezeigten Liste, um zu einzelnen Aspekten des Spiels
 			mehr Informationen zu erhalten!
 			^p
 			^lb
