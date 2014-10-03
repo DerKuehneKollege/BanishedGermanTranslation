@@ -2998,7 +2998,7 @@ StringTable modBrowserSort
             String _text = "Neueste Mods";
         }
 		{
-            String _name = "Sort1";
+            String _name = "Sort2";
             String _text = "Abonniert";
         }
 	]
@@ -3165,6 +3165,14 @@ StringTable mainMenu
 			String _text = "^jl^f1^c0Ressourcen^f0^n Die in der Mod enthaltenen Ressourcen sind unten aufgelistet. ^c1In orange hervorgehobene^c0 Einträge sind Dateien, die in Konflikt mit einer anderen Mod stehen, in diesem Fall werden die Dateien dieser Mod verwendet. Einträge, die ^c2in gelb hervorgehoben^c0 sind, stehen ebenfalls in Konflikt mit einer anderen Mod, werden aber nicht geladen.";
 		}
 		{
+            String _name = "ModUserAgreement";
+            String _text = "^jc^f1^c0^abhttp://steamcommunity.com/sharedfiles/workshoplegalagreement http://steamcommunity.com/sharedfiles/workshoplegalagreement ^ae";
+        }
+		{
+            String _name = "ModWorkshopLink";
+            String _text = "^jc^f1^c0^abLink http://steamcommunity.com/sharedfiles/filedetails/?id=309885816.^ae";
+        }
+		{
 			String _name = "ModDetailsTip";
 			String _text = "Details dieser Mod zeigen, inklusive enthaltene Dateien und verursachte Konflikte.";
 		}
@@ -3185,12 +3193,20 @@ StringTable mainMenu
 			String _text = "Aktiviert oder deaktiviert die Mod.";
 		}
 		{
+			String _name = "ModUploadTip";
+			String _text = "Diese Mod zum Steam Workshop hochladen.";
+		}
+		{
 			String _name = "ModCreatedBy";
 			String _text = "Erstellt von: @0";
 		}
 		{
 			String _name = "ModPath";
 			String _text = "Pfad: @0";
+		}
+		{
+			String _name = "ModPage";
+			String _text = "Seite:";
 		}
 		{
 			String _name = "ModMissing";
@@ -3355,6 +3371,10 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		{
 			String _name = "ReflectionQuality";
 			String _text = "Reflektionsqualität";
+		}
+		{
+			String _name = "SoftwareMouse";
+			String _text = "Mausfilterung aktivieren";
 		}
 		{
 			String _name = "Bind";
