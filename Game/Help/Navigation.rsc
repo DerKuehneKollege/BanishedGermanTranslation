@@ -12,7 +12,33 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 Kamerasteuerung ^f1 ^n ÔNCÊ Â GÂMÊ BÊGÎNS, YÔÛ'LL NÊÊD TÔ MÔVÊ THÊ VÎÊW ÂRÔÛND THÊ TÊRRÂÎN ÂND LÂNDSCÂPÊ WHÎLÊ PLÂCÎNG BÛÎLDÎNGS, ÂND MÂNÂGÎNG YÔÛR TÔWN. ^p ÂLL KÊYS LÎSTÊD BÊLÔW ÂRÊ THÊ DÊFÂÛLT KÊYS THÂT THÊ GÂMÊ STÂRTS WÎTH. ÂLL KÊYS CÂN BÊ CHÂNGÊD ÎN THÊ ÔPTÎÔNS MÊNÛ. ^p ^ml154 ^c1 ^f2 MÔVÊMÊNT ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyWASD ^ml154 ^mc THÊ W, Â, S, ÂND D KÊYS WÎLL MÔVÊ THÊ VÎÊW FÔRWÂRD, LÊFT, BÂCKWÂRDS, ÂND RÎGHT, RÊSPÊCTÎVÊLY. YÔÛ CÂN ÂLSÔ MÔVÊ THÊ VÎÊWPÔRT BY MÔVÎNG THÊ MÔÛSÊ TÔ THÊ ÊDGÊS ÔF THÊ SCRÊÊN. ÊDGÊ SCRÔLLÎNG CÂN BÊ ÊNÂBLÊD ÂND DÎSÂBLÊD ÎN THÊ ÔPTÎÔNS MÊNÛ. ^ml0 ^me ^n ^ml154 ^c1 ^f2 RÔTÂTÎÔN ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyQE ^ml154 ^mc THÊ Q ÂND Ê KÊYS WÎLL RÔTÂTÊ THÊ VÎÊW LÊFT ÂND RÎGHT. YÔÛ CÂN ÂLSÔ RÔTÂTÊ THÊ VÎÊW BY HÔLDÎNG THÊ MÎDDLÊ MÔÛSÊ BÛTTÔN DÔWN ÂND DRÂGGÎNG THÊ MÔÛSÊ LÊFT ÂND RÎGHT. ^ml0 ^me ^n ^ml154 ^c1 ^f2 ZÔÔM ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyInsDel ^ml154 ^mc THÊ ÎNSÊRT ÂND DÊLÊTÊ KÊYS WÎLL ZÔÔM THÊ VÎÊW ÎN ÂND ÔÛT. YÔÛ CÂN ÂLSÔ ZÔÔM THÊ VÎÊW BY SCRÔLLÎNG THÊ MÔÛSÊ WHÊÊL. ^ml0 ^me ^n ^ml154 ^c1 ^f2 LÔÔK ÛP ÂND DÔWN ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyPg ^ml154 ^mc THÊ PÂGÊ ÛP ÂND PÂGÊ DÔWN KÊYS WÎLL CHÂNGÊ THÊ PÎTCH ÔF THÊ VÎÊW, LÔÔKÎNG ÛP ÂND DÔWN. THÊ RÂNGÊ ÔF PÎTCH ÎS HÎGHÊR WHÊN THÊ CÂMÊRÂ ÎS ZÔÔMÊD ÎN CLÔSÊ TÔ THÊ TÊRRÂÎN, ÂND LÔWÊR WHÊN ÎT ÎS ZÔÔMÊD ÔÛT. ^ml0 ^me ^n ";
+			String _text = " ^f3 Kamerasteuerung ^f1 ^n
+			Um die Stadt effizient zu verwalten, ist es während des Spiels häufig erforderlich, die Kamera auf der
+			Karte herumzubewegen. Beispielsweise ist es oft nötig, sich einen Überblick über das Gelände zu verschaffen,
+			weiterhin müssen häufig Gebäude an verschiedenen Stellen in der Landschaft zu platziert werden. Daher
+			steht zur komfortablen Kamerasteuerung eine Auswahl von Schnelltasten bereit.
+			^p
+			Im Folgenden ist die Standardbelegung der Tasten für die Kamerasteuerung aufgelistet. Alle Tastenzuordnungen
+			können im Optionsmenü individuell angepasst werden.
+			^p
+			^ml154 ^c1 ^f2 Bewegung ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyWASD ^ml154 ^mc
+			Mit den Tasten 'W', 'A', 'S' und 'D' kann die Kamera vorwärts, links, rückwärts und nach rechts bewegt werden.
+			Sie können die aktuelle Ansicht ebenfalls verschieben, indem Sie die Maus an die Ecken des Bildschirms
+			bewegen. Das Scrollen an der Bildschirmkante kann im Optionsmenü aktiviert oder deaktiviert werden.
+			^ml0 ^me ^n ^ml154 ^c1 ^f2 Rotation ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyQE ^ml154 ^mc
+			Mit den Tasten 'Q' und 'E' können Sie die Ansicht entgegen oder mit dem Uhrzeigersinn rotieren. Ebenfalls ist
+			die Kamerarotation mithilfe der Maus möglich, indem Sie die mittlere Maustaste bzw. das Mausrad drücken und
+			die Maus nach links bzw. nach rechts verschieben.
+			^ml0 ^me ^n ^ml154 ^c1 ^f2 Zoom ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyInsDel ^ml154 ^mc
+			Mit der 'Einfg'- bzw. der 'Entf'-Taste kann die Kamera ein- oder ausgezoomt werden. Sie können ebenfalls durch
+			Scrollen mit dem Mausrad zoomen.
+			^ml0 ^me ^n ^ml154 ^c1 ^f2 Kameraneigung ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyPg ^ml154 ^mc
+			Der Neigungswinkel der Kamera kann mithilfe der Tasten 'Bild auf' und 'Bild ab' verändert werden.
+			Beispielsweise kann durch mehrfachen Druck von 'Bild auf' die Sicht nahezu auf Vogelperspektive angenähert
+			werden, während mit 'Bild ab' ein sehr flacher Neigungswinkel eingestellt werden kann. Der Einstellgrad der
+			Neigung variiert, je nachdem, wie stark ein- oder ausgezoomt ist und wie flach das derzeit angezeigte Terrain
+			ist.
+			^ml0 ^me ^n ";
 		}
 	]
 }
