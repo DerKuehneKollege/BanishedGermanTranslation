@@ -13,20 +13,21 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl Grundlagen zum Spiel ^n ^f1
-			Zuerst sollten Sie sich mit der ^abNavigation Kamerasteuerung^ae vertraut machen, mit welcher Sie die Kamera
-			durch die Landschaft bewegen können. Ebenfalls sollten Sie sich in die Funktionen der
+			Zuerst sollten Sie sich mit der ^abNavigation Kamerasteuerung^ae vertraut machen, mit welcher die Kamera
+			durch die Landschaft bewegt werden kann. Ebenfalls sollten Sie sich in die Funktionen der
 			^abToolbar Hauptleiste^ae einarbeiten. Die Hauptleiste ermöglicht es Ihnen, sich verschiedenartige
 			Informationen über Ihre Stadt anzeigen zu lassen.
-			Weiterhin können Sie von dort den ^abBuildings Bau verschiedener Gebäude^ae beauftragen.
+			Weiterhin können Sie von dort den ^abBuildings Bau von Gebäuden^ae beauftragen.
 			Verschiedene Fenster wie das ^abStatusBar Statusfenster,^ae der ^abEventLog Ereignisverlauf^ae und die
-			^abMap Karte,^ae erlauben es Ihnen, Informationen über den Zustand und auftretende Ereignisse einzusehen.
+			^abMap Karte,^ae erlauben es Ihnen, Informationen über auftretende Ereignisse und den Zustand
+			Ihrer Stadt einzusehen.
 			^p
 			Bevor Gebäude gebaut werden können, müssen dafür genügend ^abRemoveResource Ressourcen^ae aus der Umgebung
 			gesammelt werden. Holz kann produziert werden, indem Sie Arbeitern den Auftrag erteilen ^abRemoveTree Bäume
 			zu fällen^ae oder indem Sie ^abForester Förster^ae Waldgebiete bewirtschaften lassen.
-			Stein kann durch den ^abRemoveStone Abbau von Geröll,^ae welches in der Umgebung verteilt ist, gewonnen
+			Stein kann durch den ^abRemoveStone Abbau von Steinhaufen,^ae welche in der Umgebung verteilt sind, gewonnen
 			werden. Alternativ kann Stein auch in ^abQuarry Steinbrüchen^ae abgebaut werden.
-			Eisen kann ebenfalls aus ^abRemoveIron herumliegenden Geröll^ae gewonnen oder in
+			Eisen kann aus ^abRemoveIron Ablagerungen an der Oberfläche^ae gewonnen oder in
 			^abMine Minen^ae abgebaut werden.
 			^p
 			Das allerwichtigste Ziel in Banished ist es, Ihre ^abCitizens Stadtbevölkerung^ae am Leben zu erhalten.
@@ -77,8 +78,8 @@ StringTable resource
 			^abMarket Märkte^ae dienen als zentrale Lagerstätte, auf denen die Bevölkerung eine Vielzahl an
 			verschiedenen Gütern einkaufen kann. Lagerplätze und Lagerhäuser lagern oftmals nur eine geringe Auswahl
 			an Ressourcen, so dass die Siedler für Nahrung, Kleidung, Werkzeug, Brennholz und andere benötigte Güter
-			oft verschiedene Lagerstätten aufsuchen muss, was lange Laufwege zur Folge hat. Auf dem Markt dagegen wird
-			eine große Vielfalt verschiedener Güter zusammengetragen und angeboten, was die Laufwege der besuchenden
+			oft verschiedene Lagerstätten aufsuchen müssen, was lange Laufwege zur Folge hat. Auf dem Markt dagegen wird
+			eine große Vielfalt verschiedener Güter zusammengetragen und angeboten, was die Wege der besuchenden
 			Siedler verkürzt.
 			^p
 			^abTradingPost Handelsposten^ae können mit Waren ausgestattet werden, die mit fahrenden Händlern
@@ -90,19 +91,19 @@ StringTable resource
 			auch in Diagrammform, einsehbar. Wenn Nomaden in Ihrer Stadt eintreffen, werden sie zuerst das Rathaus
 			aufsuchen.
 			^p
-			Der Bau von ^abSchool Schulen^ae ermöglicht es Ihnen, gebildete Siedler zu bekommen. Kinder verbringen
+			Der Bau von ^abSchool Schulen^ae ermöglicht den Siedlern, Bildung zu erlangen. Kinder verbringen
 			einige Jahre in der Schule, durch die Ausbildung werden sie als erwachsene Arbeiter in ihren Berufen
 			effizienter arbeiten und mehr Ressourcen produzieren.
 			^p
 			^abChapel Kapellen^ae und ^abCemetery Friedhöfe^ae können gebaut werden, um den Zufriedenheitsgrad Ihrer
-			Bevölkerung zu erhöhen. Die Zufriedenheit kann ebenfalls mithilfe von ^abTavern Wirtshäusern^ae erhöht
-			werden. In Wirtshäusern wird mithilfe verschiedener Getreide- oder Obstsorten Bier hergestellt.
+			Bevölkerung zu erhöhen. ^abTavern Wirtshäuser^ae steigern ebenfalls die Zufriedenheit Ihrer Bevölkerung.
+			In Wirtshäusern wird mithilfe verschiedener Getreide- oder Obstsorten Bier hergestellt.
 			^p
 			Sie sollten in Ihrer Siedlung ^abWell Brunnen^ae platzieren, damit die Bevölkerung dort Wasser holen kann
 			und bei Ausbruch eines Feuers die Brände löschen kann.
 			^p
 			Mit Geschick und ein wenig Glück wird Ihre Stadt von einer kleinen Siedlung zu einer lebendigen Stadt
-			heranwachsen! Viel Glück!";
+			heranwachsen! Viel Erfolg!";
 		}
 	]
 }

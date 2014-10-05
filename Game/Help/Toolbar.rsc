@@ -19,7 +19,7 @@ StringTable resource
 			werden. Die Auswahl eines Eintrags der Hauptleiste blendet ein Untermenü mit zusätzlichen
 			Auswahlmöglichkeiten ein.
 			^p
-			Die aktuelle Aktion kann jederzeit durch Klick der rechten Maustaste abgebrochen werden.
+			Die aktuelle Aktion kann jederzeit durch einen Klick mit der rechten Maustaste abgebrochen werden.
 			^p
 			^jc ^dUIToolbar ^jl ^vc ^lb ^lb
 			^lo ^dUITime ^s

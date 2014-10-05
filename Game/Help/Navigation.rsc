@@ -13,16 +13,16 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 Kamerasteuerung ^f1 ^n
-			Um die Stadt effizient zu verwalten, ist es während des Spiels häufig erforderlich, die Kamera auf der
-			Karte herumzubewegen. Beispielsweise ist es oft nötig, sich einen Überblick über das Gelände zu verschaffen,
-			weiterhin müssen häufig Gebäude an verschiedenen Stellen in der Landschaft zu platziert werden. Daher
+			Während des Spiels ist es häufig erforderlich, die Kamera im Gelände herumzubewegen.
+			Sie müssen sich einen Überblick über die verschiedenen Gebiete der Karte verschaffen, des Weiteren müssen
+			häufig Gebäude an verschiedenen Stellen in der Landschaft platziert werden. Daher
 			steht zur komfortablen Kamerasteuerung eine Auswahl von Schnelltasten bereit.
 			^p
 			Im Folgenden ist die Standardbelegung der Tasten für die Kamerasteuerung aufgelistet. Alle Tastenzuordnungen
 			können im Optionsmenü individuell angepasst werden.
 			^p
 			^ml154 ^c1 ^f2 Bewegung ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyWASD ^ml154 ^mc
-			Mit den Tasten 'W', 'A', 'S' und 'D' kann die Kamera vorwärts, links, rückwärts und nach rechts bewegt werden.
+			Mit den Tasten 'W', 'A', 'S' und 'D' kann die Kamera vorwärts, nach links, rückwärts und nach rechts bewegt werden.
 			Sie können die aktuelle Ansicht ebenfalls verschieben, indem Sie die Maus an die Ecken des Bildschirms
 			bewegen. Das Scrollen an der Bildschirmkante kann im Optionsmenü aktiviert oder deaktiviert werden.
 			^ml0 ^me ^n ^ml154 ^c1 ^f2 Rotation ^c0 ^f1 ^ml0 ^mb ^mc ^dUIKeyQE ^ml154 ^mc
