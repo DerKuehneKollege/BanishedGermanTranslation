@@ -12,7 +12,16 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveCancel ^s Abbau stoppen ^n ^f1 ^jl ÔNCÊ Â BÛÎLDÎNG, RÊSÔÛRCÊ, ÔR RÔÂD ÎS MÂRKÊD FÔR RÊMÔVÂL, WÔRKÊRS WÎLL BÊGÎN THÊ PRÔCÊSS ÔF ^abRÊMÔVÊSTRÛCTÛRÊ DÊSTRÔYÎNG THÊ BÛÎLDÎNGS,^ae ^abRÊMÔVÊRÊSÔÛRCÊ RÊMÔVÎNG RÊSÔÛRCÊS,^ae ÂND ^abRÊMÔVÊRÔÂD TÊÂRÎNG ÛP RÔÂDS.^ae ^p ÎF YÔÛ CHÂNGÊ YÔÛR MÎND ÂND DÊCÎDÊ NÔT TÔ RÊMÔVÊ SÔMÊTHÎNG, YÔÛ CÂN CÂNCÊL THÊ RÊMÔVÂL ÛSÎNG THÊ CÂNCÊL RÊMÔVÂL TÔÔL. WÎTH THÊ CÂNCÊL TÔÔL, SÎMPLY DRÂG ÔVÊR THÊ ÎTÊMS YÔÛ WÎSH TÔ RÊCLÂÎM. ^p ^jc ^i3RemoveCancel ^jl ^jc ^f0 ÂNY RÊMÔVÂL ÎTÊMS THÂT CÂN BÊ CÂNCÊLÊD WÎLL BÊ HÎGHLÎGHTÊD ÎN RÊD. ^jl ^f1 ^n ";
+			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveCancel ^s Abbau stoppen ^n ^f1 ^jl
+			Sobald ein ^abRemoveStructure Gebäude,^ae eine ^abRemoveResource Ressource^ae oder ein ^abRemoveRoad Weg^ae
+			für den Abbau ausgewählt wurde, werden die Arbeiter mit dem Abbau bzw. Abriss beginnen.^ae
+			^p
+			Falls Sie es sich anders überlegt haben und den Abbau in einem Gebiet stoppen wollen, können Sie den Auftrag
+			mit der Funktion 'Abbau stoppen' abbrechen. Wählen Sie dazu zuerst 'Abbau stoppen' aus, klicken und ziehen
+			Sie anschließend mit der Maus über die Fläche, in welchem die Abbau- bzw. Abrissvorgänge gestoppt werden sollen.
+			^p
+			^jc ^i3RemoveCancel ^jl ^jc ^f0 Alle anhaltbaren Abbauvorgänge sind bei der Auswahl rot hinterlegt.
+			^jl ^f1 ^n ";
 		}
 	]
 }

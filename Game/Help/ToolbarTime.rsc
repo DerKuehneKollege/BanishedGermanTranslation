@@ -12,7 +12,26 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUITime ^s Spielgeschwindigkeit ^f1 ^jl ^vb ÛSÎNG THÊ SÎMÛLÂTÎÔN SPÊÊD TÔÔLS, YÔÛ CÂN ÎNCRÊÂSÊ ÔR DÊCRÊÂSÊ THÊ SPÊÊD ÂT WHÎCH TÎMÊ PÂSSÊS, ÔR STÔP ÎT. ÎT CÂN BÊ ÛSÊFÛL TÔ PÂÛSÊ THÊ SÎMÛLÂTÎÔN WHÎLÊ ÊXÂMÎNÎNG DÊTÂÎLS ÔF Â TÔWN ÔR CÔNSTRÛCTÎNG NÊW ÂRÊÂS. SPÊÊDÎNG ÛP THÊ GÂMÊ CÂN BÊ ÛSÊD TÔ QÛÎCKLY MÂKÊ TÎMÊ PÂSS WHÎLÊ WÂÎTÎNG FÔR RÊSÔÛRCÊS TÔ BÊCÔMÊ ÂVÂÎLÂBLÊ ÔR FÔR BÛÎLDÎNGS TÔ BÊ BÛÎLT. ^p WHÎLÊ THÊ SÎMÛLÂTÎÔN ÎS PÂÛSÊD, TÎMÊ WÔN'T PÂSS, BÛT YÔÛ CÂN STÎLL MÔVÊ THÊ CÂMÊRÂ, PLÂCÊ ÔBJÊCTS, ÂND VÎÊW ÔBJÊCT DÊTÂÎLS. ÂT NÔRMÂL SPÊÊD, Â YÊÂR ÎN GÂMÊ WÎLL PÂSS ÎN ÂBÔÛT ÂN HÔÛR. ÂT THÊ FÂSTÊST SPÊÊD, TÎMÊ WÎLL PÂSS TÊN TÎMÊS MÔRÊ QÛÎCKLY. ^p ^jc ^dUIToolbarTime ^jl ^vc ^lb ^lb ^lo ^dUISlow ^s SLÔW DÔWN THÊ SÎMÛLÂTÎÔN. ^lo ^dUIPause ^s PÂÛSÊ THÊ SÎMÛLÂTÎÔN. ^lo ^dUIPlay ^s ÛNPÂÛSÊ THÊ SÎMÛLÂTÎÔN. ^lo ^dUISpeed ^s SHÔWS THÊ CÛRRÊNT RÂTÊ ÔF TÎMÊ PÂSSÂGÊ. ^lo ^dUIFast ^s SPÊÊD ÛP THÊ SÎMÛLÂTÎÔN. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUITime ^s Spielgeschwindigkeit ^f1 ^jl ^vb
+			Im Menü für die Spielgeschwindigkeit kann eingestellt werden, wie schnell die Zeit im Spiel vergeht. Sie
+			können die Spielzeit beschleunigen, verlangsamen oder auch das Spiel komplett anhalten. Es kann
+			gelegentlich nützlich sein, das Spiel zu pausieren, um einige Informationen oder Details der Stadt in Ruhe
+			näher in Augenschein nehmen zu können oder den Bau von Gebäuden zu planen.
+			Dahingegen kann das Beschleunigen der Spielzeit die erlebte Wartezeit, bis genügend Ressourcen angehäuft bzw.
+			Gebäude fertig gebaut wurden, verkürzen.
+			^p
+			Während das Spiel pausiert ist, sind alle Vorgänge und Aktionen im Spiel eingefroren. Sie können allerdings
+			weiterhin die Kamera frei umherbewegen, Gebäude platzieren und sich Detailfenster für Spielobjekte
+			anzeigen lassen. Bei normaler (1-facher) Spielgeschwindigkeit dauert ein Jahr im Spiel ungefähr eine Stunde
+			in Echtzeit. Bei Beschleunigung auf maximale Spielgeschwindigkeit vergeht die Zeit zehnfach so schnell.
+			^p
+			^jc ^dUIToolbarTime ^jl ^vc ^lb ^lb
+			^lo ^dUISlow ^s Die Simulation verlangsamen.
+			^lo ^dUIPause ^s Das Spiel pausieren.
+			^lo ^dUIPlay ^s Das Spiel mit alter Geschwindigkeit wiederaufnehmen.
+			^lo ^dUISpeed ^s Der aktuelle Beschleunigungsfaktor der Zeit.
+			^lo ^dUIFast ^s Die Simulation beschleunigen.
+			^le ^le ";
 		}
 	]
 }

@@ -45,7 +45,7 @@ StringTable resource
 		    ^c1 Kräuter ^c0 werden vom ^abHerbalist Kräutersammler^ae gesammelt und sind nützlich, um bei mangelhafter
 		    Nahrungsvielfalt die Bevölkerung gesund zu halten.
 		    ^ml0 ^me ^n ^mb ^mc ^i0Tool ^ml36 ^mc
-		    ^c1 Werkzeug ^c0 wird vom ^abBlacksmith Schmied^ab produziert und wird für alle Berufe benötigt.
+		    ^c1 Werkzeug ^c0 wird vom ^abBlacksmith Schmied^ae produziert und wird für alle Berufe benötigt.
 		    ^ml0 ^me ^n ^mb ^mc ^i0WinterCoat ^ml36 ^mc
 		    ^c1 Kleidung ^c0 hält im Winter die Bevölkerung warm und wird vom ^abTailor Schneider^ae hergestellt.
 		    ^ae ^ml0 ^me ^n ^mb ^mc ^i0Ale ^ml36 ^mc
