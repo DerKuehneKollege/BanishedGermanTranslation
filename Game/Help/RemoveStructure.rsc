@@ -13,39 +13,41 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveStructure ^s Gebäude abreißen ^n ^f1 ^jl
-			BÂNÎSHÊD ÎS ÂBÔÛT BÛÎLDÎNG Â CÎTY, BÛT SÔMÊTÎMÊS YÔÛ'LL NÊÊD TÔ RÊMÔVÊ Â BÛÎLDÎNG TÔ BÛÎLD SÔMÊTHÎNG ÊLSÊ
-			ÂND RÊÔRGÂNÎZÊ THÊ TÔWN.
+			In Banished geht es zwar darum, eine Stadt aufzubauen, allerdings ist es manchmal nötig Gebäude und Strukturen
+			wieder abzureißen, um manche Dinge in Ihrer Stadt neu zu gestalten und zu organisieren.
 			^p
-			ÛSÎNG THÊ RÊMÔVÊ STRÛCTÛRÊ TÔÔLS, YÔÛ CÂN RÊMÔVÊ ÂNY BÛÎLDÎNG ÔR ÎTÊM THÂT HÂS BÊÊN PLÂCÊD. ÔNCÊ THÊ
-			RÊMÔVÊ STRÛCTÛRÊ TÔÔL ÎS SÊLÊCTÊD, SÎMPLÊ CLÎCK ÂND DRÂG ÔVÊR THÊ TÊRRÂÎN, HÎGHLÎGHTÎNG ÂNY
-			BÛÎLDÎNGS ÔR FÎÊLDS THÂT YÔÛ WÂNT TÔ RÊMÔVÊ.
+			Mit der Funktion 'Gebäude abreißen' können Sie sämtliche Konstruktionen wieder entfernen lassen. Wählen Sie
+			hierzu zunächst die Funktion aus, markieren Sie anschließend durch Klicken und Ziehen mit der Maus die
+			gewünschte Fläche aus, in welcher Gebäude und Felder abgerissen werden sollen.
 			^p
 			^jc ^i3RemoveStructure ^n ^jc ^f0
-			ÂNYTHÎNG THÂT WÎLL BÊ RÊMÔVÊD WÎLL BÊ HÎGHLÎGHTÊD ÎN RÊD.
+			Alle Konstruktionen, die für den Abriss vorgesehen werden, sind beim Markieren rot hinterlegt.
 			^f1 ^jl ^n
-			ÔNCÊ Â BÛÎLDÎNG HÂS BÊÊN MÂRKÊD FÔR DÊSTRÛCTÎÔN, THÊ RÊMÔVÂL ÎCÔN WÎLL ÂPPÊÂR ÂBÔVÊ THÊ BÛÎLDÎNGS. SÔMÊ
-			ÂRÊÂS THÂT HÂVÊ NÔ BÛÎLDÎNG, LÎKÊ ^abCRÔPFÎÊLD CRÔP FÎÊLDS^ae ÂND ^abÔRCHÂRD ÔRCHÂRDS,^ae WÎLL BÊ RÊMÔVÊD
-			ÎMMÊDÎÂTÊLY. THÊ PLÂNTS THÂT ÂRÊ GRÔWÎNG ÎN THÊ FÎÊLDS WÎLL CÔNTÎNÛÊ TÔ GRÔW, BÛT THÊY WÔN'T BÊ HÂRVÊSTÊD.
+			Sobald ein Gebäude für den Abriss markiert wurde, erscheint darüber das Abriss-Symbol. Einige errichtete
+			Flächen, die keine Gebäude enthalten, wie beispielsweise ^abCropField Äcker^ae und ^abOrchard Obstgärten^ae
+			werden sofort entfernt. Auf dem Acker wachsende Pflanzen werden weiter wachsen, können jedoch nicht
+			abgeerntet werden.
 			^p
 			^jc ^i3RemoveStructureIcon ^n ^jc ^f0
-			BÛÎLDÎNGS MÂRKÊD FÔR DÊSTRÛCTÎÔN.
+			Für den Abriss markierte Gebäude.
 			^f1 ^jl ^n
-			CLÎCKÎNG ÔN Â BÛÎLDÎNG THÂT ÎS BÊÎNG RÊMÔVÊD WÎLL SHÔW THÊ DÊSTRÛCTÎÔN PRÔGRÊSS.
+			Wenn Sie ein Gebäude auswählen, welches sich im Abriss befindet, können Sie im Informationsfenster den
+			Fortschritt des Abrisses einsehen.
 			^p
 			^jc ^dDialogRemoveStructure ^jl ^n
-			WÔRKÊRS WÎLL FÎRST RÊMÔVÊ ÂNY ÎNVÊNTÔRY FRÔM THÊ BÛÎLDÎNG.
-			ÎF THÊRÊ ÂRÊ NÔ STÔRÂGÊ ÂRÊÂS FÔR THÊ ÎNVÊNTÔRY ÎN THÊ BÛÎLDÎNG, THÊ BÛÎLDÎNG WÎLL NÔT BÊ RÊMÔVÊD ÛNTÎL
-			YÔÛ BÛÎLD MÔRÊ ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRNS^ae ÔR ^abSTÔCKPÎLÊ STÔCK PÎLÊS.^ae
+			Die Arbeiter werden zunächst sämtliche Güter, die sich im Lager des Gebäudes befinden, entfernen. Wenn nicht
+			genug Lagerplatz für die herausgetragenen Güter zur Verfügung steht, wird der Abriss solange unterbrochen,
+			bis Sie mehr ^abStorageBarn Lagerhäuser^ae oder ^abStockPile Lagerplätze^ae errichten.
 			^p
-			^i0ProfessionBuilder ^s ^abPRÔFÊSSÎÔN BÛÎLDÊRS ^ae WÎLL THÊN WÔRK TÔ RÊMÔVÊ THÊ BÛÎLDÎNG.
+			^i0ProfessionBuilder ^s ^abProfession Bauarbeiter ^ae werden anschließend das Gebäude abreißen.
 			^p
-			WHÊN THÊ BÛÎLDÎNG ÎS RÊMÔVÊD, SÔMÊ ÔF THÊ RÊSÔÛRCÊS THÂT WÊRÊ ÛSÊD TÔ CÔNSTRÛCT THÊ BÛÎLDÎNG WÎLL BÊ
-			RÊCÔVÊRÊD.
+			Sobald das Gebäude abgerissen wurde, können manche der Ressourcen, die zum Bau des Gebäude verwendet wurden,
+			wiederverwendet werden.
 			^p
-			^mb ^mc ^dDialogReclaim ^ml60 ^mc
-			PRÊSSÎNG THÊ RÊCLÂÎM BÛTTÔN WÎLL CÂNCÊL THÊ DÊSTRÛCTÎÔN. YÔÛ CÂN ÂLSÔ CÂNCÊL DÊSTRÛCTÎÔN ÔF THÊ BÛÎLDÎNG
-			ÛSÎNG THÊ ^abRÊMÔVÊCÂNCÊL CÂNCÊL RÊMÔVÂL TÔÔL.
-			^ae ^ml0 ^me ";
+			^jc ^dDialogReclaim ^jl ^n
+			Wenn Sie auf den Button 'Abbruch' klicken, können Sie den Abriss des Gebäudes stoppen. Abrisse können
+			ebenfalls mit der Funktion ^abRemoveCancel 'Abbau stoppen'^ae unterbrochen werden.
+			^ml0 ^me ";
 		}
 	]
 }
