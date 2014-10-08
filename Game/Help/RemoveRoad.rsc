@@ -12,7 +12,21 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveRoad ^s Wege entfernen ^n ^f1 ^jl ÎF YÔÛ WÂNT TÔ RÊMÔVÊ RÔÂDS THÂT YÔÛ'VÊ PRÊVÎÔÛSLY PLÂCÊD, YÔÛ CÂN ÛSÊ THÊ RÊMÔVÊ RÔÂD TÔÔL. ÔNCÊ THÊ TÔÔL ÎS SÊLÊCTÊD, CLÎCK ÂND DRÂG ÔVÊR ÂN ÂRÊÂ ÔF RÔÂDS TÔ MÂRK THÊM FÔR RÊMÔVÂL. ^p ^jc ^i3RemoveRoad ^jl ^jc ^f0 ÂNY RÔÂDS THÂT CÂN BÊ RÊMÔVÊD WÎLL BÊ HÎGHLÎGHTÊD ÎN RÊD. ^jl ^f1 ^n ^i0ProfessionBuilder ^s ^abPRÔFÊSSÎÔN BÛÎLDÊRS ^ae WÎLL WÔRK ÂLÔNG THÊ RÔÂD TÔ RÊMÔVÊ ÎT. NÔ STÔNÊ WÎLL BÊ RÊCÔVÊRÊD FRÔM ^abSTÔNÊRÔÂD STÔNÊ RÔÂDS.^ae ^p ^jc ^i3RemoveRoadIcon ^jl ^jc ^f0 ÂNY RÔÂDS MÂRKÊD FÔR RÊMÔVÂL WÎLL HÂVÊ ÂN ÔRÂNGÊ X ÔVÊR THÊM. ^jl ^f1 ^p ";
+			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveRoad ^s Wege entfernen ^n ^f1 ^jl
+			Wenn Sie errichtete Straßen und Wege wieder entfernen wollen, können Sie die Funktion 'Wege entfernen'
+			verwenden.
+			Wählen Sie hierzu zunächst die Funktion aus, markieren Sie anschließend ein Gebiet mit abzureißenden Straßen
+			durch Klicken und Ziehen mit der Maus.
+			^p
+			^jc ^i3RemoveRoad ^jl ^jc ^f0
+			Alle abreißbaren Wege und Straßen sind beim Markieren rot hinterlegt.
+			^jl ^f1 ^n ^i0ProfessionBuilder ^s
+			^abProfession Bauarbeiter ^ae werden anschließend an dem Weg entlanglaufen und ihn nach und nach abreißen.
+			Aus ^abStoneRoad gepflasterten Straßen^ae kann beim Abriss kein Stein wiedergewonnen werden.
+			^p
+			^jc ^i3RemoveRoadIcon ^jl
+			^jc ^f0 Wege und Straßen, die abgerissen werden, sind mit einem orangenen X markiert. ^jl ^f1
+			^p ";
 		}
 	]
 }

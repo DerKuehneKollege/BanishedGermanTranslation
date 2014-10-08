@@ -12,7 +12,27 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveIron ^s Eisen abbauen ^n ^f1 ^jl ÎF YÔÛ WÂNT TÔ CLÊÂR ÂN ÂRÊÂ ÔF ÂLL RÊSÔÛRCÊS, YÔÛ CÂN ÛSÊ THÊ ^abRÊMÔVÊRÊSÔÛRCÊ RÊMÔVÊ RÊSÔÛRCÊS^ae TÔÔL. HÔWÊVÊR, YÔÛ MÂNY ÔNLY WÂNT WÔRKÊRS TÔ RÊMÔVÊ ÎRÔN ÔRÊ TÔ PRÔDÛCÊ ÎRÔN. ^p ÔNCÊ THÊ CÔLLÊCT ÎRÔN TÔÔL ÎS SÊLÊCTÊD, SÎMPLY CLÎCK ÂND DRÂG ÔVÊR ÂN ÂRÊÂ ÔF ÔRÊ TÔ MÂRK THÊM FÔR RÊMÔVÂL. ^p ^jc ^i3RemoveIron ^jl ^jc ^f0 ÂNY ÎRÔN ÔRÊ THÂT CÂN BÊ RÊMÔVÊD WÎLL BÊ HÎGHLÎGHTÊD ÎN RÊD. ^jl ^f1 ^n ^i0ProfessionLaborer ^s ^abPRÔFÊSSÎÔN LÂBÔRÊRS, ^ae ÔR ÂNY ÎDLÊ WÔRKÊR WÎLL HÊLP RÊMÔVÊ THÊ ÎRÔN. THÊ RÊSÛLTÎNG ÎRÔN WÎLL BÊ MÔVÊD TÔ THÊ NÊÂRÊST ^abSTÔCKPÎLÊ STÔCK PÎLÊ.^ae ^p ^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0 ÂNY ÎRÔN MÂRKÊD FÔR RÊMÔVÂL WÎLL HÂVÊ ÂN ÔRÂNGÊ X ÛNDÊR THÊM. ^jl ^f1 ^n ÎF THÊ WÔRKÊRS HÂVÊN'T YÊT HÂRVÊSTÊD THÊ ÎRÔN, YÔÛ CÂN CÂNCÊL THÊ WÔRK BY ÛSÎNG THÊ ^abRÊMÔVÊCÂNCÊL CÂNCÊL RÊMÔVÂL TÔÔL.^ae ^p ";
+			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveIron ^s Eisen abbauen ^n ^f1 ^jl
+			Wenn Sie in einer Region sämtliche Arten von Ressourcen abbauen wollen, sollten Sie die Funktion
+			^abRemoveResource Ressourcen abbauen^ae verwenden.
+			Allerdings können Sie die Arbeiter ebenfalls anweisen, aus einer Region nur Eisen abzubauen.
+			^p
+			Wählen Sie hierzu die Funktion 'Eisen abbauen', markieren Sie anschließend durch Klicken und Ziehen mit der
+			Maus die Fläche aus, in welcher Eisen abgebaut werden soll.
+			^p
+			^jc ^i3RemoveIron ^jl ^jc ^f0
+			Sämtliche abbaubare Eisenvorkommen sind beim Markieren rot hervorgehoben.
+			^jl ^f1 ^n
+			^i0ProfessionLaborer ^s
+			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit dem Abbau des Eisens beginnen. Das
+			gewonnene Eisen wird währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.^
+			^p
+			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
+			Eisenvorkommen, die abgebaut werden, sind mit einem orangenen X markiert.
+			^jl ^f1 ^n
+			Während die Arbeiter die Eisenvorkommen noch nicht abgebaut haben, können Sie die Arbeit jederzeit mit
+			der Funktion ^abRemoveCancel 'Abbau stoppen'^ae abbrechen.
+			^p ";
 		}
 	]
 }

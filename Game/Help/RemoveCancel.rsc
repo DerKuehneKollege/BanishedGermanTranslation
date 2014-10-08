@@ -17,10 +17,11 @@ StringTable resource
 			für den Abbau ausgewählt wurde, werden die Arbeiter mit dem Abbau bzw. Abriss beginnen.^ae
 			^p
 			Falls Sie es sich anders überlegt haben und den Abbau in einem Gebiet stoppen wollen, können Sie den Auftrag
-			mit der Funktion 'Abbau stoppen' abbrechen. Wählen Sie dazu zuerst 'Abbau stoppen' aus, klicken und ziehen
-			Sie anschließend mit der Maus über die Fläche, in welchem die Abbau- bzw. Abrissvorgänge gestoppt werden sollen.
+			mit der Funktion 'Abbau stoppen' abbrechen. Wählen Sie hierzu zuerst 'Abbau stoppen' aus, markieren Sie
+			anschließend durch Klicken und Ziehen mit der Maus eine Fläche, in welcher die Abbau- bzw. Abrissvorgänge
+			gestoppt werden sollen.
 			^p
-			^jc ^i3RemoveCancel ^jl ^jc ^f0 Alle anhaltbaren Abbauvorgänge sind bei der Auswahl rot hinterlegt.
+			^jc ^i3RemoveCancel ^jl ^jc ^f0 Alle anhaltbaren Abbauvorgänge sind beim Markieren rot hinterlegt.
 			^jl ^f1 ^n ";
 		}
 	]

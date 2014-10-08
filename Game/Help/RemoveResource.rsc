@@ -12,7 +12,29 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveResource ^s Ressourcen abbauen ^n ^f1 ^jl ^abBÛÎLDÎNGS CÔNSTRÛCTÎÔN ÔF BÛÎLDÎNGS^ae RÊQÛÎRÊS Â CÔMBÎNÂTÎÔN ÔF LÔGS, STÔNÊ ÂND ÎRÔN. WHÎLÊ THÊSÊ RÊSÔÛRCÊS CÂN BÊ ÂCQÛÎRÊD BY WÔRKÊRS ÛSÎNG ^abFÔRÊSTÊR FÔRÊSTÊRS,^ae ^abQÛÂRRY QÛÂRRÎÊS,^ae ÂND ^abMÎNÊ MÎNÊS,^ae YÔÛ CÂN MÔRÊ ÊÂSÎLY CÔLLÊCT THÊM DÎRÊCTLY FRÔM THÊ TÊRRÂÎN. HÔWÊVÊR THÊRÊ ÂRÊ Â LÎMÎTÊD NÛMBÊR ÔF THÊSÊ RÊSÔÛRCÊS THÂT ÂRÊ ÊÂSÎLY ÂCCÊSSÎBLÊ. ^p ÔNCÊ THÊ RÊMÔVÊ RÊSÔÛRCÊS TÔÔL ÎS SÊLÊCTÊD, SÎMPLY CLÎCK ÂND DRÂG ÔVÊR ÂN ÂRÊÂ ÔF TRÊÊS, RÔCKS, ÂND ÎRÔN ÔRÊ TÔ MÂRK THÊM FÔR RÊMÔVÂL. ^p ^jc ^i3RemoveResources ^jl ^jc ^f0 ÂNY RÊSÔÛRCÊS THÂT CÂN BÊ RÊMÔVÊD WÎLL BÊ HÎGHLÎGHTÊD ÎN RÊD. ^jl ^f1 ^n ^i0ProfessionLaborer ^s ^abPRÔFÊSSÎÔN LÂBÔRÊRS, ^ae ÔR ÂNY ÎDLÊ WÔRKÊR WÎLL HÊLP CÛT DÔWN THÊ TRÊÊS, BRÊÂK ÛP THÊ RÔCKS, ÂND CÔLLÊCT THÊ ÎRÔN ÔRÊ FRÔM ÂNY RÊSÔÛRCÊS MÂRKÊD FÔR RÊMÔVÂL. THÊ RÊSÛLTÎNG RÊSÔÛRCÊS WÎLL BÊ MÔVÊD TÔ THÊ NÊÂRÊST ^abSTÔCKPÎLÊ STÔCK PÎLÊ.^ae ^p ^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0 ÂNY RÊSÔÛRCÊS MÂRKÊD FÔR RÊMÔVÂL HÂVÊ ÂN ÔRÂNGÊ X ÛNDÊR THÊM. ^jl ^f1 ^n ÎF THÊ WÔRKÊRS HÂVÊN'T YÊT HÂRVÊSTÊD THÊ RÊSÔÛRCÊS, YÔÛ CÂN CÂNCÊL THÊ WÔRK BY ÛSÎNG THÊ ^abRÊMÔVÊCÂNCÊL CÂNCÊL RÊMÔVÂL TÔÔL.^ae ^p ";
+			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveResource ^s Ressourcen abbauen ^n ^f1 ^jl
+			Für den ^abBuildings Gebäudebau^ae wird häufig eine Kombination aus Holz, Stein und Eisen benötigt.
+			Diese Ressourcen können von ^abForester Förstern,^ae in ^abQuarry Steinbrüchen^ae und in
+            ^abMine Minen^ae gefördert werden, allerdings können Arbeiter sie viel einfacher und schneller durch direkten Abbau
+            gewinnen. Allerdings ist die direkt abbaubare Ressourcenmenge auf der Karte beschränkt.
+			^p
+			Wählen Sie die Funktion 'Ressourcen abbauen', markieren Sie anschließend durch Klicken und Ziehen mit der
+            Maus die Fläche aus, in welcher sämtliche dort vorkommenden Ressourcen gewonnen werden soll.
+			^p
+			^jc ^i3RemoveResources ^jl ^jc ^f0
+			Sämtliche abbaubare Ressourcen sind beim Markieren rot hervorgehoben.
+			^jl ^f1 ^n ^i0ProfessionLaborer ^s
+
+			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit dem Fällen von Bäumen, dem Abbau von
+			Stein und dem Sammeln von Eisen in der markierten Region beginnen. Die gewonnenen Ressourcen werden
+			währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.
+			^p
+			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
+			Sämtliche zum Abbau freigegebenen Ressourcen sind mit einem orangenen X markiert.
+			^jl ^f1 ^n
+			Während die Arbeiter die Ressourcen noch nicht abgebaut haben, können Sie die Arbeit jederzeit mit
+            der Funktion ^abRemoveCancel 'Abbau stoppen'^ae abbrechen.
+			^p ";
 		}
 	]
 }
