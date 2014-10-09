@@ -91,7 +91,7 @@ StringTable resource
 			Allerdings steigert sich die Wahrscheinlichkeit des Ausbruchs einer Seuche, wenn Nomaden in Ihre Bevölkerung
 			aufgenommen werden.
 			^p
-			Im Verlaufe des Spiels erscheinen gelegentlich bestimmte Symbole über den Köpfen Ihrer Siedler, welche auf
+			Im Verlauf des Spiels erscheinen gelegentlich bestimmte Symbole über den Köpfen Ihrer Siedler, welche auf
 			ein Problem oder eine negative Beeinflussung hinweisen. ^vc ^lb
 			^n ^i1CitizenHome^s Dieser Siedler ist obdachlos.
 			^n ^i1CitizenFood^s Dieser Siedler leidet unter Hunger.

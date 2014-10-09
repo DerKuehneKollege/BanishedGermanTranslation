@@ -49,7 +49,7 @@ StringTable resource
 		    ^ml0 ^me ^n ^mb ^mc ^i0WinterCoat ^ml36 ^mc
 		    ^c1 Kleidung ^c0 hält im Winter die Bevölkerung warm und wird vom ^abTailor Schneider^ae hergestellt.
 		    ^ae ^ml0 ^me ^n ^mb ^mc ^i0Ale ^ml36 ^mc
-		    ^c1 Alkohol ^c0 wird in ^abTavern Wirtshäusern^ae produziert und steigert die Zufriedenheit von Siedlern, die
+		    ^c1 Bier ^c0 wird in ^abTavern Wirtshäusern^ae produziert und steigert die Zufriedenheit von Siedlern, die
 		    in der Nähe von Wirtshäusern wohnen.
 		    ^ml0 ^me ^n ";
 		}

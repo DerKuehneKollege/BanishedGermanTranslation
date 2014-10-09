@@ -13,79 +13,101 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl Gebäudebau und Gebäude ^n ^f1
-			ÂLL BÛÎLDÎNGS ÂRÊ CÔNSTRÛCTÊD BY SÊLÊCTÎNG Â CÂTÊGÔRY ÂND THÊN Â BÛÎLDÎNG ÛSÎNG THÊ
-			^abTÔÔLBÂR MÂÎN TÔÔLBÂR.^ae FÔR ÊXÂMPLÊ, TÔ BÛÎLD Â FÔRÊSTÊRS LÔDGÊ YÔÛ WÔÛLD FÎRST SÊLÊCT THÊ BÛTTÔN
-			FÔR ^abTÔÔLBÂRPRÔDÛCTÎÔN RÊSÔÛRCÊ PRÔDÛCTÎÔN^ae ÂND THÊN THÊ BÛTTÔN FÔR Â ^abFÔRÊSTÊR FÔRÊSTÊR LÔDGÊ.^ae
+			In Banished lassen sich alle Gebäude bauen, indem Sie zuerst in der ^abToolbar Hauptleiste^ae die
+			Gebäudekategorie auswählen und dort das gewünschte Gebäude auswählen.
+			Um beispielsweise das Forsthaus zu bauen, wählen Sie zunächst das Menü
+			^abToolbarProduction Ressourcenproduktion^ae und anschließend den Eintrag für das ^abForester Forsthaus^ae
+			aus.
 			^p
-			^vc ^jc ^dUIProduction ^i0ArrowRight ^dUIForester ^jl ^n ÂFTÊR SÊLÊCTÎNG THÊ BÛÎLDÎNG, YÔÛ CÂN PLÂCÊ ÎT ÔN
-			THÊ LÂNDSCÂPÊ. BY DÊFÂÛLT, YÔÛ CÂN RÔTÂTÊ THÊ BÛÎLDÎNG ÛSÎNG THÊ R ÂND T KÊYS. THÊ GRÊÊN ÂRRÔWS ÔN THÊ
-			BÛÎLDÎNG PÔÎNT TÔ THÊ FRÔNT ÔF THÊ BÛÎLDÎNG, ÂND SHÔW WHÊRÊ THÊ BÛÎLDÎNG MÂY
-			ÔVÊRLÂP Â ^abDÎRTRÔÂD RÔÂD.^ae ÎF Â BÛÎLDÎNG CÂNNÔT BÊ PLÂCÊD, THÊ GRÊÊN HÎGHLÎGHT WÎLL TÛRN RÊD.
+			^vc ^jc ^dUIProduction ^i0ArrowRight ^dUIForester ^jl ^n
+			Nachdem Sie ein Gebäude für den Bau ausgewählt haben, können Sie den Grundriss des
+			Gebäudes in der Landschaft platzieren. Sie können vor dem Platzieren Gebäude mit oder gegen den Uhrzeigersinn
+			rotieren. In der Standardtastenkombinationen geht dies mit den Tasten 'R' und 'T'. Die grünen Pfeile zeigen
+			die Front des Gebäudes an, ein mit dem Gebäude verbundener ^abDirtRoad Weg^ae sollte an den
+			grünen Pfeilen entlang platziert werden. Ist es nicht möglich, das Gebäude an dem gewählten Ort zu
+			platzieren, ist der Gebäudegrundriss rot hinterlegt.
 			^p
 			^jc ^i3BuildingStep1 ^jl
 			^p
-			CLÎCKÎNG THÊ LÊFT MÔÛSÊ BÛTTÔN WÎLL PLÂCÊ THÊ BÛÎLDÎNG. SÔMÊ PLÂCÊD ÎTÊMS, LÎKÊ
-			^abCRÔPFÎÊLD CRÔP FÎÊLDS^ae ÂND ^abDÎRTRÔÂD RÔÂDS ^ae ÂRÊ VÂRÎÂBLÊ SÎZÊD. ÎN THÎS CÂSÊ YÔÛ CÂN CLÎCK ÂND
-			DRÂG ÔVÊR THÊ LÂNDSCÂPÊ TÔ PLÂCÊ THÊM.
+			Mit einem Linksklick können Sie das Gebäude platzieren. Manche platzierbaren Strukturen, wie
+			^abCropField Äcker^ae und ^abDirtRoad Wege^ae haben eine variable Größe. In diesem Fall können Sie die
+			Größe der Struktur durch Klicken und Ziehen anpassen.
 			^p
-			ÔNCÊ PLÂCÊD, Â FÔÔTPRÎNT WÎLL ÂPPÊÂR WHÊRÊ THÊ BÛÎLDÎNG HÂS BÊÊN PLÂCÊD.
+			Sobald ein Gebäude platziert ist, erscheint dessen Grundfläche am Ort der Platzierung.
 			^p
 			^jc ^i3BuildingStep2 ^jl
 			^p
-			BÊFÔRÊ THÊ BÛÎLDÎNG CÂN BÊ ÛSÊD, THÊ ÂRÊÂ NÊÊDS TÔ BÊ CLÊÂRÊD ÔF RÔCKS ÂND TRÊÊS, CÔNSTRÛCTÎÔN RÊSÔÛRCÊS
-			NÊÊD TÔ BÊ CÔLLÊCTÊD, ÂND WÔRK NÊÊDS TÔ BÊ DÔNÊ TÔ ÊRÊCT THÊ BÛÎLDÎNG. CLÎCKÎNG ÔN THÊ ÂRÊÂ WHÊRÊ THÊ
-			BÛÎLDÎNG ÎS PLÂCÊD WÎLL SHÔW BÛÎLD PRÔGRÊSS.
+			Bevor mit dem Bau begonnen werden kann, müssen zunächst Bäume und Geröll aus dem Baugebiet entfernt werden,
+			es müssen weiterhin die benötigten Ressourcen eingesammelt werden. Anschließend benötigt der Bauvorgang des
+			Gebäudes an sich noch ein wenig Zeit. Wenn Sie auf ein im Bau befindliches Gebäude klicken, wird der
+			aktuelle Fortschritt in einem Detailfenster angezeigt.
 			^p
-			^jc ^dDialogBuild ^jl ^n Â CÔMBÎNÂTÎÔN ÔF ^abRÊSÔÛRCÊ ^i0LogSmall LÔGS, ^i0StoneSmall STÔNÊ, ÂND
-			^i0IronSmall ÎRÔN^ae MÂY BÊ NÊÊDÊD TÔ BÛÎLD Â STRÛCTÛRÊ. THÊ NÊÊDÊD RÊSÔÛRCÊ CÂN BÊ ^abRÊMÔVÊRÊSÔÛRCÊ
-			CÔLLÊCTÊD FRÔM THÊ LÂNDSCÂPÊ, ^ae ÔR THÊY CÂN BÊ PRÔDÛCÊD ÛSÎNG ^abFÔRÊSTÊR FÔRÊSTÊRS, ^ae ^abMÎNÊ MÎNÊS,^ae
-			ÂND ^abQÛÂRRY QÛÂRRÎÊS.^ae YÔÛ CÂN PLÂCÊ Â BÛÎLDÎNG ÊVÊN ÎF THÊ TÔWN CÛRRÊNTLY DÔÊSN'T HÂVÊ THÊ RÊQÛÎRÊD
-			RÊSÔÛRCÊS. ÔNCÊ THÊ RÊSÔÛRCÊS BÊCÔMÊ ÂVÂÎLÂBLÊ, THÊ TÔWNSFÔLK WÎLL CÔNTÎNÛÊ WÔRKÎNG ÔN ÎT.
+			^jc ^dDialogBuild ^jl ^n
+			Für den Gebäudebau ist eine Kombination aus ^abResource ^i0LogSmall Holz, ^i0StoneSmall Stein und
+			^i0IronSmall Eisen^ae vonnöten. Die benötigten Ressourcen können im Gelände ^abRemoveResource abgebaut^ae
+			bzw. durch ^abForester Forsthäuser^ae, ^abMine Minen^ae und ^abQuarry Steinbrüche^ae gewonnen werden.
+			Sie können ein Gebäude bereits platzieren, wenn die benötigten Ressourcen noch nicht gesammelt wurden.
+			Die Siedler beginnen selbstständig mit dem Gebäudebau begonnen, sobald das gesamte Baumaterial zur
+			Verfügung steht.
 			^p
-			DÛRÎNG CÔNSTRÛCTÎÔN, YÔÛ CÂN TÔGGLÊ THÊ PÂÛSÊ ^dDialogBuildPause ^s BÛTTÔN TÔ STÂRT ÔR STÔP WÔRK ÔN THÊ
-			BÛÎLDÎNG. THÎS ÂLLÔWS FÔR LÂYÎNG ÔÛT THÊ PLÂCÊMÊNT ÔF BÛÎLDÎNGS ÊÂRLY WÎTHÔÛT HÂVÎNG TÔ BÛÎLD THÊM.
+			Sie können mit dem Pause-Button ^dDialogBuildPause ^s jederzeit den Gebäudebau unterbrechen und
+			wiederaufnehmen. Dies erlaubt Ihnen eine frühe Planung Ihrer Stadt, in dem Sie beispielsweise bereits
+			zum Spielanfang die Grundflächen der Gebäude setzen und den Bau pausieren, bis Sie es brauchen.
 			^p
-			ÔNCÊ THÊ PÊÔPLÊ HÂVÊ CÔLLÊCTÊD THÊ NÊÊDÊD RÊSÔÛRCÊS, ^i0ProfessionBuilder ^abPRÔFÊSSÎÔN BÛÎLDÊRS^ae WÎLL
-			BÊ NÊÊDÊD TÔ CÔNSTRÛCT THÊ BÛÎLDÎNG. ÔVÊR TÎMÊ YÔÛ CÂN SÊÊ CÔNSTRÛCTÎÔN PRÔGRÊSS.
+			Sobald Ihre Siedler genügend Ressourcen gesammelt haben, werden die ^abProfession Bauarbeiter^ae
+			^i0ProfessionBuilder mit der Konstruktion des Gebäudes beginnen. Sie können dann beobachten,
+			wie das Gebäude nach und nach entsteht.
 			^p
 			^jc ^i3BuildingStep3 ^s ^i3BuildingStep4 ^s ^i3BuildingStep5 ^jl
-			^p ^jc ÂFTÊR CÔNSTRÛCTÎÔN, SÊLÊCTÎNG Â BÛÎLDÎNG WÎLL DÎSPLÂY ÎTS DÊTÂÎLS. ^jl ^n ^jc ^dDialogBuildCommon
-			^jl ^n THÊRÊ ÂRÊ SÊVÊRÂL CÔMMÔN ÊLÊMÊNTS THÂT CÂN BÊ ÛSÊD TÔ CÔNTRÔL Â BÛÎLDÎNG. NÔT ÂLL BÛÎLDÎNGS HÂVÊ
-			ÂLL THÊSÊ CÔNTRÔLS.
+			^p
+			^jc Wenn Sie ein fertig errichtetes Gebäude auswählen, werden dessen Details in einem Fenster angezeigt. ^jl
+			^n ^jc ^dDialogBuildCommon ^jl ^n
+			Es gibt für Gebäude einige gemeinsame Bedienelemente zur Steuerung von Gebäudefunktionen, allerdings
+			verfügen nicht notwendigerweise alle Gebäude über diese Elemente.
 			^p
 			^lb ^lb
-			^lo ^dDialogBuildWorkplace THÊ WÔRKPLÂCÊ ÂRÊÂ SHÔWS THÊ NÛMBÊR ÔF WÔRKÊRS WÔRKÎNG ÂT BÛÎLDÎNG.
-			YÔÛ CÂN ÎNCRÊÂSÊ ÔR DÊCRÊÂSÊ THÊ MÂXÎMÛM NÛMBÊR ÔF WÔRKÊRS. CLÎCKÎNG ÔN THÊ MÂÎN ÂRÊÂ ÔF THÊ WÔRKPLÂCÊ
-			ÂRÊÂ WÎLL FÔCÛS ÂND SÊLÊCT THÊ WÔRKÊRS ÂT THÊ LÔCÂTÎÔN.
-			^lo ^dDialogBuildWorkers THÊ WÔRKÊRS ÂRÊÂ SHÔWS THÊ
-			NÛMBÊR ÔF TÔTÂL WÔRKÊRS WÔRKÎNG ÎN THÊ PRÔFÊSSÎÔN THÂT ÎS ÛSÊD BY THÊ BÛÎLDÎNG. YÔÛ CÂN ÎNCRÊÂSÊ ÂND
-			DÊCRÊÂSÊ THÊ NÛMBÊR ÔF WÔRKÊRS HÊRÊ ÎN THÊ SÂMÊ WÂY YÔÛ CÂN ÛSÎNG THÊ ^abPRÔFÊSSÎÔN PRÔFÊSSÎÔNS TÔÔL.^ae
-			^lo ^dDialogBuildProd THÊ PRÔDÛCTÎÔN STÂTS BÛTTÔN WÎLL SHÔW THÊ RÊSÔÛRCÊS PRÔDÛCÊD FÔR THÊ CÛRRÊNT
-			YÊÂR ÂS WÊLL ÂS THÊ PRÊVÎÔÛS YÊÂR.
-			^lo ^dDialogBuildCenter THÊ CÊNTÊR BÛTTÔN WÎLL CÊNTÊR THÊ VÎÊW ÔN THÊ BÛÎLDÎNG.
-			^lo ^dDialogBuildPin NÔRMÂLLY THÊ DÊTÂÎLS WÎNDÔW WÎLL STÂY ÂBÔVÊ THÊ BÛÎLDÎNG SÊLÊCTÊD ÂS THÊ CÂMÊRÂ MÔVÊS.
-			THÊ PÎN BÛTTÔN WÎLL TÔGGLÊ PÎNNÎNG THÊ WÎNDÔW TÔ THÊ SCRÊÊN SÔ THÂT ÎT DÔÊSN'T STÂY
-			ÂBÔVÊ THÊ BÛÎLDÎNG. MÔVÎNG THÊ WÎNDÔW WÎLL ÂÛTÔMÂTÎCÂLLY PÎN ÎT. THÎS ÂLLÔWS THÊ BÛÎLDÎNG DÊTÂÎLS TÔ STÂY
-			ÔN SCRÊÊN ÊVÊN ÎF THÊ BÛÎLDÎNG ÎSN'T.
-			^lo ^dDialogBuildClose THÊ CLÔSÊ BÛTTÔN WÎLL CLÔSÊ THÊ WÎNDÔW.
-			^lo ^dDialogBuildStat THÊ BÛÎLDÎNG STÂTÛS ÎCÔN WÎLL SHÔW THÊ CÛRRÊNT STÂTÛS THÊ BÛÎLDÎNG, ÎF ÂNY.
-			^le ^le ^n WHÊN YÔÛ PLÂCÊ ÔR CLÎCK ÔN SÔMÊ BÛÎLDÎNGS, Â YÊLLÔW CÎRCLÊ WÎLL ÂPPÊÂR ÔN THÊ GRÔÛND ÂRÔÛND THÊ
-			BÛÎLDÎNG. THÎS ÎS THÊ ÂRÊÂ ÔF ÊFFÊCTÎVÊNÊSS ÔF THÊ BÛÎLDÎNG. WÔRKÊRS WÎLL PÊRFÔRM THÊÎR WÔRK ÔNLY ÎN THÎS
-			ÂRÊÂ.
+			^lo ^dDialogBuildWorkplace
+			Das Arbeitsplatz-Feld zeigt Ihnen die aktuelle Anzahl Arbeiter, die in oder an dem Gebäude arbeiten.
+			Sie können die maximale Anzahl Arbeiter erhöhen oder verringern. Wenn Sie auf die Anzeige des Feldes klicken
+			können Sie durch die Arbeiter, die diesem Ort zugewiesen sind, durchwechseln.
+			^lo ^dDialogBuildWorkers
+			Das Arbeiter-Feld zeigt die Gesamtanzahl Arbeiter an, die für den Gebäude zugeordneten Beruf arbeiten. Sie
+			können hier die Gesamtanzahl Arbeiter ähnlich wie im Fenster ^abProfession 'Berufe'^ae anpassen.
+			^lo ^dDialogBuildProd
+			Der Produktionsstatistik-Button ermöglicht es anzuzeigen, wie viel Ressourcen im aktuellen bzw. vorherigen
+			Jahr produziert wurden.
+			^lo ^dDialogBuildCenter
+			Der Zentrieren-Button zentriert die aktuelle Kameraansicht auf das Gebäude.
+			^lo ^dDialogBuildPin
+			Normalerweise bleibt das Detailfenster mit dem Gebäude, sodass es auch bei Bewegen der Kamera immer über dem
+			Gebäude platziert ist. Mit dem Pin-Button können Sie diese Funktion jedoch abschalten, so dass das Fenster
+			an fester Position im Bildschirm bleibt. Wenn Sie das Fenster durch Klicken und Ziehen der Titelleiste
+			verschieben, wird das Fenster automatisch angepinnt. Dies erlaubt Ihnen die Details des Gebäudes auch
+			einzusehen, wenn Sie sich mit der Kamera gerade nicht in der Nähe des Gebäudes befinden.
+			^lo ^dDialogBuildClose
+			Mit dem Schließen-Button können Sie das Fenster schließen.
+			^lo ^dDialogBuildStat
+			Das Gebäudestatussymbol zeigt Ihnen, sofern verfügbar, den aktuellen Status des Gebäude an.
+			^le ^le ^n
+			Bei manchen Gebäuden erscheint nach dessen Auswahl ein gelber Kreis um das Gebäude. Dieser Umkreis zeigt an,
+			innerhalb welcher Region die zum Gebäude zugehörige Arbeit erledigt wird. Beim ^abForester Forsthaus^ae zeigt
+			der Umkreis beispielsweise an, in welchem Radius die Förster Bäume pflanzen und fällen.
 			^p
-			ÔVÊRLÂPPÎNG THÊ CÎRCLÊS ÔF TWÔ ÔF THÊ SÂMÊ TYPÊ ÔF BÛÎLDÎNG MÂY RÊSÛLT ÎN LÔWÊR RÊSÔÛRCÊ PRÔDÛCTÎÔN ÂS
-			WÔRKÊRS FRÔM BÔTH BÛÎLDÎNGS WÎLL BÊ ÛSÎNG THÊ SÂMÊ LÂND.
+			Überlappen sich die Kreise von zwei Gebäuden desselben Typs, kann dies bei beiden zu einer
+			geringeren Produktionsrate führen, da beiden  weniger Land und Ressourcen zur Verfügung stehen.
 			^p
-			^jc ^i3BuildingCircle ^jc ^f0 ÂRÊÂ ÔF ÊFFÊCTÎVÊNÊSS ^f1 ^jl
+			^jc ^i3BuildingCircle ^jc ^f0 Der gelbe Kreis markiert das Arbeitsgebiet des Forsthauses. ^f1 ^jl
 			^p
-			ÎF SÔMÊTHÎNG ÎS ÂDVÊRSÊLY ÊFFÊCTÎNG Â BÛÎLDÎNG, Â STÂTÛS ÎCÔN WÎLL ÂPPÊÂR ÂBÔVÊ THÊ BÛÎLDÎNG, ÂS WÊLL
-			ÂPPÊÂRÎNG ÔN THÊ BÛÎLDÎNG DÊTÂÎLS. ^vc ^lb
-			^n ^i2BuildPaused^S CÔNSTRÛCTÎÔN ÔN THÊ BÛÎLDÎNG HÂS BÊÊN PÂÛSÊD.
-			^n ^i2WorkDisabled^S WÔRK ÂT THÊ BÛÎLDÎNG HÂS BÊÊN DÎSÂBLÊD ÔR CÂNNÔT BÊ PÊRFÔRMÊD.
-			^n ^i2LimitProduction^S THÊ ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae FÔR THÊ BÛÎLDÎNG HÂS BÊÊN HÎT.
-			^n ^i2WorkUnavailable^S WÔRK CÂNNÔT CÔNTÎNÛÊ BÊCÂÛSÊ THÊ RÊQÛÎRÊD RÊSÔÛRCÊS ÂRÊN'T ÂVÂÎLÂBLÊ.
-			^n ^i2WorkersUnavailable^S THÊRÊ ÂRÊ NÔ WÔRKÊRS ÂVÂÎLÂBLÊ TÔ WÔRK ÂT THÊ BÛÎLDÎNG.
-			^n ^i2BuildDestroy^S THÊ BÛÎLDÎNG ÎS BÊÎNG ^abRÊMÔVÊSTRÛCTÛRÊ DÊSTRÔYÊD^ae ÔR ÛPGRÂDÊD. ^le ^vb ";
+			Wenn ein Gebäude unter einem potenziell negativen Effekt steht, wird darüber ein Statussymbol angezeigt. Das
+			Symbol ist dann ebenfalls im Detailfenster zum Gebäude zu sehen.
+			^vc ^lb
+			^n ^i2BuildPaused^s Die Konstruktion des Gebäudes wurde pausiert.
+			^n ^i2WorkDisabled^s Arbeit in diesem Gebäude wurde deaktiviert oder kann nicht aufgenommen werden.
+			^n ^i2LimitProduction^s Das ^abLimit Ressourcenlimit^ae für dieses Gebäude wurde erreicht.
+			^n ^i2WorkUnavailable^s Arbeit in diesem Gebäude kann nicht fortgeführt werden, da nötige Ressourcen fehlen.
+			^n ^i2WorkersUnavailable^s Es sind keine Arbeiter für dieses Gebäude verfügbar.
+			^n ^i2BuildDestroy^s Gebäude wird zurzeit ^abRemoveStructure abgerissen^ae oder aufgewertet.
+			^le ^vb ";
 		}
 	]
 }

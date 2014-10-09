@@ -1187,15 +1187,15 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "AlcoholLimit";
-			String _text = "Alkohol-Limit";
+			String _text = "Bier-Limit";
 		}
 		{
 			String _name = "AlcoholLimitShort";
-			String _text = "Alkohol";
+			String _text = "Bier";
 		}
 		{
 			String _name = "AlcoholLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Alkohol. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Bier. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "CoalLimit";
@@ -1387,7 +1387,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "AlcoholTip";
-			String _text = "Gesamtlagermenge Alkohol";
+			String _text = "Gesamtlagermenge Bier";
 		}
 		{
 			String _name = "CoalTip";
@@ -2043,7 +2043,7 @@ StringTable graphKeys
 		}
 		{
 			String _name = "Record32";
-			String _text = "Alkohol";
+			String _text = "Bier";
 		}
 		{
 			String _name = "Record33";
@@ -2118,7 +2118,7 @@ StringTable graphTypes
 		}
 		{
 			String _name = "Type11";
-			String _text = "Alkohol";
+			String _text = "Bier";
 		}
 	]
 }
@@ -3636,7 +3636,7 @@ StringTable objects
 		}
 		{
 			String _name = "TavernTip";
-			String _text = "Braut Alkohol und stellt die Bevölkerung zufrieden.";
+			String _text = "Braut Bier und stellt die Bevölkerung zufrieden.";
 		}
 		{
 			String _name = "Cemetery";
@@ -4357,7 +4357,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionBrewerTip";
-			String _text = "Bierbrauer brauen Alkohol und bewirten Gasthäuser.";
+			String _text = "Bierbrauer brauen Bier und bewirten Gasthäuser.";
 		}
 		{
 			String _name = "ProfessionBrewerDeath";

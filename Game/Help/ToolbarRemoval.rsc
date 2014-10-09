@@ -12,7 +12,20 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIRemoval ^s Ressourcenabbau & Abriss ^f1 ^jl ^vb THÊ RÊMÔVÂL ÂND DÊSTRÛCTÎÔN TÔÔLBÂR ÂLLÔWS YÔÛ TÔ RÊMÔVÊ PRÊVÎÔÛSLY BÛÎLT ÂRÊÂS ÂND BÛÎLDÎNGS, RÔÂDS, ÂND NÂTÛRÂL RÊSÔÛRCÊS SÛCH ÂS TRÊÊS, RÔCKS, ÂND ÎRÔN. ^p ^jc ^dUIToolbarRemoval ^jl ^vc ^lb ^lb ^lo ^dUIRemoveStructure ^s ^abRÊMÔVÊSTRÛCTÛRÊ RÊMÔVÊ STRÛCTÛRÊS:^ae RÊMÔVÊ BÛÎLDÎNGS ÂND ÂRÊÂS CRÊÂTÊD BY THÊ PLÂYÊR. ^lo ^dUIRemoveResource ^s ^abRÊMÔVÊRÊSÔÛRCÊ RÊMÔVÊ RÊSÔÛRCÊS:^ae SÊLÊCT ÂND CLÊÂR ÂN ÂRÊÂ ÔF LÂND. ^lo ^dUIRemoveTree ^s ^abRÊMÔVÊTRÊÊ HÂRVÊST TRÊÊS:^ae SÊLÊCT ÂND CÛT DÔWN TRÊÊS. ^lo ^dUIRemoveStone ^s ^abRÊMÔVÊSTÔNÊ CÔLLÊCT STÔNÊ:^ae SÊLÊCT ÂND RÊMÔVÊ LÔÔSÊ STÔNÊ. ^lo ^dUIRemoveIron ^s ^abRÊMÔVÊÎRÔN CÔLLÊCT ÎRÔN:^ae SÊLÊCT ÂND RÊMÔVÊ LÔÔSÊ ÎRÔN ÔRÊ. ^lo ^dUIRemoveRoad ^s ^abRÊMÔVÊRÔÂD RÊMÔVÊ RÔÂDS:^ae SÊLÊCT ÂND RÊMÔVÊ RÔÂDS. ^lo ^dUIRemoveCancel ^s ^abRÊMÔVÊCÂNCÊL CÂNCÊL RÊMÔVÂL:^ae CÂNCÊL ÂNY PÊNDÎNG RÊMÔVÂL WÔRK. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUIRemoval ^s Ressourcenabbau & Abriss ^f1 ^jl ^vb
+			Über das Menü 'Ressourcenabbau und Gebäudeabriss' können verschiedene vorher konstruierte Gebäude,
+			Strukturen und Straßen abgerissen und natürlich vorkommende Ressourcen, wie Bäume, Stein oder Eisen
+			abgebaut werden.
+			^p
+			^jc ^dUIToolbarRemoval ^jl ^vc ^lb ^lb
+			^lo ^dUIRemoveStructure ^s ^abRemoveStructure Gebäude abreißen:^ae Zuvor gebaute Gebäude und Strukturen abreißen.
+			^lo ^dUIRemoveResource ^s ^abRemoveResource Ressourcen abbauen:^ae Eine Fläche auswählen, in der Ressourcen abgebaut werden sollen.
+			^lo ^dUIRemoveTree ^s ^abRemoveTree Bäume fällen:^ae Eine Fläche auswählen, in der Holz gewonnen werden soll.
+			^lo ^dUIRemoveStone ^s ^abRemoveStone Stein abbauen:^ae Eine Fläche auswählen, in der Stein abgebaut werden soll.
+			^lo ^dUIRemoveIron ^s ^abRemoveIron Eisen abbauen:^ae Eine Fläche auswählen, in der oberflächliches Eisenerz abgebaut werden soll.
+			^lo ^dUIRemoveRoad ^s ^abRemoveRoad Wege entfernen:^ae Wege und Straßen für den Abriss vormerken.
+			^lo ^dUIRemoveCancel ^s ^abRemoveCancel Abbau stoppen:^ae Ausstehende Abriss- bzw. Abbauarbeiten stoppen.
+			^le ^le ";
 		}
 	]
 }
