@@ -421,7 +421,7 @@ StringTable climate
 		}
 		{
 			String _name = "Fair";
-			String _text = "Freundlich";
+			String _text = "Gem‰ﬂigt";
 		}
 		{
 			String _name = "Harsh";
@@ -731,7 +731,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyDamage";
-			String _text = "Dieses Geb‰ude wurde schwer besch‰digt.";
+			String _text = "Dieses Geb‰ude wurde erheblich besch‰digt.";
 		}
 		{
 			String _name = "DestroyFixing";
@@ -747,7 +747,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyRebuild";
-			String _text = "Wiederaufbauen";
+			String _text = "Ausbessern";
 		}
 		{
 			String _name = "DestroyRebuildTip";
@@ -755,7 +755,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyDestroy";
-			String _text = "Entfernen";
+			String _text = "Abreiﬂen";
 		}
 		{
 			String _name = "DestroyDestroyTip";

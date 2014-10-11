@@ -13,68 +13,82 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl Katastrophen ^f1 ^n
-			WHÎLÊ Â TÔWN ÎS GRÔWÎNG, DÎSÂSTÊRS MÂY ÔCCÛR THÂT SÊT BÂCK THÊ TÔWNS GRÔWTH. HÔWÊVÊR, MÛCH ÔF THÊ
-			DÊSTRÛCTÎÔN CÂÛSÊD CÂN BÊ MÎTÎGÂTÊD THRÔÛGH CÂRÊFÛL PRÊPÂRÂTÎÔN.
+			Während Ihre Stadt wächst, können von Zeit zu Zeit Katastrophen auftreten, die möglicherweise zu herben
+			Rückschlägen führen. Allerdings kann das Auftreten von Katastrophen durch sorgfältige Vorbereitung vermieden
+			werden, ebenso lassen sich dadurch die desaströsen Folgen abschwächen.
 			^p
-			^f2 ^c1 STÂRVÂTÎÔN ^c0 ^f1 ^n
-			ÎF THÊRÊ ÎSN'T ÊNÔÛGH FÔÔD FÔR ÂLL THÊ CÎTÎZÊNS TÔ ÊÂT, SÔMÊ ÔF THÊM MÂY STÂRVÊ ÂND DÎÊ. THÎS CÂN BÊ
-			ÂVÔÎDÊD BY KÊÊPÎNG LÂRGÊ RÊSÊRVÊS ÔF FÔÔD ÂS WÊLL ÂS HÂVÎNG Â VÂRÎÊTY ÔF MÊTHÔDS FÔR FÔÔD PRÊPÂRÂTÎÔN,
-			SÛCH ÂS ^abHÛNTÊRLÔDGÊ HÛNTÎNG,^ae ^abGÂTHÊRÊRHÛT GÂTHÊRÎNG,^ae ^abFÎSHÎNGDÔCK FÎSHÎNG,^ae ^abCRÔPFÎÊLD
-			GRÔWÎNG CRÔPS,^ae ^abÔRCHÂRD GRÔWÎNG FRÛÎT ÂND NÛT TRÊÊS,^ae ÂND ^abPÂSTÛRÊ RÂÎSÎNG LÎVÊSTÔCK ÎN
-			PÂSTÛRÊS.^ae
+			^f2 ^c1 Hungersnot ^c0 ^f1 ^n
+			Wenn nicht genügend Nahrung für die Bevölkerung zur Verfügung steht, werden einige Ihrer Siedler verhungern.
+			Dies kann durch Anlegen großer Nahrungsvorräte vermieden werden. Ebenso können eine Hungersnöte durch einen
+			stabilen Aufbau zur Nahrungsproduktion, beispielsweise durch ^abHunterLodge Jagdhütten,^ae
+			^abGathererHut Sammler,^ae ^abFishingDock Fischerhütten,^ae ^abCropField Äcker,^ae
+			^abOrchard Obstgärten^ae und ^abPasture Viehweiden^ae abgewendet werden.
 			^p
-			^f2 ^c1 WÊÂTHÊR ^c0 ^f1 ^n ÎN TÔWNS SÛPPÔRTÊD BY FÂRMÎNG, ^abCRÔPFÎÊLD CRÔP FÎÊLDS^ae ÂND
-			^abÔRCHÂRD ÔRCHÂRDS^ae MÂY BÊ SÊRÎÔÛSLY ÊFFÊCTÊD BY WÊÂTHÊR. ÎF ÎT BÊCÔMÊS TÔ CÔLD TÔÔ ÊÂRLY ÎN THÊ YÊÂR,
-			CRÔPS MÂY BÊ DÊSTRÔYÊD. THÊSÊ CRÔPS CÂN BÊ HÂRVÊSTÊD ÊÂRLY, ÔR YÔÛ CÂN MÂKÊ SÛRÊ THÊ TÔWN HÂS ÔTHÊR SÔÛRCÊS
-			ÔF FÔÔD ÂS WÊLL ÂS ÊXTRÂ RÊSÊRVÊS.
+			^f2 ^c1 Wetter ^c0 ^f1 ^n
+			In Städten, in denen sich die Nahrungsproduktion auf ^abCropField Äcker^ae und ^abOrchard Obstgärten^ae
+			stützt, kann schlechtes Wetter zum Problem werden. Wenn es zu früh im Jahr sehr kalt wird, kann dies zu
+			Missernten führen. In diesem Fall hilft es, die Ernte früher beginnen zu lassen. Alternativ sollten Sie
+			sicherstellen, dass Sie genug Nahrung durch andere Quellen produzieren bzw. genügend Reserven
+			vorrätig haben.
 			^p
-			^f2 ^c1 FRÊÊZÎNG ^c0 ^f1 ^n
-			ÎF THÊRÊ ÎSN'T ÊNÔÛGH FÎRÊWÔÔD ÔR CÔÂL TÔ HÊÂT HÔMÊS, SÔMÊ ÔF THÊ CÎTÎZÊNS MÂY FRÊÊZÊ TÔ DÊÂTH.
-			THÎS CÂN BÊ ÂVÔÎDÊD BY BÛÎLDÎNG ^abWÔÔDCÛTTÊR WÔÔD CÛTTÊRS^ae THÂT ÂRÊ SÛPPLÎÊD BY
-			^abFÔRÊSTÊR FÔRÊSTÊRS.^ae ^abSTÔNÊHÔÛSÊ STÔNÊ HÔMÊS^ae CÂN BÊ ÛSÊD ÎNSTÊÂD ÔF ^abWÔÔDHÔÛSÊ WÔÔD HÔMÊS^ae
-			TÔ RÊDÛCÊ THÊ FÛÊL NÊÊDS, ÂS THÊY ÛSÊ LÊSS FÛÊL FÔR HÊÂTÎNG.
-			^p CÎTÎZÊNS THÂT TÂKÊ LÔNG WÂLKS ÔÛTSÎDÊ ÎN THÊ WÎNTÊR MÂY ÂLSÔ FRÊÊZÊ TÔ DÊÂTH. THÊSÊ CÎTÎZÊNS CÂN
-			ÂVÔÎD DYÎNG BY HÂVÎNG WÂRM CLÔTHÊS PRÔDÛCÊD BY Â ^abTÂÎLÔR TÂÎLÔR.^ae
+			^f2 ^c1 Kältetod ^c0 ^f1 ^n
+			Gehen Ihrer Stadt die Reserven an Brennholz aus, werden einige Ihrer Siedler nach gewisser Zeit erfrieren.
+			Dies kann vermieden werden, indem ^abForester Förster^ae genug Holz produzieren, welches von
+			^abWoodcutter Holzhackern^ae zu Brennholz weiterverarbeitet wird. Statt ^abWoodHouse Holzhäuser^ae
+			können ^abStoneHouse Steinhäuser^ae gebaut werden, welche besser gedämmt sind und dadurch für einen
+			niedrigeren Bedarf an Heizmaterial sorgen.
 			^p
-			^f2 ^c1 ÎNFÊSTÂTÎÔNS ^c0 ^f1 ^n ^abCRÔPFÎÊLD CRÔP FÎÊLDS, ^ae ^abPÂSTÛRÊ PÂSTÛRÊS,^ae ÂND
-			^abÔRCHÂRD ÔRCHÂRDS^ae CÂN DÊVÊLÔP PÊST ÎNFÊSTÂTÎÔNS. NÊÂRBY FÎÊLDS THÂT ÂRÊ GRÔWÎNG THÊ SÂMÊ CRÔP ÔR
-			RÂÎSÎNG THÊ SÂMÊ ÂNÎMÂL MÂY BÊCÔMÊ ÎNFÊCTÊD ÔNCÊ Â PÊST ÎNFÊSTÂTÎÔN BRÊÂKS ÔÛT.
+			Siedler, die im Winter draußen lange Fußmärsche zurücklegen müssen, können ebenfalls erfrieren. Sie können
+			dies vermeiden, indem Sie von ^abTailor Schneidern^ae warme Winterkleidung produzieren lassen.
 			^p
-			WHÊN ÎNFÊSTÂTÎÔNS DÔ ÔCCÛR, YÔÛ CÂN HÂRVÊST CRÔPS ÊÂRLY, ÔR MÔVÊ ÂNÎMÂLS TÔ ÔTHÊR PÂSTÛRÊS. ÂFTÊR THÊ
-			ÎNFÊSTÂTÎÔN HÂS PÂST, CHÂNGÎNG THÊ CRÔP ÔR ÂNÎMÂL THÂT ÎS GRÔWN ÎN Â FÎÊLD WÎLL RÊDÛCÊ THÊ CHÂNCÊ ÔF THÊ
-			ÔF Â RÊCÛRRÊNCÊ.
+			^f2 ^c1 Schädlingsplagen ^c0 ^f1 ^n
+			^abCropField Äcker,^ae ^abPasture Viehweiden^ae und ^abOrchard Obstgärten^ae können von Krankheiten und
+			Schädlingen befallen werden. Benachbarte Äcker, auf denen dieselbe Kulturpflanze wächst bzw. Weiden, auf
+			welchen dieselbe Viehart grast, können bei einem Ausbruch ebenfalls befallen werden.
 			^p
-			^f2 ^c1 SÎCKNÊSS ^c0 ^f1 ^n ^abCÎTÎZÊN CÎTÎZÊNS^ae THÂT ÂRÊ ÎN PÔÔR HÊÂLTH HÂVÊ Â HÎGHÊR CHÂNCÊ ÔF
-			DÊVÊLÔPÎNG SÎCKNÊSS THÂN CÎTÎZÊNS ÎN GÔÔD HÊÂLTH. GÔÔD HÊÂLTH CÂN BÊ MÂÎNTÂÎNÊD THRÔÛGH Â
-			VÂRÎÊD DÎÊT ÔF FRÛÎTS, VÊGÊTÂBLÊS, GRÂÎNS, ÂND MÊÂTS. ÎF Â GÔÔD DÎÊT CÂNNÔT BÊ
-			ÂTTÂÎNÊD, ^abHÊRBÂLÎST HÊRBÂLÎSTS^ae CÂN CÔLLÊCT HÊRBS THÂT WÎLL HÊLP ÎNCRÊÂSÊ HÊÂLTH ÂND MÂKÊ ÛP FÔR
-			THÊ PÔÔR DÎÊT.
+			Sie können Plagen entgegenwirken, indem Sie befallene Äcker sofort abernten, Obstgärten mit kranken
+			Bäumen abholzen und das Nutzvieh auf betroffenen Weiden notschlachten lassen bzw. es auf andere Weiden
+			schicken. Wenn Plagen überstanden sind, sollten Sie bei den betroffenen Äckern und Obstgärten etwas anderes
+			anbauen, sowie auf betroffenen Weiden eine andere Viehart halten, um ein Wiederausbrechen der Plage
+			zu vermeiden.
 			^p
-			ÎF Â SÎCKNÊSS DÔÊS ÔCCÛR, ^abHÔSPÎTÂL HÔSPÎTÂLS^ae CÂN BÊ ÛSÊD TÔ RÊDÛCÊ THÊ SPRÊÂD ÂND LÊNGTH ÔF THÊ
-			DÎSÊÂSÊ. TRÂDÊ WÎTH ^abTRÂDÎNGPÔST MÊRCHÂNTS^ae ÂS WÊLL ÂS ÎNVÎTÎNG NÔMÂDS ÎNTÔ Â TÔWN CÂN TÊMPÔRÂRÎLY
-			ÎNCRÊÂSÊ THÊ CHÂNCÊ ÔF DÎSÊÂSÊ.
+			^f2 ^c1 Krankheiten ^c0 ^f1 ^n
+			^abCitizen Siedler^ae, die sich in einem schlechten Gesundheitszustand befinden, haben gegenüber gesunden
+			Siedlern ein erhöhtes Risiko eine Krankheit zu bekommen. Sie können die Bevölkerung gesund halten, indem
+			Sie für eine große Vielfalt an verschiedenen Nahrungsmitteln wie Obst, Gemüse, Getreide und Fleisch sorgen.
+			Wenn dies nicht gelingt, kann der ^abHerbalist Kräutersammler^ae ebenfalls für eine Verbesserung der
+			Gesundheit sorgen und eine mangelhafte Ernährung ausgleichen.
 			^p
-			^f2 ^c1 TÔRNÂDÔÊS ^c0 ^f1 ^n
-			VÊRY RÂRÊLY, Â TÔRNÂDÔ MÂY FÔRM ÂND MÔVÊ ÂCRÔSS THÊ LÂNDSCÂPÊ. THÊY CÂN DÊSTRÔY CRÔPS ÂND BÛÎLDÎNGS,
-			ÂND KÎLL LÎVÊSTÔCK ÂND CÎTÎZÊNS. YÔÛ CÂN PRÊPÂRÊ ^abBÔÂRDÎNGHÔÛSÊ BÔÂRDÎNG HÔÛSÊS^ae ÎN PRÊPÂRÂTÎÔN ÔF
-			Â DÎSÂSTÊR LÎKÊ Â TÔRNÂDÔ. THÊY CÂN HÔÛSÊ FÂMÎLÎÊS TÊMPÔRÂRÎLY WHÎLÊ THÊ TÔWN ÎS RÊBÛÎLT.
+			Wenn in der Stadt eine Krankheit ausbricht, können ^abHospital Krankenhäuser^ae die Ausbreitung aufhalten
+			und erkrankte Siedler heilen. Der Handel mit ^abTradingPost fahrenden Händlern^ae, sowie das Aufnehmen von
+			Nomaden in die Stadt kann vorübergehen für ein höheres Risiko für einen Krankheitsausbruch sorgen.
 			^p
-			^f2 ^c1 FÎRÊS ^c0 ^f1 ^n
-			FÎRÊS MÂY BRÊÂK ÔÛT ÎN Â TÔWN FRÔM TÎMÊ TÔ TÎMÊ. ÎF Â FÎRÊ DÔÊS BRÊÂK ÔÛT, CÎTÎZÊNS WÎLL CÂRRY WÂTÊR FRÔM
-			THÊ NÊÂRÊST SÔÛRCÊ TÔ RÊDÛCÊ THÊ TÎMÊ THÊ FÎRÊ BÛRNS, ÂND HÔPÊFÛLLY KÊÊP ÎT FRÔM SPRÊÂDÎNG TÔ NÊÂRBY BÛÎLDÎNGS.
+			^f2 ^c1 Tornados ^c0 ^f1 ^n
+			Es kann in seltenen Fällen passieren, dass sich nahe Ihrer Stadt ein Tornado bildet. Tornados können
+			Gebäude Ihrer Stadt zerstören und Ihre Felder und Viehweiden verwüsten. Um sich gegen Tornados zu wappnen,
+			können Sie ^abBoardingHouse Notunterkünfte^ae bauen. Diese bieten vorübergehend Unterkunft für Familien,
+			dessen Häuser zerstört wurden, während die Stadt wiederaufgebaut wird.
 			^p
-			ÎN ÂRÊÂS FÂR ÂWÂY FRÔM RÎVÊRS, STRÊÂMS, ÂND LÂKÊS, ^abWÊLL WÊLLS^ae CÂN BÊ BÛÎLT ÂS Â WÂTÊR SÔÛRCÊ TÔ PÛT
-			ÔÛT FÎRÊS QÛÎCKLY.
+			^f2 ^c1 Brände ^c0 ^f1 ^n
+			Von Zeit zu Zeit können in Ihrer Stadt Feuer ausbrechen. In diesem Fall werden Ihre Siedler sofort mit den
+			Löscharbeiten beginnen und Wasser von der nächstgelegenen Quelle holen, was mit etwas Glück verhindert,
+			dass sich das Feuer auf benachbarte Gebäude ausbreitet.
 			^p
-			ÎF Â BÛÎLDÎNG ÎS DÂMÂGÊD BY Â FÎRÊ ÔR TÔRNÂDÔ, YÔÛ CÂN DÊCÎDÊ TÔ ÊÎTHÊR RÊBÛÎLD ÔR TÊÂR DÔWN THÊ BÛÎLDÎNG.
-			CLÎCKÎNG ÔN THÊ BÛÎLDÎNG WÎLL SHÔW DÊTÂÎLS ÔF THÊ DÂMÂGÊD BÛÎLDÎNG.
+			In Gegenden, die weit entfernt von Flüssen, Bächen und Seen sind, sollten ^abWell Brunnen^ae gebaut werden,
+			um Brände schneller unter Kontrolle zu bekommen.
+			^p
+			Wenn ein Gebäude durch Feuer oder durch einen Tornado beschädigt wurde, können Sie entscheiden, ob Sie das
+			Gebäude abreißen oder wiederaufbauen lassen. Klicken Sie dazu auf das Gebäude, um sich das Detailfenster
+			einblenden zu lassen.
 			^p
 			^jc ^dDialogDamage ^jl ^n ^mb ^mc ^dDialogDamageRebuild ^n ^ml60 ^mc
-			YÔÛ CÂN RÊBÛÎLD THÊ BÛÎLDÎNG BY PRÊSSÎNG THÊ RÊBÛÎLD BÛTTÔN. THÊ BÛÎLDÎNG WÎLL TÔRN DÔWN ÂND Â FÊW
-			CÔNSTRÛCTÎÔN MÂTÊRÎÂLS WÎLL BÊ RÊCLÂÎMÊD. THÊ BÛÎLDÎNG WÎLL THÊN BÊ RÊBÛÎLT BY
-			^i0ProfessionBuilder ^s ^abPRÔFÊSSÎÔN BÛÎLDÊRS. ^ae ^ml0 ^me ^n ^mb ^mc ^dDialogDamageRemove ^n ^ml60 ^mc
-			YÔÛ CÂN DÊSTRÔY THÊ DÂMÂGÊD BÛÎLDÎNG BY PRÊSSÎNG THÊ RÊMÔVÊ BÛTTÔN.
-			THÊ BÛÎLDÎNG WÎLL TÔRN DÔWN ÂND Â FÊW CÔNSTRÛCTÎÔN MÂTÊRÎÂLS WÎLL BÊ RÊCLÂÎMÊD. ^ml0 ^me ";
+			Sie können das Gebäude durch Klick auf den Button 'Ausbessern' wiederaufbauen. Das Gebäude wird in diesem
+			Fall zunächst abgerissen, wobei ein paar Baumaterialien wiedergewonnen werden. Anschließend wird das Gebäude
+		    von ^i0ProfessionBuilder ^s ^abProfession Bauarbeitern^ae wiederaufgebaut.
+		    ^ae ^ml0 ^me ^n ^mb ^mc ^dDialogDamageRemove ^n ^ml60 ^mc
+			Beschädigte Gebäude können mit dem Button 'Abreißen' abgerissen werden. Dadurch können ein paar
+			Baumaterialien wiedergewonnen werden.
+			^ml0 ^me ";
 		}
 	]
 }
