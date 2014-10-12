@@ -1,0 +1,31 @@
+### GERMAN (English version below) ###
+Diese Mod stellt eine deutsche Übersetzung für Banished bereit. Die standardmäßige Schriftart im Spiel bleibt unverändert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefügt.
+
+Die Oberfläche des Spiels und die Tutorials wurden bereits komplett übersetzt. Es fehlt allerdings noch die Ingame-Hilfe, diese wird in einem der kommenden Releases dieser Mod ergänzt.
+
+Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr über einen Rechtschreibfehler oder hölzern klingende Ausdrücke stolpert, bzw. euch allgemein eine Übersetzung nicht gefällt, schreibt einen Kommentar für diese Mod.
+
+Feedback ist übrigens jederzeit gewünscht und wird zu Herzen genommen.
+
+Mehr Informationen zur Mod gibt es auf meiner persönlichen Seite:
+http://atomkraftzwerg.de/page/banisheddeutsch
+
+Die Mod ist ebenfalls im Steam Workshop verfügbar, der Quellcode ist einsehbar bei GitHub:
+http://steamcommunity.com/sharedfiles/filedetails/?id=319182984
+https://github.com/Atomkraftzwerg/BanishedGermanTranslation
+
+### ENGLISH ###
+This mod provides a German translation for banished. The default game font has been preserved, the character set just  has been extended by German umlauts. 
+
+The game UI and the tutorials are finished. Please note, that the ingame help is not yet finished, it will be done in one of the upcoming releases of this mod.
+
+Furthermore, please note, that this mod is still work in progress and is actively maintained. There may be some translation mistakes or imperfections. If you stumble upon a mistake, please report it on this page or the page mentioned below. 
+
+Feedback is requested at any time, at best as a comment on this page.
+
+Read more information at my page:
+http://atomkraftzwerg.de/page/banisheddeutsch
+
+The mod is also available at the Steam Workshop, ou can find the source code on GitHub::
+http://steamcommunity.com/sharedfiles/filedetails/?id=319182984
+https://github.com/Atomkraftzwerg/BanishedGermanTranslation

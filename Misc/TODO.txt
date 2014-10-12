@@ -1,0 +1,91 @@
+Allgemein:
+- Citizens -> Siedler, Bevölkerung
+- Items -> Artikel, Güter
+- Punktsetzung bei Tooltips, wenn es sinnvoll aussieht
+- Anrede des Spielers: Sie
+- Untere Menüleiste -> Hauptleiste
+
+TODOs:
+TODO: "Schneiderei" umbenennen in "Schneider"
+TODO: Bilder in der Hilfe ebenfalls übersetzen
+TODO: Zu kleine Fenster (bspw. Viehweide) anpassen und vergrößern
+TODO: Rechtschreibüberprüfung mit WebStorm
+TODO: "Gebäudebau und Gebäude" klingt blöd
+TODO: "Abreißen"/"Abriss" mit "ß" oder mit "ss"?
+
+Hilfe (Raw translation):
+[x] Contents, Übersicht
+[x] GettingStarted Grundlagen zum Spiel
+[x] Navigation Kamerasteuerung
+[x] Toolbar Hauptleiste
+[x] Citizen Siedler
+[x] Resource Ressourcen
+[x] Buildings Gebäudebau und Gebäude
+[x] Disaster Katastrophen
+[x] ToolbarTime Spielgeschwindigkeit
+
+[x] ToolbarTools Toolfenster und Statistiken
+    [x] StatusBar Statusfenster
+    [ ] EventLog Ereignisverlauf
+    [ ] Map Übersichtskarte
+    [ ] Profession Berufe
+    [ ] Limit Ressourcenlimits
+    [ ] Priority Priorität erhöhen
+    [ ] Path Laufwege
+    [ ] Camera Kameraansichten
+    [ ] GotoTownHall Zensusdaten
+    [x] Help Hilfe
+
+[ ] ToolbarHousing Behausungen und Unterkünfte
+    [ ] WoodHouse Holzhäuser
+    [ ] StoneHouse Steinhäuser
+    [ ] BoardingHouse Notunterkünfte
+
+[ ] ToolbarRoads Straßen und Brücken
+    [ ] DirtRoad Feldwege
+    [ ] StoneRoad Gepflasterte Straße
+    [ ] Bridge Brücken
+    [ ] Tunnel Tunnel
+
+[ ] ToolbarStorage Lagerraum und Handel
+    [ ] StorageBarn Lagerhäuser
+    [ ] StockPile Lagerplätze
+    [ ] Market Märkte
+    [ ] TradingPost Handelsposten
+
+[ ] ToolbarServices Stadtgebäude
+    [ ] Well Brunnen
+    [ ] School Schulen
+    [ ] Hospital Krankenhäuser
+    [ ] TownHall Rathäuser
+    [ ] Chapel Kapellen
+    [ ] Cemetery Friedhöfe
+
+[ ] ToolbarFood Nahrungsproduktion
+    [ ] CropField Äcker
+    [ ] Orchard Obstgärten
+    [ ] Pasture Viehweiden
+    [ ] FishingDock Fischerhütten
+    [ ] HunterLodge Jagdhütte
+    [ ] GathererHut Sammler
+
+[ ] ToolbarProduction Ressourcenproduktion
+    [ ] Woodcutter Holzhacker
+    [ ] Forester Förster
+    [ ] Herbalist Kräutersammler
+    [ ] Blacksmith Schmied
+    [ ] Tailor Schneidereien
+    [ ] Tavern Wirtshäuser
+    [ ] Mine Minen
+    [ ] Quarry Steinbrüche
+
+[x] ToolbarRemoval Ressourcenabbau und Gebäudeabriss
+    [x] RemoveStructure Gebäude abreißen
+    [x] RemoveResource Ressourcen abbauen
+    [x] RemoveTree Bäume fällen
+    [x] RemoveStone Stein abbauen
+    [x] RemoveIron Eisen abbauen
+    [x] RemoveRoad Wege entfernen
+    [x] RemoveCancel Abbau stoppen
+
+[x] Credits Mitwirkende
