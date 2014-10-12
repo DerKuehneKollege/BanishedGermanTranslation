@@ -12,7 +12,11 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIMap ^s Übersichtskarte ^f1 ^n THÊ ÂRÊÂ MÂP SHÔWS THÊ TÊRRÂÎN ÂND MÔÛNTÂÎNS, WÂTÊR, LÔCÂTÎÔN ÔF TRÊÊS, RÔCKS, ÎRÔN, BÛÎLDÎNGS, ÂND FÂRMS THÂT ÂRÊ PLÂCÊD ÎN YÔÛR TÔWN. ^p ^jc ^dDialogMap ^jl ^n CLÎCKÎNG ÔN THÊ MÂP WÎLL CÊNTÊR THÊ VÎÊW TÔN WHÊRÊVÊR YÔÛ'VÊ CLÎCKÊD. ";
+			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIMap ^s Übersichtskarte ^f1 ^n
+			Die Übersichtskarte zeigt das Gelände der aktuellen Karte inklusive Berge, Gewässer, Bäume, Steinvorkommen,
+			Eisenvorkommen, Gebäude und landwirtschaftlich genutzte Gebiete Ihrer Stadt an.
+			^p ^jc ^dDialogMap ^jl ^n
+			Mit einem Linksklick auf die Karte können Sie die Kamera zur entsprechenden Stelle bewegen.";
 		}
 	]
 }

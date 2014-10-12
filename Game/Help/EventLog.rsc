@@ -13,24 +13,28 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIEventLog ^s Ereignisverlauf ^f1 ^n
-			THÊ ÊVÊNT LÔG LÎSTS MÂJÔR ÊVÊNTS THÂT ÔCCÛR ÎN TÔWN, FRÔM NÂTÛRÂL BÎRTHS ÂND DÊÂTHS, SÎCKNÊSSÊS, DÎSÂSTÊRS,
-			ÎNVÊNTÔRY WÂRNÎNGS, ÂND THÊ ÂRRÎVÂL ÔF NÔMÂDS ÂND MÊRCHÂNTS ÂT TRÂDÎNG PÔSTS.
+			Im Fenster 'Ereignisverlauf' werden die wichtigsten spielrelevanten Ereignisse, die in Ihrer Stadt
+			passieren aufgezeichnet. Dies umfasst beispielsweise Geburten, Todesfälle, Krankheiten, Katastrophen,
+			Warnungen vor Ressourcenknappheit und zu vollen Lagern, sowie die Ankunft von Nomaden und fahrenden Händlern
+			am Handelsposten.
 			^p
 			^jc ^dDialogEventLog ^jl
 			^p
-			ÊVÊN ÎF THÊ ÊVÊNT LÔG ÎSN'T DÎSPLÂYÊD, MÂJÔR ÊVÊNTS WÎLL BÊ DÎSPLÂYÊD NÊXT TÔ THÊ
-			^abTÔÔLBÂR MÂÎN TÔÔLBÂR.^ae ^jc ^dDialogEventLogPopup ^jl CLÎCKÎNG ÔN THÊ PÔPÛP ÔR ÂRRÔW ÎCÔN NÊXT TÔ THÊ
-			ÊVÊNT WÎLL FÔCÛS THÊ VÎÊW ÔN THÊ ÊVÊNT.
+			Auch wenn das Fenster nicht angezeigt wird, werden die wichtigsten Ereignisse neben der
+			^abToolbar Hauptleiste^ae angezeigt.
+			^jc ^dDialogEventLogPopup ^jl
+			Wenn Sie auf die Benachrichtigung oder auf das Pfeilsymbol neben einem Ereignis klicken, springt die Kamera
+			zur entsprechenden Stelle.
 			^p
-			ÛSÎNG THÊ BÛTTÔNS ÔN TÔP ÔF THÊ ÊVÊNT LÔG, YÔÛ CÂN ÊNÂBLÊ ÂND DÎSÂBLÊ PÔPÛPS FÔR VÂRÎÔÛS ÊVÊNT TYPÊS.
+			Mit den oberen Buttons im Ereignisverlauf-Fenster können Sie Benachrichtigungen für die verschiedenen
+			Ereignistypen aktivieren oder deaktivieren.
 			^lb
-			^lo ^dDialogEventLogNDeath ÊNÂBLÊ ÔR DÎSÂBLÊ NÔTÎFÎCÂTÎÔNS ÔF NÂTÛRÂL DÊÂTHS.
-			^lo ^dDialogEventLogDeath ÊNÂBLÊ ÔR DÎSÂBLÊ NÔTÎFÎCÂTÎÔNS ÔF ÛNNÂTÛRÂL DÊÂTHS, SÛCH ÂS SÎCKNÊSS,
-			DRÔWNÎNG, ÂCCÎDÊNTS, ÊTC.
-			^lo ^dDialogEventLogDisaster ÊNÂBLÊ ÔR DÎSÂBLÊ NÔTÎFÎCÂTÎÔNS ÔF DÎSÂSTÊRS.
-			^lo ^dDialogEventLogInventory ÊNÂBLÊ ÔR DÎSÂBLÊ NÔTÎFÎCÂTÎÔNS ÔF ÎNVÊNTÔRY BÊCÔMÎNG LÔW ÂND
-			STÔRÂGÊ BÊCÔMÎNG FÛLL.
-			^lo ^dDialogEventLogTrade ÊNÂBLÊ ÔR DÎSÂBLÊ NÔTÎFÎCÂTÎÔNS ÔF NÔMÂDS ÔR MÊRCHÂNTS ÂRRÎVÎNG ÎN THÊ TÔWN.
+			^lo ^dDialogEventLogNDeath Benachrichtigungen für Todesfälle mit natürlicher Ursache aktivieren.
+			^lo ^dDialogEventLogDeath Benachrichtigungen für Todesfälle mit unnatürlicher Ursache, wie beispielsweise
+			Krankheit, Unfälle, Ertrinken, usw. aktivieren.
+			^lo ^dDialogEventLogDisaster Benachrichtigungen für Katastrophen aktivieren.
+			^lo ^dDialogEventLogInventory Benachrichtigungen für knapp werdende Ressourcen bzw. zu volle Lager aktivieren.
+			^lo ^dDialogEventLogTrade Benachrichtigungen für eintreffende Nomaden oder fahrende Händler aktivieren.
 			^le ";
 		}
 	]

@@ -26,8 +26,8 @@ Hilfe (Raw translation):
 
 [x] ToolbarTools Toolfenster und Statistiken
     [x] StatusBar Statusfenster
-    [ ] EventLog Ereignisverlauf
-    [ ] Map Übersichtskarte
+    [x] EventLog Ereignisverlauf
+    [x] Map Übersichtskarte
     [ ] Profession Berufe
     [ ] Limit Ressourcenlimits
     [ ] Priority Priorität erhöhen
