@@ -13,21 +13,27 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPriority ^s Priorität erhöhen ^f1 ^n
-			THÊ PRÎÔRÎTY TÔÔL ÂLLÔWS YÔÛ TÔ CHÂNGÊ THÊ ÔRDÊR THÂT THÊ CÎTÎZÊNS ÔF YÔÛR TÔWN PÊRFÔRM WÔRK.
+			Die Funktion 'Priorität erhöhen' erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
+			Aufgaben erfüllen, zu ändern.
 			^p
-			ÎN GÊNÊRÂL, WÔRKÊRS WÎLL PÊRFÔRM WÔRK ÎN THÊ ÔRDÊR THÂT ÎT WÂS CRÊÂTÊD. ÎF YÔÛ PLÂCÊ Â
-			^abBLÂCKSMÎTH BLÂCKSMÎTH,^ae SÊVÊRÂL ^abWÔÔDHÔÛSÊ WÔÔD HÔÛSÊS,^ae ÂND THÊN Â ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN,
-			^ae THÊY WÎLL BÊ BÛÎLT ÎN THÂT ÔRDÊR - BLÂCKSMÎTH, HÔÛSÊS, THÊN THÊ STÔRÂGÊ BÂRN.
+			Im Normalfall führen die Arbeiter die Tätigkeiten in der Reihenfolge aus, in der sie aufgetragen wurden.
+			Wenn Sie beispielsweise zuerst einen ^abBlacksmith Schmied,^ae dann mehrere ^abWoodHouse Holzhäuser^ae und
+			anschließend ein ^abStorageBarn Lagerhaus^ae platzieren, werden die Gebäude in dieser Reihenfolge gebaut -
+			zuerst die Schmiede, dann die Häuser und abschließend das Lagerhaus.
 			^p
-			ÎF FÔR SÔMÊ RÊÂSÔN YÔÛ WÂNT TÔ CHÂNGÊ THÎS ÔRDÊR, YÔÛ CÂN ÛSÊ THÊ PRÎÔRÎTY TÔÔL. SÎMPLY CLÎCK ÂND DRÂG ÔVÊR
-			THÊ TÊRRÂÎN, HÎGHLÎGHTÎNG THÊ ÂRÊÂS THÂT YÔÛ WÎSH TÔ BÊ WÔRKÊD FÎRST.
+			Wenn Sie aus irgendeinem Grund diese Reihenfolge ändern wollen, können Sie 'Priorität erhöhen' verwenden.
+			Wählen Sie dazu einfach die Funktion aus und markieren Sie dann durch Klicken und Ziehen mit der linken
+			Maustaste eine Fläche, in welcher die dort beauftragten Arbeiten vorrangig behandelt werden sollen.
 			^p
 			^i3Priority
 			^p
-			NÔTÊ THÂT ÎF WÔRK CÂN'T BÊ CÔMPLÊTÊD, ÎNCRÊÂSÎNG THÊ PRÎÔRÎTY WÔN'T DÔ ÂNYTHÎNG ÛNTÎL THÊ WÔRK CÂN BÊ
-			CÔMPLÊTÊD. FÔR ÊXÂMPLÊ, ÎF YÔÛR ÂRÊ TRYÎNG TÔ BÛÎLD Â ^abBLÂCKSMÎTH BLÂCKSMÎTH,^ae ÂND THÊRÊ ÎS NÔ
-			^abRÊSÔÛRCÊ ÎRÔN^ae ÂVÂÎLÂBLÊ, ^i0ProfessionBuilder ^abPRÔFÊSSÎÔN BÛÎLDÊRS^ae WÔN'T BÊ ÂBLÊ TÔ CÔMPLÊTÊ
-			THÊ BÛÎLDÎNG ÂND THÊY WÎLL MÔVÊ ÔNTÔ WÔRK THÊY CÂN PÊRFÔRM. ";
+			Bedenken Sie, dass, wenn die Arbeit in dem Gebiet aus bestimmten Gründen nicht begonnen werden kann,
+			das Erhöhen der Priorität keine Auswirkungen hat. Wenn Sie beispielsweise eine ^abBlacksmith Schmiede^ae
+			errichten wollen, allerdings nicht genügend ^abResource Ressourcen^ae für den Bau verfügbar sind, können die
+			zuständigen ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae nicht mit der Arbeit beginnen und werden sich
+			anderen, machbaren Aufgaben zuwenden. Sobald die Ressourcen verfügbar sind, verfügt der Bau des Gebäudes
+			allerdings über erhöhte Priorität.
+			";
 		}
 	]
 }

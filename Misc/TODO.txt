@@ -12,6 +12,7 @@ TODO: Zu kleine Fenster (bspw. Viehweide) anpassen und vergrößern
 TODO: Rechtschreibüberprüfung mit WebStorm
 TODO: "Gebäudebau und Gebäude" klingt blöd
 TODO: "Abreißen"/"Abriss" mit "ß" oder mit "ss"?
+TODO: "Sammler" -> "Sammlerhütte"
 
 Hilfe (Raw translation):
 [x] Contents, Übersicht
@@ -28,12 +29,12 @@ Hilfe (Raw translation):
     [x] StatusBar Statusfenster
     [x] EventLog Ereignisverlauf
     [x] Map Übersichtskarte
-    [ ] Profession Berufe
-    [ ] Limit Ressourcenlimits
-    [ ] Priority Priorität erhöhen
-    [ ] Path Laufwege
-    [ ] Camera Kameraansichten
-    [ ] GotoTownHall Zensusdaten
+    [x] Profession Berufe
+    [x] Limit Ressourcenlimits
+    [x] Priority Priorität erhöhen
+    [x] Path Laufwege
+    [x] Camera Kameraansichten
+    [x] GotoTownHall Zensusdaten
     [x] Help Hilfe
 
 [ ] ToolbarHousing Behausungen und Unterkünfte

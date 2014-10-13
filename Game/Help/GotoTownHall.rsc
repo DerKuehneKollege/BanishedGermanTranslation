@@ -12,7 +12,15 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIToolTownHall ^s Zensusdaten ^f1 ^n THÊ TÔWN STÂTÎSTÎCS TÔÔL ÎS ÛSÊD TÔ MÔVÊ THÊ CÛRRÊNT VÎÊWPÔÎNT TÔ THÊ ^abTÔWNHÂLL TÔWN HÂLL^ae ÂND ÔPÊN ÎTS DÊTÂÎLS. ÛNTÎL Â TÔWN HÂLL ÎS BÛÎLT, THÎS TÔÔL ÎS ÛNÂVÂÎLÂBLÊ. ^p THÎS CÂN BÊ ÛSÊFÛL TÔ ÎMMÊDÎÂTÊLY VÎÊW THÊ STÂTÎSTÎCS ÂVÂÎLÂBLÊ ÂT THÊ TÔWN HÂLL ÎN Â LÂRGÊ MÂP WÎTHÔÛT HÂVÎNG TÔ MÂNÛÂLLY MÔVÊ THÊ CÂMÊRÂ, ÂND WÎTHÔÛT TÂKÎNG ÛP Â ^abCÂMÊRÂ CÂMÊRÂ LÔCÂTÎÔN.^ae ";
+			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIToolTownHall ^s Zensusdaten ^f1 ^n
+			Das ^abTownHall Rathaus^ae ermöglicht Ihnen die Einsicht in detaillierte Statistiken über Ihre Stadt. Die
+			im Menü angezeigte Funktion 'Zensusdaten' erlaubt es Ihnen, schnell zum Rathaus zu springen und die
+			Informationen anzuzeigen.
+			^p
+			Dies kann nützlich sein, wenn Sie eine große Stadt haben und nicht erst das Rathaus suchen müssen (oder gar
+			eine ^abCamera Kameraansicht^ae speichern müssen), um sich die Informationen anzeigen zu lassen.
+			^p
+			Diese Funktion ist bis zum Bau des Rathauses ausgegraut. ";
 		}
 	]
 }

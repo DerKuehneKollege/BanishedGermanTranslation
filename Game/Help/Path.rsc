@@ -12,7 +12,24 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPath ^s Laufwege ^f1 ^n THÊ PÂTH TÔÔL ÂLLÔWS YÔÛ TÔ SÊÊ THÊ ÎDÊÂL PÂTHS THÂT WÔRKÊRS WÎLL TÂKÊ FRÔM THÊÎR HÔMÊS TÔ THÊÎR WÔRKPLÂCÊS, ÔR FRÔM WÔRKPLÂCÊS TÔ HÔMÊS. ÔNCÊ THÊ PÂTH TÔÔL ÎS SÊLÊCTÊD, SÎMPLY CLÎCK ÔN Â HÔMÊ ÔR WÔRKPLÂCÊ TÔ SHÔW THÊ PÂTHS THÂT WÔRKÊRS WÎLL TÂKÊ. ^p ^i3Path ^p BÊCÂÛSÊ WÔRKÊRS NÊÊD TÔ PÊRÎÔDÎCÂLLY RÊTÛRN HÔMÊ TÔ ÊÂT ÂND GÊT WÂRM ÎN THÊ WÎNTÊR, ÎT'S GÊNÊRÂLLY BÊTTÊR TÔ HÂVÊ SHÔRT PÂTHS FRÔM HÔMÊS TÔ WÔRKPLÂCÊS, SÎNCÊ THÊ WÔRKÊRS WÎLL SPÊND MÔRÊ TÎMÊ WÔRKÎNG THÂN WÂLKÎNG, WHÎCH WÎLL RÊSÛLT ÎN HÎGHÊR RÊSÔÛRCÊ PRÔDÛCTÎÔN. ^p ÎF YÔÛ FÎND WÔRKÊRS TÂKÎNG LÔNG PÂTHS, YÔÛ CÂN TRY TÔ BÛÎLD MÔRÊ HÔMÊS NÊÂR THÊ WÔRK PLÂCÊS. ÂFTÊR Â WHÎLÊ, THÊ WÔRKÊRS WÎLL MÔVÊ ÎNTÔ THÊ NÊW HÔMÊS, ÔR SWÂP JÔBS WÎTH THÊÎR NÊÎGHBÔRS TÔ MÎNÎMÎZÊ THÊ DÎSTÂNCÊ FRÔM THÊÎR HÔMÊ TÔ THÊÎR WÔRKPLÂCÊ. ^p YÔÛ CÂN ÂLSÔ BÛÎLD ^abBRÎDGÊ BRÎDGÊS^ae ÂND ^abTÛNNÊL TÛNNÊLS^ae TÔ CÔNNÊCT ÂRÊÂS ÂND MÂKÊ PÂTHS FRÔM HÔMÊS TÔ WÔRK SHÔRTÊR. ";
+			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPath ^s Laufwege ^f1 ^n
+			Mithilfe der Funktion 'Laufwege' können Sie den idealen Laufweg nachvollziehen, welcher ein ausgewählter
+			Siedler von	seinem Zuhause zu seinem Arbeitsort nimmt. Wählen Sie hierzu die Funktion und anschließend ein
+			Wohnhaus oder ein Arbeitsgebäude aus, um den die Laufwege der Arbeiter anzuzeigen.
+			^p
+			^i3Path
+			^p
+			Von Zeit zu Zeit müssen die Siedler zu ihren Wohnstätten zurückkehren, um etwas zu essen und um sich im
+			Winter aufzuwärmen. Es ist daher wichtig, dass die Siedler kurze Wege zwischen Wohn- und Arbeitsort haben,
+			da sie so weniger mit Laufen und mehr mit ihrer Arbeit beschäftigt sind, was zu höherer Produktivität führt.
+			^p
+			Wenn Sie Siedler mit langen Arbeitswegen finden, sollten Sie mehr Wohnhäuser in der Nähe der Arbeitsorte
+			bauen. Nach einer Weile werden die Siedler automatisch in das näher platzierte Haus umziehen oder die
+			Arbeit mit Nachbarn tauschen, um die Distanz zwischen den Orten zu minimieren.
+			^p
+			Wenn Gewässer oder Berge für einen längeren Arbeitsweg verantwortlich sind, sollten Sie ^abBridge Brücken^ae
+			bzw. ^abTunnel Tunnel^ae bauen, um die Arbeitswege zu verkürzen.
+			";
 		}
 	]
 }
