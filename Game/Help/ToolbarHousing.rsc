@@ -12,7 +12,16 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIHousing ^s Behausungen ^f1 ^jl ^vb THÊ HÔMÊS ÂND HÔÛSÎNG MÊNÛ ÂLLÔWS YÔÛ TÔ BÛÎLD HÔMÊS ÂND BÔÂRDÎNG HÔÛSÊS TÔ GÎVÊ THÊ TÔWNSFÔLK PLÂCÊS TÔ LÎVÊ. ^jc ^dUIToolbarHousing ^jl ^vc ^lb ^lb ^lo ^dUIWoodHouse ^s ^abWÔÔDHÔÛSÊ WÔÔDÊN HÔÛSÊ:^ae BÛÎLD Â WÔÔDÊN HÔÛSÊ FÔR CÎTÎZÊNS TÔ LÎVÊ ÎN. ^lo ^dUIStoneHouse ^s ^abSTÔNÊHÔÛSÊ STÔNÊ HÔÛSÊ:^ae BÛÎLD Â STÔNÊ HÔÛSÊ FÔR CÎTÎZÊNS TÔ LÎVÊ ÎN. ^lo ^dUIBoardingHouse ^s ^abBÔÂRDÎNGHÔÛSÊ BÔÂRDÎNG HÔÛSÊ:^ae BÛÎLD Â LÂRGÊ HÔÛSÊ FÔR NÔMÂDS ÂND THÊ HÔMÊLÊSS. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUIHousing ^s Behausungen ^f1 ^jl ^vb
+			Im Menü 'Behausungen' können verschiedene Wohnstätten für den Bau ausgewählt werden, um für zusätzlichen
+			Wohnraum für die Bevölkerung zu sorgen.
+			^jc ^dUIToolbarHousing ^jl ^vc ^lb
+			^lb
+			^lo ^dUIWoodHouse ^s ^abWoodHouse Holzhaus:^ae Ein Holzhaus für Ihre Siedler bauen.
+			^lo ^dUIStoneHouse ^s ^abStoneHouse Steinhaus:^ae Ein Steinhaus für Ihre Siedler bauen.
+			^lo ^dUIBoardingHouse ^s ^abBoardingHouse Notunterkunft:^ae Eine große Unterkunft für Obdachlose und
+			Nomaden bauen.
+			^le ^le ";
 		}
 	]
 }

@@ -12,7 +12,42 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleWoodHouse ^mc ^f3 ^jl ^dUIHousing ^i0ArrowRight ^dUIWoodHouse ^s Holzhaus ^f1 ^n ^i0Log X16 ^i0Stone X8 ^me ^f1 ^c0 ^jl ^vb Â HÔÛSÊ ÎS WHÊRÊ THÊ RÊSÎDÊNTS ÔF YÔÛR TÔWN LÎVÊ. THÊ HÔÛSÊ PRÔVÎDÊS THÊ ÔCCÛPÂNTS WÎTH WÂRMTH ÂND SHÊLTÊR, Â PLÂCÊ TÔ RÂÎSÊ Â FÂMÎLY, ÂND Â PLÂCÊ TÔ STÔRÊ GÔÔDS THÂT THÊY ÛSÊ. WÔÔDÊN HÔMÊS ÂRÊ ÊÂSY TÔ BÛÎLD BÛT ÛSÊ MÔRÊ FÛÊL TÔ HÊÂT THÂN ^abSTÔNÊHÔÛSÊ STÔNÊ HÔÛSÊS.^ae ^p Â FÂMÎLY WÎLL STÔCK THÊÎR HÔMÊ WÎTH FÔÔD ÂND FÛÊL TÔ KÊÊP THÊMSÊLVÊS WÊLL FÊD ÂND WÂRM. ÂS THÊ FÂMÎLY GRÔWS, CHÎLDRÊN THÂT RÊÂCH ÂDÛLT ÂGÊ WÎLL STÂRT LÔÔKÎNG FÔR THÊÎR ÔWN HÔMÊ ÂND Â SPÔÛSÊ. ÛNLÊSS ÊMPTY HÔMÊS ÂRÊ ÂVÂÎLÂBLÊ, THÊY WÎLL CÔNTÎNÛÊ TÔ LÎVÊ WÎTH THÊÎR PÂRÊNTS. ^p WHÊN THÊRÊ ÎS NÔ FÛÊL TÔ HÊÂT Â HÔMÊ, ÔR NÔ FÔÔD FÔR THÊ ÔCCÛPÂNTS TÔ ÊÂT, STÂTÛS ÎCÔNS WÎLL ÂPPÊÂR ÂBÔVÊ THÊ HÔMÊ. ^lb ^lb ^vc ^lo ^i2BuildingNoFood ^s THÊRÊ ÎS NÔ FÔÔD ÎN THÊ HÔMÊ. ^lo ^i2BuildingNoFuel ^s THÊRÊ ÎS NÔ FÛÊL ÎN THÊ HÔMÊ FÔR HÊÂTÎNG. ^le ^le ^vb WHÊN ÊÎTHÊR ÎCÔN ÂPPÊÂRS, YÔÛ SHÔÛLD FÔCÛS ÔN PRÔDÛCÎNG MÔRÊ FÔÔD ÔR FÛÊL ÂS STÂRVÂTÎÔN ÂND FRÊÊZÎNG MÂY ÔCCÛR. ^n ^mb ^mc ^dDialogWoodHouse ^ml375 ^mc CLÎCKÎNG Â WÔÔDÊN HÔÛSÊ WÎLL DÎSPLÂY THÊ ÔCCÛPÂNTS THÂT LÎVÊ ÎN THÊ HÔÛSÊ, THÊÎR GÊNDÊR, ÂGÊ, ÂND PRÔFÊSSÎÔN. ^p PRÊSSÎNG THÊ ÛPGRÂDÊ ^dDialogWoodHouseUpgrade BÛTTÔN WÎLL CÂÛSÊ THÊ BÛÎLDÎNG TÔ BÊ TÔRN DÔWN ÂND Â ^abSTÔNÊHÔÛSÊ STÔNÊ HÔÛSÊ^ae TÔ BÊ BÛÎLT ÎN ÎTS PLÂCÊ. ^ml0 ^me ^vc PRÊSSÎNG ÔNÊ ÔF THÊ FÔCÛS ^dDialogWoodHouseRow ^s BÛTTÔNS WÎLL MÔVÊ THÊ VÎÊW TÔ THÊ SÊLÊCTÊD ^abCÎTÎZÊN CÎTÎZÊN^ae ÂND SHÔW THÊÎR DÊTÂÎLS. ^p ^mb ^mc ^dDialogWoodHouseInv ^ml375 ^mc PRÊSSÎNG THÊ ^dDialogInventory BÛTTÔN WÎLL DÎSPLÂY WHÂT ÎS STÔRÊD ÎN THÊ HÔMÊ, WHÎCH CÔNSÎSTS ÔF FÔÔD TÔ ÊÂT ÂND FÛÊL TÔ HÊÂT THÊ HÔMÊ. ^ml0 ^me ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleWoodHouse ^mc ^f3
+			^jl ^dUIHousing ^i0ArrowRight ^dUIWoodHouse ^s
+			Holzhaus
+			^f1 ^n ^i0Log X16 ^i0Stone X8 ^me ^f1 ^c0 ^jl ^vb
+			Die Siedler Ihrer Stadt leben in Häusern. Häuser bieten Unterkunft, einen warmen Ort zum Aufwärmen im
+			Winter und Platz, um eine Familie zu gründen. Darüberhinaus lagern Siedler alle ständig benötigten
+			Güter in ihren Häusern. Holzhäuser sind schnell und kostengünstig errichtet,
+			benötigen bei Kälte allerdings mehr Brennmaterial zum Heizen als ^abStoneHouse Steinhäuser.^ae
+			^p
+            Familien lagern in ihren Häusern Nahrung und Brennholz, um sich warm und satt zu halten. Wenn die Kinder einer
+            Familie heranwachsen, suchen sie sich einen Partner und ein eigenes Haus, um eigene Familien zu gründen.
+            Wenn keine freien Häuser verfügbar sind, bleiben sie bei ihren Familien.
+			^p
+			Wenn in einer Behausung nicht genügend Brennmaterial zum Heizen zu Verfügung steht oder für die Bewohner nicht
+			genügend Nahrung vorhanden ist, werden folgende Statussymbole über dem Haus angezeigt:
+			^lb ^lb ^vc
+			^lo ^i2BuildingNoFood ^s Es ist nicht genügend Nahrung im Haus.
+			^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen des Hauses vorhanden.
+			^le ^le ^vb
+			Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich schnell darauf zu konzentrieren,
+			die fehlenden Ressourcen zu produzieren, da die Bewohner des Hauses sonst erfrieren bzw. verhungern.
+			^n ^mb ^mc ^dDialogWoodHouse ^ml375 ^mc
+			Über einen Linksklick auf ein Holzhaus werden in einem Detailfenster die Bewohner des Hauses inklusive
+			Geschlecht, Alter und Beruf angezeigt.
+			^p
+			Mit einem Klick auf den Aufwerten-Button ^dDialogWoodHouseUpgrade kann das Holzhaus zu einem
+			^abStoneHouse Steinhaus^ae aufgewertet werden. Hierbei wird das Gebäude zunächst abgerissen und als Steinhaus
+			neu aufgebaut, wobei allerdings einige Ressourcen des alten Hauses weiterverwendet werden.
+			^ml0 ^me ^vc
+			Mit den Ansicht-Buttons ^dDialogWoodHouseRow ^s können Sie die Kamera zum ausgewählten
+			^abCitizen Hausbewohner^ae bewegen und sich Details zum Siedler anzeigen lassen.
+			^p
+			^mb ^mc ^dDialogWoodHouseInv ^ml375 ^mc
+			Durch Klick auf den Lager-Button ^dDialogInventory können Sie einsehen, welche Güter im Haus gelagert werden.
+			Dadurch erhalten Sie einen Überblick, wie viel Nahrung und Brennmaterial im Haus gelagert sind.
+			^ml0 ^me ";
 		}
 	]
 }

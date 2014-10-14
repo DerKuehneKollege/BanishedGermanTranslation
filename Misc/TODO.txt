@@ -37,7 +37,7 @@ Hilfe (Raw translation):
     [x] GotoTownHall Zensusdaten
     [x] Help Hilfe
 
-[ ] ToolbarHousing Behausungen und Unterkünfte
+[x] ToolbarHousing Behausungen und Unterkünfte
     [ ] WoodHouse Holzhäuser
     [ ] StoneHouse Steinhäuser
     [ ] BoardingHouse Notunterkünfte

@@ -12,7 +12,40 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBoardingHouse ^mc ^f3 ^jl ^c0 ^dUIHousing ^i0ArrowRight ^dUIBoardingHouse ^s Notunterkunft ^c0 ^f1 ^n ^i0Log X100 ^i0Stone X45 ^me ^f1 ^c0 ^jl ^vb Â BÔÂRDÎNG HÔÛSÊ ÎS MÊÂNT FÔR TÊMPÔRÂRY HÔÛSÎNG. ÂFTÊR Â ^abDÎSÂSTÊR DÎSÂSTÊR^ae ÔCCÛRS, ÔR WHÊN NÔMÂDS ÂRRÎVÊ ÎN THÊ TÔWN, YÔÛ MÂY NÊÊD Â PLÂCÊ FÔR THÊ DÎSPLÂCÊD PÊÔPLÊ TÔ LÎVÊ ÛNTÎL YÔÛ CÂN BÛÎLD MÔRÊ HÔÛSÊS ÔR RÊPÂÎR DÂMÂGÊD ÔNÊS. ^p BÔÂRDÎNG HÔÛSÊS WÔRK ÎN THÊ SÂMÊ WÂY ÂS ^abWÔÔDHÔÛSÊ WÔÔD HÔÛSÊS^ae ÂND ^abSTÔNÊHÔÛSÊ STÔNÊ HÔÛSÊS,^ae ÊXCÊPT THÊY CÂN HÔÛSÊ FÎVÊ FÂMÎLÎÊS ÂT Â TÎMÊ. ^p CÎTÎZÊNS WÎLL LÎVÊ ÎN Â BÔÂRDÎNG HÔÛSÊ ÎF ÎT'S THÊ ÔNLY PLÂCÊ THÊY CÂN FÎND SHÊLTÊR. ÔTHÊRWÎSÊ THÊY PRÊFÊR TÔ HÂVÊ THÊÎR ÔWN HÔMÊ, ÂS ÎT MÂKÊS THÊM HÂPPÎÊR. YÔÛNG PÊÔPLÊ RÊÂDY TÔ MÔVÊ ÔÛT ÔF THÊÎR PÂRÊNTS HÔÛSÊ WÔN'T MÔVÊ ÎNTÔ Â BÔÂRDÎNG HÔÛSÊ. ^p WHÊN THÊRÊ ÎS NÔ FÛÊL TÔ HÊÂT Â BÔÂRDÎNG HÔÛSÊ, ÔR NÔ FÔÔD FÔR THÊ ÔCCÛPÂNTS TÔ ÊÂT, STÂTÛS ÎCÔNS WÎLL ÂPPÊÂR ÂBÔVÊ THÊ BÔÂRDÎNG HÔÛSÊ. ^lb ^lb ^vc ^lo ^i2BuildingNoFood THÊRÊ ÎS NÔ FÔÔD ÎN THÊ BÔÂRDÎNG HÔÛSÊ. ^lo ^i2BuildingNoFuel THÊRÊ ÎS NÔ FÛÊL ÎN THÊ BÔÂRDÎNG HÔÛSÊ FÔR HÊÂTÎNG. ^le ^le ^vb ^n WHÊN ÊÎTHÊR ÎCÔN ÂPPÊÂRS, YÔÛ SHÔÛLD FÔCÛS ÔN PRÔDÛCÎNG MÔRÊ FÔÔD ÔR FÛÊL ÂS STÂRVÂTÎÔN ÂND FRÊÊZÎNG TÔ DÊÂTH MÂY ÔCCÛR. ^p ^mb ^mc ^jl ^dDialogBoardingHouse ^ml372 ^mc CLÎCKÎNG ÔN Â BÔÂRDÎNG HÔÛSÊ WÎLL SHÔW ÂLL ÔCCÛPÂNTS ÂND ÎNVÊNTÔRY. ^p PRÊSSÎNG ÔNÊ ÔF THÊ FÔCÛS ^dDialogWoodHouseRow ^s BÛTTÔNS WÎLL MÔVÊ THÊ VÎÊW TÔ THÊ SÊLÊCTÊD ^abCÎTÎZÊN CÎTÎZÊN^ae ÂND SHÔW THÊÎR DÊTÂÎLS. ^me ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBoardingHouse ^mc ^f3 ^jl
+			^c0 ^dUIHousing ^i0ArrowRight ^dUIBoardingHouse ^s
+			Notunterkunft
+			^c0 ^f1 ^n ^i0Log X100 ^i0Stone X45 ^me ^f1 ^c0 ^jl ^vb
+			Notunterkünfte sind als vorübergehende Wohnstätten gedacht. Wenn es in Ihrer Stadt zu
+			^abDisaster Naturkatastrophen^ae kommt oder wenn Nomaden in ihrer Stadt eintreffen, kann es passieren, dass
+			Sie sehr schnell Wohnraum für obdachlose Siedler bzw. Nomaden benötigen. Hier bietet sich die
+			Notunterkunft als temporäre Lösung an, bis Sie neue Häuser gebaut haben oder beschädigte Häuser repariert
+			wurden.
+			^p
+			Notunterkünfte funktionieren genauso wie ^abWoodHouse Holzhäuser^ae und ^abStoneHouse Steinhäuser^ae, können
+			allerdings gleichzeitig bis zu fünf Familien beherbergen.
+			^p
+            Siedler werden nur in eine Notunterkunft ziehen, wenn nirgendwo anders Platz ist. Ansonsten bevorzugen sie
+            ihre eigenen Häuser, da sie dort zufriedener sind. Junge Erwachsene, die von ihrer Familie in ein neues
+            Haus umziehen wollen, werden nicht in eine Notunterkunft umziehen.
+			^p
+			Wenn in einer Notunterkunft nicht genügend Brennmaterial zum Heizen zu Verfügung steht
+			oder für die Bewohner nicht genügend Nahrung vorhanden ist, werden folgende Statussymbole über dem Gebäude
+			angezeigt:
+            ^lb ^lb ^vc
+            ^lo ^i2BuildingNoFood ^s Es steht nicht genügend Nahrung zur Verfügung.
+            ^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen der Unterkunft vorhanden.
+            ^le ^le ^vb
+            Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich schnell darauf zu konzentrieren,
+            die fehlenden Ressourcen zu produzieren, da die Bewohner der Unterkunft sonst erfrieren bzw. verhungern.
+			^p
+			^mb ^mc ^jl ^dDialogBoardingHouse ^ml372 ^mc
+			Über einen Linksklick auf eine Notunterkunft werden in einem Detailfenster die Bewohner des Hauses inklusive
+            Geschlecht, Alter und Beruf angezeigt.
+			^p
+			Mit den Ansicht-Buttons ^dDialogWoodHouseRow können Sie die Kamera zum ausgewählten
+            ^abCitizen Bewohner^ae bewegen und sich Details über ihn anzeigen lassen.
+            ^ml0 ^me ^vc";
 		}
 	]
 }
