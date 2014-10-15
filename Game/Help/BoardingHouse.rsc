@@ -15,7 +15,7 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBoardingHouse ^mc ^f3 ^jl
 			^c0 ^dUIHousing ^i0ArrowRight ^dUIBoardingHouse ^s
 			Notunterkunft
-			^c0 ^f1 ^n ^i0Log X100 ^i0Stone X45 ^me ^f1 ^c0 ^jl ^vb
+			^c0 ^f1 ^n ^i0Log x100 ^i0Stone x45 ^me ^f1 ^c0 ^jl ^vb
 			Notunterkünfte sind als vorübergehende Wohnstätten gedacht. Wenn es in Ihrer Stadt zu
 			^abDisaster Naturkatastrophen^ae kommt oder wenn Nomaden in ihrer Stadt eintreffen, kann es passieren, dass
 			Sie sehr schnell Wohnraum für obdachlose Siedler bzw. Nomaden benötigen. Hier bietet sich die

@@ -12,7 +12,16 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleDirtRoad ^mc ^f3 ^jl ^c0 ^dUIRoads ^i0ArrowRight ^dUIDirtRoad ^s Feldwege ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb DÎRT RÔÂDS CÂN BÊ PLÂCÊD TÔ ÎNCRÊÂSÊ THÊ SPÊÊD THÂT CÎTÎZÊNS WÂLK WHÊN THÊY ÂRÊ MÔVÎNG FRÔM PLÂCÊ TÔ PLÂCÊ. ^abSTÔNÊRÔÂD STÔNÊ RÔÂDS^ae CÂN BÊ BÛÎLT FÔR ÊVÊN FÂSTÊR WÂLKÎNG SPÊÊDS, BÛT CÔMÊ ÂT MÛCH HÎGHÊR ÊXPÊNSÊ. ^p RÔÂDS RÊQÛÎRÊ ^i0ProfessionBuilder ^abPRÔFÊSSÎÔN BÛÎLDÊRS^ae TÔ BÊ ÂVÂÎLÂBLÊ BÊFÔRÊ THÊY CÂN BÊ CÔNSTRÛCTÊD. ÂFTÊR PLÂCÎNG RÔÂDS, THÊ BÛÎLDÊRS WÎLL WÔRK ÔN ÊÂCH SÊCTÎÔN ÔF RÔÂD, RÊMÔVÎNG RÔCKS, ÎRÔN ÔRÊ, ÂND TRÊÊS THÂT ÂRÊ ÎN THÊ WÂY, ÂND PÂVÎNG THÊ PÂTH FÔR CÎTÎZÊNS TÔ WÂLK ÔN. ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleDirtRoad ^mc ^f3 ^jl ^c0
+			^dUIRoads ^i0ArrowRight ^dUIDirtRoad ^s Feldwege ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb
+			Feldwege können platziert werden, um Siedlern eine schnellere Fortbewegung zwischen zwei Orten zu
+			ermöglichen. ^abStoneRoad Gepflasterte Straßen^ae ermöglichen eine noch schnellere Bewegung, benötigen aber
+			eine große Menge Stein für den Bau.
+			^p
+			Straßen werden von ^i0ProfessionBuilder ^abProfession Bauarbeitern^ae errichtet. Nach der Platzierung werden
+			die Wege Stück für Stück errichtet, wobei zunächst im Weg liegende Bäume, sowie Stein- und
+			Eisenvorkommen weggeräumt werden.
+			";
 		}
 	]
 }

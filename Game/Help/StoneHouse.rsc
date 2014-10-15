@@ -14,7 +14,7 @@ StringTable resource
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleStoneHouse ^mc ^f3 ^jl ^c0 ^dUIHousing ^i0ArrowRight ^dUIStoneHouse ^s
 			Steinhaus
-			^c0 ^f1 ^n ^i0Log X24 ^i0Stone X40 ^i0Iron X10 ^me ^f1 ^c0 ^jl ^vb
+			^c0 ^f1 ^n ^i0Log x24 ^i0Stone x40 ^i0Iron x10 ^me ^f1 ^c0 ^jl ^vb
 			Steinhäuser haben in Banished die selbe Funktion wie ^abWoodHouse Holzhäuser^ae. Häuser bieten Unterkunft,
 			einen warmen Ort zum Aufwärmen im Winter und Platz, um eine Familie zu gründen. Darüberhinaus lagern Siedler
 			alle ständig benötigten Güter in ihren Häusern. Allerdings benötigen Steinhäuser beim Bau mehr Ressourcen,

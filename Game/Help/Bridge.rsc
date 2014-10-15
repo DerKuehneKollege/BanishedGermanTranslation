@@ -12,7 +12,20 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBridge ^mc ^f3 ^jl ^c0 ^dUIRoads ^i0ArrowRight ^dUIBridge ^s Holzbrücke ^c0 ^f1 ^n ^i0Log X4 ^i0Stone X1 (PÊR ÛNÎT ÔF LÊNGTH) ^me ^f1 ^c0 ^jl ^vb Â WÔÔDÊN BRÎDGÊ ÎS ÛSÊD TÔ CRÔSS RÎVÊRS, STRÊÂMS, ÂND LÂKÊS. WÎTHÔÛT THÊM, CÎTÎZÊNS WÔN'T CRÔSS THÊ WÂTÊR. ^p THÊ LÔNGÊR Â BRÎDGÊ ÎS, THÊ MÔRÊ ÊXPÊNSÎVÊ ÎT ÎS TÔ BÛÎLD. WÔÔDÊN BRÎDGÊS GÎVÊ THÊ SÂMÊ WÂLKÎNG SPÊÊD ÎNCRÊÂSÊ ÂS ^abDÎRTRÔÂD DÎRT RÔÂDS.^ae ^p ^mb ^mc ^dDialogWoodenBridge ^ml308 ^mc CLÎCKÎNG ÔN Â WÔÔDÊN BRÎDGÊ WÎLL SHÔW ÎTS DÊTÂÎLS, HÔWÊVÊR ÎT HÂS NÔ ÊDÎTÂBLÊ PRÔPÊRTÎÊS ÎN ÎTS NÔRMÂL STÂTÊ. ÔNLY WHÊN THÊ BRÎDGÊ ÎS BÊÎNG ^abBÛÎLDÎNGS BÛÎLT^ae ÔR ^abRÊMÔVÊSTRÛCTÛRÊ DÊSTRÔYÊD^ae CÂN YÔÛ ÎNTÊRÂCT WÎTH ÎT. ^me ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBridge ^mc ^f3 ^jl ^c0
+			^dUIRoads ^i0ArrowRight ^dUIBridge ^s Holzbrücke ^c0 ^f1 ^n
+			^i0Log x4 ^i0Stone x1 (pro Längeneinheit) ^me ^f1 ^c0 ^jl ^vb
+			Eine Holzbrücke ermöglicht den Siedlern die Überquerung von Flüssen, Bächen und kleinen Seen. Siedler können
+			nicht schwimmen und daher ohne Brücke Wasser nicht überqueren.
+			^p
+			Je länger die Brücke ist, desto teurer ist sie beim Bau. Auf Holzbrücken haben Siedler die selbe
+			Laufgeschwindigkeit wie auf ^abDirtRoad Feldwegen.^ae
+			^p
+			^mb ^mc ^dDialogWoodenBridge ^ml308 ^mc
+			Wenn Sie auf eine Holzbrücke klicken, wird ein Detailfenster eingeblendet, welches jedoch ohne Inhalt ist,
+			da an Brücken nichts eingestellt werden kann. Nur während der ^abBuildings Errichtung^ae oder beim
+			^abRemoveStructure Abriss^ae der Brücke wird im Detailfenster der aktuelle Fortschritt angezeigt.
+			^me ";
 		}
 	]
 }

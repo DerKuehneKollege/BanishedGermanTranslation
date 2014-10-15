@@ -15,7 +15,7 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleWoodHouse ^mc ^f3
 			^jl ^dUIHousing ^i0ArrowRight ^dUIWoodHouse ^s
 			Holzhaus
-			^f1 ^n ^i0Log X16 ^i0Stone X8 ^me ^f1 ^c0 ^jl ^vb
+			^f1 ^n ^i0Log x16 ^i0Stone  x8 ^me ^f1 ^c0 ^jl ^vb
 			Die Siedler Ihrer Stadt leben in Häusern. Häuser bieten Unterkunft, einen warmen Ort zum Aufwärmen im
 			Winter und Platz, um eine Familie zu gründen. Darüberhinaus lagern Siedler alle ständig benötigten
 			Güter in ihren Häusern. Holzhäuser sind schnell und kostengünstig errichtet,
