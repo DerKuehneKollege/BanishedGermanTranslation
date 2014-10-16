@@ -12,7 +12,88 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTradingPost ^mc ^f3 ^jl ^c0 ^dUIStorage ^i0ArrowRight ^dUITradingPost ^s Handelsposten ^c0 ^f1 ^n ^i0Log X82 ^i0Stone X80 ^i0Iron X40 ^me ^f1 ^c0 ^jl ^vb ^vc Â TRÂDÎNG PÔST ÎS ÛSÊD TÔ BÛY ÎTÊMS THÂT THÊ TÔWN NÊÊDS, ÎN ÊXCHÂNGÊ FÔR RÊSÔÛRCÊS PRÔDÛCÊD BY THÊ TÔWN. ^p Â TRÂDÎNG PÔST NÊÊDS TÔ BÊ BÛÎLT ÔN Â RÎVÊR ÔR LÂKÊ. SÎNCÊ ÂLL MÊRCHÂNTS ÂRRÎVÊ BY BÔÂT, TRÂDÎNG PÔSTS BÛÎLT ÔN Â LÂKÊ WÎTHÔÛT ÂCCÊSS TÔ THÊ MÂÎN RÎVÊR THÂT FLÔWS THRÔÛGH TÔWN WÔN'T ÊVÊR RÊCÊÎVÊ MÊRCHÂNTS. ^p THÊ TRÂDÎNG PÔST ÎS THÊ ÔNLY WÂY TÔ ÂCQÛÎRÊ NÊÊD CRÔP SÊÊDS, ÔRCHÂRD SÊÊDS, ÂND LÎVÊSTÔCK. ^p ÔNCÊ Â TRÂDÎNG PÔST ÎS BÛÎLT, CLÎCKÎNG ÔN ÎT WÎLL SHÔW THÊ BÛÎLDÎNGS ÎNVÊNTÔRY. ^p ^jc ^dDialogTrade1 ^jl BÊFÔRÊ YÔÛ CÂN MÂKÊ TRÂDÊS, FÎRST YÔÛ HÂVÊ TÔ STÔCK THÊ TRÂDÎNG PÔST WÎTH ÎNVÊNTÔRY. ^p SÊTTÎNG THÊ DÊSÎRÊD NÛMBÊR ÔF ÎTÊMS FÔR SÔMÊ ÎNVÊNTÔRY ÎTÊM WÎLL CÂÛSÊ ^i0ProfessionTrader ^s ^abPRÔFÊSSÎÔN TRÂDÊRS^ae TÔ STÂRT MÔVÎNG ÎNVÊNTÔRY FRÔM ^abSTÔCKPÎLÊ STÔCK PÎLÊS^ae ÂND ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRNS^ae ÎNTÔ THÊ TRÂDÎNG PÔST. ÂS LÔNG ÂS THÊ ÂCTÛÂL ÎNVÊNTÔRY ÎS LÊSS THÂN DÊSÎRÊD THÊ CÔÛNT, THÊ WÔRKÊRS WÎLL CÔNTÎNÛÊ TÔ TÂKÊ ÎNVÊNTÔRY FRÔM THÊ TÔWN. ^p ÎF THÊ DÊSÎRÊD CÔÛNT ÎS LÊSS THÂN THÊ ÂCTÛÂL ÎNVÊNTÔRY CÔÛNT, THÊ TRÂDÊRS WÎLL RÊMÔVÊ ÎNVÊNTÔRY FRÔM THÊ TRÂDÎNG PÔST, ÂND PÛT ÎT ÎN THÊ CLÔSÊST TÔWN STÔRÂGÊ. ^p YÔÛ CÂN ÊNÂBLÊ ÂND DÎSÂBLÊ WÔRK ÂT THÊ TRÂDÎNG PÔST BY TÔGGLÎNG THÊ ^dDialogTradeWork BÛTTÔN. TRÂDÊRS WÔN'T MÔVÊ ÎNVÊNTÔRY ÎF WÔRK ÎS DÎSÂBLÊD. ^p ^jc ^dDialogTrade2 ^jl ÂFTÊR ÊNÔÛGH ÎNVÊNTÔRY HÂS BÊÊN PÛT ÎN THÊ TRÂDÎNG PÔST ÂND Â MÊRCHÂNT ÂRRÎVÊS, YÔÛ CÂN TRÂDÊ WÎTH THÊ MÊRCHÂNT BY PRÊSSÎNG THÊ ^dDialogTradeTrade^s BÛTTÔN. ^p ÔN THÊ LÊFT, THÊ GÔÔDS THÂT THÊ MÊRCHÂNTS HÂS FÔR SÂLÊ ÂRÊ DÎSPLÂYÊD. ÔN THÊ RÎGHT, THÊ ÎNVÊNTÔRY STÔRÊD ÎN THÊ TRÂDÎNG PÔST ÎS DÎSPLÂYÊD. ^p TÔ MÂKÊ Â TRÂDÊ, DÊTÊRMÎNÊ THÊ NÛMBÊR ÔF ÎTÊMS YÔÛ WÎSH TÔ BÛY ÔN THÊ LÊFT, ÂND SÊLÊCT THÊ NÛMBÊR ÔF ÎTÊMS TÔ TRÂDÊ ÔN THÊ RÎGHT ÛNTÎL THÊ TÔTÂL VÂLÛÊ ÔF WHÂT ÎS BÊÎNG BÔÛGHT ÂND SÔLD MÂTCHÊS ÔR ÊXCÊÊDS THÊ TÔTÂL CÔST ÔF THÊ GÔÔDS. ^p PRÊSSÎNG THÊ ^dDialogTradeButton ^s BÛTTÔN WÎLL MÂKÊ THÊ TRÂDÊ. PRÊSSÎNG THÊ ^dDialogTradeDismiss ^s BÛTTÔN WÎLL SÊND THÊ MÊRCHÂNT ÂWÂY. ^p ^jc ^dDialogTrade3 ^jl ÎF YÔÛ FÎND YÔÛRSÊLF ÂLWÂYS BÛYÎNG THÊ SÂMÊ THÎNGS, YÔÛ CÂN SÊTÛP ÂÛTÔMÂTÎC PÛRCHÂSÊS. THÊ TRÂDÊRS WÔRKÎNG ÂT THÊ TRÂDÎNG PÔST CÂN MÂKÊ TRÂDÊS FÔR YÔÛ. CLÎCKÎNG ÔN THÊ ^dDialogTradePurchase ^s BÛTTÔN WÎLL LÊT YÔÛ SÊTÛP ÂÛTÔMÂTÎC PÛRCHÂSÊS. ^p YÔÛ CÂN SÊT THÊ ÂÛTÔ PÛRCHÂSÊ MÔDÊ TÔ NÊVÊR ÔCCÛR, ÔCCÛR WHÊN Â MÊRCHÂNT ÂRRÎVÊS, ÔR ÔCCÛR JÛST BÊFÔRÊ THÊ MÊRCHÂNT LÊÂVÊS. ^p ÎN ÊÂCH CÂTÊGÔRY ÔF RÊSÔÛRCÊ, YÔÛ CÂN SÊT THÊ NÛMBÊR ÔF ÎTÊMS TÔ PÛRCHÂSÊ. WHÊN Â MÊRCHÂNT ÂRRÎVÊS, THÊ TRÂDÊ WÔRKÊRS WÎLL MÂKÊ TRÂDÊS FÔR YÔÛ ÂS LÔNG ÂS THÊRÊ ÎS ÊNÔÛGH ÎNVÊNTÔRY ÎN THÊ TRÂDÎNG PÔST TÔ CÔVÊR THÊ CÔST. ^p YÔÛ CÂN SÊT WHÎCH ÎTÊMS ÂRÊ BÔÛGHT FÎRST BY ÛSÎNG THÊ ÛP ÂND DÔWN ÂRRÔWS ÔN THÊ LÊFT TÔ CHÂNGÊ THÊ ÔRDÊR ÔF THÊ ÂÛTÔMÂTÎC PÛRCHÂSÊ. ^p ^jc ^dDialogTrade4 ^jl NÔRMÂLLY MÊRCHÂNTS WÎLL BRÎNG Â RÂNDÔM ÂSSÔRTMÊNT ÔF GÔÔDS TÔ THÊ TRÂDÎNG PÔST. ÎF YÔÛ WÂNT THÊM TÔ BRÎNG Â SPÊCÎFÎC ÎTÊM, YÔÛ CÂN ÔRDÊR THÊM ÛSÎNG THÊ ^dDialogTradeOrder ^s TÂB. ^p YÔÛ CÂN SÊT THÊ CÛSTÔM ÔRDÊR MÔDÊ TÔ NÊVÊR ÔCCÛR, ÔCCÛR JÛST ÔNCÊ - THÊ NÊXT TÎMÊ THÊ MÊRCHÂNT ÂRRÎVÊS, ÔR ÔCCÛR ÊVÊRY TÎMÊ THÊ MÊRCHÂNT CÔMÊS. ^p ÂNYTHÎNG THÊ MÊRCHÂNT SÊLLS WÎLL BÊ LÎSTÊD. CLÎCKÎNG ÔN ÔNÊ ÔF THÊM WÎLL HÎGHLÎGHT THÊ ÎTÊM ÂND ÔRDÊR ÎT. THÊ NÊXT TÎMÊ THÊ MÊRCHÂNT ÂRRÎVÊS, THÊY WÎLL BRÎNG YÔÛR ÔRDÊR. CLÎCKÎNG ÔN THÊ ÎTÊM ÂGÂÎN WÎLL RÊMÔVÊ ÎT FRÔM YÔÛR ÔRDÊR. ^p ÎF YÔÛ ÔRDÊR TÔÔ MÂNY ÎTÊMS, THÊ MÊRCHÂNT MÂY ÔNLY BRÎNG SÔMÊ ÔF THÊM. ^p ÎTÊMS PÛRCHÂSÊD ÎN Â CÛSTÔM ÔRDÊR WÎLL CÔST MÔRÊ THÂN ÎF THÊ MÊRCHÂNT WÊRÊ TÔ BRÎNG THÊ ÎTÊMS WÎTHÔÛT ÂN ÔRDÊR. ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTradingPost ^mc ^f3 ^jl ^c0
+			^dUIStorage ^i0ArrowRight ^dUITradingPost ^s Handelsposten ^c0 ^f1 ^n
+			^i0Log x82 ^i0Stone x80 ^i0Iron x40 ^me ^f1 ^c0 ^jl ^vb ^vc
+			An einem Handelsposten können mit fahrenden Händlern in der Stadt benötigte Güter gegen in der Stadt
+			produzierte Güter getauscht werden.
+			^p
+		    Handelsposten müssen an Flüssen oder Seen gebaut werden, da die fahrenden Händler per Boot anreisen.
+		    In Banished ist jede Karte von einem großen Fluss durchzogen, über welchen die Händler eintreffen. Es ist
+            wichtig, dass Handelsposten direkt an diesem Fluss gebaut werden bzw. an einem Gewässer, welches mit dem
+            großen Fluss verbunden ist, da die Händler sonst den Handelsposten nicht erreichen können.
+			^p
+			Der Handelsposten ist die einzige Möglichkeit, an Samen von Kulturpflanzen und Obstbäumen, sowie an
+			Nutzvieh heranzukommen.
+			^p
+			Wenn Sie auf einen errichteten Handelsposten klicken, werden im Detailfenster die dort gelagerten Güter
+			angezeigt.
+			^p
+			^jc ^dDialogTrade1 ^jl
+			Bevor gehandelt werden kann, muss zunächst der Handelsposten mit Ressourcen aufgefüllt werden.
+			^p
+			Sobald die gewünschte Anzahl zu lagernder Ressourcen eingestellt wurde, holen die am Handelsposten
+			arbeitenden ^i0ProfessionTrader ^abProfession Händler^ae die entsprechenden Ressourcen vom
+			^abStockPile Lagerplatz^ae bzw. aus dem ^abStorageBarn Lagerhaus^ae ab. Die Händler können nur begrenzt
+			Rohstoffe mit sich führen, die Arbeit wird solange fortgesetzt, bis die eingestellte Anzahl Güter komplett
+			im Handelsposten eingetroffen ist.
+			^p
+			Wenn die Anzahl zu lagernder Ressourcen herabgesetzt wird, räumen die Händler die entsprechenden Ressourcen
+			aus dem Handelsposten aus und bringen sie zurück in die nächstgelegenen Lagerstätten.
+			^p
+			Sie können die Arbeit am Handelsposten mit dem Button ^dDialogTradeWork einstellen oder wiederaufnehmen
+			lassen. Bei Deaktivierung des Handelsposten halten die Händler den Warentransport an.
+			^p
+			^jc ^dDialogTrade2 ^jl
+			Sobald im Handelsposten genügend Güter zur Verfügung stehen und ein fahrender Händler eintrifft, kann
+			der Handel beginnen, indem Sie auf den Button ^dDialogTradeTrade klicken.
+			^p
+			Auf der linken Seite des Fensters sind die Güter, die der fahrende Händler verkauft aufgelistet, während auf
+			der rechten Seite die im Handelsposten gelagerten Güter angezeigt werden.
+			^p
+			Um einen Handel zu vollziehen, wählen Sie zunächst auf der linken Seite die Güter aus, die Sie einkaufen
+			wollen und wählen anschließend auf der rechten Seite die Güter, gegen die getauscht werden soll aus. Sobald
+			sich der Verkaufswert mit dem Einkaufswert deckt, bzw. diesen übersteigt, kann mit dem Button
+			^dDialogTradeButton der Handel abgeschlossen werden.
+			^p
+			Mit dem Button ^dDialogTradeDismiss wird der Händler weggeschickt, ohne dass ein Handel
+			zustandekommt.
+			^p
+			^jc ^dDialogTrade3 ^jl
+			Wenn Sie immer dieselben Güter einkaufen, können Sie sich Arbeit sparen und einen automatischen Einkauf
+			einrichten. Am Handelsposten wird der Handel dann vollzogen, ohne dass sie etwas tun müssen. Wählen Sie dazu
+			die Kategorie ^dDialogTradePurchase .
+			^p
+			Dort können Sie einstellen, ob ein automatischer Einkauf stattfinden soll und wenn ja, ob er vollzogen werden
+			soll, wenn der Händler eintrifft oder kurz bevor der Händler wieder aufbricht.
+			^p
+			Für jede Ressourcenkategorie können Sie einstellen, wie viel Ressourceneinheiten erworben werden sollen.
+			Sobald der fahrende Händler eintrifft bzw. abreist, wird der eingestellte Handel durchgeführt -
+			vorausgesetzt es sind genügend Ressourcen zum Tauschen im Handelsposten verfügbar.
+			^p
+			Sie können mit den Auf- und Abwärtspfeil neben den Gütern eine Priorität einstellen, welche Güter im Zuge
+			des automatischen Einkaufs vorrangig behandelt bzw. zuerst eingekauft werden sollen.
+			^p
+			^jc ^dDialogTrade4 ^jl
+			Im Normalfall bieten fahrende Händler eine zufällige Auswahl verschiedener Güter an. Sie können den Händler
+			jedoch anweisen, bei seinem nächsten Besuch bestimmte Güter mitzubringen, indem Sie eine Bestellung aufgeben.
+			Dies können Sie über den Reiter ^dDialogTradeOrder .
+			^p
+			Im Dialogfenster kann nun zunächst eingestellt werden, ob überhaupt eine Bestellung aufgegeben werden soll
+			und wenn ja, ob die Bestellung nur für den nächsten Besuch des Händlers oder für alle folgenden Besuche
+			aufrecht erhalten werden soll.
+			^p
+			Darunter sind alle beim Händler bestellbaren Güter aufgezählt. Klicken Sie darauf, ist die
+			entsprechende Ressource markiert und wird der Bestellung hinzugefügt. Beim nächsten Besuch des Händlers
+			hat dieser dann die bestellten Güter dabei. Durch nochmaliges Klicken können Sie markierte Güter wieder
+			aus der Bestellung entfernen.
+			^p
+			Der Händler hat in seinem Boot nur begrenzt Platz. Wenn Sie zu viele verschiedene Artikel bestellen,
+			bringt der Händler nur eine Auswahl davon mit.
+			^p
+			Beachten Sie, das bestellte Güter beim Einkauf teurer sind, als Güter, die fahrende Händler zufällig
+			mitbringen.
+			";
 		}
 	]
 }

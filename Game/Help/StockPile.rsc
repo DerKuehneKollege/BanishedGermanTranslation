@@ -12,7 +12,28 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleStockPile ^mc ^f3 ^jl ^c0 ^dUIStorage ^i0ArrowRight ^dUIStockPile ^s Lagerplatz ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb Â STÔCK PÎLÊ ÎS ÛSÊD TÔ STÔRÊ LÂRGÊ SÎZÊD RÊSÔÛRCÊS PRÔDÛCÊD ÎN Â TÔWN. ÎT STÔRÊS ^i0LogSmall ^s LÔGS, ^i0StoneSmall ^s STÔNÊ, ^i0IronSmall ^s ÎRÔN, ^i0FirewoodSmall ^s FÎRÊWÔÔD, ÂND ^i0CoalSmall ^s CÔÂL. ^p ÎF Â ^abMÂRKÊT MÂRKÊT^ae ÎSN'T NÊÂRBY, CÎTÎZÊNS ÂND WÔRKÊRS WÎLL VÎSÎT THÊ CLÔSÊST STÔCK PÎLÊ TÔ THÊÎR HÔMÊ TÔ CÔLLÊCT THÊ GÔÔDS THÂT THÊY NÊÊD. ^p STÔCK PÎLÊS MÂXÎMÛM STÔRÂGÊ ÎS RÊLÂTÊD TÔ ÎTS SÎZÊ. YÔÛ CÂN PLÂCÊ STÔCK PÎLÊS ÂS LÂRGÊ ÔR SMÂLL ÂS YÔÛ LÎKÊ. ÂS Â TÔWN GRÔWS, ÎTS STÔRÂGÊ RÊQÛÎRÊMÊNTS WÎLL ÂLSÔ ÎNCRÊÂSÊ, RÊQÛÎRÎNG MÔRÊ STÔCK PÎLÊS. ^p THÊ CLÔSÊR STÔCK PÎLÊS ÂRÊ TÔ BÛÎLDÎNGS THÂT PRÔDÛCÊ RÊSÔÛRCÊS, THÊ BÊTTÊR. WÔRKÊRS GÊNÊRÂLLY HÂVÊ TÔ TRÂNSPÔRT GÔÔDS FRÔM THÊÎR CRÊÂTÎÔN LÔCÂTÎÔN TÔ STÔCK PÎLÊS. BY KÊÊPÎNG STÔRÂGÊ CLÔSÊ, RÊSÔÛRCÊ PRÔDÛCTÎÔN RÂTÊS CÂN STÎLL BÊ HÎGH WHÊN THÊRÊ ÂRÊ NÔ GÊNÊRÂL ^i0ProfessionLaborer ^abPRÔFÊSSÎÔN LÂBÔRÊRS ^ae TÔ TRÂNSPÔRT THÊ GÔÔDS. ^p ^mb ^mc ^jl ^dDialogStockPile ^ml372 ^mc CLÎCKÎNG ÔN Â STÔCK PÎLÊ WÎLL SHÔW THÊ CÔNTÊNTS ÔF THÊ ÂRÊÂ. ^me ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleStockPile ^mc ^f3 ^jl ^c0
+			^dUIStorage ^i0ArrowRight ^dUIStockPile ^s Lagerplatz ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb
+			Auf Lagerplätzen können voluminöse Rohmaterialien wie ^i0LogSmall Holz, ^i0StoneSmall Stein,
+			^i0IronSmall Eisen, ^i0FirewoodSmall Brennholz und ^i0CoalSmall Kohle gelagert werden.
+			^p
+			Sofern sich kein ^abMarket Markt^ae in der Nähe befindet, suchen Siedler den nächstgelegenen Lagerplatz auf, um
+            sich benötigte Ressourcen zu holen.
+			^p
+			Die maximale Lagerkapazität des Lagerplatzes hängt von dessen Fläche ab. Sie können die Größe beim
+			Platzieren selbst bestimmen.  Mit dem Wachstum einer Stadt steigt auch der Bedarf an
+            Lagerkapazität, weswegen eventuell mehr oder größerer Lagerplätze gebaut werden müssen.
+			^p
+			Produzierte Güter müssen von Arbeitern zum Lagerplatz gebracht werden, daher ist es besser, wenn diese sich
+			in der Nähe der Produktionsstätten befinden. Ist dies der Fall werden weniger
+			^i0ProfessionLaborer ^abProfession Arbeiter^ae benötigt, da die Transportwege kürzer ausfallen. Dies
+            erhöht die Produktivität, da Sie Arbeiter vom Transport abziehen und ihnen einen anderen Beruf zuweisen
+            können.
+			^p
+			^mb ^mc ^jl ^dDialogStockPile ^ml372 ^mc
+			Mit einem Linksklick auf einen Lagerplatz können Sie das Detailfenster einblenden, in welchem
+	        die gelagerten Güter angezeigt werden.
+			^me ";
 		}
 	]
 }

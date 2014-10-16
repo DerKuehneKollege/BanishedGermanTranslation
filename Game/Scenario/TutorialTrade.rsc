@@ -74,7 +74,7 @@ Durch den eben abgeschlossenen Handel sind die Güter aus dem Handelsposten entfe
 		}
 		{
 			String _name = "Step_Purchase_0_Pre";
-			String _text = "Wenn Sie von einem fahrenden Händler immer die selben Güter kaufen wollen, ohne ständig den Handelsposten dafür aufzurufen, können Sie einen automatischen Einkauf einrichten.
+			String _text = "Wenn Sie von einem fahrenden Händler immer dieselben Güter kaufen wollen, ohne ständig den Handelsposten dafür aufzurufen, können Sie einen automatischen Einkauf einrichten.
 
 Klicken Sie auf die Kategorie 'Einkauf', um näheres zu erfahren.";
 		}
@@ -92,7 +92,7 @@ Die Händler werden bis zu dieser Grenze die angegebenen Artikel einkaufen, vorau
 			String _name = "Step_Purchase_3_Pre";
 			String _text = "Wenn Sie mehr als einen Artikel für den automatischen Einkauf eingestellt haben, können Sie die Einkaufspriorität der Artikel bestimmen, indem Sie jeweils die entsprechenden Kategorien nach oben oder unten verschieben.
 
-Kategorien die weiter oben in der Liste platziert sind, werden zuerst eingekauft.";
+Kategorien, die weiter oben in der Liste platziert sind, werden zuerst eingekauft.";
 		}
 		{
 			String _name = "Step_Order_0_Pre";

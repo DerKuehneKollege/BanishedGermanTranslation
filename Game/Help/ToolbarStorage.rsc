@@ -12,7 +12,24 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIStorage ^s Lagerraum und Handel ^f1 ^jl ^vb THÊ STÔRÂGÊ, MÂRKÊTS, ÂND TRÂDÊ TÔÔLBÂR ÂLLÔWS YÔÛ TÔ BÛÎLD ÂRÊÂS TÔ STÔRÊ RÂW MÂTÊRÎÂLS ÂND FÎNÎSHÊD GÔÔDS. ^p MÂRKÊTS CÂN BÊ BÛÎLT ÂS CÊNTRÂL ÂRÊÂS WHÊRÊ CÎTÎZÊNS CÂN ÂCQÛÎRÊ ÊVÊRYTHÎNG THÊY NÊÊD RÂTHÊR THÂN TRÂVÊL TÔ MÂNY DÎFFÊRÊNT STÔRÂGÊ ÂRÊÂS. TRÂDÎNGS PÔSTS CÂN BÊ BÛÎLT TÔ TRÂDÊ WÎTH TRÂVÊLÎNG MÊRCHÂNTS THÂT SÊLL ÎTÊMS YÔÛR TÔWN MÂY NÊÊD. ^p ^jc ^dUIToolbarStorage ^jl ^vc ^lb ^lb ^lo ^dUIStorageBarn ^s ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN:^ae BÛÎLD Â STÔRÂGÊ BÂRN TÔ STÔRÊ FÔÔD, CLÔTHÊS, ÂND MÔRÊ. ^lo ^dUIStockPile ^s ^abSTÔCKPÎLÊ STÔCK PÎLÊ:^ae BÛÎLD Â STÔCK PÎLÊ TÔ STÔRÊ LÔGS, STÔNÊ, ÎRÔN, ÂND FÛÊL. ^lo ^dUIMarket ^s ^abMÂRKÊT MÂRKÊT:^ae BÛÎLD Â MÂRKÊT FÔR CÎTÎZÊNS TÔ CÔLLÊCT RÊSÔÛRCÊS. ^lo ^dUITradingPost ^s ^abTRÂDÎNGPÔST TRÂDÎNG PÔST:^ae BÛÎLD Â TRÂDÎNG PÔST FÔR MÊRCHÂNTS TÔ STÔP ÂND TRÂDÊ. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUIStorage ^s Lagerraum und Handel ^f1 ^jl ^vb
+			Im Menü 'Lagerraum und Handel' stehen verschiedene Gebäude zum Lagern und Handeln von Ressourcen zur
+			Verfügung.
+			^p
+			Märkte bieten den Siedlern eine Anlaufstelle für eine Vielzahl verschiedener Ressourcen, ohne dass sie
+			verschiedene Lagergebäude aufsuchen müssen. Handelsposten ermöglichen es, Güter, die die Stadt benötigt, mit
+			den fahrenden Händlern zu tauschen.
+			^p
+			^jc ^dUIToolbarStorage ^jl ^vc ^lb
+			^lb
+			^lo ^dUIStorageBarn ^s ^abStorageBarn Lagerhaus:^ae In Lagerhäusern Nahrung, Kleidung und andere produzierte
+			Güter gelagert werden.
+			^lo ^dUIStockPile ^s ^abStockPile Lagerplatz:^ae Auf Lagerplätzen werden Rohmaterialien wie Holz, Stein, Eisen
+			und Brennmaterial gelagert.
+			^lo ^dUIMarket ^s ^abMarket Markt:^ae Einen Markt bauen, der die Siedler mit verschiedenen Gütern versorgt.
+			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae Einen Handelposten bauen, an welchem regelmäßig
+			fahrende Händler eintreffen.
+			^le ^le ";
 		}
 	]
 }

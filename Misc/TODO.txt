@@ -48,11 +48,11 @@ Hilfe (Raw translation):
     [x] Bridge Brücken
     [x] Tunnel Tunnel
 
-[ ] ToolbarStorage Lagerraum und Handel
-    [ ] StorageBarn Lagerhäuser
-    [ ] StockPile Lagerplätze
-    [ ] Market Märkte
-    [ ] TradingPost Handelsposten
+[x] ToolbarStorage Lagerraum und Handel
+    [x] StorageBarn Lagerhäuser
+    [x] StockPile Lagerplätze
+    [x] Market Märkte
+    [x] TradingPost Handelsposten
 
 [ ] ToolbarServices Stadtgebäude
     [ ] Well Brunnen
