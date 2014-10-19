@@ -12,7 +12,96 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTownHall ^mc ^f3 ^jl ^c0 ^dUIServices ^i0ArrowRight ^dUITownHall ^s Rathaus ^c0 ^f1 ^n ^i0Log X62 ^i0Stone X124 ^i0Iron X48 ^me ^f1 ^c0 ^jl ^vc Â TÔWN HÂLL CÂN BÊ BÛÎLT TÔ RÊCÔRD DÂTÂ ÂBÔÛT THÊ TÔWN THÂT ÎSN'T ÔTHÊRWÎSÊ ÂVÂÎLÂBLÊ. YÔÛ CÂN SÊÊ ÔVÊRVÎÊWS ÔF THÊ PÔPÛLÂTÎÔN, ÊDÛCÂTÎÔN, CLÔTHÎNG, HÊÂLTH, HÂPPÎNÊSS, WÔRKÊRS, WÔRKPLÂCÊS, RÊSÔÛRCÊ LÎMÎTS, PRÔDÛCTÎÔN ÔVÊR TÎMÊ, ÂCQÛÎRÊD SÊÊDS ÂND LÎVÊSTÔCK, TÔWN ÎNVÊNTÔRY, ÂND GRÂPHS ÔF PÔPÛLÂTÎÔN ÂND RÊSÔÛRCÊS ÔVÊR TÎMÊ. ^p THÊ TÔWN HÂLL ÂLSÔ ÂLLÔWS YÔÛ TÔ ÎNVÎTÊ ÔR DÊNY CÎTÎZÊNSHÎP TÔ NÔMÂDS THÂT MÂY RÊQÛÊST ÊNTRY TÔ THÊ TÔWN. ^p ^jc ^dDialogTownHall1 ^jl CLÎCKÎNG ÔN THÊ TÔWN HÂLL WÎLL SHÔW Â GÊNÊRÂL ÔVÊRVÎÊW ÔF THÊ TÔWN. ^p THÊ STÂTÛS CÔLÛMN SHÔWS GÊNÊRÂL STÂTÎSTÎCS ÂBÔÛT THÊ TÔWN. THÊ PRÔFÊSSÎÔNS CÔLÛMN ÂLLÔWS YÔÛ TÔ ÂSSÎGN PRÔFÊSSÎÔN ÎN THÊ SÂMÊ MÂNNÊR THÂT THÊ ^abPRÔFÊSSÎÔN PRÔFÊSSÎÔN TÔÔL^ae DÔÊS. ÎT ÂLSÔ SHÔWS HÔW MÂNY JÔBS ÂRÊ ÂVÂÎLÂBLÊ ÎN ÊÂCH PRÔFÊSSÎÔN ÂS WÊLL ÂS HÔW MÂNY WÔRK LÔCÂTÎÔNS THÊRÊ ÂRÊ. THÊ GÔTÔ ^dDialogTownHallGoto ^s BÛTTÔN WÎLL FÔCÛS ÂND CYCLÊ THRÔÛGH THÊ WÔRKPLÂCÊS. ^p ^jc ^dDialogTownHall2 ^jl ^n THÊ ^dDialogTownHallProduction ^s TÂB SHÔWS PRÔDÛCTÎÔN ÔF DÎFFÊRÊNT RÊSÔÛRCÊ TYPÊS. YÔÛ CÂN ÛSÊ THÎS ÎNFÔRMÂTÎÔN TÔ CHÊCK ÂND MÂKÊ SÛRÊ THÂT THÊ PRÔDÛCTÎÔN ÔF RÊSÔÛRCÊS ÎSN'T BÊÎNG ÔÛTPÂCÊD BY THÊ ÛSÊ ÔF RÊSÔÛRCÊS. ^p ^lb ^li THÊ ^c1 LÎMÎT ^c0 CÔLÛMN ÂLLÔWS YÔÛ TÔ SÊT RÊSÔÛRCÊ LÎMÎTS ÎN THÊ SÂMÊ MÂNNÊR ÂS THÊ ^abLÎMÎT LÎMÎT TÔÔL.^ae ^li THÊ ^c1 CÛRRÊNT ^c0 CÔLÛMN SHÔWS HÔW MÂNY RÊSÔÛRCÊS ÔF ÊÂCH TYPÊ ÂRÊ CÛRRÊNTLY ÎN STÔRÂGÊ. ^li THÊ ^c1 ÛSÊD ^c0 CÔLÛMN SHÔWS HÔW MÂNY RÊSÔÛRCÊS ÔF ÊÂCH TYPÊ HÂVÊ BÊÊN ÛSÊD BY THÊ TÔWN DÛRÎNG THÊ CÛRRÊNT YÊÂR. ^li THÊ ^c1 PRÔDÛCÊD ^c0 CÔLÛMN SHÔWS HÔW MÂNY RÊSÔÛRCÊS ÔF ÊÂCH TYPÊ HÂVÊ BÊÊN PRÔDÛCÊD BY THÊ TÔWN DÛRÎNG THÊ CÛRRÊNT YÊÂR. ^li THÊ ^c1 ÛSÊD (1YRS) ^c0 CÔLÛMN SHÔWS HÔW MÂNY RÊSÔÛRCÊ ÔF ÊÂCH TYPÊ HÂVÊ BÊÊN ÛSÊD ÔVÊR THÊ PRÊVÎÔÛS YÊÂRS. THÊ NÛMBÊR ÔF YÊÂRS CÂN BÊ CHÂNGÊD ÛSÎNG THÊ DÎSPLÂY DRÔPDÔWN. ^li THÊ ^c1 PRÔDÛCÊD (1YRS) ^c0 CÔLÛMN SHÔWS HÔW MÂNY RÊSÔÛRCÊ ÔF ÊÂCH TYPÊ HÂVÊ BÊÊN PRÔDÛCÊD ÔVÊR THÊ PRÊVÎÔÛS YÊÂRS. THÊ NÛMBÊR ÔF YÊÂRS CÂN BÊ CHÂNGÊD ÛSÎNG THÊ DÎSPLÂY DRÔPDÔWN. ^le ^p ^jc ^dDialogTownHall3 ^jl ^n THÊ ^dDialogTownHallInventory ^s TÂB SHÔWS TÔTÂL ÎNVÊNTÔRY FÔR ÊÂCH RÊSÔÛRCÊ. BY DÊFÂÛLT THÊ ÎNVÊNTÔRY SHÔWS ÎTÊMS ÎN ^abMÂRKÊT MÂRKÊTS, ^abSTÔCKPÎLÊ STÔCK PÎLÊS,^ae ÂND ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRNS.^ae YÔÛ CÂN ÂLSÔ CHÂNGÊ THÊ DÎSPLÂY TÔ SHÔW ÎNVÊNTÔRY STÔRÊD ÎN ^abTRÂDÎNGPÔST TRÂDÎNG PÔSTS^ae ÔR ÎNVÊNTÔRY STÔRÊD ÎN ^abWÔÔDHÔÛSÊ WÔÔD^ae ÂND ^abSTÔNÊHÔÛSÊ STÔNÊ^ae HÔMÊS. ^p YÔÛ CÂN ÂLSÔ SÔRT THÊ ÎNVÊNTÔRY ÂLPHÂBÊTÎCÂLLY, ÔR BY QÛÂNTÎTY. ^p ^jc ^dDialogTownHall4 ^jl THÊ ^dDialogTownHallGraph ^s TÂB SHÔWS GRÂPHS ÔF VÂRÎÔÛS TÔWN VÂLÛÊS ÔVÊR TÎMÊ. THÊ GRÂPHS CÂN BÊ ÛSÊFÛL TÔ VÎSÛÂLÎZÊ ÂNY ÎNCRÊÂSÊ ÔR DÊCRÊÂSÊ ÎN GÔÔDS ÔVÊR THÊ YÊÂRS, ÂND CÂN GÎVÊ YÔÛ ÂN ÎDÊÂ ÔF WHÂT RÊSÔÛRCÊ MÂY NÊÊD MÔRÊ ÔR LÊSS PRÔDÛCTÎÔN. ^p YÔÛ CÂN VÎÊW GRÂPHS ÔF: ^lb ^li TÔTÂL PÔPÛLÂTÎÔN, NÛMBÊR ÔF ÂDÛLTS, STÛDÊNTS, ÂND CHÎLDRÊN ^li CÎTÎZÊN HÊÂLTH, HÂPPÎNÊSS, ÊDÛCÂTÎÔN, ÂND CLÔTHÎNG ^li FÔÔD ^li LÔGS ^li STÔNÊ ^li ÎRÔN ^li FÎRÊWÔÔD ^li CÔÂL ^li TÔÔLS ^li HÊRBS ^li CLÔTHÎNG ^li ÂLCÔHÔL ^le ^n YÔÛ CÂN CHÂNGÊ THÊ TÎMÊ RÂNGÊ TÔ VÎÊW THÊ DÂTÂ ÔVÊR FRÔM 1 YÊÂR TÔ 100 YÊÂRS. ^p ^jc ^dDialogTownHall5 ^jl THÊ ^dDialogTownHallNomad ^s TÂB SHÔWS THÊ CÛRRÊNT STÂTÊ ÔF NÔMÂDS ÎN THÊ TÔWN. WHÊN NÔMÂDS ÂRRÎVÊ YÔÛ CÂN ÊÎTHÊR ÂLLÔW ÔR DÊNY CÎTÎZÊNSHÎP TÔ THÊ NÔMÂDS. ÂLLÔWÎNG NÔMÂDS ÎNTÔ THÊ TÔWN CÂN BÔÔST THÊ PÔPÛLÂTÎÔN QÛÎCKLY, BÛT THÊY CÂN ÂLSÔ BRÎNG ÂN ÎNCRÊÂSÊD CHÂNCÊ ÔF DÎSÊÂSÊ TÔ THÊ TÔWN. ^p YÔÛ MÂY WÂNT TÔ BÛÎLD ^abBÔÂRDÎNGHÔÛSÊ BÔÂRDÎNG HÔÛSÊS^ae TÔ HÔÛSÊ NÔMÂDS WHÊN YÔÛ ÂCCÊPT THÊM ÎNTÔ YÔÛR TÔWN SÔ THÂT THÊY HÂVÊ Â TÊMPÔRÂRY PLÂCÊ TÔ LÎVÊ ÛNTÎL YÔÛ CÂN BÛÎLD THÊM PRÔPÊR HÔMÊS. ^p ^jc ^dDialogTownHall6 ^jl THÊ ^dDialogTownHallTrade ^s TÂB SHÔWS SÊÊDS ÂND LÎVÊSTÔCK THÂT HÂVÊ BÊÊN ÂCQÛÎRÊD ÂT THÊ TRÂDÎNG PÔST. THÎS ÂLLÔWS YÔÛ TÔ VÎSÛÂLÎZÊ WHÎCH SÊÊDS YÔÛ'VÊ BÔÛGHT, ÂND HÔW MÂNY ÂRÊ RÊMÂÎNÎNG. ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTownHall ^mc ^f3 ^jl ^c0
+			^dUIServices ^i0ArrowRight ^dUITownHall ^s Rathaus ^c0 ^f1 ^n
+			^i0Log x62 ^i0Stone x124 ^i0Iron x48 ^me ^f1 ^c0 ^jl ^vc
+			In Rathäuser werden verschiedene Statistiken und Zensusdaten aufgezeichnet, nach dem Bau des Gebäudes
+			können diese eingesehen werden. Verfügbar sind Informationen über Bevölkerungszuwachs, Bildung, Ausstattung
+			mit Kleidung, Gesundheit, Zufriedenheit, Arbeiter, Berufe, Arbeitsgebäude, Ressourcenlimits,
+			Ressourcenproduktion, verfügbare Samenarten und Viehsorten und Gesamtlagerbestände. Weiterhin wird die
+			Bevölkerungsentwicklung und die Produktionsraten können anhand von Diagrammen visualisiert werden.
+			^p
+			Gelegentlich können Nomaden Ihre Stadt besuchen. Sie versammeln sich dann am Rathaus. Es kann vorkommen,
+			dass Nomaden den Antrag stellen, Bürger ihrer Stadt zu werden. Diese Anträge können im Rathaus bewilligt
+			oder abgelehnt werden.
+			^p
+			^jc ^dDialogTownHall1 ^jl
+			Ein Linksklick auf das Rathaus öffnet das dazugehörige Detailfenster, in welchem die Informationen über
+			die Stadt angezeigt werden.
+			^p
+			In der Tabelle 'Status' werden allgemeine Statistiken über die Stadt aufgelistet. Die 'Berufe'-Tabelle
+			erlaubt es in gleicher Weise wie das ^abProfession 'Berufe'-Fenster,^ae den Siedlern neue Berufe zuzuweisen.
+			Ebenfalls wird für jeden Beruf die Anzahl freier Plätze und die Anzahl der dazugehörigen Arbeitsgebäude
+			angezeigt. Mit dem Pfeil-Button ^dDialogTownHallGoto können die einzelnen Arbeitsgebäude angewählt werden.
+			^p
+			^jc ^dDialogTownHall2 ^jl ^n
+			Im Reiter ^dDialogTownHallProduction werden für die einzelnen Güter deren Produktionsraten angezeigt.
+			Sie können anhand dieser Informationen sicherstellen, dass der Bedarf an einer Ressource die
+			Produktionsrate nicht übersteigt.
+			^p
+			^lb
+			^li Die Spalte ^c1 Limit ^c0 ermöglicht das Setzen von Produktionslimit für die Ressourcen, genau wie im
+			^abLimit dazugehörigen Fenster.^ae
+			^li Die Spalte ^c1 Aktuell ^c0 zeigt an, wie viel Einheiten der entsprechenden Ressource sich zurzeit
+			insgesamt in den Lagern befinden.
+			^li Die Spalte ^c1 Verbraucht ^c0 zeigt an, wie viel Einheiten der entsprechenden Ressourcen im aktuellen
+			Jahr bisher verbraucht wurden.
+			^li Die Spalte ^c1 Produziert ^c0 zeigt an, wie viel Einheiten der entsprechenden Ressourcen im aktuellen
+			Jahr bisher produziert wurden.
+			^li Die Spalte ^c1 Verbraucht (1 J.) ^c0 zeigt an, wie viele Ressourcen in den vergangenen Jahren verbraucht
+			wurden. Die Anzahl der berücksichtigten Jahre kann in der darüberliegenden Auswahlliste ausgewählt werden.
+			^li Die Spalte ^c1 Produziert (1 J.) ^c0 zeigt an, wie viele Ressourcen in den vergangenen Jahren
+			produziert wurden. Die Anzahl der berücksichtigten Jahre kann in der darüberliegenden Auswahlliste
+			ausgewählt werden.
+			^le
+			^p
+			^jc ^dDialogTownHall3 ^jl ^n
+			Im Reiter ^dDialogTownHallInventory wird für alle Ressourcen der jeweilige Gesamtlagerbestand aufgelistet.
+			In der Standardeinstellung werden die Bestände in den ^abMarket Märkten,^ae ^abStockPile Lagerplätzen ^ae
+			und ^abStorageBarn Lagerhäusern^ae aufaddiert. Sie können allerdings auch einstellen, dass die Lagerbestände
+			in den ^abTradingPost Handelsposten^ae oder in den ^abWoodHouse Holzhäusern^ae bzw.
+			^abStoneHouse Steinhäusern^ae angezeigt wird.
+			^p
+			Ebenfalls können die Ressourcen alphabetisch oder nach Anzahl sortiert angezeigt werden.
+			^p
+			^jc ^dDialogTownHall4 ^jl
+			Über den Reiter ^dDialogTownHallGraph können verschiedene Statistiken über die Stadt in Diagrammform
+			dargestellt werden. Dies kann hilfreich sein, um sich beispielsweise den Anstieg bzw. den Fall der
+			Produktionsrate verschiedener Ressourcen zu veranschaulichen und entsprechend zu reagieren.
+			^p
+			Folgende Daten können in Diagrammform angezeigt werden:
+			^lb
+			^li Bevölkerungszahlen, Anzahl Erwachsener, Schüler und Kinder
+			^li Durchschnittliche Gesundheit, Zufriedenheit und Ausstattung mit Kleidung
+			^li Nahrung
+			^li Holz
+			^li Stein
+			^li Eisen
+			^li Brennholz
+			^li Kohle
+			^li Werkzeug
+			^li Kräuter
+			^li Kleidung
+			^li Bier
+			^le ^n
+			Des Weiteren kann das darzustellende Zeitintervall auf einen Zeitraum von 1 Jahr bis 100 Jahre gesetzt
+			werden.
+			^p
+			^jc ^dDialogTownHall5 ^jl
+			Im Reiter ^dDialogTownHallNomad wird angezeigt, ob sich derzeit Nomaden in der Stadt befinden. Wenn
+			Nomaden eingetroffen sind und diese in die Stadt aufgenommen werden wollen, kann hier die Aufnahme in die
+			Stadt zugestimmt oder abgelehnt werden. Die Aufnahme der Nomaden in die Stadt ermöglicht einen starken
+			Anstieg der Bevölkerungszahl, allerdings steigt auf für eine gewisse Zeit die Gefahr, dass in der Stadt
+			eine Krankheit ausbricht.
+			^p
+			Sollten Sie der Aufnahme der Nomaden in die Stadt zustimmen, ist es empfehlenswert eine
+			^abBoardingHouse Notunterkunft^ae errichtet zu haben, damit diesen eine vorübergehende Wohnstätte zur
+			Verfügung steht, bis genügend Wohnhäuser gebaut wurden.
+			^p
+			^jc ^dDialogTownHall6 ^jl
+			Im Reiter ^dDialogTownHallTrade sind alle am ^abTradingPost Handelsposten^ae erworbenen Samentypen und
+			Nutzvieharten aufgelistet. Dies bietet Ihnen eine Übersicht, falls Sie anstreben, alle im Spiel
+			möglichen Samentypen bzw. Vieharten zu erlangen. ";
 		}
 	]
 }

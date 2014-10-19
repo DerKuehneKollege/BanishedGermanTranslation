@@ -12,7 +12,34 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleHospital ^mc ^f3 ^jl ^c0 ^dUIServices ^i0ArrowRight ^dUIHospital ^s Krankenhaus ^c0 ^f1 ^n ^i0Log X52 ^i0Stone X78 ^i0Iron X32 ^me ^f1 ^c0 ^jl ^vb WHÊN DÎSÊÂSÊS BRÊÂK ÔÛT ÎN Â TÔWN, Â HÔSPÎTÂL ÎS ÛSÊD TÔ RÊDÛCÊ THÊ LÊNGTH ÔF THÊ SÎCKNÊSS ÂND TÔ STÔP ÎT FRÔM SPRÊÂDÎNG. Â ^i0ProfessionDoctor ^s ^abPRÔFÊSSÎÔN PHYSÎCÎÂN ^ae NÊÊDS TÔ BÊ WÔRKÎNG ÂT Â HÔSPÎTÂL TÔ MÂKÊ ÎT ÊFFÊCTÎVÊ. ^p ÊÂCH HÔSPÎTÂL CÂN ÔNLY TRÊÂT 30 PÂTÎÊNTS ÂT ÔNCÊ. YÔÛ'LL NÊÊD MÔRÊ THÂN ÔNÊ HÔSPÎTÂL ÂND PHYSÎCÎÂNS TÔ TRÊÂT LÂRGÊR ÔÛTBRÊÂKS. ^p WHÊN Â CÎTÎZÊN BÊCÔMÊS SÎCK THÊY'LL STÔP WÔRKÎNG ÂT THÊÎR JÔB. ÎF NÔ HÔSPÎTÂL ÎS ÂVÂÎLÂBLÊ, THÊY WÎLL STÂY NÊÂR THÊÎR HÔMÊS, BÛT WÎLL STÎLL TRÂVÊL ÂRÔÛND TÔWN TÔ CÔLLÊCT FÔÔD ÂND SÛPPLÎÊS. MÔVÎNG ÂMÔNG THÊ PÔPÛLÂTÎÔN WHÊN SÎCK WÎLL CÂÛSÊ THÊ DÎSÊÂSÊ TÔ SPRÊÂD. ^p ÎF THÊRÊ ÎS RÔÔM ÎN Â HÔSPÎTÂL, THÊ SÎCK CÎTÎZÊN WÎLL STÂY THÊRÊ FÔR THÊ LÊNGTH ÔF THÊ DÎSÊÂSÊ, ÂND THÊY WÎLL HÂVÊ Â RÊDÛCÊD CHÂNCÊ ÔF DYÎNG. ^p ^mb ^mc ^dDialogDoctor ^ml308 ^mc CLÎCKÎNG ÔN THÊ HÔSPÎTÂL WÎLL SHÔW HÔW MÂNY PÂTÎÊNTS ÂRÊ BÊÎNG TRÊÂTÊD ÎN THÊ BÛÎLDÎNG. ^ml0 ^me ^n ^mb ^mc ^dDialogDoctorWork ^n ^ml60 ^mc CLÎCKÎNG ÔN THÊ WÔRK BÛTTÔN WÎLL TÔGGLÊ ÊNÂBLÎNG ÂND DÎSÂBLÎNG TRÊÂTMÊNT ÂT THÊ HÔSPÎTÂL. WHÊN THÊ HÔSPÎTÂL ÎS NÔT WÔRKÎNG, CÎTÎZÊNS WÎLL TRY TÔ FÎND ÔTHÊR HÔSPÎTÂLS TÔ TRÊÂT THÊM, ÔR RÊTÛRN HÔMÊ. ^ml0 ^me ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleHospital ^mc ^f3 ^jl ^c0
+			^dUIServices ^i0ArrowRight ^dUIHospital ^s Krankenhaus ^c0 ^f1 ^n
+			^i0Log x52 ^i0Stone x78 ^i0Iron x32 ^me ^f1 ^c0 ^jl ^vb
+			Wenn in der Stadt eine Krankheit ausbricht, dämmen Krankenhäuser die Ausbreitung ein und reduzieren die
+			Krankheitsdauer von erkrankten Siedlern. In jedem Krankenhaus muss ein ^i0ProfessionDoctor
+			^abProfession Arzt^ae arbeiten, damit es seinen Betrieb aufnehmen kann.
+			^p
+			In jedem Krankenhaus können bis zu 30 Patienten gleichzeitig behandelt werden. Bei einer größeren Bevölkerung
+			und mehr betroffenen Siedlern müssen also mehr Krankenhäuser gebaut werden und Siedler als Arzt
+			arbeiten.
+			^p
+			Wenn Siedler krank werden, legen sie die Arbeit nieder. Falls kein Krankenhaus verfügbar ist, bleiben sie
+			zuhause oder in der Nähe ihrer Wohnstätte, holen sich allerdings noch selbstständig Vorräte. Dies hat
+			wiederum zur Folge, dass sich die Krankheit, an der sie leiden, in der Umgebung ausbreitet, in der sie sich
+			bewegen.
+			^p
+			Ist in einem Krankenhaus genügend Platz, um kranke Siedler aufzunehmen, werden die Siedler dorthin gehen und
+			bis zum Abklingen der Krankheit dort bleiben. Wenn kranke Siedler im Krankenhaus behandelt werden, minimiert
+			dies die Wahrscheinlichkeit, dass sie an der Krankheit sterben.
+			^p
+			^mb ^mc ^dDialogDoctor ^ml308 ^mc
+			Mit einem Klick auf das Krankenhaus kann ein Detailfenster, welches die Anzahl der dort behandelten
+			Patienten anzeigt, eingeblendet werden.
+			^ml0 ^me ^n ^mb ^mc ^dDialogDoctorWork ^n ^ml60 ^mc
+			Sie können mit dem Button 'Arbeiten' den Krankenhausbetrieb einstellen bzw. wiederaufnehmen lassen. Wenn sich
+			bei Deaktivierung noch Siedler im Krankenhaus befinden, werden diese sich ein anderes Krankenhaus suchen
+			oder nach Hause gehen.
+			^ml0 ^me ";
 		}
 	]
 }

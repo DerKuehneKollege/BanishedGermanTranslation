@@ -54,13 +54,13 @@ Hilfe (Raw translation):
     [x] Market Märkte
     [x] TradingPost Handelsposten
 
-[ ] ToolbarServices Stadtgebäude
-    [ ] Well Brunnen
-    [ ] School Schulen
-    [ ] Hospital Krankenhäuser
-    [ ] TownHall Rathäuser
-    [ ] Chapel Kapellen
-    [ ] Cemetery Friedhöfe
+[x] ToolbarServices Stadtgebäude
+    [x] Well Brunnen
+    [x] School Schulen
+    [x] Hospital Krankenhäuser
+    [x] TownHall Rathäuser
+    [x] Chapel Kapellen
+    [x] Cemetery Friedhöfe
 
 [ ] ToolbarFood Nahrungsproduktion
     [ ] CropField Äcker

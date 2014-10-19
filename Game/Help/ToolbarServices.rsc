@@ -12,7 +12,28 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIServices Stadtgebäude ^f1 ^jl ^vb THÊ TÔWN SÊRVÎCÊS TÔÔLBÂR ÂLLÔWS YÔÛ TÔ CÔNSTRÛCT BÛÎLDÎNGS THÂT ÎMPRÔVÊ THÊ HÂPPÎNÊSS ÂND ÊFFÎCÎÊNCY ÔF YÔÛR TÔWN. ^p WÊLLS CÂN BÊ BÛÎLT TÔ HÊLP PÛT ÔÛT FÎRÊS QÛÎCKLY, SCHÔÔLS ÂND HÔSPÎTÂLS PRÔVÎDÊ ÊDÛCÂTÎÔN ÂND CÂRÊ FÔR TÔWNSFÔLK THÂT ÂRÊ SÎCK. Â TÔWN HÂLL CÂN HÊLP YÔÛ MÂNÂGÊ ÂND VÎÊW TÔWN STÂTÎSTÎCS. CHÂPÊLS ÂND CÊMÊTÊRÎÊS ÎMPRÔVÊ THÊ HÂPPÎNÊSS ÔF THÊ PÊÔPLÊ. ^p ^jc ^dUIToolbarServices ^jl ^vc ^lb ^lb ^lo ^dUIWell ^s ^abWÊLL WÊLL:^ae BÛÎLD Â WÊLL TÔ PÛT ÔÛT FÎRÊS QÛÎCKLY. ^lo ^dUISchool ^s ^abSCHÔÔL SCHÔÔL HÔÛSÊ:^ae BÛÎLD Â SCHÔÔL TÔ ÊDÛCÂTÊ ÂND ÎMPRÔVÊ PRÔDÛCTÎVÎTY. ^lo ^dUIHospital ^s ^abHÔSPÎTÂL HÔSPÎTÂL:^ae BÛÎLD Â HÔSPÎTÂL TÔ CÂRÊ FÔR THÔSÊ WÎTH DÎSÊÂSÊ. ^lo ^dUITownHall ^s ^abTÔWNHÂLL TÔWN HÂLL:^ae BÛÎLD Â TÔWN HÂLL TÔ VÎÊW TÔWN STÂTÎSTÎCS. ^lo ^dUIChapel ^s ^abCHÂPÊL CHÂPÊL:^ae BÛÎLD Â CHÂPÊL TÔ ÎNCRÊÂSÊ THÊ HÂPPÎNÊSS ÔF CÎTÎZÊNS. ^lo ^dUICemetery ^s ^abCÊMÊTÊRY CÊMÊTÊRY:^ae BÛÎLD Â CÊMÊTÊRY TÔ DÊCRÊÂSÊ LÔSS ÔF HÂPPÎNÊSS. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUIServices Stadtgebäude ^f1 ^jl ^vb
+			In der Kategorie 'Stadtgebäude' stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit und
+			Effizienz der Stadt erhöhen können.
+			^p
+			Brunnen können gebaut werden, um im Falle eines Feuers in der Stadt die Brände schneller unter Kontrolle
+			zu bekommen. Schulen sorgen für gebildete Siedler, Krankenhäuser heilen kranke Siedler und dämmen Seuchen
+			ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kapellen und Friedhöfe erhöhen die
+			Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken können.
+			^p
+			^jc ^dUIToolbarServices ^jl ^vc ^lb
+			^lb
+			^lo ^dUIWell ^s ^abWell Brunnen:^ae Brunnen ermöglichen, dass Feuer schneller gelöscht werden.
+			^lo ^dUISchool ^s ^abSchool Schule:^ae Schulen sorgen bei den Siedlern für Bildung und für eine höhere
+			Produktivität.
+			^lo ^dUIHospital ^s ^abHospital Krankenhaus:^ae Krankenhäuser isolieren und heilen Siedler, die unter einer
+			Krankheit leiden.
+			^lo ^dUITownHall ^s ^abTownHall Rathaus:^ae Rathäuser zeichnen Statistiken über die Stadt auf, welche dann
+			dort eingesehen werden können.
+			^lo ^dUIChapel ^s ^abChapel Kapelle:^ae Kapellen erhöhen die Zufriedenheit der Siedler.
+			^lo ^dUICemetery ^s ^abCemetery Friedhof:^ae Friedhöfe verhindern, das im Falle des Todes eines Siedlers
+			die Angehörigen depressiv werden.
+			^le ^le ";
 		}
 	]
 }

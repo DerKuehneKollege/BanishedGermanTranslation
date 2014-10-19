@@ -1067,11 +1067,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PreviousUsed";
-			String _text = "Verbraucht (@0 Jahre)";
+			String _text = "Verbraucht (@0 J.)";
 		}
 		{
 			String _name = "PreviousProduced";
-			String _text = "Produziert (@0 Jahre)";
+			String _text = "Produziert (@0 J.)";
 		}
 		{
 			String _name = "Limit";
