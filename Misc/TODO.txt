@@ -13,6 +13,7 @@ TODO: Rechtschreibüberprüfung mit WebStorm
 TODO: "Gebäudebau und Gebäude" klingt blöd
 TODO: "Abreißen"/"Abriss" mit "ß" oder mit "ss"?
 TODO: "Sammler" -> "Sammlerhütte"
+TODO: In Single Quotes '' gesetzte Wörter orange hervorheben, so wie es woanders auch gemacht
 
 Hilfe (Raw translation):
 [x] Contents, Übersicht
@@ -62,8 +63,8 @@ Hilfe (Raw translation):
     [x] Chapel Kapellen
     [x] Cemetery Friedhöfe
 
-[ ] ToolbarFood Nahrungsproduktion
-    [ ] CropField Äcker
+[x] ToolbarFood Nahrungsproduktion
+    [x] CropField Äcker
     [ ] Orchard Obstgärten
     [ ] Pasture Viehweiden
     [ ] FishingDock Fischerhütten
