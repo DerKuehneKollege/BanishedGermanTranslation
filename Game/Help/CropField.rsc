@@ -23,7 +23,7 @@ StringTable resource
 			Nach der Platzierung eines Ackers, können sie durch Klick darauf in dem dazugehörigen Detailfenster
 			den aktuellen Ertrag einstehen.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldSeed ^n ^ml60 ^mc
-			Bevor mit der Bepflanzung begonnen werden kann, muss zunächst über dem Button mit dem großen Fragezeichen
+			Bevor mit der Bepflanzung begonnen werden kann, muss zunächst über den Button mit dem großen Fragezeichen
 			ein anzubauender Samentyp ausgewählt werden. Neue Samentypen können am ^abTradingPost Handelsposten^ae
 			erworben werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldHarvest ^n ^ml60 ^mc
@@ -40,11 +40,11 @@ StringTable resource
 			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
 			wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^p
-			In dem Zeitraum zwischen Bepflanzung und Abernten des Ackers zupfen die Bauern das Unkraut, Düngen und
+			In dem Zeitraum zwischen Bepflanzung und Abernten des Ackers jäten die Bauern das Unkraut, Düngen und
 			Bewässern die Pflanzen, was die Pflanzen schneller wachsen lässt. Im Winter ist auf den Feldern nichts zu
 			tun, währenddessen arbeiten die Bauern als normale ^i0ProfessionLaborer ^abProfession Arbeiter ^ae weiter.
 			^p
-			Wenn es im Verlaufe des Jahres ^abDisaster zu schnell kalt wird,^ae sterben die Pflanzen auf den Äckern ab.
+			Wenn es im Verlaufe des Jahres ^abDisaster zu früh kalt wird,^ae sterben die Pflanzen auf den Äckern ab.
 			Des Weiteren können Nutzpflanzen von ^abDisaster Schädlingen^ae befallen werden, welche ebenfalls für
 			große Ernteausfälle sorgen können. Ein befallener Acker sollte unverzüglich abgeerntet werden.
 			Anschließend sollte darauf ein anderer Pflanzentyp angebaut werden, was verhindert, dass der Befall

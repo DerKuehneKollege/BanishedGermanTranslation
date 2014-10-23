@@ -12,7 +12,51 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^vc ^mb ^mc ^jr ^i3TitleOrchard ^mc ^f3 ^jl ^c0 ^dUIFood ^i0ArrowRight ^dUIOrchard ^s Obstgarten ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb ÂN ÔRCHÂRD ÎS ÛSÊD TÔ GRÔW FRÛÎT ÂND NÛT TRÊÊS. ÂN ÔRCHÂRD ÎS VÂRÎÂBLÊ SÎZÊD. ÔRCHÂRDS NÊÊD ^i0ProfessionFarmer ^s ^abPRÔFÊSSÎÔN FÂRMÊRS ^ae TÔ PLÂNT, CÂRÊ FÔR, ÂND HÂRVÊST THÊ FRÛÎT ÂND NÛTS. ^p ^mb ^mc ^dDialogOrchard ^ml286 ^mc ÂFTÊR ÂN ÔRCHÂRD ÎS PLÂCÊD, YÔÛ CÂN VÎÊW THÊ CÛRRÊNT YÎÊLD ÂND ÎTS DÊTÂÎLS BY CLÎCKÎNG ÔN THÊ FÎÊLD. ^ml0 ^me ^n ^mb ^mc ^dDialogOrchardSeed ^n ^ml60 ^mc BÊFÔRÊ YÔÛ CÂN GRÔW TRÊÊS ÎN ÂN ÔRCHÂRD YÔÛ HÂVÊ TÔ SÊLÊCT Â SÊÊD TYPÊ TÔ PLÂNT ÛSÎNG THÊ SÊÊD BÛTTÔN. ÎF THÊ TÔWN DÔÊSN'T HÂVÊ ÂNY FRÛÎT ÔR NÛT SÊÊDS, THÊY CÂN BÊ ÂCQÛÎRÊD BY BÛYÎNG THÊM ÂT Â ^abTRÂDÎNGPÔST TRÂDÎNG PÔST.^ae ^ml0 ^me ^n ^mb ^mc ^dDialogOrchardHarvest ^n ^ml60 ^mc FÂRMÊRS WÎLL PLÂNT THÊ TRÊÊS ÂS SÔÔN ÂS THÊ ÔRCHÂRD ÎS RÊÂDY. DÛRÎNG THÊ ÂÛTÛMN, ÔR WHÊN THÊ FRÛÎT ÂND NÛTS ÂRÊ MÂTÛRÊ, THÊ FÂRMÊRS WÎLL HÂRVÊST THÊ ÔRCHÂRD. ÎF YÔÛ WÂNT TÔ HÂRVÊST THÊ CRÔP ÊÂRLÎÊR, YÔÛ CÂN PRÊSS THÊ HÂRVÊST BÛTTÔN. ÎT MÂY TÂKÊ SÊVÊRÂL YÊÂRS ÔF GRÔWTH BÊFÔRÊ THÊ TRÊÊS PRÔDÛCÊ ÂNY YÎÊLD. ^p DÛRÎNG THÊ HÂRVÊST, WHÊN THÊ WÔRKÊRS ÎNVÊNTÔRY ÎS FÛLL, THÊY'LL RÊTÛRN THÊ CRÔPS TÔ THÊ NÊÂRÊST ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae ^ml0 ^me ^n ^mb ^mc ^dDialogOrchardWork ^n ^ml60 ^mc YÔÛ CÂN ÊNÂBLÊ ÂND DÎSÂBLÊ WÔRK ÂT THÊ ÔRCHÂRD BY PRÊSSÎNG THÊ WÔRK BÛTTÔN. NÔ PLÂNTÎNG, HÂRVÊST, ÔR CÂRÎNG FÔR THÊ TRÊÊS WÎLL ÔCCÛR ÎN THÊ ÔRCHÂRD ÎF ÎT ÎS DÎSÂBLÊD. ^ml0 ^me ^n ^mb ^mc ^dDialogOrchardCut ^n ^ml60 ^mc ÎF YÔÛ WÂNT TÔ CHÂNGÊ THÊ TYPÊ ÔF TRÊÊ GRÔWÎNG ÎN THÊ FÎÊLD, ÔR CÛT ÂLL THÊ TRÊÊS FÔR WÔÔD, YÔÛ CÂN PRÊSS THÊ CÛT BÛTTÔN. ^ml0 ^me ^n THÊ FÔÔD LÎMÎT CÔNTRÔL SÊTS THÊ FÔÔD ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ FÔÔD WÎLL BÊ PRÔDÛCÊD. ^p BÊTWÊÊN PLÂNTÎNG ÂND HÂRVÊSTÎNG WÔRKÊRS WÎLL TÊND THÊ FÎÊLD ÂND HÊLP THÊ FRÛÎT TRÊÊS GRÔW. DÛRÎNG THÊ WÎNTÊR, THÊ FÂRMÊRS WÎLL ÂCT ÂS GÊNÊRÂL ^i0ProfessionLaborer ^abPRÔFÊSSÎÔN LÂBÔRÊRS.^ae ^p ÎF THÊ ^abDÎSÂSTÊR WÊÂTHÊR TÛRNS CÔLD ÊÂRLY,^ae THÊ FRÛÎT ÂND NÛTS MÂY BÊ RÛÎNÊD. ÂDDÎTÎÔNÂLLY, ÔRCHÂRDS CÂN DÊVÊLÔP ^abDÎSÂSTÊR ÎNFÊSTÂTÎÔNS^ae THÂT WÎLL KÎLL THÊ TRÊÊS. WHÊN THÎS ÔCCÛRS, THÊ FRÛÎT CÂN BÊ HÂRVÊSTÊD ÊÂRLY. CÛTTÎNG DÔWN ÂLL THÊ TRÊÊS ÂND CHÂNGÎNG THÊ TRÊÊ GRÔWÎNG ÎN THÊ ÔRCHÂRD WÎLL HÊLP STÔP THÊ ÎNFÊSTÂTÎÔN FRÔM RÊÔCCÛRRÎNG. ^p ^jc ^i3OrchardInfestation ^n ^f0 ÂN ÔRCHÂRD ÎNFÊSTÂTÎÔN. ^f1 ^jl ";
+			String _text = " ^vc ^mb ^mc ^jr ^i3TitleOrchard ^mc ^f3 ^jl ^c0
+			^dUIFood ^i0ArrowRight ^dUIOrchard ^s Obstgarten ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb
+			In Obstgärten können Obst- und Nussbäume angepflanzt werden. Obstgärten können beliebig groß
+            platziert werden - von kleinen Obstgärten die überall Platz haben bis zu großen Feldern, auf denen viele
+            Bäume Platz haben und viel geerntet werden kann. Obstgärten müssen von ^i0ProfessionFarmer
+            ^abProfession Bauern^ae bewirtet werden, diese übernehmen das Anpflanzen und Pflegen der Bäume, sowie
+            das Ernten der Früchte und Nüsse.
+			^p
+			^mb ^mc ^dDialogOrchard ^ml286 ^mc
+			Nach der Platzierung eines Obstgartens, können sie durch Klick darauf in dem dazugehörigen Detailfenster
+            den aktuellen Ertrag einstehen.
+			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardSeed ^n ^ml60 ^mc
+			Bevor im Obstgarten Bäume gepflanzt werden, muss zunächst über den Button mit dem großen Fragezeichen
+			ein anzubauender Samentyp ausgewählt werden. Neue Baumsetzlinge können am ^abTradingPost Handelsposten^ae
+			erworben werden.
+			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardHarvest ^n ^ml60 ^mc
+			Die Bauern pflanzen die Bäume, sobald der Obstgarten platziert wurde. Es dauert einige Jahre, bis die Bäume
+			groß genug sind und Früchte tragen. Wenn die Bäume ausgewachsen sind, kann im Herbst, wenn das Obst bzw. die
+			Nüsse reif sind, mit der Ernte begonnen werden. Sollten Sie früher mit der Ernte beginnen wollen, klicken
+			Sie	dazu den Button 'Ernten'. Das frühe Abernten hat jedoch einen geringeren Ertrag zur Folge.
+			^p
+			Da die Siedler nur begrenzt Ressourcen tragen können, bringen die Bauern während der Ernte
+            zwischendurch gelegentlich die bereits gesammelte Ernte ins nächste ^abStorageBarn Lagerhaus.^ae
+			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardWork ^n ^ml60 ^mc
+			Sie können die Arbeit auf dem Obstgarten aktivieren bzw. deaktivieren, in dem Sie den Button 'Arbeiten'
+            umschalten. Im deaktivierten Zustand werden in den Obstgärten keine neuen Bäume gepflanzt, bewirtschaftet
+            und es findet keine Ernte statt.
+			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardCut ^n ^ml60 ^mc
+			Wenn Sie in einem Obstgarten die wachsende Baumart ändern möchten oder dringend Holz benötigen, können Sie
+			auf den Button 'Abholzen' klicken.
+			^ml0 ^me ^n
+			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+            wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
+			^p
+			In dem Zeitraum zwischen Bepflanzung und Abernten des Ackers pflegen die Bauern den Obstgarten,
+			was das Obst bzw. die Nüsse in den Bäumen schneller wachsen lässt. Im Winter ist in den Obstgärten nichts zu
+			tun, währenddessen arbeiten die Bauern als normale ^i0ProfessionLaborer ^abProfession Arbeiter ^ae weiter.
+			^p
+			Wenn es im Verlaufe des Jahres ^abDisaster zu früh kalt wird,^ae wächst das Obst in den Bäumen schlecht oder
+			fällt ab. Des Weiteren können die Bäume von ^abDisaster Schädlingen^ae befallen werden, wodurch die Bäume
+			krank werden und sterben. Dies kann zu großen Ernteausfällen führen. Ein befallener Obstgarten sollte
+			unverzüglich abgeerntet werden. Anschließend sollten der Obstgarten zeitnah abgeholzt und
+			ein anderer Baumtyp angepflanzt werden. Dies verhindert, dass der Befall erneut auftritt.
+			^p
+			^jc ^i3OrchardInfestation ^n ^f0 Schädlingsbefall in einem Obstgarten. ^f1 ^jl ";
 		}
 	]
 }
