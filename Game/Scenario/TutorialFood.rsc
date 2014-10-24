@@ -196,7 +196,7 @@ Sie können steuern, wie viele Tiere auf der Weide gehalten werden sollen, indem 
 			String _name = "Step_Hunter_2_Pre";
 			String _text = "Jäger jagen das in der Gegend um die Jagdhütte umherziehende Wild.
 
-Neben Nahrung produzieren Jäger auch Leder, welches von den Schneidern verwendet, um Kleidung anzufertigen.";
+Neben Nahrung produzieren Jäger auch Leder, welches von den Schneidern verwendet wird, um Kleidung anzufertigen.";
 		}
 		{
 			String _name = "Step_Hunter_3_Pre";
