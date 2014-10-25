@@ -65,8 +65,8 @@ Hilfe (Raw translation):
 
 [x] ToolbarFood Nahrungsproduktion
     [x] CropField Äcker
-    [ ] Orchard Obstgärten
-    [ ] Pasture Viehweiden
+    [x] Orchard Obstgärten
+    [x] Pasture Viehweiden
     [ ] FishingDock Fischerhütten
     [ ] HunterLodge Jagdhütte
     [ ] GathererHut Sammler

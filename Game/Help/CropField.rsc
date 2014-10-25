@@ -20,8 +20,8 @@ StringTable resource
 			werden, diese übernehmen das Anpflanzen, Bewässern und Ernten der Feldfrüchte.
 			^p
 			^mb ^mc ^dDialogCropField ^ml286 ^mc
-			Nach der Platzierung eines Ackers, können sie durch Klick darauf in dem dazugehörigen Detailfenster
-			den aktuellen Ertrag einstehen.
+			Nach der Platzierung eines Ackers, können Sie durch Klick darauf in dem dazugehörigen Detailfenster
+			den aktuellen Ertrag einsehen.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldSeed ^n ^ml60 ^mc
 			Bevor mit der Bepflanzung begonnen werden kann, muss zunächst über den Button mit dem großen Fragezeichen
 			ein anzubauender Samentyp ausgewählt werden. Neue Samentypen können am ^abTradingPost Handelsposten^ae
