@@ -15,23 +15,25 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleHuntingCabin ^mc ^f3 ^jl ^c0
 			^dUIFood ^i0ArrowRight ^dUIHunterLodge ^s Jagdhütte ^c0 ^f1 ^n
 			^i0Log x34 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			Â HÛNTÎNG CÂBÎN CÂN BÊ PLÂCÊD ÎN ÂN ÔPÊN ÂRÊÂ WHÊRÊ WÎLD ÂNÎMÂLS RÔÂM. ^i0ProfessionHunter ^s
-			^abPRÔFÊSSÎÔN HÛNTÊRS ^ae WÎLL SÊÂRCH THÊ ÂRÊÂ ÂRÔÛND THÊ CÂBÎN ÎN SÊÂRCH ÔF ÂNÎMÂLS. ÎN ÂDDÎTÎÔN TÔ
-			PRÔVÎDÎNG MÊÂT, HÛNTÊRS ÛSÊ THÊ ÂNÎMÂLS HÎDÊ FÔR LÊÂTHÊR WHÎCH CÂN BÊ TÛRNÊD ÎNTÔ CLÔTHÎNG BY Â
-			^abTÂÎLÔR TÂÎLÔR.^ae
+			Jagdhütten können in der Nähe von weitläufigen Wiesen und kleinen Wäldern platziert werden, in denen
+			wilde Tiere leben. ^i0ProfessionHunter ^s ^abProfession Jäger ^ae suchen und jagen dann das in der
+			Umgebung der Jagdhütte herumziehende Wild und produzieren so zusätzliche Nahrung und Leder. Letzteres kann
+			vom ^abTailor Schneider^ae weiterverwendet werden, um Kleidung herzustellen.
 			^p
-			WÎLD ÂNÎMÂLS GÊNÊRÂLLY ÂVÔÎD ÂRÊÂS ÔF CÎVÎLÎZÂTÎÔN, SÔ ÎT'S BÊST TÔ PLÂCÊ HÛNTÎNG CÂBÎNS ÂWÂY FRÔM TÔWN.
+			Jagdhütten sollten am besten abseits der Stadt platziert werden, da das Wild bewohnte Gegenden
+			generell vermeidet.
 			^p
-			ÔNCÊ Â HÛNTÊR KÎLLS ÂN ÂNÎMÂL, THÊY'LL RÊTÛRN THÊ MÊÂT ÂND LÊÂTHÊR TÔ THÊ NÊÂRÊST
-			^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Sobald ein Jäger ein Tier erlegt hat, verarbeitet er es zu Wildbret weiter und bringt es zum
+			nächsten ^abStorageBarn Lagerhaus.^ae
 			^p
-			^mb ^mc ^dDialogHunting ^ml320 ^mc CLÎCKÎNG ÔN THÊ HÛNTÎNG CÂBÎN WÎLL SHÔW ÎTS DÊTÂÎLS.
-			^p
-			THÊ FÔÔD LÎMÎT CÔNTRÔL SÊTS THÊ FÔÔD ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ FÔÔD
-			WÎLL BÊ PRÔDÛCÊD.
+			^mb ^mc ^dDialogHunting ^ml320 ^mc
+			Mit einem Klick auf die Fischerhütte wird das dazugehörige Detailfenster eingeblendet.
+            ^ml0 ^me
+			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+            wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogHuntingWork ^n ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL ÊNÂBLÊ ÔR DÎSÂBLÊ WÔRK ÂT THÊ HÛNTÎNG CÂBÎN. ÎF WÔRK ÎS DÎSÂBLÊD NÔ HÛNTÊRS
-			WÎLL ÂTTÊMPT TÔ SHÔÔT WÎLD GÂMÊ NÊÂR THÊ BÛÎLDÎNG.
+			Durch Umschalten des Buttons 'Arbeiten' kann die Arbeit in der Jagdhütte eingestellt werden bzw. wieder
+            aufgenommen wird. Wird die Jagdhütte deaktiviert, schießen die Jäger nicht länger Wild.
 			^ml0 ^me ";
 		}
 	]

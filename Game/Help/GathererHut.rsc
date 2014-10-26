@@ -15,24 +15,24 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleGathererHut ^mc ^f3 ^jl ^c0
 			^dUIFood ^i0ArrowRight ^dUIGathererHut ^s Sammler ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			Â GÂTHÊRÊRS HÛT CÂN BÊ PLÂCÊD ÎN THÊ FÔRÊST WHÊRÊ ÊDÎBLÊ PLÂNTS GRÔW. ^i0ProfessionGatherer ^s
-			^abPRÔFÊSSÎÔN GÂTHÊRÊRS ^ae WÎLL SÊÂRCH THÊ ÂRÊÂ ÂRÔÛND THÊ HÛT ÎN SÊÂRCH ÔF RÔÔTS, BÊRRÎÊS, MÛSHRÔÔMS,
-			ÂND ÔTHÊR ÊDÎBLÊ PLÂNTS.
+			Sammlerhütten können in der Nähe von Wäldern platziert werden, in denen essbare Pflanzen, Beeren, Pilze
+			und Wurzeln wachsen. Die ^i0ProfessionGatherer ^abProfession Sammler^ae suchen und sammeln dann in der
+			Umgebung der Jagdhütte die wild wachsende Nahrung.
 			^p
-			THÊSÊ ÊDÎBLÊ PLÂNTS ÔNLY GRÔW ÎN FÔRÊSTS, SÔ KÊÊPÎNG Â LÂRGÊ ÂMÔÛNT ÔF FÔRÊST ÂRÔÛND THÊ BÛÎLDÎNG PRÔDÛCÊS
-			THÊ MÔST FÔÔD.
+			Die essbaren Pflanzen wachsen nur in Wäldern. Um den größten Ertrag zu erzielen sollte die Hütte daher von
+			dichtem Wald umgeben sein.
 			^p
-			ÔNCÊ Â GÂTHÊRÊR FÎLLS THÊÎR ÎNVÊNTÔRY WÎTH FÔÔD, THÊY'LL PLÂCÊ THÊ ÎTÊMS ÎN THÊ NÊÂRÊST
-			^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Sobald ein Sammler so viel gesammelt hat, dass sein Inventar voll ist, bringt er die Nahrung zum
+            nächsten ^abStorageBarn Lagerhaus.^ae
 			^p
 			^mb ^mc ^dDialogGatherer ^ml320 ^mc
-			CLÎCKÎNG ÔN THÊ GÂTHÊRÊRS HÛT WÎLL SHÔW ÎTS DÊTÂÎLS.
-			^p
-			THÊ FÔÔD LÎMÎT CÔNTRÔL SÊTS THÊ FÔÔD ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ FÔÔD
-			WÎLL BÊ PRÔDÛCÊD.
+			Mit einem Klick auf die Sammlerhütte wird das dazugehörige Detailfenster eingeblendet.
+            ^ml0 ^me
+			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+            wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogGathererWork ^n ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL ÊNÂBLÊ ÔR DÎSÂBLÊ WÔRK ÂT THÊ GÂTHÊRÊRS HÛT. ÎF WÔRK ÎS DÎSÂBLÊD NÔ
-			GÂTHÊRÊRS WÎLL ÂTTÊMPT TÔ FÎND ÊDÎBLÊ PLÂNTS ÎN THÊ FÔRÊST NÊÂR THÊ BÛÎLDÎNG.
+			Durch Umschalten des Buttons 'Arbeiten' kann die Arbeit in der Sammlerhütte eingestellt werden bzw. wieder
+            aufgenommen wird. Die Deaktivierung des Gebäudes stoppt die weitere Nahrungssuche.
 			^ml0 ^me ";
 		}
 	]

@@ -15,19 +15,21 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleFishingDock ^mc ^f3 ^jl ^c0
 			^dUIFood ^i0ArrowRight ^dUIFishingDock ^s Fischerhütte ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x16 ^me ^f1 ^c0 ^jl ^vb
-			Â FÎSHÎNG DÔCK CÂN BÊ BÛÎLT ÔN THÊ ÊDGÊ ÔF Â LÂKÊ ÔR RÎVÊR TÔ ÂLLÔW ^i0ProfessionFisherman ^s
-			^abPRÔFÊSSÎÔN FÎSHÊRMÊN ^ae TÔ CÂTCH FÎSH ÎN THÊ WÂTÊR.
+			An Flüssen, Seen oder anderen Gewässern können Fischerhütten gebaut werden, welche
+			^i0ProfessionFisherman ^abProfession Fischern^ae einen Platz zum Angeln zur zusätzlichen
+			Nahrungsversorgung bieten.
 			^p
-			ÔNCÊ Â FÎSHÊRMÂN CÂTCHÊS ÊNÔÛGH FÎSH TÔ FÎLL HÎS ÔR HÊR ÎNVÊNTÔRY, THÊY'LL RÊTÛRN THÊ FÎSH TÔ THÊ NÊÂRÊST
-			^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Sobald die Angler genug Fisch gefangen haben und ihr Inventar gefüllt ist, bringen sie den Fang zum
+			nächsten ^abStorageBarn Lagerhaus.^ae
 			^p
-			^mb ^mc ^dDialogFishingDock ^ml320 ^mc CLÎCKÎNG ÔN Â FÎSHÎNG DÔCK WÎLL SHÔW ÎTS DÊTÂÎLS.
-			^p
-			THÊ FÔÔD LÎMÎT CÔNTRÔL SÊTS THÊ FÔÔD ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ FÔÔD
-			WÎLL BÊ PRÔDÛCÊD.
+			^mb ^mc ^dDialogFishingDock ^ml320 ^mc
+			Mit einem Klick auf die Fischerhütte wird das dazugehörige Detailfenster eingeblendet.
+			^ml0 ^me
+			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+            wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogFishingDockWork ^n ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL ÊNÂBLÊ ÔR DÎSÂBLÊ WÔRK ÂT THÊ FÎSHÎNG DÔCK. ÎF WÔRK ÎS DÎSÂBLÊD NÔ FÎSHÊRMÊN
-			WÎLL ÂTTÊMPT TÔ CÂTCH FÎSH ÂT THÊ BÛÎLDÎNG.
+			Durch Umschalten des Buttons 'Arbeiten' kann die Arbeit in der Fischerhütte eingestellt werden bzw. wieder
+			aufgenommen wird. Die Einstellung der Arbeit sorgt dafür, dass die Fischer nicht weiter angeln.
 			^ml0 ^me ";
 		}
 	]
