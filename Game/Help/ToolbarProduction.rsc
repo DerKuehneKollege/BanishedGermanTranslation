@@ -12,7 +12,28 @@ StringTable resource
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIProduction ^s Ressourcenproduktion ^f1 ^jl ^vb THÊ RÊSÔÛRCÊ PRÔDÛCTÎÔN TÔÔLBÂR ÂLLÔWS YÔÛ TÔ CÔNSTRÛCT BÛÎLDÎNGS THÂT CRÊÂTÊ RÊSÔÛRCÊS THÂT THÊ PÔPÛLÂTÎÔN NÊÊDS. ^p CLÔTHÊS CÂN BÊ MÂDÊ BY Â TÂÎLÔR, TÔÔLS CÂN BÊ MÂDÊ BY Â BLÂCKSMÎTH, ÂND FÎRÊWÔÔD CÂN BÊ MÂDÊ BY Â WÔÔDCÛTTÊR. ÔTHÊR BÛÎLDÎNGS PRÔDÛCÊ RÊSÔÛRCÊS FRÔM THÊ LÂND, SÛCH ÂS FÎNDÎNG HÊRBS ÎN THÊ FÔRÊST TÔ ÎNCRÊÂSÊ HÊÂLTH ÂND MÎNÎNG THÊ LÂND FÔR STÔNÊ, ÎRÔN, ÔR CÔÂL. ^p ^jc ^dUIToolbarProduction ^jl ^vc ^lb ^lb ^lo ^dUIWoodCutter ^s ^abWÔÔDCÛTTÊR WÔÔD CÛTTÊR:^ae BÛÎLD Â WÔÔD CÛTTÊR TÔ CHÔP LÔGS ÎNTÔ FÎRÊWÔÔD. ^lo ^dUIForester ^s ^abFÔRÊSTÊR FÔRÊSTÊR LÔDGÊ:^ae BÛÎLD Â FÔRÊSTÊR TÔ PLÂNT ÂND CÛT DÔWN TRÊÊS. ^lo ^dUIHerbalist ^s ^abHÊRBÂLÎST HÊRBÂLÎST:^ae BÛÎLD ÂN HÊRBÂLÎST TÔ CÔLLÊCT HÊRBS ÂND PRÔVÎDÊ MÊDÎCÎNÊ. ^lo ^dUIBlacksmith ^s ^abBLÂCKSMÎTH BLÂCKSMÎTH:^ae BÛÎLD Â BLÂCKSMÎTH TÔ CRÊÂTÊ TÔÔLS FRÔM LÔGS ÂND ÎRÔN. ^lo ^dUITailor ^s ^abTÂÎLÔR TÂÎLÔR:^ae BÛÎLD Â TÂÎLÔR TÔ MÂKÊ CLÔTHÊS FRÔM LÊÂTHÊR ÂND WÔÔL. ^lo ^dUITavern ^s ^abTÂVÊRN TÂVÊRN:^ae BÛÎLD Â TÂVÊRN TÔ PRÔVÎDÊ HÂPPÎNÊSS TÔ CÎTÎZÊNS. ^lo ^dUIMine ^s ^abMÎNÊ MÎNÊ:^ae BÛÎLD Â MÎNÊ TÔ DÎG ÎRÔN ÔR CÔÂL FRÔM THÊ GRÔÛND. ^lo ^dUIQuarry ^s ^abQÛÂRRY QÛÂRRY:^ae BÛÎLD Â QÛÂRRY TÔ CÛT STÔNÊ FRÔM THÊ GRÔÛND. ^le ^le ";
+			String _text = " ^f3 ^jl ^dUIProduction ^s Ressourcenproduktion ^f1 ^jl ^vb
+			Im Menü 'Ressourcenproduktion' stehen weitere Produktionsgebäude zur Auswahl, welche den Bedarf einiger
+			Rohstoffe der Stadt abdecken können.
+			^p
+			Kleidung wird vom Schneider hergestellt, der Schmied fertigt Werkzeug und Feuerholz wird vom Holzhacker
+			hergestellt. In anderen Gebäuden werden Rohstoffe aus der Umgebung weiterverarbeitet: Der Kräutersammler
+			sammelt in den Wäldern wild wachsende Kräuter, um die Gesundheit der Bevölkerung zu erhöhen. Ebenfalls
+			stehen die Mine und der Steinbruch zur Auswahl, in welchen Eisen und Kohle bzw. Stein abgebaut wird.
+			^p
+			^jc ^dUIToolbarProduction ^jl ^vc ^lb ^lb
+			^lo ^dUIWoodCutter ^s ^abWoodCutter Holzhacker:^ae Holzhacker zerhacken Holz zu Brennholzscheite.
+			^lo ^dUIForester ^s ^abForester Forsthaus:^ae Förster pflanzen in den Wäldern neue Bäume und holzen
+			ausgewachsene Bäume ab.
+			^lo ^dUIHerbalist ^s ^abHerbalist Kräutersammler:^ae Kräutersammler versorgen die Bevölkerung mit
+			Heilkräutern, welche die Gesundheit steigern.
+			^lo ^dUIBlacksmith ^s ^abBlacksmith Schmied:^ae Schmiede stellen aus Holz und Eisen Werkzeug her.
+			^lo ^dUITailor ^s ^abTailor Schneiderei:^ae Schneider fertigen aus Leder und Wolle Kleidung.
+			^lo ^dUITavern ^s ^abTavern Wirtshaus:^ae Wirtshäuser schenken Bier aus und sorgen für eine zufriedene
+			Bevölkerung.
+			^lo ^dUIMine ^s ^abMine Mine:^ae In Minen bauen Bergarbeiter Eisen und Kohle aus dem Untergrund ab.
+			^lo ^dUIQuarry ^s ^abQuarry Steinbruch:^ae In Steinbrüchen wird Gestein aus der Erdschicht abgebaut.
+			^le ^le ";
 		}
 	]
 }
