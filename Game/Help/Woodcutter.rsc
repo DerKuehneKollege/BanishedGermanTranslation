@@ -14,25 +14,29 @@ StringTable resource
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleCutter ^mc ^f3 ^jl ^c0 ^dUIProduction
 			^i0ArrowRight ^dUIWoodCutter ^s Holzhacker ^c0 ^f1 ^n
-			^i0Log x24 ^i0Stone x8 ^me ^f1 ^c0 ^jl ^vb Â ^i0ProfessionCutter ^s
-			^abPRÔFÊSSÎÔN WÔÔDCÛTTÊR ^ae WÔRKÎNG ÂT Â WÔÔD CÛTTÊRS BÛÎLDÎNG WÎLL CHÔP LÔGS ÎNTÔ FÎRÊWÔÔD. FÎRÊWÔÔD ÎS
-			ÛSÊD BY ÂLL CÎTÎZÊNS TÔ HÊÂT THÊÎR ^abWÔÔDHÔÛSÊ HÔMÊS.^ae WÎTHÔÛT Â HÊÂTÊD HÔMÊ ÎN THÊ WÎNTÊR, CÎTÎZÊNS
-			MÂY FRÊÊZÊ TÔ DÊÂTH.
+			^i0Log x24 ^i0Stone x8 ^me ^f1 ^c0 ^jl ^vb
+			Dieses Gebäude stellt für den ^i0ProfessionCutter ^abProfession Holzhacker^ae einen Hackklotz zur
+			Weiterverarbeitung von Holz in Brennholz zur Verfügung. Die Bevölkerung benötigt Feuerholz, um ihre
+			^abWoodHouse Wohnstätten^ae zu heizen. Steht nicht genügend Brennholz zur Verfügung, laufen die Siedler der
+			Stadt in Gefahr zu erfrieren.
 			^p
-			WHÊN THÊRÊ ÂRÊ NÔ LÔGS ÎN THÊ WÔÔD CÛTTÊRS ÎNVÊNTÔRY, HÊ ÔR SHÊ WÎLL TRÂVÊL TÔ THÊ
-			NÊÂRÊST ^abSTÔCKPÎLÊ STÔCK PÎLÊ^ae THÂT HÂS LÔGS ÂND BRÎNG THÊM BÂCK TÔ THÊ BÛÎLDÎNG. THÊ WÔRKÊR WÎLL THÊN
-			CÛT THÊ LÔGS ÎNTÔ FÎRÊWÔÔD.
+			Wenn im Lager des Gebäudes die Holzvorräte zur Neige gehen, geht der Arbeiter zum nächstgelegenen
+			^abStockPile Lagerplatz^ae, auf welchem Holz gelagert wird und bringt von dort einen neuen Vorrat Holz zu
+			seinem Arbeitsplatz. Dort wird das Holz anschließend zu Brennholzscheiten zerhackt.
 			^p
-			ÂFTÊR FÎRÊWÔÔD HÂS BÊÊN CÛT, THÊ WÔÔD CÛTTÊR WÎLL PÎCK ÛP THÊ FÎRÊWÔÔD ÂND STÔRÊ ÎT ÎN THÊ NÊÂRÊST
-			^abSTÔCKPÎLÊ STÔCK PÎLÊ.^ae
+			Nach der Herstellung von neuem Feuerholz bringt der Holzhacker es anschließend zum nächstgelegenen
+			^abStockPile Lagerplatz,^ae wo es dann für die Siedler zur Verfügung steht.
 			^p
 			^mb ^mc ^dDialogWoodCutter ^ml306 ^mc
-			CLÎCKÎNG ÔN Â WÔÔD CÛTTÊRS BÛÎLDÎNG WÎLL SHÔW THÊ BÛÎLDÎNGS CÛRRÊNT ÎNVÊNTÔRY. ^ml0 ^me ^n THÊ FÛÊL LÎMÎT
-			CÔNTRÔL SÊTS THÊ FÎRÊWÔÔD ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ FÎRÊWÔÔD WÎLL BÊ
-			PRÔDÛCÊD.
+			Durch einen Klick auf das Gebäude des Holzhackers wird das dazugehörige Detailfenster aufgerufen, in welchem
+			der aktuelle Vorrat im Lager des Gebäudes angezeigt wird.
+			^ml0 ^me ^n
+			Über das Feld 'Brennholz-Limit' kann das ^abLimit Ressourcenlimit^ae für Brennholz eingestellt werden.
+			Sobald dieses Limit erreicht wird, werden keine weiteren Brennholzscheite mehr produziert.
 			^p
-			^mb ^mc ^dDialogWoodCutterWork ^n ^ml60 ^mc PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL ÊNÂBLÊ ÔR DÎSÂBLÊ WÔRK ÂT THÊ
-			BÛÎLDÎNG. ÎF WÔRK ÎS DÎSÂBLÊD NÔ NÔ FÎRÊWÔÔD WÎLL BÊ PRÔDÛCÊD ÂT THÊ BÛÎLDÎNG.
+			^mb ^mc ^dDialogWoodCutterWork ^n ^ml60 ^mc
+			Durch Umschalten des 'Arbeiten'-Buttons kann die Arbeit in dem Gebäude eingestellt bzw. wiederaufgenommen
+			werden. Die Einstellung der Arbeit hat zur Folge, dass kein weiteres Brennholz mehr produziert wird.
 			^ml0 ^me ";
 		}
 	]

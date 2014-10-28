@@ -6,7 +6,7 @@ Allgemein:
 - Untere Menüleiste -> Hauptleiste
 
 TODOs:
-TODO: "Schneiderei" umbenennen in "Schneider"
+TODO: "Schneiderei" ggf. umbenennen in "Schneider"
 TODO: Bilder in der Hilfe ebenfalls übersetzen
 TODO: Zu kleine Fenster (bspw. Viehweide) anpassen und vergrößern
 TODO: Rechtschreibüberprüfung mit WebStorm
@@ -14,6 +14,9 @@ TODO: "Gebäudebau und Gebäude" klingt blöd
 TODO: "Abreißen"/"Abriss" mit "ß" oder mit "ss"?
 TODO: "Sammler" -> "Sammlerhütte"
 TODO: In Single Quotes '' gesetzte Wörter orange hervorheben, so wie es woanders auch gemacht
+TODO: Holzscheite / HolzscheiteN überprüfen
+TODO: Check: Ressourcenlimit vs. Ressourcen-Limit
+TODO: Bei manchen Hilfeseiten sind die Bilder verrutscht. Korrigieren! Eine schöne Formatierung ist auf der Seite Woodcutter
 
 Hilfe (Raw translation):
 [x] Contents, Übersicht
@@ -69,10 +72,10 @@ Hilfe (Raw translation):
     [x] Pasture Viehweiden
     [x] FishingDock Fischerhütten
     [x] HunterLodge Jagdhütte
-    [ ] GathererHut Sammler
+    [x] GathererHut Sammler
 
-[ ] ToolbarProduction Ressourcenproduktion
-    [ ] Woodcutter Holzhacker
+[x] ToolbarProduction Ressourcenproduktion
+    [x] Woodcutter Holzhacker
     [ ] Forester Förster
     [ ] Herbalist Kräutersammler
     [ ] Blacksmith Schmied
