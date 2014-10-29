@@ -14,32 +14,38 @@ StringTable resource
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBlacksmith ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIBlacksmith ^s Schmied ^c0 ^f1 ^n
-			^i0Log x32 ^i0Stone x55 ^i0Iron x32 ^me ^f1 ^c0 ^jl ^vb ^s
-			Â ^i0ProfessionToolMaker ^abPRÔFÊSSÎÔN BLÂCKSMÎTH ^ae CÂN MÂKÊ NÊW TÔÔLS. ^abCÎTÎZÊN CÎTÎZÊNS^ae NÊÊD TÔÔLS
-			TÔ DÔ ÂNY WÔRK ÔTHÊR THÂN CÂRRYÎNG GÔÔDS FRÔM PLÂCÊ TÔ PLÂCÊ.
+			^i0Log x32 ^i0Stone x55 ^i0Iron x32 ^me ^f1 ^c0 ^jl ^vb
+			Der ^i0ProfessionToolMaker ^abProfession Schmied ^ae kann neues Werkzeug herstellen. ^abCitizen Siedler^ae
+			benötigen abgesehen vom Warentransport für jegliche Arbeiten Werkzeug, um effizient arbeiten zu können.
 			^p
-			ÎF Â CÎTÎZÊN DÔÊSN'T HÂVÊ Â TÔÔL, THÊY WÎLL WÔRK MÛCH SLÔWÊR ÂND RÊSÔÛRCÊ PRÔDÛCTÎÔN WÎLL BÊ SÊVÊRÊLY
-			LÎMÎTÊD. THÊ MÔRÊ WÔRK THÂT ÎS DÔNÊ WÎTH Â TÔÔL, THÊ FÂSTÊR ÎT WÎLL WÊÂR ÔÛT ÂND NÊÊD RÊPLÂCÎNG.
+			Wenn einem Siedler kein Werkzeug zur Verfügung steht, arbeitet er sehr stark verlangsamt und braucht sehr
+			lange, um Ressourcen zu produzieren. Werkzeug verschleißt mit der Zeit, je mehr Arbeiten ein Siedler
+			ausführt, desto schneller muss das Werkzeug ersetzt werden.
 			^p
-			WHÊN THÊ BLÂCKSMÎTH ÎS LÔW ÔN THÊ MÂTÊRÎÂLS NÊÊDÊD TÔ MÂKÊ TÔÔLS, HÊ ÔR SHÊ WÎLL TRÂVÊL TÔ THÊ NÊÂRÊST
-			^abSTÔCKPÎLÊ STÔCK PÎLÊ^ae THÂT HÂS THÊM ÂND BRÎNG THÊM BÂCK TÔ THÊ BÛÎLDÎNG. THÊ BLÂCKSMÎTH WÎLL THÊN
-			CRÂFT TÔÔLS.
+			Wenn ein Schmied zu wenig Ressourcen in seiner Hütte hat um Werkzeug herzustellen, geht er zum
+			nächstgelegenen ^abStockPile Lagerplatz, ^ae welcher die Ressourcen zur Verfügung hat und bringt sie
+			zu seiner Hütte. Anschließend beginnt er mit der Herstellung.
 			^p
-			ÂFTÊR THÊ TÔÔLS HÂVÊ BÊÊN MÂDÊ, THÊ BLÂCKSMÎTH ÔR Â GÊNÊRÂL LÂBÔRÊR WÎLL PÎCK ÛP THÊ TÔÔLS ÂND STÔRÊ THÊM
-			ÎN THÊ NÊÂRÊST ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Nachdem Werkzeug produziert wurde, bringt der Schmied oder ein Arbeiter sie zur Aufbewahrung zum nächsten
+			^abStorageBarn Lagerhaus.^ae
 			^p
-			^mb ^mc ^dDialogBlacksmith ^ml304 ^mc CLÎCKÎNG ÔN Â BLÂCKSMÎTHS BÛÎLDÎNG WÎLL SHÔW THÊ CÛRRÊNT ÎNVÊNTÔRY ÂND
-			ÔTHÊR DÊTÂÎLS.
+			^mb ^mc ^dDialogBlacksmith ^ml304 ^mc
+			Ein Klick auf die Hütte des Schmieds ruft das entsprechende Detailfenster auf, in
+			welchem der aktuelle Lagerstand und andere Informationen angezeigt werden.
 			^p
-			THÊ TÔÔL LÎMÎT CÔNTRÔL SÊTS THÊ TÔÔL ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT.^ae ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ TÔÔLS
-			WÎLL BÊ PRÔDÛCÊD. ^ml0 ^me ^n THÊ BLÂCKSMÎTH CÂN MÂKÊ TWÔ KÎNDS ÔF TÔÔLS. YÔÛ CÂN CHÂNGÊ THÊ TYPÊ ÔF
-			TÔÔL PRÔDÛCÊD BY SÊLÊCTÎNG Â DÎFFÊRÊNT ÎTÊM ÛSÎNG THÊ PRÔDÛCT BÛTTÔN.
+			Es kann ein ^abLimit Ressourcenlimit ^ae für Werkzeug eingestellt werden. Sobald das Limit erreicht wird,
+			wird die Produktion von Werkzeug vorübergehen eingestellt.
+			^ml0 ^me ^n
+			In Banished können zwei verschiedene Arten von Werkzeug hergestellt werden, die zu produzierende
+			Werkzeugart kann ebenfalls im Detailfenster eingestellt werden.
 			^p ^lb
-			^lo ^i0ToolSmall ^s ^c1 ÎRÔN TÔÔLS ^c0 RÊQÛÎRÊ ^i0LogSmall LÔGS ÂND ^i0IronSmall ÎRÔN TÔ MÂKÊ.
-			^lo ^i0SteelToolSmall ^s ^c1 STÊÊL TÔÔLS ^c0 RÊQÛÎRÊ ^i0LogSmall LÔGS, ^i0IronSmall ÎRÔN,
-			ÂND ^i0CoalSmall CÔÂL TÔ MÂKÊ. THÊY LÂST TWÎCÊ ÂS LÔNG ÂS ÎRÔN TÔÔLS.
-			^le ^n ^mb ^mc ^dDialogBlacksmithWork ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL DÎSÂBLÊ ÔR ÊNÂBLÊ THÊ CRÂFTÎNG ÔF TÔÔLS ÂT THÊ BÛÎLDÎNG.
+			^lo ^i0ToolSmall ^s ^c1 Eisenwerkzeug ^c0 benötigt zur Fertigung ^i0LogSmall Holz und ^i0IronSmall Eisen.
+			^lo ^i0SteelToolSmall ^s ^c1 Stahlwerkzeug ^c0 benötigt zur Fertigung ^i0LogSmall Holz, ^i0IronSmall Eisen
+			und ^i0CoalSmall Kohle und hält doppelt so lange wie Eisenwerkzeug.
+			^le
+			^n ^mb ^mc ^dDialogBlacksmithWork ^ml60 ^mc
+			Durch Umschalten des Buttons 'Arbeiten' kann die Herstellung von Werkzeug eingestellt bzw.
+			wiederaufgenommen werden.
 			^ml0 ^me ";
 		}
 	]

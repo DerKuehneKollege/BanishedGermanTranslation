@@ -15,25 +15,32 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleHerbalist ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIHerbalist ^s Kräutersammler ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			ÂN ^i0ProfessionHerbalist ^abPRÔFÊSSÎÔN HÊRBÂLÎST ^ae WÎLL SÊÂRCH THÊ FÔRÊST ÂRÔÛND ÂN HÊRBÂLÎSTS BÛÎLDÎNG
-			FÔR HÊRBS THÂT CÂN BÊ ÛSÊD FÔR MÊDÎCÎNÂL PÛRPÔSÊS. THÊ HÊRBS GÊNÊRÂLLY ÔNLY GRÔW ÎN ÔLDÊR FÔRÊSTS, ÂT THÊ
-			BÂSÊ ÔF ÔLD TRÊÊS.
+			^i0ProfessionHerbalist ^abProfession Kräutersammler ^ae suchen in den Wäldern in der Umgebung ihrer Hütte
+			nach wild wachsenden Heilkräutern. Diese Kräuter wachsen nur in älteren Wäldern an den Wurzeln alter Bäume,
+			weswegen die Hütte nicht in von Förstern bewirtschafteten Waldstücken platziert werden sollte, da sich dort
+			kaum alte Bäume befinden.
 			^p
-			ÔNCÊ ÂN HÊRBÂLÎST HÂS FÎLLÊD HÎS ÎNVÊNTÔRY WÎTH HÊRBS, ÔR NÔ MÔRÊ CÂN BÊ FÔÛND, THÊY'LL RÊTÛRN THÊ HÊRBS TÔ
-			THÊ NÊÂRÊST ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Sobald ein Kräutersammler so viel Heilkräuter gesammelt hat, dass seine Taschen voll sind oder keine Kräuter
+			mehr zu finden sind, bringen sie die Ausbeute zum nächstgelegenen ^abStorageBarn Lagerhaus^ae.
 			^p
-			ÎF Â ^abCÎTÎZÊN CÎTÎZÊNS^ae HÊÂLTH ÎS LÂCKÎNG, THÊY WÎLL ÂCQÛÎRÊ ÂN HÊRB FRÔM Â ^abMÂRKÊT MÂRKÊT^ae ÔR
-			^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN,^ae ÂND THÊN TÂKÊ ÎT TÔ THÊ HÊRBÂLÎST. THÊ HÊRBÂLÎST WÎLL PRÊPÂRÊ THÊ HÊRB ÂND
-			ÎNCRÊÂSÊ THÊ CÎTÎZÊNS HÊÂLTH SLÎGHTLY. ÂN HÊRBÂLÎST MÛST BÊ WÔRKÎNG ÂT THÊ LÔCÂTÎÔN TÔ GÎVÊ THÊ MÊDÎCÎNÊ TÔ
-			THÊ CÎTÎZÊN.
+			Wenn ^abCitizen Siedler^ae unter niedriger Gesundheit leiden, holen sie bei Verfügbarkeit automatisch eine
+			Einheit Kräuter vom ^abMarket Markt^ab bzw. aus dem ^abStorageBarn Lagerhaus^ae und gehen damit zur Hütte
+			des Kräutersammlers. Der Kräutersammler bereitet dann aus den Kräutern eine Medizin zu, die die Gesundheit
+			der Siedler ein wenig wiederherstellt. Dafür ist es erforderlich, dass gerade ein Kräutersammler in der Hütte
+			arbeitet. Auf diese Weise ist es möglich, dass Siedler ihre Gesundheit über die Zeit wieder voll
+			regenerieren können.
 			^p
-			ÎF Â CÎTÎZÊNS DÎÊT ÎS PÔÔR, TÂKÎNG HÊRBS ÂS MÊDÎCÎNÊ WÎLL MÂKÊ ÛP FÔR THÊ LÂCK ÔF FÔÔD VÂRÎÊTY.
+			Die Gesundheit der Siedler sinkt hauptsächlich durch ungesunde Ernährung, wenn nur eine geringe Vielfalt an
+			verschiedenen Nahrungsmitteln zur Auswahl steht. Durch den Kräutersammler ist es möglich solch ein Defizit
+			wieder auszugleichen.
 			^p
-			^mb ^mc ^dDialogHerbalist ^ml318 ^mc CLÎCKÎNG ÔN THÊ HÊRBÂLÎST WÎLL SHÔW ÎTS DÊTÂÎLS.
-			^ml0 ^me ^n ^mb ^mc ^dDialogHerbalistWork ^n ^ml60 ^mc PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL DÎSÂBLÊ ÔR ÊNÂBLÊ THÊ
-			CÔLLÊCTÎÔN ÔF HÊRBS ÂT THÊ BÛÎLDÎNG.
-			^ml0 ^me ^n THÊ HÊRB LÎMÎT CÔNTRÔL SÊTS THÊ HÊRB ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ
-			MÔRÊ HÊRBS WÎLL BÊ CÔLLÊCTÊD. ";
+			^mb ^mc ^dDialogHerbalist ^ml318 ^mc
+			Mit einem Klick auf die Hütte kann das dazugehörige Detailfenster eingeblendet werden.
+			^ml0 ^me ^n ^mb ^mc ^dDialogHerbalistWork ^n ^ml60 ^mc
+			Durch Umschalten des Buttons 'Arbeiten' kann das Kräutersammeln eingestellt bzw. wiederaufgenommen werden.
+			^ml0 ^me ^n
+			Des Weiteren lässt sich ein ^abLimit Ressourcenlimit ^ae für Kräuter einstellen. Wenn dieses Limit
+			erreicht wird, werden vorerst keine weiteren Kräuter mehr gesammelt. ";
 		}
 	]
 }

@@ -17,6 +17,7 @@ TODO: In Single Quotes '' gesetzte Wörter orange hervorheben, so wie es woander
 TODO: Holzscheite / HolzscheiteN überprüfen
 TODO: Check: Ressourcenlimit vs. Ressourcen-Limit
 TODO: Bei manchen Hilfeseiten sind die Bilder verrutscht. Korrigieren! Eine schöne Formatierung ist auf der Seite Woodcutter
+TODO: ^ab<ID> <Value>^ae: Leerzeichen, Punkt- und Kommasetzung überprüfen
 
 Hilfe (Raw translation):
 [x] Contents, Übersicht
@@ -76,11 +77,11 @@ Hilfe (Raw translation):
 
 [x] ToolbarProduction Ressourcenproduktion
     [x] Woodcutter Holzhacker
-    [ ] Forester Förster
-    [ ] Herbalist Kräutersammler
-    [ ] Blacksmith Schmied
-    [ ] Tailor Schneidereien
-    [ ] Tavern Wirtshäuser
+    [x] Forester Förster
+    [x] Herbalist Kräutersammler
+    [x] Blacksmith Schmied
+    [x] Tailor Schneidereien
+    [x] Tavern Wirtshäuser
     [ ] Mine Minen
     [ ] Quarry Steinbrüche
 

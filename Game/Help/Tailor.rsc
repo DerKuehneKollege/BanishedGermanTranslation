@@ -15,30 +15,36 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTailor ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUITailor ^s Schneiderei ^c0 ^f1 ^n
 			^i0Log x32 ^i0Stone x48 ^i0Iron x16 ^me ^f1 ^c0 ^jl ^vb
-			Â ^i0ProfessionTailor ^abPRÔFÊSSÎÔN TÂÎLÔR ^ae CÂN MÂKÊ CLÔTHÎNG FÔR THÊ CÎTÎZÊNS ÔF THÊ TÔWN.
-			^abCÎTÎZÊN CÎTÎZÊNS^ae CÂN STÂY ÔÛTSÎDÊ LÔNGÊR ÎN CÔLD WÊÂTHÊR ÎF THÊY HÂVÊ GÔÔD CLÔTHÎNG. ÎT ÂLSÔ MÂKÊS
-			THÊM HÂPPÎÊR. CLÔTHÎNG WÊÂRS ÔÛT ÂFTÊR SÊVÊRÂL YÊÂRS ÂND NÊÊDS TÔ BÊ RÊPLÂCÊD.
+			^i0ProfessionTailor ^abProfession Schneider ^ae können aus Wolle und Leder Kleidung herstellen. Kleidung
+			bietet für ^abCitizen Siedler^ae Ihrer Stadt viele Vorteile - sie ermöglicht es den Siedlern sich bei kaltem
+			Wetter länger draußen aufzuhalten, was die Produktivität erhöht. Ebenfalls gibt Kleidung einen kleinen Bonus
+			auf die Zufriedenheit der Siedler. Kleidung verschleißt nach einigen Jahren und muss dann ersetzt werden.
 			^p
-			WHÊN THÊ TÂÎLÔR ÎS LÔW ÔN THÊ MÂTÊRÎÂLS NÊÊDÊD TÔ MÂKÊ CLÔTHÊS, HÊ ÔR SHÊ WÎLL TRÂVÊL TÔ THÊ NÊÂRÊST
-			^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN^ae THÂT HÂS THÊM ÂND BRÎNG THÊM BÂCK TÔ THÊ BÛÎLDÎNG. THÊ TÂÎLÔR WÎLL THÊN CRÂFT
-			CLÔTHÎNG.
+			Wenn ein Schneider nicht genügend Materialien zur Fertigung in seinem Lager hat, geht er zum nächstgelegenen
+			^abStorageBarn Lagerhaus^ae, welches die benötigten Ressourcen vorrätig hat und bringt sie zurück zu seiner
+			Hütte. Anschließend beginnt er, ein neues Kleidungsstück zu nähen.
 			^p
-			ÂFTÊR CLÔTHÊS HÂVÊ BÊÊN MÂDÊ, THÊ TÂÎLÔR ÔR Â GÊNÊRÂL ^i0ProfessionLaborer ^abPRÔFÊSSÎÔN LÂBÔRÊR ^ae WÎLL
-			PÎCK ÛP THÊ CLÔTHÊS ÂND MÔVÊ THÊ CLÔTHÊS TÔ THÊ NÊÂRÊST ^abSTÔRÂGÊBÂRN STÔRÂGÊ BÂRN.^ae
+			Nach der Produktion einiger Kleidungsstücken bringt der Schneider oder ein ^i0ProfessionLaborer
+			^abProfession Arbeiter^ae die Waren zum nächstgelegenen ^abStorageBarn Lagerhaus.^ae
 			^p
-			^mb ^mc ^dDialogTailor ^ml304 ^mc CLÎCKÎNG ÔN Â TÂÎLÔRS BÛÎLDÎNG WÎLL SHÔW THÊ CÛRRÊNT ÎNVÊNTÔRY ÂND ÔTHÊR
-			DÊTÂÎLS.
+			^mb ^mc ^dDialogTailor ^ml304 ^mc
+			Mit einem Klick auf die Hütte des Schneiders wird das dazugehörige Detailfenster, welches u.a. die
+			gelagerten Ressourcen anzeigt, aufgerufen.
 			^p
-			THÊ CLÔTHÎNG LÎMÎT CÔNTRÔL SÊTS THÊ CLÔTHÎNG ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ
-			MÔRÊ CLÔTHÎNG WÎLL BÊ PRÔDÛCÊD. ^ml0 ^me ^n THÊ TÂÎLÔR CÂN MÂKÊ SÊVÊRÂL TYPÊS ÔF CLÔTHÎNG. YÔÛ CÂN CHÂNGÊ
-			THÊ TYPÊ ÔF CLÔTHÎNG BY SÊLÊCTÎNG Â DÎFFÊRÊNT ÎTÊM ÛSÎNG THÊ PRÔDÛCT BÛTTÔN.
+			Für Kleidung kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht wird, wird
+			vorübergehen keine weitere Kleidung produziert.
+			^ml0 ^me ^n
+			Schneider können verschiedene Sorten Kleidung herstellen. Sie können die herzustellende Sorte im
+			entsprechenden Auswahlfeld, welches im Detailfenster zu finden ist, einstellen.
 			^p ^lb
-			^lo ^i0LeatherCoatSmall ^s ^c1 HÎDÊ CÔÂTS^c0 RÊQÛÎRÊ ^i0LeatherSmall LÊÂTHÊR TÔ MÂKÊ.
-			^lo ^i0WoolCoatSmall ^s ^c1 WÔÔL CÔÂTS^c0 RÊQÛÎRÊ ^i0WoolSmall WÔÔL TÔ MÂKÊ.
-			^lo ^i0WinterCoatSmall ^s ^c1 WÂRM CÔÂTS ^c0 RÊQÛÎRÊ BÔTH ^i0LeatherSmall LÊÂTHÊR ÂND ^i0WoolSmall ^s WÔÔL.
-			THÊY ÂRÊ TWÎCÊ ÂS WÂRM ÂS ÊÎTHÊR LÊÂTHÊR ÔR WÔÔL CÔÂTS, ÂLLÔWÎNG CÎTÎZÊNS TÔ STÂY WÂRM ÔÛTSÎDÊ MÛCH LÔNGÊR.
+			^lo ^i0LeatherCoatSmall ^s ^c1 Ledermäntel^c0 benötigen zur Fertigung ^i0LeatherSmall Leder.
+			^lo ^i0WoolCoatSmall ^s ^c1 Wollmäntel^c0 benötigen zur Fertigung ^i0WoolSmall Wolle.
+			^lo ^i0WinterCoatSmall ^s ^c1 Wintermäntel ^c0 benötigen zur Fertigung sowohl ^i0LeatherSmall Leder als auch
+			^i0WoolSmall Wolle, halten dafür aber sehr viel besser warm und ermöglichen es den Siedlern sich doppelt
+			so lange wie mit normaler Kleidung aufzuhalten.
 			^le ^n ^mb ^mc ^dDialogTailorWork ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL DÎSÂBLÊ ÔR ÊNÂBLÊ THÊ CRÂFTÎNG ÔF CLÔTHÎNG ÂT THÊ BÛÎLDÎNG.
+			Durch Umschalten des Buttons 'Arbeiten' kann die Produktion von neuer Kleidung in der Schneiderei
+			eingestellt bzw. wiederaufgenommen werden.
 			^ml0 ^me ";
 		}
 	]
