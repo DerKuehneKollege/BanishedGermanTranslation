@@ -27,7 +27,7 @@ StringTable resource
 			^lo ^dUIStockPile ^s ^abStockPile Lagerplatz:^ae Auf Lagerplätzen werden Rohmaterialien wie Holz, Stein, Eisen
 			und Brennmaterial gelagert.
 			^lo ^dUIMarket ^s ^abMarket Markt:^ae Einen Markt bauen, der die Siedler mit verschiedenen Gütern versorgt.
-			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae Einen Handelposten bauen, an welchem regelmäßig
+			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae Einen Handelsposten bauen, an welchem regelmäßig
 			fahrende Händler eintreffen.
 			^le ^le ";
 		}

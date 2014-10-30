@@ -1659,7 +1659,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EventNotifyStorageTip";
-			String _text = "Benachrichtigungen über Ressourcen und Lagerzustand aktivieren.";
+			String _text = "Benachrichtigungen über Ressourcen und Lagerstand aktivieren.";
 		}
 		{
 			String _name = "EventNotifyTownTip";
@@ -4036,7 +4036,7 @@ StringTable objects
 		}
 		{
 			String _name = "ClearWild";
-			String _text = "Wildnahrung sammeln";
+			String _text = "Nahrung sammeln";
 		}
 		{
 			String _name = "ClearWildTip";
@@ -4837,7 +4837,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialGettingStartedDesc";
-			String _text = "Lernen Sie die Grundlagen des Spiels kennen, wie zum Beispiel die Bewegung der Kamera, Errichtung einiger Basisgebäude, Zuteilung von Arbeitern und die Gründung einer neuen Stadt.";
+			String _text = "Lernen Sie die Grundlagen des Spiels kennen, wie zum Beispiel die Bewegung der Kamera, Errichtung einiger grundlegender Gebäude, Zuteilung von Arbeitern und die Gründung einer neuen Stadt.";
 		}
 		{
 			String _name = "TutorialSurvival";

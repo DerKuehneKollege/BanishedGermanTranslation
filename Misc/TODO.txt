@@ -82,8 +82,8 @@ Hilfe (Raw translation):
     [x] Blacksmith Schmied
     [x] Tailor Schneidereien
     [x] Tavern Wirtshäuser
-    [ ] Mine Minen
-    [ ] Quarry Steinbrüche
+    [x] Mine Minen
+    [x] Quarry Steinbrüche
 
 [x] ToolbarRemoval Ressourcenabbau und Gebäudeabriss
     [x] RemoveStructure Gebäude abreißen

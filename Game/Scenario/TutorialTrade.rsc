@@ -102,7 +102,7 @@ Klicken Sie auf die Kategorie 'Aufträge', um näheres zu erfahren.";
 		}
 		{
 			String _name = "Step_Order_1_Pre";
-			String _text = "Mit dem Bestellungsmodus kann eingestellt werden, ob eine Bestellung einmalig oder wiederkehrend aufgeben wird.";
+			String _text = "Mit dem Bestellmodus kann eingestellt werden, ob eine Bestellung einmalig oder wiederkehrend aufgeben wird.";
 		}
 		{
 			String _name = "Step_Order_2_Pre";

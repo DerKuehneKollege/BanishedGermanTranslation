@@ -259,7 +259,7 @@ Sie sollten ein Lagerhaus bauen, welches mehr Platz zur Verfügung stellt. Wählen
 		}
 		{
 			String _name = "Step_StorageBarn_2_Pre";
-			String _text = "Bewegen Sie das Lagerhaus mit der Maus ins hervorgehobene Gebiet und linksklicken Sie anschließend, um den Bau zu beauftragen.
+			String _text = "Bewegen Sie das Lagerhaus mit der Maus ins hervorgehobene Gebiet und klicken Sie anschließend, um den Bau zu beauftragen.
 
 Das Gebäude kann rotiert werden mit";
 		}

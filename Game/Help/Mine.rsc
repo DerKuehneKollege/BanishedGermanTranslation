@@ -15,28 +15,37 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleMine ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIMine ^s Mine ^c0 ^f1 ^n
 			^i0Log x48 ^i0Stone x68 ^me ^f1 ^c0 ^jl ^vb
-			Â MÎNÊ ÎS ÛSÊD TÔ DÎG ÎRÔN ÂND CÔÂL FRÔM THÊ GRÔÛND. Â MÎNÊ MÛST BÊ PLÂCÊD ÔN Â HÎLLSÎDÊ. ÔNCÊ BÛÎLT,
-			^i0ProfessionMiner ^s ^abPRÔFÊSSÎÔN MÎNÊRS ^ae NÊÊD TÔ BÊ ÂSSÎGNÊD TÔ WÔRK ÎN THÊ MÎNÊ.
+			Minen können an Gebirgsrändern platziert werden und ermöglichen es von dort Eisen und Kohle abzubauen. Um die
+			Arbeit in einer Mine aufzunehmen, müssen dieser ^i0ProfessionMiner abProfession Bergarbeiter ^ae
+			zugewiesen werden.
 			^p
-			MÎNÊS TÂKÊ MÔRÊ WÔRK TÔ PRÔDÛCÊ ÎRÔN THÂN ^abRÊMÔVÊÎRÔN CÔLLÊCTÎNG ÎT FRÔM THÊ LÂNDSCÂPÊ.^ae HÔWÊVÊR ÎT ÎS
-			THÊ ÔNLY WÂY TÔ PRÔDÛCÊ ÎRÔN - ÔTHÊR THÂN THRÔÛGH ^abTRÂDÎNGPÔST TRÂDÎNG ^ae - ÂFTÊR THÊ LÔÔSÊ ÔRÊ ÔN THÊ
-			GRÔÛND HÂS BÊÊN CÔLLÊCTÊD.
+			Um mit einer Mine Eisen zu gewinnen ist mehr Arbeit von Nöten, als
+			^abRemoveIron Eisen von oberirdischen Eisenvorkommen abzubauen.^ae Allerdings ist es - abgesehen von
+			^aeTradingPost Handeln^ae - die einzige Möglichkeit an Eisen zu kommen, wenn die oberirdischen
+			Vorkommen erschöpft sind.
 			^p
-			MÎNÊS HÂVÊ Â LÎMÎTÊD ÂMÔÛNT ÔF MÂTÊRÎÂL THÂT CÂN BÊ RÊMÔVÊD FRÔM THÊM. ÔNCÊ MÂTÊRÎÂL ÎS GÔNÊ, THÊ MÎNÊ WÎLL
-			NÔ LÔNGÊR BÊ ÛSÊÂBLÊ. MÎNÊS CÂNNÔT BÊ FÛLLY RÊMÔVÊD. THÊ BÛÎLDÎNG CÂN BÊ TÂKÊN DÔWN, BÛT THÊ ÂRÊÂ THÂT THÊ
-			MÎNÊ TÂKÊS ÛP WÔN'T ÊVÊR BÊ ÂVÂÎLÂBLÊ FÔR ÛSÊ FÔR ÔTHÊR PÛRPÔSÊS.
+			Die in Minen abbaubaren Ressourcen sind erschöpflich. Sobald sämtliche Eisen- bzw. Kohlevorkommen
+			in der Mine abgebaut wurde, wird sie geschlossen und ist nicht länger verwendbar.
 			^p
-			MÎNÊS ÂRÊ DÂNGÊRÔÛS - THÊ CHÂNCÊ ÔF WÔRKÊRS DYÎNG ÎN Â MÎNÎNG ÂCCÎDÊNT ÎS HÎGHÊR THÂN ÂNY ÔTHÊR PRÔFÊSSÎÔN.
+			Es ist zu beachten, dass
+			Minen nicht vollständig abgerissen werden können. Beim Abriss wird zwar das Gebäude entfernt, allerdings ist
+			die Stelle, an welcher es sich befand nicht mehr nutzbar.
+			^p
+			Wie im echten Leben sind auch die Minen im Spiel gefährlich - die Gefahr, dass Bergarbeiter bei einem
+			Grubenunglück umkommen ist höher als die Gefahr von tödlichen Arbeitsunfällen bei anderen Berufen.
 			^p
 			^mb ^mc ^dDialogMine ^ml304 ^mc
-			CLÎCKÎNG ÔN Â MÎNÊ WÎLL SHÔW THÊ MÎNÊS DÊTÂÎLS ÂND HÔW MÛCH MÂTÊRÎÂL ÎS LÊFT ÎN THÊ MÎNÊ.
-			^p
-			BÔTH THÊ CÔÂL ÂND ÎRÔN ^abLÎMÎT RÊSÔÛRCÊ LÎMÎTS^ae CÂN BÊ SÊT. ÔNCÊ THÊ LÎMÎTS ÎS HÎT, THÊ MÎNÊ WÎLL NÔ
-			LÔNGÊR PRÔDÛCÊ RÊSÔÛRCÊS. ^ml0 ^me ^n ÛSÎNG THÊ PRÔDÛCT BÛTTÔN, YÔÛ CÂN SÊLÊCT WHÂT TYPÊ ÔF MÂTÊRÎÂL SHÔÛLD
-			BÊ MÎNÊD FRÔM THÊ GRÔÛND. ÊÎTHÊR ^i0IronSmall ÎRÔN ÔR ^i0CoalSmall CÔÂL CÂN BÊ PRÔDÛCÊD.
+			Durch ein Klick auf eine Mine kann das dazugehörige Detailfenster aufgerufen werden, in welchem angezeigt
+			wird, wie viel verbleibende Materialien noch in der Mine abgebaut werden können.
+			^ml0 ^me ^n
+			Für die beiden abbaubaren Ressourcen, Kohle und Eisen, kann jeweils ein ^abLimit Ressourcenlimit^ae gesetzt
+			werden. Sobald eins der Limits erreicht wird, wird in der Mine die jeweilige Ressource nicht mehr abgebaut.
+			Im Detailfenster kann über das Auswahlmenü eingestellt werden, welcher Rohstoff in der jeweiligen Mine
+			abgebaut werden soll, wobei ^i0IronSmall Eisen oder ^i0CoalSmall Kohle zur Auswahl stehen.
 			^p
 			^mb ^mc ^dDialogMineWork ^ml60 ^mc
-			PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL DÎSÂBLÊ ÔR ÊNÂBLÊ THÊ MÎNÎNG ÔF ÎRÔN ÔR CÔÂL FRÔM THÊ MÎNÊ.
+			Durch Umschalten des Buttons 'Arbeiten' kann der Betrieb der Mine eingestellt bzw. wiederaufgenommen
+			werden.
 			^ml0 ^me ";
 		}
 	]

@@ -15,27 +15,35 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleQuarry ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIQuarry ^s Steinbruch ^c0 ^f1 ^n
 			^i0Log x80 ^i0Iron x40 ^me ^f1 ^c0 ^jl ^vb
-			Â QÛÂRRY ÎS ÛSÊD TÔ CÛT STÔNÊ FRÔM THÊ GRÔÛND. Â QÛÂRRY NÊÊDS TÔ BÊ PLÂCÊD ÎN Â LÂRGÊ FLÂT ÂRÊÂ. ÔNCÊ
-			BÛÎLT, ^i0ProfessionStoneCutter ^s ^abPRÔFÊSSÎÔN STÔNÊCÛTTÊRS ^ae WÎLL WÔRK ÎN THÊ QÛÂRRY, DÎGGÎNG ÎT DÊÊPÊR
-			ÂND DÊÊPÊR WHÎLÊ PRÔDÛCÎNG STÔNÊ.
+			Ein Steinbruch ermöglicht es in einem Tagebau Stein aus dem Erdreich abzubauen.
+			Steinbrüche müssen einem großflächigen, ebenen Gebiet platziert werden. Nach der Errichtung arbeiten
+			dort ^i0ProfessionStoneCutter ^abProfession Steinmetze ^ae und produzieren Stein, wobei der Tagebau mit
+			der Zeit immer tiefer ausgehoben wird.
 			^p
-			QÛÂRRÎÊS TÂKÊ MÔRÊ WÔRK TÔ PRÔDÛCÊ STÔNÊ THÂN ^abRÊMÔVÊSTÔNÊ CÔLLÊCTÎNG ÎT FRÔM THÊ LÂNDSCÂPÊ.^ae HÔWÊVÊR ÎT
-			ÎS THÊ ÔNLY WÂY TÔ PRÔDÛCÊ STÔNÊ - ÔTHÊR THÂN THRÔÛGH ^abTRÂDÎNGPÔST TRÂDÎNG ^ae - ÂFTÊR THÊ LÔÔSÊ STÔNÊ ÔN
-			THÊ GRÔÛND HÂS BÊÊN CÔLLÊCTÊD.
+			Um mit einem Steinbruch Stein zu gewinnen ist mehr Arbeit von Nöten, als
+			^abRemoveStone oberirdische Gesteinsvorkommen abzubauen.^ae Allerdings ist es - abgesehen von
+			^aeTradingPost Handeln^ae - die einzige Möglichkeit an Stein zu kommen, wenn die oberirdischen
+			Vorkommen erschöpft sind.
 			^p
-			QÛÂRRÎÊS HÂVÊ Â LÎMÎTÊD ÂMÔÛNT ÔF MÂTÊRÎÂL THÂT CÂN BÊ RÊMÔVÊD FRÔM THÊM. ÔNCÊ ÎT ÎS GÔNÊ, THÊ QÛÂRRY WÎLL
-			NÔ LÔNGÊR BÊ ÛSÊÂBLÊ.
-			^p QÛÂRRÎÊS CÂNNÔT BÊ RÊMÔVÊD. ÂFTÊR THÊ QÛÂRRY ÎS NÔ LÔNGÊR ÛSÊFÛL, THÊ BÛÎLDÎNG CÂN BÊ TÂKÊN DÔWN, BÛT THÊ
-			HÔLÊ THÂT HÂS BÊÊN DÛG ÎN THÊ QÛÂRRY WÔN'T ÊVÊR BÊ ÂVÂÎLÂBLÊ FÔR ÂNY ÔTHÊR ÛSÊ.
+			Die in Steinbrüchen abbaubaren Steinvorkommen sind erschöpflich. Sobald in einem Steinbruch sämtliche
+			Rohstoffe abgebaut wurde, wird er geschlossen und ist nicht länger verwendbar.
 			^p
-			QÛÂRRÎÊS ÂRÊ DÂNGÊRÔÛS - THÊ CHÂNCÊ ÔF WÔRKÊRS DYÎNG ÎN Â ÂCCÎDÊNT ÎS HÎGHÊR THÂN ÂNY ÔTHÊR PRÔFÊSSÎÔN.
+			Es ist zu beachten, dass
+			Steinbrüche nicht vollständig abgerissen werden können. Beim Abriss wird zwar das Gebäude entfernt,
+			allerdings ist die Stelle, an welcher er sich befand nicht mehr nutzbar.
+			^p
+			Steinbrüche sind gefährlich - die Gefahr, dass dort Arbeiter bei einem
+            Arbeitsunfall umkommen ist höher als bei anderen Berufen.
 			^p
 			^mb ^mc ^dDialogQuarry ^ml304 ^mc
-			CLÎCKÎNG ÔN Â QÛÂRRY WÎLL SHÔW THÊ DÊTÂÎLS ÂND HÔW MÛCH MÂTÊRÎÂL ÎS LÊFT ÎN THÊ QÛÂRRY.
-			^p
-			THÊ STÔNÊ LÎMÎT CÔNTRÔL SÊTS THÊ STÔNÊ ^abLÎMÎT RÊSÔÛRCÊ LÎMÎT^ae. ÔNCÊ THÊ LÎMÎT ÎS RÊÂCHÊD, NÔ MÔRÊ STÔNÊ
-			WÎLL BÊ PRÔDÛCÊD. ^ml0 ^me ^n ^mb ^mc ^dDialogQuarryWork ^ml60 ^mc PRÊSSÎNG THÊ WÔRK BÛTTÔN WÎLL DÎSÂBLÊ ÔR
-			ÊNÂBLÊ THÊ MÎNÎNG ÔR STÔNÊ FRÔM THÊ QÛÂRRY.
+			Durch ein Klick auf einen Steinbruch kann das dazugehörige Detailfenster aufgerufen werden, in welchem
+			angezeigt wird, wie viel verbleibende Materialien dort noch abgebaut werden können.
+			^ml0 ^me ^n
+			Für den Steinabbau kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht wird,
+			wird der Abbau vorübergehend eingestellt.
+			^mb ^mc ^dDialogQuarryWork ^ml60 ^mc
+			Durch Umschalten des Buttons 'Arbeiten' kann der Betrieb der Mine eingestellt bzw. wiederaufgenommen
+            werden.
 			^ml0 ^me ";
 		}
 	]
