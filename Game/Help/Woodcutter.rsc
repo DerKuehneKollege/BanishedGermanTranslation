@@ -31,11 +31,11 @@ StringTable resource
 			Durch einen Klick auf das Gebäude des Holzhackers wird das dazugehörige Detailfenster aufgerufen, in welchem
 			der aktuelle Vorrat im Lager des Gebäudes angezeigt wird.
 			^ml0 ^me ^n
-			Über das Feld 'Brennholz-Limit' kann das ^abLimit Ressourcenlimit^ae für Brennholz eingestellt werden.
+			Über das Feld ^c1 Brennholz-Limit ^c0 kann das ^abLimit Ressourcenlimit^ae für Brennholz eingestellt werden.
 			Sobald dieses Limit erreicht wird, werden keine weiteren Brennholzscheite mehr produziert.
 			^p
 			^mb ^mc ^dDialogWoodCutterWork ^n ^ml60 ^mc
-			Durch Umschalten des 'Arbeiten'-Buttons kann die Arbeit in dem Gebäude eingestellt bzw. wiederaufgenommen
+			Durch Umschalten des ^c1 Arbeiten ^c0-Buttons kann die Arbeit in dem Gebäude eingestellt bzw. wiederaufgenommen
 			werden. Die Einstellung der Arbeit hat zur Folge, dass kein weiteres Brennholz mehr produziert wird.
 			^ml0 ^me ";
 		}

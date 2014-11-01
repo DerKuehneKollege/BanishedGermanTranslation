@@ -18,7 +18,7 @@ StringTable resource
             ^abMine Minen^ae gefördert werden, allerdings können Arbeiter sie viel einfacher und schneller durch direkten Abbau
             gewinnen. Allerdings ist die direkt abbaubare Ressourcenmenge auf der Karte beschränkt.
 			^p
-			Wählen Sie die Funktion 'Ressourcen abbauen', markieren Sie anschließend durch Klicken und Ziehen mit der
+			Wählen Sie die Funktion ^c1 Ressourcen abbauen ^c0, markieren Sie anschließend durch Klicken und Ziehen mit der
             Maus die Fläche aus, in welcher sämtliche dort vorkommenden Ressourcen gewonnen werden soll.
 			^p
 			^jc ^i3RemoveResources ^jl ^jc ^f0
@@ -33,7 +33,7 @@ StringTable resource
 			Sämtliche zum Abbau freigegebenen Ressourcen sind mit einem orangenen X markiert.
 			^jl ^f1 ^n
 			Während die Arbeiter die Ressourcen noch nicht abgebaut haben, können Sie die Arbeit jederzeit mit
-            der Funktion ^abRemoveCancel 'Abbau stoppen'^ae abbrechen.
+            der Funktion ^abRemoveCancel Abbau stoppen^ae abbrechen.
 			^p ";
 		}
 	]

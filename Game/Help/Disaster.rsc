@@ -19,9 +19,9 @@ StringTable resource
 			^p
 			^f2 ^c1 Hungersnot ^c0 ^f1 ^n
 			Wenn nicht genügend Nahrung für die Bevölkerung zur Verfügung steht, werden einige Ihrer Siedler verhungern.
-			Dies kann durch Anlegen großer Nahrungsvorräte vermieden werden. Ebenso können eine Hungersnöte durch einen
+			Dies kann durch Anlegen großer Nahrungsvorräte vermieden werden. Ebenso können Hungersnöte durch einen
 			stabilen Aufbau zur Nahrungsproduktion, beispielsweise durch ^abHunterLodge Jagdhütten,^ae
-			^abGathererHut Sammler,^ae ^abFishingDock Fischerhütten,^ae ^abCropField Äcker,^ae
+			^abGathererHut Sammlerhütten,^ae ^abFishingDock Fischerhütten,^ae ^abCropField Äcker,^ae
 			^abOrchard Obstgärten^ae und ^abPasture Viehweiden^ae abgewendet werden.
 			^p
 			^f2 ^c1 Wetter ^c0 ^f1 ^n
@@ -82,11 +82,11 @@ StringTable resource
 			einblenden zu lassen.
 			^p
 			^jc ^dDialogDamage ^jl ^n ^mb ^mc ^dDialogDamageRebuild ^n ^ml60 ^mc
-			Sie können das Gebäude durch Klick auf den Button 'Ausbessern' wiederaufbauen. Das Gebäude wird in diesem
+			Sie können das Gebäude durch Klick auf den Button ^c1 Ausbessern ^c0 wiederaufbauen. Das Gebäude wird in diesem
 			Fall zunächst abgerissen, wobei ein paar Baumaterialien wiedergewonnen werden. Anschließend wird das Gebäude
 		    von ^i0ProfessionBuilder ^s ^abProfession Bauarbeitern^ae wiederaufgebaut.
 		    ^ae ^ml0 ^me ^n ^mb ^mc ^dDialogDamageRemove ^n ^ml60 ^mc
-			Beschädigte Gebäude können mit dem Button 'Abreißen' abgerissen werden. Dadurch können ein paar
+			Beschädigte Gebäude können mit dem Button ^c1 Abreißen ^c0 abgerissen werden. Dadurch können ein paar
 			Baumaterialien wiedergewonnen werden.
 			^ml0 ^me ";
 		}

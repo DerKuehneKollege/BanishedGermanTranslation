@@ -8,11 +8,11 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Gebäudebau und Gebäude";
+			String _text = "Gebäude";
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl Gebäudebau und Gebäude ^n ^f1
+			String _text = " ^f3 ^jl Gebäude ^n ^f1
 			In Banished lassen sich alle Gebäude bauen, indem Sie zuerst in der ^abToolbar Hauptleiste^ae die
 			Gebäudekategorie auswählen und dort das gewünschte Gebäude auswählen.
 			Um beispielsweise das Forsthaus zu bauen, wählen Sie zunächst das Menü
@@ -22,7 +22,7 @@ StringTable resource
 			^vc ^jc ^dUIProduction ^i0ArrowRight ^dUIForester ^jl ^n
 			Nachdem Sie ein Gebäude für den Bau ausgewählt haben, können Sie den Grundriss des
 			Gebäudes in der Landschaft platzieren. Sie können vor dem Platzieren Gebäude mit oder gegen den Uhrzeigersinn
-			rotieren. In der Standardtastenkombinationen geht dies mit den Tasten 'R' und 'T'. Die grünen Pfeile zeigen
+			rotieren. In der Standardtastenkombinationen geht dies mit den Tasten ^c1 R ^c0 und ^c1 T ^c0. Die grünen Pfeile zeigen
 			die Front des Gebäudes an, ein mit dem Gebäude verbundener ^abDirtRoad Weg^ae sollte an den
 			grünen Pfeilen entlang platziert werden. Ist es nicht möglich, das Gebäude an dem gewählten Ort zu
 			platzieren, ist der Gebäudegrundriss rot hinterlegt.
@@ -72,7 +72,7 @@ StringTable resource
 			können Sie durch die Arbeiter, die diesem Ort zugewiesen sind, durchwechseln.
 			^lo ^dDialogBuildWorkers
 			Das Arbeiter-Feld zeigt die Gesamtanzahl Arbeiter an, die für den Gebäude zugeordneten Beruf arbeiten. Sie
-			können hier die Gesamtanzahl Arbeiter ähnlich wie im Fenster ^abProfession 'Berufe'^ae anpassen.
+			können hier die Gesamtanzahl Arbeiter ähnlich wie im Fenster ^abProfession Berufe^ae anpassen.
 			^lo ^dDialogBuildProd
 			Der Produktionsstatistik-Button ermöglicht es anzuzeigen, wie viel Ressourcen im aktuellen bzw. vorherigen
 			Jahr produziert wurden.

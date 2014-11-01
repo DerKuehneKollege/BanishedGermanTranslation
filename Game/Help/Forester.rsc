@@ -38,11 +38,11 @@ StringTable resource
 			^mb ^mc ^dDialogForester ^ml318 ^mc
 			Mit einem Klick auf ein Forsthaus wird das dazugehörige Detailfenster eingeblendet.
 			^ml0 ^me ^n ^mb ^mc ^dDialogForesterCut ^n ^ml60 ^mc
-			Durch Umschalten des Buttons 'Fällen' kann das Fällen der ausgewachsenen Bäume verboten bzw. zugelassen
+			Durch Umschalten des Buttons ^c1 Fällen ^c0 kann das Fällen der ausgewachsenen Bäume verboten bzw. zugelassen
 			werden. Gefällte Bäume werden von den Förstern zu Holz weiterverarbeitet, welches dann zum nächstgelegenen
 			^abStockPile Lagerplatz^ae gebracht wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogForesterPlant ^n ^ml60 ^mc
-			Umschalten des Buttons 'Pflanzen' aktiviert bzw. deaktiviert das weitere Pflanzen von Jungbaumsetzlingen.
+			Umschalten des Buttons ^c1 Pflanzen ^c0 aktiviert bzw. deaktiviert das weitere Pflanzen von Jungbaumsetzlingen.
 			^ml0 ^me ^n
 			Ebenfalls ist es möglich ein ^abLimit Produktionslimit^ae für Holz zu setzen. Sobald das gesetzte Limit
 			erreicht wird, wird vorerst kein weiteres Holz mehr produziert.

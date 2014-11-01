@@ -3848,11 +3848,11 @@ StringTable objects
 		}
 		{
 			String _name = "GathererShelter";
-			String _text = "Sammler";
+			String _text = "Sammlerhütte";
 		}
 		{
 			String _name = "GathererShelterLwr";
-			String _text = "Sammler";
+			String _text = "Sammlerhütte";
 		}
 		{
 			String _name = "GathererShelterTip";

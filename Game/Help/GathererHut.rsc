@@ -8,12 +8,12 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Sammler";
+			String _text = "Sammlerhütte";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleGathererHut ^mc ^f3 ^jl ^c0
-			^dUIFood ^i0ArrowRight ^dUIGathererHut ^s Sammler ^c0 ^f1 ^n
+			^dUIFood ^i0ArrowRight ^dUIGathererHut ^s Sammlerhütte ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
 			Sammlerhütten können in der Nähe von Wäldern platziert werden, in denen essbare Pflanzen, Beeren, Pilze
 			und Wurzeln wachsen. Die ^i0ProfessionGatherer ^abProfession Sammler^ae suchen und sammeln dann in der
@@ -31,7 +31,7 @@ StringTable resource
 			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
             wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogGathererWork ^n ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann die Arbeit in der Sammlerhütte eingestellt werden bzw. wieder
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Arbeit in der Sammlerhütte eingestellt werden bzw. wieder
             aufgenommen wird. Die Deaktivierung des Gebäudes stoppt die weitere Nahrungssuche.
 			^ml0 ^me ";
 		}

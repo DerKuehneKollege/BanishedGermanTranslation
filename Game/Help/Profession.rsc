@@ -62,7 +62,7 @@ StringTable resource
 			^lo ^i0ProfessionPriest ^s ^c1 Priester ^c0 halten in ^abChapel Kapellen^ae Gottesdienste. Gottesdienste
 			steigern die Zufriedenheit der Siedler, die sie besuchen.
 			^le ^n
-			Im Fenster 'Berufe' wird angezeigt, wie viele Siedler in den einzelnen Berufen arbeiten und wie viele
+			Im Fenster ^c1 Berufe ^c0 wird angezeigt, wie viele Siedler in den einzelnen Berufen arbeiten und wie viele
 			Arbeitsstellen für die Berufe zurzeit verfügbar sind. Über die Pfeil-Buttons oder das Eingabefeld kann die
 			Anzahl der Arbeiter in den einzelnen Berufen eingestellt werden.
 			^p

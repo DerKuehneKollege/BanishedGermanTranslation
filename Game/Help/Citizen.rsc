@@ -103,9 +103,9 @@ StringTable resource
 			Klickt man einen Siedler an, wird ein Detailfenster angezeigt, welches Informationen über Gesundheitszustand,
 			Zufriedenheit, Ausbildung, Beruf, aktuelle Aktion und weiteres enthält. ^ml0 ^me
 			^n ^vc ^lb ^lb
-			^lo ^dDialogCitizenFollow Wenn Sie auf den Button 'Verfolgen' klicken, wird die Ansicht auf den ausgewählten
+			^lo ^dDialogCitizenFollow Wenn Sie auf den Button ^c1 Verfolgen ^c0 klicken, wird die Ansicht auf den ausgewählten
 			Siedler fokussiert und die Kamera verfolgt den Siedler.
-			^lo ^dDialogInventory Wenn Sie auf den Button 'Lager' klicken, wird angezeigt, welche Güter der Siedler
+			^lo ^dDialogInventory Wenn Sie auf den Button ^c1 Lager ^c0 klicken, wird angezeigt, welche Güter der Siedler
 			mit sich herumträgt.
 			^lo ^dDialogCitizenHome Wenn Sie auf den Button mit dem Haus klicken, wird die Ansicht auf das Wohnhaus des
 			Siedlers fokussiert.

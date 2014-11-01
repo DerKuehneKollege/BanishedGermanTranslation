@@ -37,7 +37,7 @@ StringTable resource
 			^mb ^mc ^dDialogHerbalist ^ml318 ^mc
 			Mit einem Klick auf die Hütte kann das dazugehörige Detailfenster eingeblendet werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogHerbalistWork ^n ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann das Kräutersammeln eingestellt bzw. wiederaufgenommen werden.
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann das Kräutersammeln eingestellt bzw. wiederaufgenommen werden.
 			^ml0 ^me ^n
 			Des Weiteren lässt sich ein ^abLimit Ressourcenlimit ^ae für Kräuter einstellen. Wenn dieses Limit
 			erreicht wird, werden vorerst keine weiteren Kräuter mehr gesammelt. ";

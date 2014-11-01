@@ -44,7 +44,7 @@ StringTable resource
 			und ^i0CoalSmall Kohle und hält doppelt so lange wie Eisenwerkzeug.
 			^le
 			^n ^mb ^mc ^dDialogBlacksmithWork ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann die Herstellung von Werkzeug eingestellt bzw.
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Herstellung von Werkzeug eingestellt bzw.
 			wiederaufgenommen werden.
 			^ml0 ^me ";
 		}

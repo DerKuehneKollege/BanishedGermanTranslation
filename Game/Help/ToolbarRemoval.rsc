@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIRemoval ^s Ressourcenabbau & Abriss ^f1 ^jl ^vb
-			Über das Menü 'Ressourcenabbau und Gebäudeabriss' können verschiedene vorher konstruierte Gebäude,
+			Über das Menü ^c1 Ressourcenabbau und Gebäudeabriss ^c0 können verschiedene vorher konstruierte Gebäude,
 			Strukturen und Straßen abgerissen und natürlich vorkommende Ressourcen, wie Bäume, Stein oder Eisen
 			abgebaut werden.
 			^p

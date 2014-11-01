@@ -17,7 +17,7 @@ StringTable resource
 			^abRemoveResource Ressourcen abbauen^ae verwenden.
 			Allerdings können Sie die Arbeiter ebenfalls anweisen, aus einer Region nur Eisen abzubauen.
 			^p
-			Wählen Sie hierzu die Funktion 'Eisen abbauen', markieren Sie anschließend durch Klicken und Ziehen mit der
+			Wählen Sie hierzu die Funktion ^c1 Eisen abbauen, ^c0 markieren Sie anschließend durch Klicken und Ziehen mit der
 			Maus die Fläche aus, in welcher Eisen abgebaut werden soll.
 			^p
 			^jc ^i3RemoveIron ^jl ^jc ^f0
@@ -31,7 +31,7 @@ StringTable resource
 			Eisenvorkommen, die abgebaut werden, sind mit einem orangenen X markiert.
 			^jl ^f1 ^n
 			Während die Arbeiter die Eisenvorkommen noch nicht abgebaut haben, können Sie die Arbeit jederzeit mit
-			der Funktion ^abRemoveCancel 'Abbau stoppen'^ae abbrechen.
+			der Funktion ^abRemoveCancel Abbau stoppen^ae abbrechen.
 			^p ";
 		}
 	]

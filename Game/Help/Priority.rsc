@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPriority ^s Priorität erhöhen ^f1 ^n
-			Die Funktion 'Priorität erhöhen' erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
+			Die Funktion ^c1 Priorität erhöhen ^c0 erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
 			Aufgaben erfüllen, zu ändern.
 			^p
 			Im Normalfall führen die Arbeiter die Tätigkeiten in der Reihenfolge aus, in der sie aufgetragen wurden.
@@ -21,7 +21,7 @@ StringTable resource
 			anschließend ein ^abStorageBarn Lagerhaus^ae platzieren, werden die Gebäude in dieser Reihenfolge gebaut -
 			zuerst die Schmiede, dann die Häuser und abschließend das Lagerhaus.
 			^p
-			Wenn Sie aus irgendeinem Grund diese Reihenfolge ändern wollen, können Sie 'Priorität erhöhen' verwenden.
+			Wenn Sie aus irgendeinem Grund diese Reihenfolge ändern wollen, können Sie ^c1 Priorität erhöhen ^c0 verwenden.
 			Wählen Sie dazu einfach die Funktion aus und markieren Sie dann durch Klicken und Ziehen mit der linken
 			Maustaste eine Fläche, in welcher die dort beauftragten Arbeiten vorrangig behandelt werden sollen.
 			^p

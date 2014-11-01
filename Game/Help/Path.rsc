@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPath ^s Laufwege ^f1 ^n
-			Mithilfe der Funktion 'Laufwege' können Sie den idealen Laufweg nachvollziehen, welcher ein ausgewählter
+			Mithilfe der Funktion ^c1 Laufwege ^c0 können Sie den idealen Laufweg nachvollziehen, welcher ein ausgewählter
 			Siedler von	seinem Zuhause zu seinem Arbeitsort nimmt. Wählen Sie hierzu die Funktion und anschließend ein
 			Wohnhaus oder ein Arbeitsgebäude aus, um den die Laufwege der Arbeiter anzuzeigen.
 			^p

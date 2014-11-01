@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUITools ^s Toolfenster und Statistiken ^f1 ^jl ^vb
-			Das Menü 'Toolfenster und Statistiken' erlaubt Ihnen verschieden Fenster einzublenden, welche zur Verwaltung
+			Das Menü ^c1 Toolfenster und Statistiken ^c0 erlaubt Ihnen verschieden Fenster einzublenden, welche zur Verwaltung
 			der Stadt und zur Anzeige von Statistiken dienen. Beispielsweise können Sie Siedlern Ihrer Stadt verschiedene
 			Berufe zuordnen, die Ressourcenproduktion limitieren, sowie die Prioritäten verschiedener Arbeitsaufträge zu
 			erhöhen.

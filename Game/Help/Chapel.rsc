@@ -27,7 +27,7 @@ StringTable resource
 			Mit einem Klick auf eine Kapelle wird das dazugehörige Detailfenster eingeblendet, in welchem die Anzahl
 			der Gottesdienstbesucher angezeigt wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogChapelWork ^n ^ml60 ^mc
-			Durch Klick auf den Button 'Arbeiten' kann der Gottesdienstbetrieb eingestellt bzw. wiederaufgenommen
+			Durch Klick auf den Button ^c1 Arbeiten ^c0 kann der Gottesdienstbetrieb eingestellt bzw. wiederaufgenommen
 			werden. Wenn der Betrieb deaktiviert wurde, findet kein Gottesdienst statt und der Zufriedenheitsbonus,
 			den die umliegenden Siedler genießen geht verloren.
 			^ml0 ^me ";

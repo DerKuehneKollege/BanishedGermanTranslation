@@ -44,7 +44,7 @@ StringTable resource
 			abgebaut werden soll, wobei ^i0IronSmall Eisen oder ^i0CoalSmall Kohle zur Auswahl stehen.
 			^p
 			^mb ^mc ^dDialogMineWork ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann der Betrieb der Mine eingestellt bzw. wiederaufgenommen
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann der Betrieb der Mine eingestellt bzw. wiederaufgenommen
 			werden.
 			^ml0 ^me ";
 		}

@@ -43,7 +43,7 @@ StringTable resource
 			^i0WoolSmall Wolle, halten dafür aber sehr viel besser warm und ermöglichen es den Siedlern sich doppelt
 			so lange wie mit normaler Kleidung aufzuhalten.
 			^le ^n ^mb ^mc ^dDialogTailorWork ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann die Produktion von neuer Kleidung in der Schneiderei
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Produktion von neuer Kleidung in der Schneiderei
 			eingestellt bzw. wiederaufgenommen werden.
 			^ml0 ^me ";
 		}

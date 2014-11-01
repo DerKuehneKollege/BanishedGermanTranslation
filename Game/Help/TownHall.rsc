@@ -29,8 +29,8 @@ StringTable resource
 			Ein Linksklick auf das Rathaus öffnet das dazugehörige Detailfenster, in welchem die Informationen über
 			die Stadt angezeigt werden.
 			^p
-			In der Tabelle 'Status' werden allgemeine Statistiken über die Stadt aufgelistet. Die 'Berufe'-Tabelle
-			erlaubt es in gleicher Weise wie das ^abProfession 'Berufe'-Fenster,^ae den Siedlern neue Berufe zuzuweisen.
+			In der Tabelle ^c1 Status ^c0 werden allgemeine Statistiken über die Stadt aufgelistet. Die ^c1 Berufe ^c0-Tabelle
+			erlaubt es in gleicher Weise wie das ^abProfession Berufe-Fenster,^ae den Siedlern neue Berufe zuzuweisen.
 			Ebenfalls wird für jeden Beruf die Anzahl freier Plätze und die Anzahl der dazugehörigen Arbeitsgebäude
 			angezeigt. Mit dem Pfeil-Button ^dDialogTownHallGoto können die einzelnen Arbeitsgebäude angewählt werden.
 			^p

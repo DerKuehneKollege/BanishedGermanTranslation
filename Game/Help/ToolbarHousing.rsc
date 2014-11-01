@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIHousing ^s Behausungen ^f1 ^jl ^vb
-			Im Menü 'Behausungen' können verschiedene Wohnstätten für den Bau ausgewählt werden, um für zusätzlichen
+			Im Menü ^c1 Behausungen ^c0 können verschiedene Wohnstätten für den Bau ausgewählt werden, um für zusätzlichen
 			Wohnraum für die Bevölkerung zu sorgen.
 			^jc ^dUIToolbarHousing ^jl ^vc ^lb
 			^lb

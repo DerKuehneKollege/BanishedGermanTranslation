@@ -40,11 +40,11 @@ Eventuell müssen Sie das Gebäude in die richtige Richtung rotieren. Drücken Sie 
 			String _name = "Step_Build_5_Pre";
 			String _text = "Ähnlich wie Jäger suchen Sammler nach Nahrung, welche in den Wäldern wächst.
 
-Wählen Sie im unteren Menü das Gebäude vom 'Sammler'.";
+Wählen Sie im unteren Menü die 'Sammlerhütte'.";
 		}
 		{
 			String _name = "Step_Build_6_Pre";
-			String _text = "Bewegen Sie die Hütte des Sammlers mit der Maus zur hervorgehobenen Fläche und platzieren Sie sie mit einem Linksklick.";
+			String _text = "Bewegen Sie die Sammlerhütte mit der Maus zur hervorgehobenen Fläche und platzieren Sie sie mit einem Linksklick.";
 		}
 		{
 			String _name = "Step_Build_7_Pre";

@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveRoad ^s Wege entfernen ^n ^f1 ^jl
-			Wenn Sie errichtete Straßen und Wege wieder entfernen wollen, können Sie die Funktion 'Wege entfernen'
+			Wenn Sie errichtete Straßen und Wege wieder entfernen wollen, können Sie die Funktion ^c1 Wege entfernen ^c0
 			verwenden.
 			Wählen Sie hierzu zunächst die Funktion aus, markieren Sie anschließend ein Gebiet mit abzureißenden Straßen
 			durch Klicken und Ziehen mit der Maus.

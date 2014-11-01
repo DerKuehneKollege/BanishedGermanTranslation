@@ -31,7 +31,7 @@ StringTable resource
 			^li ^abToolbar Hauptleiste^ae
 			^li ^abCitizen Siedler^ae
 			^li ^abResource Ressourcen^ae
-			^li ^abBuildings Gebäudebau und Gebäude^ae
+			^li ^abBuildings Gebäude^ae
 			^li ^abDisaster Katastrophen^ae
 			^li ^abToolbarTime Spielgeschwindigkeit^ae
 			^li ^abToolbarTools Toolfenster und Statistiken^ae
@@ -83,7 +83,7 @@ StringTable resource
                 ^li ^abPasture Viehweiden^ae
                 ^li ^abFishingDock Fischerhütten^ae
                 ^li ^abHunterLodge Jagdhütte^ae
-                ^li ^abGathererHut Sammler^ae
+                ^li ^abGathererHut Sammlerhütte^ae
             ^le
             ^li ^abToolbarProduction Ressourcenproduktion^ae
             ^lb

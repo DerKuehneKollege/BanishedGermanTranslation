@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUILimit ^s Ressourcenlimits ^f1 ^n
-			Das Fenster 'Ressourcenlimits' ermöglicht Ihnen, für alle Ressourcen eine Obergrenze für die Produktion
+			Das Fenster ^c1 Ressourcenlimits ^c0 ermöglicht Ihnen, für alle Ressourcen eine Obergrenze für die Produktion
 			einzustellen. Dieses Limit kann genutzt werden, um zu verhindern, dass Ihre Lager voll werden und kein Platz
 			mehr für akut benötigte Rohstoffe vorhanden ist.
 			^p

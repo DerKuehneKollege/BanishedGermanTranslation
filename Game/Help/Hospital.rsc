@@ -36,7 +36,7 @@ StringTable resource
 			Mit einem Klick auf das Krankenhaus kann ein Detailfenster, welches die Anzahl der dort behandelten
 			Patienten anzeigt, eingeblendet werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogDoctorWork ^n ^ml60 ^mc
-			Sie können mit dem Button 'Arbeiten' den Krankenhausbetrieb einstellen bzw. wiederaufnehmen lassen. Wenn sich
+			Sie können mit dem Button ^c1 Arbeiten ^c0 den Krankenhausbetrieb einstellen bzw. wiederaufnehmen lassen. Wenn sich
 			bei Deaktivierung noch Siedler im Krankenhaus befinden, werden diese sich ein anderes Krankenhaus suchen
 			oder nach Hause gehen.
 			^ml0 ^me ";

@@ -28,7 +28,7 @@ StringTable resource
 			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
             wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogFishingDockWork ^n ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann die Arbeit in der Fischerhütte eingestellt werden bzw. wieder
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Arbeit in der Fischerhütte eingestellt werden bzw. wieder
 			aufgenommen wird. Die Einstellung der Arbeit sorgt dafür, dass die Fischer nicht weiter angeln.
 			^ml0 ^me ";
 		}

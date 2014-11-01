@@ -16,7 +16,7 @@ StringTable resource
 			In Banished geht es zwar darum, eine Stadt aufzubauen, allerdings ist es manchmal nötig Gebäude und Strukturen
 			wieder abzureißen, um manche Dinge in Ihrer Stadt neu zu gestalten und zu organisieren.
 			^p
-			Mit der Funktion 'Gebäude abreißen' können Sie sämtliche Konstruktionen wieder entfernen lassen. Wählen Sie
+			Mit der Funktion ^c1 Gebäude abreißen ^c0 können Sie sämtliche Konstruktionen wieder entfernen lassen. Wählen Sie
 			hierzu zunächst die Funktion aus, markieren Sie anschließend durch Klicken und Ziehen mit der Maus die
 			gewünschte Fläche aus, in welcher Gebäude und Felder abgerissen werden sollen.
 			^p
@@ -45,8 +45,8 @@ StringTable resource
 			wiederverwendet werden.
 			^p
 			^jc ^dDialogReclaim ^jl ^n
-			Wenn Sie auf den Button 'Abbruch' klicken, können Sie den Abriss des Gebäudes stoppen. Abrisse können
-			ebenfalls mit der Funktion ^abRemoveCancel 'Abbau stoppen'^ae unterbrochen werden.
+			Wenn Sie auf den Button ^c1 Abbruch ^c0 klicken, können Sie den Abriss des Gebäudes stoppen. Abrisse können
+			ebenfalls mit der Funktion ^abRemoveCancel Abbau stoppen^ae unterbrochen werden.
 			^ml0 ^me ";
 		}
 	]

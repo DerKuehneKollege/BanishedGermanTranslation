@@ -31,17 +31,17 @@ StringTable resource
 			Die Bauern pflanzen die Bäume, sobald der Obstgarten platziert wurde. Es dauert einige Jahre, bis die Bäume
 			groß genug sind und Früchte tragen. Wenn die Bäume ausgewachsen sind, kann im Herbst, wenn das Obst bzw. die
 			Nüsse reif sind, mit der Ernte begonnen werden. Sollten Sie früher mit der Ernte beginnen wollen, klicken
-			Sie	dazu den Button 'Ernten'. Das frühe Abernten hat jedoch einen geringeren Ertrag zur Folge.
+			Sie	dazu den Button ^c1 Ernten. ^c0 Das frühe Abernten hat jedoch einen geringeren Ertrag zur Folge.
 			^p
 			Da die Siedler nur begrenzt Ressourcen tragen können, bringen die Bauern während der Ernte
             zwischendurch gelegentlich die bereits gesammelte Ernte ins nächste ^abStorageBarn Lagerhaus.^ae
 			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardWork ^n ^ml60 ^mc
-			Sie können die Arbeit auf dem Obstgarten aktivieren bzw. deaktivieren, in dem Sie den Button 'Arbeiten'
+			Sie können die Arbeit auf dem Obstgarten aktivieren bzw. deaktivieren, in dem Sie den Button ^c1 Arbeiten ^c0
             umschalten. Im deaktivierten Zustand werden in den Obstgärten keine neuen Bäume gepflanzt, bewirtschaftet
             und es findet keine Ernte statt.
 			^ml0 ^me ^n ^mb ^mc ^dDialogOrchardCut ^n ^ml60 ^mc
 			Wenn Sie in einem Obstgarten die wachsende Baumart ändern möchten oder dringend Holz benötigen, können Sie
-			auf den Button 'Abholzen' klicken.
+			auf den Button ^c1 Abholzen ^c0 klicken.
 			^ml0 ^me ^n
 			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
             wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.

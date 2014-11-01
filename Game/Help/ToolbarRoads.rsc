@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIRoads ^s Straßen und Brücken ^f1 ^jl ^vb
-			Über das Menü 'Straßen und Brücken' kann der Bau von Straßen, Brücken und Tunnel in Auftrag gegeben werden.
+			Über das Menü ^c1 Straßen und Brücken ^c0 kann der Bau von Straßen, Brücken und Tunnel in Auftrag gegeben werden.
 			Wege und Straßen ermöglichen es den Siedlern, sich schneller fortzubewegen, wenn Sie darauf laufen.
 			Brücken lassen es zu, Gewässer zu überqueren und Tunnel machen es möglich Berge zu durchqueren, anstatt
 			um sie herumzulaufen.

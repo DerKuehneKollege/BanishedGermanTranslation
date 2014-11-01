@@ -28,13 +28,13 @@ StringTable resource
 			erworben werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldHarvest ^n ^ml60 ^mc
 			Üblicherweise pflanzen beginnen die Bauern im Frühling mit dem Anpflanzen, im Herbst sind die Feldfrüchte
-			reif und werden automatisch abgeerntet. Mit dem Button 'Ernten' können Sie die Ernte sofort beginnen,
+			reif und werden automatisch abgeerntet. Mit dem Button ^c1 Ernten ^c0 können Sie die Ernte sofort beginnen,
 			Sie müssen allerdings dann einen niedrigeren Ertrag in Kauf nehmen.
 			^p
 			Da die Siedler nur begrenzt Ressourcen tragen können, bringen die Bauern während der Ernte
 			zwischendurch gelegentlich die bereits gesammelte Ernte ins nächste ^abStorageBarn Lagerhaus.^ae
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldWork ^n ^ml60 ^mc
-			Sie können die Arbeit auf dem Acker aktivieren bzw. deaktivieren, in dem Sie den Button 'Arbeiten'
+			Sie können die Arbeit auf dem Acker aktivieren bzw. deaktivieren, in dem Sie den Button ^c1 Arbeiten ^c0
 			umschalten. Im deaktivierten Zustand wird auf Äckern nichts gepflanzt, bewirtschaftet oder abgeerntet.
 			^ml0 ^me ^n
 			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,

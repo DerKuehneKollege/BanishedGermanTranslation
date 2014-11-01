@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIServices Stadtgebäude ^f1 ^jl ^vb
-			In der Kategorie 'Stadtgebäude' stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit und
+			In der Kategorie ^c1 Stadtgebäude ^c0 stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit und
 			Effizienz der Stadt erhöhen können.
 			^p
 			Brunnen können gebaut werden, um im Falle eines Feuers in der Stadt die Brände schneller unter Kontrolle

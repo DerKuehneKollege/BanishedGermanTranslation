@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIFood ^s Nahrungsproduktion ^f1 ^jl ^vb
-			Im Menü 'Nahrungsproduktion' stehen verschiedene Gebäude für die Nahrungsversorgung Ihrer Bevölkerung zum
+			Im Menü ^c1 Nahrungsproduktion ^c0 stehen verschiedene Gebäude für die Nahrungsversorgung Ihrer Bevölkerung zum
 			Bau zur Verfügung.
 			^p
 			Jagen, Sammeln und Fischen ermöglichen die Nahrungsgewinnung aus der Natur ohne großen Aufwand, allerdings

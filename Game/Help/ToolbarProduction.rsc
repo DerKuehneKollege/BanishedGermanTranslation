@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIProduction ^s Ressourcenproduktion ^f1 ^jl ^vb
-			Im Menü 'Ressourcenproduktion' stehen weitere Produktionsgebäude zur Auswahl, welche den Bedarf einiger
+			Im Menü ^c1 Ressourcenproduktion ^c0 stehen weitere Produktionsgebäude zur Auswahl, welche den Bedarf einiger
 			Rohstoffe der Stadt abdecken können.
 			^p
 			Kleidung wird vom Schneider hergestellt, der Schmied fertigt Werkzeug und Feuerholz wird vom Holzhacker

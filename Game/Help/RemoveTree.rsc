@@ -18,7 +18,7 @@ StringTable resource
             Allerdings können Sie die Arbeiter ebenfalls anweisen, in einer Region nur Bäume zu fällen und
             Holz zu gewinnen.
 			^p
-			Wählen Sie hierzu die Funktion 'Bäume fällen', markieren Sie anschließend durch Klicken und Ziehen mit der
+			Wählen Sie hierzu die Funktion ^c1 Bäume fällen ^c0, markieren Sie anschließend durch Klicken und Ziehen mit der
             Maus die Fläche aus, in welcher Holz gewonnen werden soll.
 			^p
 			^jc ^i3RemoveTree ^jl ^jc ^f0
@@ -31,7 +31,7 @@ StringTable resource
 			Bäume, die gefällt werden, sind mit einem orangenen X markiert.
 			^jl ^f1 ^n
 			Wenn die Arbeiter die Bäume noch nicht gefällt haben, können Sie die Arbeit jederzeit mit
-            der Funktion ^abRemoveCancel 'Abbau stoppen'^ae abbrechen.
+            der Funktion ^abRemoveCancel Abbau stoppen^ae abbrechen.
 			^p ";
 		}
 	]

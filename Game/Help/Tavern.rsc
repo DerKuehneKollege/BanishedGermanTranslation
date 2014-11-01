@@ -47,7 +47,7 @@ StringTable resource
 			^lo ^i0PlumSmall ^s ^c1 Pflaumen ^c0
 			^le
 			^n ^mb ^mc ^dDialogTavernWork ^ml60 ^mc
-			Durch Umschalten des Buttons 'Arbeiten' kann das Bierbrauen eingestellt bzw. wiederaufgenommen werden.
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann das Bierbrauen eingestellt bzw. wiederaufgenommen werden.
 			^ml0 ^me ";
 		}
 	]

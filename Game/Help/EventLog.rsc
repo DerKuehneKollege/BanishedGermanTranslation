@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIEventLog ^s Ereignisverlauf ^f1 ^n
-			Im Fenster 'Ereignisverlauf' werden die wichtigsten spielrelevanten Ereignisse, die in Ihrer Stadt
+			Im Fenster ^c1 Ereignisverlauf ^c0 werden die wichtigsten spielrelevanten Ereignisse, die in Ihrer Stadt
 			passieren aufgezeichnet. Dies umfasst beispielsweise Geburten, Todesfälle, Krankheiten, Katastrophen,
 			Warnungen vor Ressourcenknappheit und zu vollen Lagern, sowie die Ankunft von Nomaden und fahrenden Händlern
 			am Handelsposten.

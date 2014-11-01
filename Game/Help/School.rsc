@@ -38,7 +38,7 @@ StringTable resource
 			Mit einem Linksklick auf das Schulgebäude wird das Detailfenster geöffnet, in welchem die dort unterrichteten
 			Schüler angezeigt werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogSchoolWork ^n ^ml60 ^mc
-			Durch Klick auf den Button 'Arbeiten' kann der Schulbetrieb eingestellt bzw. wiederaufgenommen werden.
+			Durch Klick auf den Button ^c1 Arbeiten ^c0 kann der Schulbetrieb eingestellt bzw. wiederaufgenommen werden.
 			Bei eingestellter Arbeit findet keine Ausbildung von Schülern an der Schule statt.
 			^ml0 ^me ";
 		}

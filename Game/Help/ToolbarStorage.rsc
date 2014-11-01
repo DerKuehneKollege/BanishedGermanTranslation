@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIStorage ^s Lagerraum und Handel ^f1 ^jl ^vb
-			Im Menü 'Lagerraum und Handel' stehen verschiedene Gebäude zum Lagern und Handeln von Ressourcen zur
+			Im Menü ^c1 Lagerraum und Handel ^c0 stehen verschiedene Gebäude zum Lagern und Handeln von Ressourcen zur
 			Verfügung.
 			^p
 			Märkte bieten den Siedlern eine Anlaufstelle für eine Vielzahl verschiedener Ressourcen, ohne dass sie

@@ -45,17 +45,17 @@ StringTable resource
 			Viehherde vergrößert sich über die Zeit. Der auf einer Weide zu haltende Viehtyp kann nur geändert werden,
 			wenn die Weide zuvor geleert wurde.
 			^ml0 ^me ^n ^mb ^mc ^dDialogPastureEmpty ^n ^ml60 ^mc
-			Mit dem Button 'Leeren' können Sie die aktuell ausgewählte Viehweide leeren und die Tiere auf eine andere
+			Mit dem Button ^c1 Leeren ^c0 können Sie die aktuell ausgewählte Viehweide leeren und die Tiere auf eine andere
 			Weide schicken. Dieser Button ist nur eingeblendet und auswählbar, wenn es eine andere Viehweide gibt, auf
 			der genug Platz ist.
 			^ml0 ^me ^n ^mb ^mc ^dDialogPastureSplit ^n ^ml60 ^mc
 			Um die Anzahl Tiere weiter zu erhöhen, können Herden aufgeteilt werden. Sobald auf einer Viehweide genügend
-			Tiere vorhanden sind und auf anderen Viehweide genug Platz ist, ist der Button 'Aufteilen' eingeblendet.
+			Tiere vorhanden sind und auf anderen Viehweide genug Platz ist, ist der Button ^c1 Aufteilen ^c0 eingeblendet.
 			Durch einen Klick auf den Button wird die Hälfte der Tiere auf die andere Weide geschickt. Mit der Zeit
 			pflanzen sich die Tiere auf den separaten Weiden fort und der Viehbestand Ihrer Stadt vergrößert sich.
 			^ml0 ^me ^n ^mb ^mc ^dDialogPastureWork ^n ^ml60 ^mc
 			Sie können die Bewirtschaftung einer Viehweide aktivieren bzw. deaktivieren, in dem Sie den Button
-			'Arbeiten' umschalten. Im deaktivierten Zustand oder wenn für die Viehweide keine Hirten zur Verfügung
+			^c1 Arbeiten ^c0 umschalten. Im deaktivierten Zustand oder wenn für die Viehweide keine Hirten zur Verfügung
 			stehen, verringert sich die Gesundheit der auf der Weide lebenden Tiere und sie pflanzen sich
 			langsamer fort.
 			^ml0 ^me ^n
