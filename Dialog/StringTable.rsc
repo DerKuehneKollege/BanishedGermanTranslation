@@ -56,7 +56,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MountainMenDesc";
-			String _text = "Halten Sie über 20 Jahre lang eine Bevölkerung von über 50 Einwohnern auf einer bergigen Karte mit rauem Klima am Leben.";
+			String _text = "Halten Sie über 20 Jahre lang eine Bevölkerung von über 50 Einwohnern auf einer kleinen, bergigen Karte mit rauem Klima am Leben.";
 		}
 		{
 			String _name = "Tombstone";
