@@ -88,7 +88,7 @@ StringTable resource
             ^li ^abToolbarProduction Ressourcenproduktion^ae
             ^lb
                 ^li ^abWoodcutter Holzhacker^ae
-                ^li ^abForester Förster^ae
+                ^li ^abForester Forsthäuser^ae
                 ^li ^abHerbalist Kräutersammler^ae
                 ^li ^abBlacksmith Schmied^ae
                 ^li ^abTailor Schneidereien^ae

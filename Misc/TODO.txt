@@ -2,6 +2,7 @@ TODOs:
 TODO: Bilder in der Hilfe ebenfalls übersetzen
 TODO: Bei manchen Hilfeseiten sind die Bilder verrutscht. Korrigieren! Eine schöne Formatierung ist auf der Seite Woodcutter
 TODO: ^ab<ID> <Value>^ae: Leerzeichen, Punkt- und Kommasetzung überprüfen
+TODO: "Schmied" -> "Schmiede"
 
 Fenstergröße unpassend bei:
 - Viehweide
