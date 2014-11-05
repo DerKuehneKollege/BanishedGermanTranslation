@@ -8,8 +8,8 @@ Fenstergröße unpassend bei:
 - Viehweide
 
 Hilfe (Raw translation):
-[ ] Contents, Übersicht
-[ ] GettingStarted Grundlagen zum Spiel
+[x] Contents, Übersicht
+[x] GettingStarted Grundlagen zum Spiel
 [ ] Navigation Kamerasteuerung
 [ ] Toolbar Hauptleiste
 [ ] Citizen Siedler

@@ -170,9 +170,9 @@ Sie benötigen allerdings eine andere Weide, die genug Platz für alle Tiere hat."
 		}
 		{
 			String _name = "Step_Pasture_5_Pre";
-			String _text = "Sie die eine Viehherde aufteilen lassen, damit sich die Tiere besser vermehren. Klicken Sie dazu den Button 'Aufteilen'.
+			String _text = "Sie können Viehherden aufteilen lassen, damit sich die Tiere besser vermehren. Klicken Sie dazu den Button 'Aufteilen'.
 
-Sie benötigen allerdings genügend Platz auf anderen Weiden, um das Vieh aufzunehmen.";
+Dazu wird allerdings genügend Platz auf einer anderen Weide benötigt, um das Vieh aufzunehmen.";
 		}
 		{
 			String _name = "Step_Pasture_6_Pre";

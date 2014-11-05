@@ -612,7 +612,7 @@ StringTable events
 		}
 		{
 			String _name = "Event12";
-			String _text = "@0 @1: Ein @2 leidet unter Pilzbefall!";
+			String _text = "@0 @1: Eine Agrarfläche (@2) ist von einem Schädling befallen!";
 		}
 		{
 			String _name = "Event13";

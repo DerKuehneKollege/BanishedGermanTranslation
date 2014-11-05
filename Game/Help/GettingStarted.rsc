@@ -18,7 +18,7 @@ StringTable resource
 			^abToolbar Hauptleiste^ae einarbeiten. Die Hauptleiste ermöglicht es Ihnen, sich verschiedenartige
 			Informationen über Ihre Stadt anzeigen zu lassen.
 			Weiterhin können Sie von dort den ^abBuildings Bau von Gebäuden^ae beauftragen.
-			Verschiedene Fenster wie das ^abStatusBar Statusfenster,^ae der ^abEventLog Ereignisverlauf^ae und die
+			Verschiedene Fenster, wie das ^abStatusBar Statusfenster,^ae der ^abEventLog Ereignisverlauf^ae und die
 			^abMap Karte,^ae erlauben es Ihnen, Informationen über auftretende Ereignisse und den Zustand
 			Ihrer Stadt einzusehen.
 			^p
@@ -30,21 +30,21 @@ StringTable resource
 			Eisen kann aus ^abRemoveIron Ablagerungen an der Oberfläche^ae gewonnen oder in
 			^abMine Minen^ae abgebaut werden.
 			^p
-			Das allerwichtigste Ziel in Banished ist es, Ihre ^abCitizens Stadtbevölkerung^ae am Leben zu erhalten.
+			Das allerwichtigste Ziel in Banished ist es, Ihre ^abCitizen Stadtbevölkerung^ae am Leben zu erhalten.
 			Jeder Siedler benötigt zum Überleben Unterkunft, Nahrung und einen Platz zum Aufwärmen. Nach der Errichtung
-			von Arbeitsstätten müssen Sie ^abProfession Siedlern Berufen zuordnen.^ae
+			von Arbeitsstätten müssen Sie Siedlern verschiedenen ^abProfession Berufen zuordnen.^ae
 			^p
 			Sie können durch den Bau von ^abWoodHouse Holzhäusern^ae und ^abStoneHouse Steinhäusern^ae Wohnraum für die
 			Bevölkerung schaffen. Ebenfalls können Sie ^abBoardingHouse Notunterkünfte^ae errichten lassen,
 			um vorübergehend Wohnraum für Obdachlose oder Nomaden zur Verfügung zu haben. Sobald Ihre Siedler Kinder
-			bekommen und diese heranwachsen, benötigen diese eine eigene Behausung, um dort eigene Familien zu gründen.
+			bekommen und diese heranwachsen, benötigen sie eine eigene Behausung, um dort eigene Familien zu gründen.
 			^p
 			Nahrung kann durch ^abFishingDock Fischer,^ae ^abHunterLodge Jäger^ae und ^abGathererHut Sammler^ae gewonnen
 			bzw. produziert werden. Des Weiteren können Bauern ^abCropField Ackerbau^ae betreiben oder
 			^abOrchard Obstgärten^ae bewirtschaften, in denen Nüsse und Obst angepflanzt werden. Alternativ kann, wenn
 			^abPasture Weiden^ae zur Verfügung stehen, Viehzucht betrieben werden.
 			^p
-			Siedler heizen ihre Wohnstätten mit ^abResource Brennholz oder Kohle.^ae Feuerholz kann ohne viel Aufwand
+			Siedler heizen ihre Wohnstätten mit ^abResource Brennholz oder Kohle.^ae Brennholz kann ohne viel Aufwand
 			von ^abWoodcutter Holzhackern^ae produziert werden. Kohle dagegen muss in ^abMine Minen^ae aus Gebirgen
 			abgebaut werden.
 			^p
@@ -70,8 +70,8 @@ StringTable resource
 			Siedlern, sich im Winter länger draußen aufzuhalten, ohne dass sie sich ständig an einer Wohnstätte
 			aufwärmen müssen.
 			^p
-			Der ^abHerbalist Kräutersammler^ae sammelt im Wald in der Nähe alter Bäume Kräuter. Siedler, die aufgrund
-			von ungesunder Ernährung an Gesundheit eingebüßt haben, können sich mit den Kräutern beim Kräutersammler
+			^abHerbalist Kräutersammler^ae sammeln im Wald in der Nähe alter Bäume wilde Heilkräuter. Siedler, die aufgrund
+			von ungesunder Ernährung an Gesundheit eingebüßt haben, können sich mit diesen Kräutern beim Kräutersammler
 			heilen lassen. ^abHospital Krankenhäuser^ae können gebaut werden, um Krankheiten zu heilen und Seuchen
 			einzudämmen.
 			^p
@@ -96,8 +96,8 @@ StringTable resource
 			effizienter arbeiten und mehr Ressourcen produzieren.
 			^p
 			^abChapel Kapellen^ae und ^abCemetery Friedhöfe^ae können gebaut werden, um den Zufriedenheitsgrad Ihrer
-			Bevölkerung zu erhöhen. ^abTavern Wirtshäuser^ae steigern ebenfalls die Zufriedenheit Ihrer Bevölkerung.
-			In Wirtshäusern wird mithilfe verschiedener Getreide- oder Obstsorten Bier hergestellt.
+			Bevölkerung zu erhöhen. ^abTavern Wirtshäuser^ae steigern ebenfalls die Zufriedenheit der in der Nähe
+			wohnenden Siedler. In Wirtshäusern wird mithilfe verschiedener Getreide- oder Obstsorten Bier hergestellt.
 			^p
 			Sie sollten in Ihrer Siedlung ^abWell Brunnen^ae platzieren, damit die Bevölkerung dort Wasser holen kann
 			und bei Ausbruch eines Feuers die Brände löschen kann.
