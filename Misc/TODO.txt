@@ -10,9 +10,9 @@ Fenstergröße unpassend bei:
 Hilfe (Raw translation):
 [x] Contents, Übersicht
 [x] GettingStarted Grundlagen zum Spiel
-[ ] Navigation Kamerasteuerung
-[ ] Toolbar Hauptleiste
-[ ] Citizen Siedler
+[x] Navigation Kamerasteuerung
+[x] Toolbar Hauptleiste
+[x] Citizen Siedler
 [ ] Resource Ressourcen
 [ ] Buildings Gebäude
 [ ] Disaster Katastrophen
