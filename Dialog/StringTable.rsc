@@ -3242,7 +3242,7 @@ Der Autor der Mod könnte lediglich eine Aktualisierung der Mod mit Fehlerkorrekt
 @0 [@1]
 Gespeichert mit Version @2
 
-Es ist möglich, dass der Autor die Mod aktualisiert hat, ohne die Versionsnummer anzupassen oder dass eine Mod mit dem selben Namen die alte Mod überschrieben hat. Laden dieses Spielstands unerwartete Folgen bzw. Spielabstürze zur Folge haben. Soll der Spielstand trotzdem geladen werden?";
+Es ist möglich, dass der Autor die Mod aktualisiert hat, ohne die Versionsnummer anzupassen oder dass eine Mod mit demselben Namen die alte Mod überschrieben hat. Beim Laden dieses Spielstands kann es zu unerwarteten Folgen bzw. Spielabstürzen kommen. Soll der Spielstand trotzdem geladen werden?";
 		}
 		{
 			String _name = "ReloadMenu";
