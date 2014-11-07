@@ -13,8 +13,8 @@ Hilfe (Raw translation):
 [x] Navigation Kamerasteuerung
 [x] Toolbar Hauptleiste
 [x] Citizen Siedler
-[ ] Resource Ressourcen
-[ ] Buildings Gebäude
+[x] Resource Ressourcen
+[x] Buildings Gebäude
 [ ] Disaster Katastrophen
 [ ] ToolbarTime Spielgeschwindigkeit
 
