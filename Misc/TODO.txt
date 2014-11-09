@@ -3,6 +3,9 @@ TODO: Bilder in der Hilfe ebenfalls übersetzen
 TODO: Bei manchen Hilfeseiten sind die Bilder verrutscht. Korrigieren! Eine schöne Formatierung ist auf der Seite Woodcutter
 TODO: ^ab<ID> <Value>^ae: Leerzeichen, Punkt- und Kommasetzung überprüfen
 TODO: "Schmied" -> "Schmiede"
+TODO: Buildings: Aufzählung aufhübschen
+TODO: ToolbarTools: Aufzählung aufhübschen
+TODO: Profession: Aufzählung aufhübschen
 
 Fenstergröße unpassend bei:
 - Viehweide
@@ -18,17 +21,17 @@ Hilfe (Raw translation):
 [x] Disaster Katastrophen
 [x] ToolbarTime Spielgeschwindigkeit
 
-[ ] ToolbarTools Toolfenster und Statistiken
-    [ ] StatusBar Statusfenster
-    [ ] EventLog Ereignisverlauf
-    [ ] Map Übersichtskarte
-    [ ] Profession Berufe
-    [ ] Limit Ressourcenlimits
-    [ ] Priority Priorität erhöhen
-    [ ] Path Laufwege
-    [ ] Camera Kameraansichten
-    [ ] GotoTownHall Zensusdaten
-    [ ] Help Hilfe
+[x] ToolbarTools Toolfenster und Statistiken
+    [x] StatusBar Statusfenster
+    [x] EventLog Ereignisverlauf
+    [x] Map Übersichtskarte
+    [x] Profession Berufe
+    [x] Limit Ressourcenlimits
+    [x] Priority Priorität erhöhen
+    [x] Path Laufwege
+    [x] Camera Kameraansichten
+    [x] GotoTownHall Zensusdaten
+    [x] Help Hilfe
 
 [ ] ToolbarHousing Behausungen und Unterkünfte
     [ ] WoodHouse Holzhäuser

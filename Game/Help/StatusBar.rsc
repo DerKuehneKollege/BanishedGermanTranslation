@@ -13,18 +13,18 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIStatusBar ^s Statusfenster ^f1 ^n
-			Das Statusfenster zeigt den Namen Ihrer Stadt, die aktuelle Jahreszeit und die vergangenen Jahre seit
-			Spielbeginn. Weiterhin einsehbar sind die Bevölkerungszahlen, das aktuelle Wetter, Übersicht über die
+			Das Statusfenster zeigt unter anderem den Namen Ihrer Stadt, die aktuelle Jahreszeit und die vergangenen Jahre seit
+			Spielbeginn an. Weiterhin einsehbar sind die Bevölkerungszahlen, das aktuelle Wetter, Übersicht über die
 			Gesamtlagermenge verschiedener Güter, sowie die durchschnittliche Gesundheit und Zufriedenheit Ihrer
-			Bevölkerung. Die Gesamtlagermenge umfasst die in ^abStorageBarn Lagerhäusern^ae,
-			auf ^abStockPile Lagerplätzen^ae, in ^abMarket Märkten^ae gelagerten Güter, sowie die Güter, welche die
+			Bevölkerung. Die Gesamtlagermenge umfasst die in ^abStorageBarn Lagerhäusern,^ae
+			auf ^abStockPile Lagerplätzen^ae und in ^abMarket Märkten^ae gelagerten Güter, sowie die Güter, welche die
 			Siedler in den Häusern lagern und in ihren Taschen herumtragen.
 			^p
 			^jc ^dDialogStatusBar ^jl ^n
-			Wenn Siedler unter einem negativen Effekt, wie Hunger oder Arbeitslosigkeit leiden, werden diese
+			Wenn Siedler unter einem negativen Effekt wie Hunger oder Arbeitslosigkeit leiden, werden diese
 			Beeinflussungen ebenfalls im Statusfenster mit den folgenden Symbolen angezeigt: ^dDialogStatusBarIcons
 			^p
-			Wenn Sie auf die Symbole klicken, können Sie die unter den Effekten stehenden Siedlern einzeln auswählen.
+			Wenn Sie auf die Symbole klicken, können Sie die unter den Effekten stehenden Siedler einzeln auswählen.
 			^p
 			Die anderen Einträge im Statusfenster haben folgende Bedeutung:
 			^lb

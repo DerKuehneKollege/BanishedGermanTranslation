@@ -16,10 +16,10 @@ StringTable resource
 			Die Funktion ^c1 Priorität erhöhen ^c0 erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
 			Aufgaben erfüllen, zu ändern.
 			^p
-			Im Normalfall führen die Arbeiter die Tätigkeiten in der Reihenfolge aus, in der sie aufgetragen wurden.
+			Im Normalfall führen die Arbeiter die Tätigkeiten in der Reihenfolge aus, in der sie beauftragt wurden.
 			Wenn Sie beispielsweise zuerst einen ^abBlacksmith Schmied,^ae dann mehrere ^abWoodHouse Holzhäuser^ae und
 			anschließend ein ^abStorageBarn Lagerhaus^ae platzieren, werden die Gebäude in dieser Reihenfolge gebaut -
-			zuerst die Schmiede, dann die Häuser und abschließend das Lagerhaus.
+			zuerst die Schmiede, dann die Häuser und anschließend das Lagerhaus.
 			^p
 			Wenn Sie aus irgendeinem Grund diese Reihenfolge ändern wollen, können Sie ^c1 Priorität erhöhen ^c0 verwenden.
 			Wählen Sie dazu einfach die Funktion aus und markieren Sie dann durch Klicken und Ziehen mit der linken
@@ -32,7 +32,7 @@ StringTable resource
 			errichten wollen, allerdings nicht genügend ^abResource Ressourcen^ae für den Bau verfügbar sind, können die
 			zuständigen ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae nicht mit der Arbeit beginnen und werden sich
 			anderen, machbaren Aufgaben zuwenden. Sobald die Ressourcen verfügbar sind, verfügt der Bau des Gebäudes
-			allerdings über erhöhte Priorität.
+			allerdings wieder über erhöhte Priorität.
 			";
 		}
 	]

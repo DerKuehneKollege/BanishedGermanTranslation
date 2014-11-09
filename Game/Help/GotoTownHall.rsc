@@ -17,8 +17,8 @@ StringTable resource
 			im Menü angezeigte Funktion ^c1 Zensusdaten ^c0 erlaubt es Ihnen, schnell zum Rathaus zu springen und die
 			Informationen anzuzeigen.
 			^p
-			Dies kann nützlich sein, wenn Sie eine große Stadt haben und nicht erst das Rathaus suchen müssen (oder gar
-			eine ^abCamera Kameraansicht^ae speichern müssen), um sich die Informationen anzeigen zu lassen.
+			Dies kann nützlich sein, wenn Sie eine große Stadt haben und nicht erst das Rathaus suchen (oder gar
+			eine ^abCamera Kameraansicht^ae speichern) müssen, um sich die Informationen anzeigen zu lassen.
 			^p
 			Diese Funktion ist bis zum Bau des Rathauses ausgegraut. ";
 		}

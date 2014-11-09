@@ -16,12 +16,12 @@ StringTable resource
 			Die Funktion ^c1 Kameraansichten ^c0 ermöglicht Ihnen das Abspeichern der aktuellen Kameraansicht. Dies können
 			Sie verwenden, um jederzeit zu einer von Ihnen gewählten Stelle auf der Karte zu springen.
 			^p
-			Wenn Sie die Funktion auswählen, wird zunächst ein Untermenü angezeigt.
+			Wenn Sie die Funktion auswählen, wird zunächst ein Untermenü angezeigt:
 			^p
 			^jc ^dUIToolbarCamera ^jl ^n
 			Durch Klicken auf eine der fünf Kameras speichern Sie die aktuelle Kameraansicht in dem ausgewählten Slot.
-			Sie können jederzeit durch Drücken der entsprechenden Hotkey, welche im Tooltip für den Button angezeigt
-			wird, an die im Slot gespeicherte Stelle springen.
+			Sie können jederzeit durch Drücken der entsprechenden Taste, welche in eckigen Klammern im Tooltip für den
+			jeweiligen Button angezeigt wird, an die im Slot gespeicherte Stelle springen.
 			^p
 			In der Standardtastenbelegung sind die Hotkeys für die jeweiligen Ansichten
 			^c1 Z, ^c0 ^c1 X, ^c0 ^c1 C, ^c0 ^c1 V, ^c0 und ^c1B^c0,
