@@ -19,16 +19,16 @@ StringTable resource
 			^p
 			^f2 ^c1 Hungersnot ^c0 ^f1 ^n
 			Wenn nicht genügend Nahrung für die Bevölkerung zur Verfügung steht, werden einige Ihrer Siedler verhungern.
-			Dies kann durch Anlegen großer Nahrungsvorräte vermieden werden. Ebenso können Hungersnöte durch einen
-			stabilen Aufbau zur Nahrungsproduktion, beispielsweise durch ^abHunterLodge Jagdhütten,^ae
+			Dies kann durch Anlegen größerer Nahrungsvorräte vermieden werden. Ebenso kann der Aufbau einer
+			stabilen Nahrungsproduktion durch ^abHunterLodge Jagdhütten,^ae
 			^abGathererHut Sammlerhütten,^ae ^abFishingDock Fischerhütten,^ae ^abCropField Äcker,^ae
-			^abOrchard Obstgärten^ae und ^abPasture Viehweiden^ae abgewendet werden.
+			^abOrchard Obstgärten^ae und ^abPasture Viehweiden^ae helfen, eine Hungersnot abzuwenden.
 			^p
 			^f2 ^c1 Wetter ^c0 ^f1 ^n
 			In Städten, in denen sich die Nahrungsproduktion auf ^abCropField Äcker^ae und ^abOrchard Obstgärten^ae
-			stützt, kann schlechtes Wetter zum Problem werden. Wenn es zu früh im Jahr sehr kalt wird, kann dies zu
-			Missernten führen. In diesem Fall hilft es, die Ernte früher beginnen zu lassen. Alternativ sollten Sie
-			sicherstellen, dass Sie genug Nahrung durch andere Quellen produzieren bzw. genügend Reserven
+			stützt, kann schlechtes Wetter langfristig zum Problem werden. Wenn es zu früh im Jahr sehr kalt wird, kann
+			dies zu Missernten führen. In diesem Fall hilft es, die Ernte früher beginnen zu lassen. Alternativ
+			sollten Sie sicherstellen, dass Sie genug Nahrung durch andere Quellen produzieren bzw. genügend Reserven
 			vorrätig haben.
 			^p
 			^f2 ^c1 Kältetod ^c0 ^f1 ^n
@@ -53,21 +53,21 @@ StringTable resource
 			zu vermeiden.
 			^p
 			^f2 ^c1 Krankheiten ^c0 ^f1 ^n
-			^abCitizen Siedler^ae, die sich in einem schlechten Gesundheitszustand befinden, haben gegenüber gesunden
+			^abCitizen Siedler,^ae die sich in einem schlechten Gesundheitszustand befinden, haben gegenüber gesunden
 			Siedlern ein erhöhtes Risiko eine Krankheit zu bekommen. Sie können die Bevölkerung gesund halten, indem
 			Sie für eine große Vielfalt an verschiedenen Nahrungsmitteln wie Obst, Gemüse, Getreide und Fleisch sorgen.
 			Wenn dies nicht gelingt, kann der ^abHerbalist Kräutersammler^ae ebenfalls für eine Verbesserung der
 			Gesundheit sorgen und eine mangelhafte Ernährung ausgleichen.
 			^p
 			Wenn in der Stadt eine Krankheit ausbricht, können ^abHospital Krankenhäuser^ae die Ausbreitung aufhalten
-			und erkrankte Siedler heilen. Der Handel mit ^abTradingPost fahrenden Händlern^ae, sowie das Aufnehmen von
-			Nomaden in die Stadt kann vorübergehen für ein höheres Risiko für einen Krankheitsausbruch sorgen.
+			und erkrankte Siedler heilen. Der Handel mit ^abTradingPost fahrenden Händlern,^ae sowie die Einbürgerung von
+			Nomaden in die Stadt kann vorübergehend für ein höheres Risiko eines Krankheitsausbruchs sorgen.
 			^p
 			^f2 ^c1 Tornados ^c0 ^f1 ^n
-			Es kann in seltenen Fällen passieren, dass sich nahe Ihrer Stadt ein Tornado bildet. Tornados können
-			Gebäude Ihrer Stadt zerstören und Ihre Felder und Viehweiden verwüsten. Um sich gegen Tornados zu wappnen,
+			In seltenen Fällen kann es passieren, dass sich nahe Ihrer Stadt ein Tornado bildet. Tornados können
+			Gebäude Ihrer Stadt zerstören, sowie die Felder und Viehweiden verwüsten. Um sich gegen Tornados zu wappnen,
 			können Sie ^abBoardingHouse Notunterkünfte^ae bauen. Diese bieten vorübergehend Unterkunft für Familien,
-			dessen Häuser zerstört wurden, während die Stadt wiederaufgebaut wird.
+			deren Häuser zerstört wurden, während die Stadt wiederaufgebaut wird.
 			^p
 			^f2 ^c1 Brände ^c0 ^f1 ^n
 			Von Zeit zu Zeit können in Ihrer Stadt Feuer ausbrechen. In diesem Fall werden Ihre Siedler sofort mit den
@@ -84,7 +84,7 @@ StringTable resource
 			^jc ^dDialogDamage ^jl ^n ^mb ^mc ^dDialogDamageRebuild ^n ^ml60 ^mc
 			Sie können das Gebäude durch Klick auf den Button ^c1 Ausbessern ^c0 wiederaufbauen. Das Gebäude wird in diesem
 			Fall zunächst abgerissen, wobei ein paar Baumaterialien wiedergewonnen werden. Anschließend wird das Gebäude
-		    von ^i0ProfessionBuilder ^s ^abProfession Bauarbeitern^ae wiederaufgebaut.
+		    von den ^i0ProfessionBuilder ^abProfession Bauarbeitern^ae wiederaufgebaut.
 		    ^ae ^ml0 ^me ^n ^mb ^mc ^dDialogDamageRemove ^n ^ml60 ^mc
 			Beschädigte Gebäude können mit dem Button ^c1 Abreißen ^c0 abgerissen werden. Dadurch können ein paar
 			Baumaterialien wiedergewonnen werden.

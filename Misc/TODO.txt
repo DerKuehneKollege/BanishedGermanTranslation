@@ -15,8 +15,8 @@ Hilfe (Raw translation):
 [x] Citizen Siedler
 [x] Resource Ressourcen
 [x] Buildings Gebäude
-[ ] Disaster Katastrophen
-[ ] ToolbarTime Spielgeschwindigkeit
+[x] Disaster Katastrophen
+[x] ToolbarTime Spielgeschwindigkeit
 
 [ ] ToolbarTools Toolfenster und Statistiken
     [ ] StatusBar Statusfenster
