@@ -21,32 +21,35 @@ StringTable resource
 			Güter in ihren Häusern. Holzhäuser sind schnell und kostengünstig errichtet,
 			benötigen bei Kälte allerdings mehr Brennmaterial zum Heizen als ^abStoneHouse Steinhäuser.^ae
 			^p
-            Familien lagern in ihren Häusern Nahrung und Brennholz, um sich warm und satt zu halten. Wenn die Kinder einer
-            Familie heranwachsen, suchen sie sich einen Partner und ein eigenes Haus, um eigene Familien zu gründen.
-            Wenn keine freien Häuser verfügbar sind, bleiben sie bei ihren Familien.
+            Familien lagern in ihren Häusern Brennholz und Nahrung, um sich warm und satt zu halten. Wenn die Kinder einer
+            Familie heranwachsen, suchen sie sich Partner und eigene Häuser, um dort eigene Familien zu gründen.
+            Wenn keine freien Häuser verfügbar sind, bleiben sie bei ihren Familien und die Wahrscheinlichkeit, dass
+            neue Kinder hervorgehen, sinkt.
 			^p
 			Wenn in einer Behausung nicht genügend Brennmaterial zum Heizen zu Verfügung steht oder für die Bewohner nicht
 			genügend Nahrung vorhanden ist, werden folgende Statussymbole über dem Haus angezeigt:
 			^lb ^lb ^vc
 			^lo ^i2BuildingNoFood ^s Es ist nicht genügend Nahrung im Haus.
-			^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen des Hauses vorhanden.
+			^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen vorhanden.
 			^le ^le ^vb
-			Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich schnell darauf zu konzentrieren,
-			die fehlenden Ressourcen zu produzieren, da die Bewohner des Hauses sonst erfrieren bzw. verhungern.
-			^n ^mb ^mc ^dDialogWoodHouse ^ml375 ^mc
-			Über einen Linksklick auf ein Holzhaus werden in einem Detailfenster die Bewohner des Hauses inklusive
-			Geschlecht, Alter und Beruf angezeigt.
+			^n
+			Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich darauf zu konzentrieren,
+			schnell die fehlenden Ressourcen zu produzieren, da die Bewohner des Hauses sonst erfrieren bzw. verhungern.
 			^p
+			^mb ^mc ^dDialogWoodHouse ^ml375 ^mc
+			Mit einem Linksklick auf ein Holzhaus wird das dazugehörige Detailfenster eingeblendet, in dem die Bewohner
+			des Hauses inklusive Geschlecht, Alter und Beruf aufgeführt sind.
+			^ml0 ^me ^n ^mb
 			Mit einem Klick auf den Aufwerten-Button ^dDialogWoodHouseUpgrade kann das Holzhaus zu einem
 			^abStoneHouse Steinhaus^ae aufgewertet werden. Hierbei wird das Gebäude zunächst abgerissen und als Steinhaus
-			neu aufgebaut, wobei allerdings einige Ressourcen des alten Hauses weiterverwendet werden.
-			^ml0 ^me ^vc
+			wieder neu aufgebaut, wobei einige Ressourcen des alten Hauses weiterverwendet werden.
+			^p
 			Mit den Ansicht-Buttons ^dDialogWoodHouseRow ^s können Sie die Kamera zum ausgewählten
 			^abCitizen Hausbewohner^ae bewegen und sich Details zum Siedler anzeigen lassen.
 			^p
 			^mb ^mc ^dDialogWoodHouseInv ^ml375 ^mc
-			Durch Klick auf den Lager-Button ^dDialogInventory können Sie einsehen, welche Güter im Haus gelagert werden.
-			Dadurch erhalten Sie einen Überblick, wie viel Nahrung und Brennmaterial im Haus gelagert sind.
+			Durch Klick auf den Lager-Button ^dDialogInventory erhalten Sie einen Überblick, wie viel und von welcher Art
+			Nahrung bzw. Brennmaterial zurzeit im Haus gelagert werden.
 			^ml0 ^me ";
 		}
 	]

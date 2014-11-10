@@ -22,7 +22,7 @@ StringTable resource
 			Notunterkunft als temporäre Lösung an, bis Sie neue Häuser gebaut haben oder beschädigte Häuser repariert
 			wurden.
 			^p
-			Notunterkünfte funktionieren genauso wie ^abWoodHouse Holzhäuser^ae und ^abStoneHouse Steinhäuser^ae, können
+			Notunterkünfte funktionieren genauso wie ^abWoodHouse Holzhäuser^ae und ^abStoneHouse Steinhäuser,^ae können
 			allerdings gleichzeitig bis zu fünf Familien beherbergen.
 			^p
             Siedler werden nur in eine Notunterkunft ziehen, wenn nirgendwo anders Platz ist. Ansonsten bevorzugen sie
@@ -34,16 +34,18 @@ StringTable resource
 			angezeigt:
             ^lb ^lb ^vc
             ^lo ^i2BuildingNoFood ^s Es steht nicht genügend Nahrung zur Verfügung.
-            ^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen der Unterkunft vorhanden.
+            ^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen vorhanden.
             ^le ^le ^vb
-            Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich schnell darauf zu konzentrieren,
-            die fehlenden Ressourcen zu produzieren, da die Bewohner der Unterkunft sonst erfrieren bzw. verhungern.
+            ^n
+            Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich darauf zu konzentrieren,
+            schnell die fehlenden Ressourcen zu produzieren, da die Bewohner der Unterkunft sonst erfrieren
+            bzw. verhungern.
 			^p
 			^mb ^mc ^jl ^dDialogBoardingHouse ^ml372 ^mc
-			Über einen Linksklick auf eine Notunterkunft werden in einem Detailfenster die Bewohner des Hauses inklusive
-            Geschlecht, Alter und Beruf angezeigt.
-			^p
-			Mit den Ansicht-Buttons ^dDialogWoodHouseRow können Sie die Kamera zum ausgewählten
+			Mit einem Linksklick auf eine Notunterkunft wird das dazugehörige Detailfenster eingeblendet, in welchem die
+			Bewohner des Hauses inklusive Geschlecht, Alter und Beruf aufgeführt sind.
+			^ml0 ^me ^n ^mb
+			Mit den Ansicht-Buttons ^dDialogWoodHouseRow können Sie die Kamera zum entsprechenden
             ^abCitizen Bewohner^ae bewegen und sich Details über ihn anzeigen lassen.
             ^ml0 ^me ^vc";
 		}

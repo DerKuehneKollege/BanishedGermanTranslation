@@ -17,8 +17,8 @@ StringTable resource
 			^i0Stone x1 (pro Längeneinheit)
 			^me ^f1 ^c0 ^jl ^vb
 			Gepflasterte Straßen können platziert werden, um die Laufgeschwindigkeit der darauf laufenden Siedler
-			stark zu erhöhen. Gepflasterte Straßen werden von ^abProfession Bauarbeitern^ae errichtet und benötigen beim
-			Bau eine Einheit Stein pro Längeneinheit. Im Gegensatz zu den gepflasterten Straßen bringen
+			stark zu erhöhen. Gepflasterte Straßen werden von ^abProfession Bauarbeitern^ae errichtet und benötigen für
+			den Bau eine Einheit Stein pro Längeneinheit. Im Gegensatz zu den gepflasterten Straßen bringen
 			^abDirtRoad Feldwege^ae einen niedrigeren Geschwindigkeitsbonus, benötigen dafür allerdings keinerlei
 			Baumaterialien.
 			^p

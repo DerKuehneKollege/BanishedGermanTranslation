@@ -10,6 +10,12 @@ TODO: Profession: Aufzählung aufhübschen
 Fenstergröße unpassend bei:
 - Viehweide
 
+Release-Prozess:
+1.) Versionsnummer überprüfen
+2.) Steam
+3.) BanishedInfo
+4.) atomkraftzwerg.de
+
 Hilfe (Raw translation):
 [x] Contents, Übersicht
 [x] GettingStarted Grundlagen zum Spiel
@@ -33,15 +39,15 @@ Hilfe (Raw translation):
     [x] GotoTownHall Zensusdaten
     [x] Help Hilfe
 
-[ ] ToolbarHousing Behausungen und Unterkünfte
-    [ ] WoodHouse Holzhäuser
-    [ ] StoneHouse Steinhäuser
-    [ ] BoardingHouse Notunterkünfte
+[x] ToolbarHousing Behausungen und Unterkünfte
+    [x] WoodHouse Holzhäuser
+    [x] StoneHouse Steinhäuser
+    [x] BoardingHouse Notunterkünfte
 
-[ ] ToolbarRoads Straßen und Brücken
-    [ ] DirtRoad Feldwege
-    [ ] StoneRoad Gepflasterte Straße
-    [ ] Bridge Brücken
+[x] ToolbarRoads Straßen und Brücken
+    [x] DirtRoad Feldwege
+    [x] StoneRoad Gepflasterte Straße
+    [x] Bridge Brücken
     [ ] Tunnel Tunnel
 
 [ ] ToolbarStorage Lagerraum und Handel

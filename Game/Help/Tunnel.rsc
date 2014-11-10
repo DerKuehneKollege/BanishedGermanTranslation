@@ -15,8 +15,9 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTunnel ^mc ^f3 ^jl ^c0
 			^dUIRoads ^i0ArrowRight ^dUITunnel ^s Tunnel ^c0 ^f1 ^n
 			^i0Stone x4 (pro Längeneinheit) ^me ^f1 ^c0 ^jl ^vb
-			Tunnel ermöglichen es den Siedlern, Berge zu durchqueren. Dies kann die Laufstrecken verkürzen, teilweise
-			macht es auch den Zugang zu sonst unzugänglichen Gegenden der Karte möglich.
+			Tunnel ermöglichen es den Siedlern, Berge zu durchqueren. Dies kann die Laufstrecken verkürzen, da die
+			Siedler nicht erst um Berge herumlaufen müssen, sondern den direkten Weg nehmen können. Teilweise
+			machen Tunnel auch den Zugang zu sonst unpassierbaren Gegenden der Karte möglich.
 			^p
 			Je länger ein Tunnel ist, desto teurer ist er beim Bau. Wenn sich Siedler in einem Tunnel befinden, haben
 			sie dort dieselbe Laufgeschwindigkeit wie auf ^abDirtRoad Feldwegen.^ae

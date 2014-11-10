@@ -18,7 +18,7 @@ StringTable resource
 			Eine Holzbrücke ermöglicht den Siedlern die Überquerung von Flüssen, Bächen und kleinen Seen. Siedler können
 			nicht schwimmen und daher ohne Brücke Wasser nicht überqueren.
 			^p
-			Je länger die Brücke ist, desto teurer ist sie beim Bau. Auf Holzbrücken haben Siedler die selbe
+			Je länger die Brücke sein soll, desto teurer ist sie beim Bau. Auf Holzbrücken haben Siedler die selbe
 			Laufgeschwindigkeit wie auf ^abDirtRoad Feldwegen.^ae
 			^p
 			^mb ^mc ^dDialogWoodenBridge ^ml308 ^mc
