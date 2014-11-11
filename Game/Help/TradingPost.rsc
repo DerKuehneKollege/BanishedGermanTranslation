@@ -15,7 +15,7 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTradingPost ^mc ^f3 ^jl ^c0
 			^dUIStorage ^i0ArrowRight ^dUITradingPost ^s Handelsposten ^c0 ^f1 ^n
 			^i0Log x82 ^i0Stone x80 ^i0Iron x40 ^me ^f1 ^c0 ^jl ^vb ^vc
-			An einem Handelsposten können mit fahrenden Händlern in der Stadt benötigte Güter gegen in der Stadt
+			An Handelsposten können mit fahrenden Händlern benötigte Güter gegen in der Stadt
 			produzierte Güter getauscht werden.
 			^p
 		    Handelsposten müssen an Flüssen oder Seen gebaut werden, da die fahrenden Händler per Boot anreisen.
@@ -30,13 +30,13 @@ StringTable resource
 			angezeigt.
 			^p
 			^jc ^dDialogTrade1 ^jl
-			Bevor gehandelt werden kann, muss zunächst der Handelsposten mit Ressourcen aufgefüllt werden.
+			Bevor gehandelt werden kann, muss der Handelsposten zunächst mit Ressourcen aufgefüllt werden.
 			^p
 			Sobald die gewünschte Anzahl zu lagernder Ressourcen eingestellt wurde, holen die am Handelsposten
 			arbeitenden ^i0ProfessionTrader ^abProfession Händler^ae die entsprechenden Ressourcen vom
 			^abStockPile Lagerplatz^ae bzw. aus dem ^abStorageBarn Lagerhaus^ae ab. Die Händler können nur begrenzt
-			Rohstoffe mit sich führen, die Arbeit wird solange fortgesetzt, bis die eingestellte Anzahl Güter komplett
-			im Handelsposten eingetroffen ist.
+			Rohstoffe mit sich führen, weswegen sie häufig mehrmals laufen müssen. Die Arbeit wird solange fortgesetzt,
+			bis die eingestellte Anzahl Güter komplett im Handelsposten eingetroffen ist.
 			^p
 			Wenn die Anzahl zu lagernder Ressourcen herabgesetzt wird, räumen die Händler die entsprechenden Ressourcen
 			aus dem Handelsposten aus und bringen sie zurück in die nächstgelegenen Lagerstätten.
@@ -52,7 +52,7 @@ StringTable resource
 			der rechten Seite die im Handelsposten gelagerten Güter angezeigt werden.
 			^p
 			Um einen Handel zu vollziehen, wählen Sie zunächst auf der linken Seite die Güter aus, die Sie einkaufen
-			wollen und wählen anschließend auf der rechten Seite die Güter, gegen die getauscht werden soll aus. Sobald
+			wollen und anschließend auf der rechten Seite die Güter, gegen die getauscht werden soll, aus. Sobald
 			sich der Verkaufswert mit dem Einkaufswert deckt, bzw. diesen übersteigt, kann mit dem Button
 			^dDialogTradeButton der Handel abgeschlossen werden.
 			^p
@@ -91,7 +91,7 @@ StringTable resource
 			Der Händler hat in seinem Boot nur begrenzt Platz. Wenn Sie zu viele verschiedene Artikel bestellen,
 			bringt der Händler nur eine Auswahl davon mit.
 			^p
-			Beachten Sie, das bestellte Güter beim Einkauf teurer sind, als Güter, die fahrende Händler zufällig
+			Beachten Sie, dass bestellte Güter beim Einkauf teurer sind, als Güter, die fahrende Händler zufällig
 			mitbringen.
 			";
 		}

@@ -17,18 +17,19 @@ StringTable resource
 			Verfügung.
 			^p
 			Märkte bieten den Siedlern eine Anlaufstelle für eine Vielzahl verschiedener Ressourcen, ohne dass sie
-			verschiedene Lagergebäude aufsuchen müssen. Handelsposten ermöglichen es, Güter, die die Stadt benötigt, mit
-			den fahrenden Händlern zu tauschen.
+			verschiedene Lagergebäude aufsuchen müssen. Handelsposten ermöglichen es, mit den fahrenden Händlern Güter,
+			die im Überfluss vorhanden sind, gegen andere Güter, die in der Stadt benötigt werden, zu tauschen.
 			^p
 			^jc ^dUIToolbarStorage ^jl ^vc ^lb
 			^lb
-			^lo ^dUIStorageBarn ^s ^abStorageBarn Lagerhaus:^ae In Lagerhäusern Nahrung, Kleidung und andere produzierte
-			Güter gelagert werden.
+			^lo ^dUIStorageBarn ^s ^abStorageBarn Lagerhaus:^ae In Lagerhäusern können Nahrung, Kleidung und andere
+			produzierte Güter gelagert werden.
 			^lo ^dUIStockPile ^s ^abStockPile Lagerplatz:^ae Auf Lagerplätzen werden Rohmaterialien wie Holz, Stein, Eisen
 			und Brennmaterial gelagert.
-			^lo ^dUIMarket ^s ^abMarket Markt:^ae Einen Markt bauen, der die Siedler mit verschiedenen Gütern versorgt.
-			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae Einen Handelsposten bauen, an welchem regelmäßig
-			fahrende Händler eintreffen.
+			^lo ^dUIMarket ^s ^abMarket Markt:^ae Märkte versorgen die Siedler mit verschiedenen Gütern und vermeiden
+			lange Laufwege.
+			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae An Handelsposten treffen regelmäßig
+			fahrende Händler ein, mit welchen Güter getauscht werden können.
 			^le ^le ";
 		}
 	]

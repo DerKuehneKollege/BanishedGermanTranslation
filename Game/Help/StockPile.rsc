@@ -18,14 +18,14 @@ StringTable resource
 			^i0IronSmall Eisen, ^i0FirewoodSmall Brennholz und ^i0CoalSmall Kohle gelagert werden.
 			^p
 			Sofern sich kein ^abMarket Markt^ae in der Nähe befindet, suchen Siedler den nächstgelegenen Lagerplatz auf, um
-            sich benötigte Ressourcen zu holen.
+            sich dort benötigte Ressourcen zu holen.
 			^p
 			Die maximale Lagerkapazität des Lagerplatzes hängt von dessen Fläche ab. Sie können die Größe beim
 			Platzieren selbst bestimmen.  Mit dem Wachstum einer Stadt steigt auch der Bedarf an
-            Lagerkapazität, weswegen eventuell mehr oder größerer Lagerplätze gebaut werden müssen.
+            Lagerkapazität, weswegen eventuell mehr Lagerplätze, evtl. mit größerer Fläche gebaut werden müssen.
 			^p
-			Produzierte Güter müssen von Arbeitern zum Lagerplatz gebracht werden, daher ist es besser, wenn diese sich
-			in der Nähe der Produktionsstätten befinden. Ist dies der Fall werden weniger
+			Produzierte Güter müssen von Arbeitern zum Lagerplatz gebracht werden, daher ist es von Vorteil, wenn sich
+			diese in der Nähe von Produktionsstätten befinden. Ist dies der Fall, werden weniger
 			^i0ProfessionLaborer ^abProfession Arbeiter^ae benötigt, da die Transportwege kürzer ausfallen. Dies
             erhöht die Produktivität, da Sie Arbeiter vom Transport abziehen und ihnen einen anderen Beruf zuweisen
             können.
