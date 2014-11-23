@@ -15,11 +15,11 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleWell ^mc ^f3 ^jl ^c0
 			^dUIServices ^i0ArrowRight ^dUIWell ^s Brunnen ^c0 ^f1 ^n
 			^i0Log x4 ^i0Stone x40 ^me ^f1 ^c0 ^jl ^vb
-			Brunnen sind gemeinsame Treffpunkte für Siedler. In ihrer Freizeit suchen sie gelegentlich den Brunnen auf,
+			Brunnen bieten Ihren Siedlern gemeinsame Treffpunkte. In ihrer Freizeit suchen diese gelegentlich den Brunnen auf,
 			um sich mit anderen Siedlern zu unterhalten. Dies steigert die Zufriedenheit in der Bevölkerung.
 			^p
 			Brunnen sind ebenfalls bei der Brandbekämpfung hilfreich. Wenn in der Stadt ein
-			^abDisaster Feuer ausbricht,^ae laufen die Siedler zur nächsten Wasserquelle und entnehmen dort
+			^abDisaster Feuer ausgebrochen^ae ist, laufen die Siedler zur nächsten Wasserquelle und entnehmen dort
 			Löschwasser.
 			^p
 			Die Siedler können auch Flüsse und Seen als Wasserquellen benutzen, wenn allerdings keine Gewässer
@@ -30,7 +30,7 @@ StringTable resource
 			^mb ^mc ^dDialogWell ^ml308 ^mc
 			Wenn Sie auf einen Brunnen klicken, wird ein Detailfenster eingeblendet, welches jedoch ohne Inhalt ist,
             da an Brunnen nichts eingestellt werden kann. Nur während der ^abBuildings Errichtung^ae oder beim
-            ^abRemoveStructure Abriss^ae der Brücke wird im Detailfenster der aktuelle Fortschritt angezeigt.
+            ^abRemoveStructure Abriss^ae des Brunnens wird im Detailfenster der aktuelle Fortschritt angezeigt.
 			^me ";
 		}
 	]

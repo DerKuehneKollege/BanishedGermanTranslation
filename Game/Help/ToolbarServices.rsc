@@ -13,13 +13,13 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIServices Stadtgebäude ^f1 ^jl ^vb
-			In der Kategorie ^c1 Stadtgebäude ^c0 stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit und
-			Effizienz der Stadt erhöhen können.
+			In der Kategorie ^c1 Stadtgebäude ^c0 stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit der
+			Siedler und die Effizienz der Stadt steigern können.
 			^p
 			Brunnen können gebaut werden, um im Falle eines Feuers in der Stadt die Brände schneller unter Kontrolle
-			zu bekommen. Schulen sorgen für gebildete Siedler, Krankenhäuser heilen kranke Siedler und dämmen Seuchen
-			ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kapellen und Friedhöfe erhöhen die
-			Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken können.
+			zu bekommen. Schulen sorgen für gebildete und produktivere Siedler, Krankenhäuser heilen kranke Siedler und
+			dämmen Seuchen ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kapellen und
+			Friedhöfe erhöhen die Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken können.
 			^p
 			^jc ^dUIToolbarServices ^jl ^vc ^lb
 			^lb
