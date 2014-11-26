@@ -18,7 +18,7 @@ StringTable resource
 			^p
 			Jagen, Sammeln und Fischen ermöglichen die Nahrungsgewinnung aus der Natur ohne großen Aufwand, allerdings
 			müssen dafür Waldflächen, Wiesen und unbebaute Gegenden bzw. Gewässer zur Verfügung stehen, damit
-			genügend Nahrung gesammelt wird.
+			genügend Nahrung gesammelt werden kann.
 			^p
 			Mit der Urbarmachung von Land, durch Errichtung von Äckern, Obstgärten und durch Viehzucht kann in
 			regelmäßigen Zeitintervallen viel Nahrung gewonnen werden, was einen starken Bevölkerungsanstieg ermöglicht.
@@ -28,10 +28,10 @@ StringTable resource
 			^lb ^lb
 			^lo ^dUICropField ^s ^abCropField Acker:^ae Auf Äckern können verschiedene Gemüse- und Getreidearten
 			angebaut werden.
-			^lo ^dUIOrchard ^s ^abOrchard Obstgarten:^ae In Obstgärten können Obst- und Nussbäume bewirtschaftet
+			^lo ^dUIOrchard ^s ^abOrchard Obstgarten:^ae In Obstgärten können Obst- und Nussbäume angepflanzt
 			werden.
 			^lo ^dUIPasture ^s ^abPasture Viehweide:^ae Auf Viehweiden können Nutztiere gehalten werden.
-			^lo ^dUIFishingDock ^s ^abFishingDock Fischerhütte:^ae Fischerhütten ermöglichen es Anglern an Gewässern
+			^lo ^dUIFishingDock ^s ^abFishingDock Fischerhütte:^ae Fischerhütten ermöglichen es Anglern, an Gewässern
 			Fische zu fangen.
 			^lo ^dUIHunterLodge ^s ^abHunterLodge Jagdhütte:^ae An Jagdhütten suchen und jagen Jäger das in der Umgebung
 			herumziehende Wild.

@@ -64,12 +64,12 @@ Hilfe (Raw translation):
     [x] Chapel Kapellen
     [x] Cemetery Friedhöfe
 
-[ ] ToolbarFood Nahrungsproduktion
-    [ ] CropField Äcker
-    [ ] Orchard Obstgärten
-    [ ] Pasture Viehweiden
-    [ ] FishingDock Fischerhütten
-    [ ] HunterLodge Jagdhütte
+[x] ToolbarFood Nahrungsproduktion
+    [x] CropField Äcker
+    [x] Orchard Obstgärten
+    [x] Pasture Viehweiden
+    [x] FishingDock Fischerhütten
+    [x] HunterLodge Jagdhütte
     [ ] GathererHut Sammlerhütte
 
 [ ] ToolbarProduction Ressourcenproduktion

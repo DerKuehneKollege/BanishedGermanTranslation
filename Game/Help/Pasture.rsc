@@ -17,8 +17,8 @@ StringTable resource
 			^i0Log x1 (pro Längeneinheit) ^me ^f1 ^c0 ^jl ^vb
 			Auf Weiden können Viehherden gehalten werden. Äcker können beliebig groß platziert werden, je größer die
 			Weide desto mehr Tiere können darauf leben. Viehweiden müssen von ^i0ProfessionHerdsman
-			^abProfession Hirten^ae bewirtschaftet werden. Diese kümmern sich um das Vieh und schlachten Tiere zwecks
-			Nahrungsproduktion.
+			^abProfession Hirten^ae bewirtschaftet werden. Diese kümmern sich um das Vieh und schlachten die Tiere, um
+			Nahrung zu produzieren.
 			^p
 			^mb ^mc ^dDialogPasture ^ml286 ^mc
 			Nach der Platzierung einer Viehweide, können Sie durch Klick darauf in dem dazugehörigen Detailfenster
@@ -27,7 +27,7 @@ StringTable resource
 			Ebenfalls wird die maximale Anzahl Tiere, die auf der Weide gehalten werden können angezeigt.
 			Wenn neue Tiere geboren werden und die Anzahl Tiere das aktuell eingestellte Maximum überschreiten, werden
 			die überzähligen Tiere geschlachtet. Indem Sie mit dem Schieberegler das Maximum verringern, können Sie
-			sofort Tiere schlachten lassen.
+			Tiere sofort schlachten lassen.
 			^p
 			Neben Fleisch produzieren Tiere noch andere Ressourcen: Mit Hühnern bekommt man zusätzliche Nahrung in
 			Form von Eiern, Schafe werden regelmäßig geschoren und produzieren Wolle, wenn Rinder geschlachtet werden,
@@ -39,10 +39,10 @@ StringTable resource
 			^p
 			^mb ^mc ^dDialogPastureAnimal ^n ^ml60 ^mc
 			Bevor Sie in einer Viehweide mit der Aufzucht von Vieh beginnen können, müssen Sie zunächst über den Button
-			mit dem großen Fragezeichen den zu haltende Viehtyp auswählen. Falls in Ihrer Stadt noch kein Nutzvieh zur
+			mit dem großen Fragezeichen den zu haltenden Viehtyp auswählen. Falls in Ihrer Stadt noch kein Nutzvieh zur
 			Verfügung steht, müssen Sie dieses zunächst am ^abTradingPost Handelsposten^ae beim Viehhändler erwerben.
-			Sobald sich ein paar Tiere auf einer Viehweide befindet, werden diese sich dort fortpflanzen und die
-			Viehherde vergrößert sich über die Zeit. Der auf einer Weide zu haltende Viehtyp kann nur geändert werden,
+			Sobald sich ein paar Tiere auf einer Viehweide befinden, werden diese sich dort fortpflanzen und die
+			Viehherde vergrößert sich mit der Zeit. Der auf einer Weide zu haltende Viehtyp kann nur geändert werden,
 			wenn die Weide zuvor geleert wurde.
 			^ml0 ^me ^n ^mb ^mc ^dDialogPastureEmpty ^n ^ml60 ^mc
 			Mit dem Button ^c1 Leeren ^c0 können Sie die aktuell ausgewählte Viehweide leeren und die Tiere auf eine andere
@@ -64,7 +64,7 @@ StringTable resource
 			^p
 			Auf Viehweiden können ^abDisaster Seuchen^ae ausbrechen, an welchen die Tiere verenden. Wenn dies geschieht,
 			sollten Sie die Tiere auf eine andere Weide schicken, um wenigstens manche von ihnen zu retten. Wenn Sie
-			auf betroffenen Weiden die Seuche in den Griff bekommen haben, sollten Sie den zu haltenden Viehtyp ändern
+			auf betroffenen Weiden die Seuche in den Griff bekommen haben, sollten Sie den zu haltenden Viehtyp ändern,
 			um einen erneuten Ausbruch der Seuche zu vermeiden.
 			^p
 			^jc ^i3PastureInfestation ^n ^f0 Seuche auf einer Viehweide. ^f1 ^jl ";
