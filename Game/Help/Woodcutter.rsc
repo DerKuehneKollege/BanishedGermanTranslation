@@ -20,16 +20,16 @@ StringTable resource
 			^abWoodHouse Wohnstätten^ae zu heizen. Steht nicht genügend Brennholz zur Verfügung, laufen die Siedler der
 			Stadt in Gefahr zu erfrieren.
 			^p
-			Wenn im Lager des Gebäudes die Holzvorräte zur Neige gehen, geht der Arbeiter zum nächstgelegenen
-			^abStockPile Lagerplatz^ae, auf welchem Holz gelagert wird und bringt von dort einen neuen Vorrat Holz zu
+			Wenn im Lager des Gebäudes die Holzvorräte zur Neige gehen, läuft der Arbeiter zum nächstgelegenen
+			^abStockPile Lagerplatz,^ae auf welchem Holz gelagert wird und bringt von dort einen neuen Vorrat Holz zu
 			seinem Arbeitsplatz. Dort wird das Holz anschließend zu Brennholzscheiten zerhackt.
 			^p
 			Nach der Herstellung von neuem Feuerholz bringt der Holzhacker es anschließend zum nächstgelegenen
-			^abStockPile Lagerplatz,^ae wo es dann für die Siedler zur Verfügung steht.
+			^abStockPile Lagerplatz,^ae wo es dann für die Siedler zum Heizen zur Verfügung steht.
 			^p
 			^mb ^mc ^dDialogWoodCutter ^ml306 ^mc
 			Durch einen Klick auf das Gebäude des Holzhackers wird das dazugehörige Detailfenster aufgerufen, in welchem
-			der aktuelle Vorrat im Lager des Gebäudes angezeigt wird.
+			der aktuelle Lagervorrat des Gebäudes angezeigt wird.
 			^ml0 ^me ^n
 			Über das Feld ^c1 Brennholz-Limit ^c0 kann das ^abLimit Ressourcenlimit^ae für Brennholz eingestellt werden.
 			Sobald dieses Limit erreicht wird, werden keine weiteren Brennholzscheite mehr produziert.

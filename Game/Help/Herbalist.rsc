@@ -18,13 +18,13 @@ StringTable resource
 			^i0ProfessionHerbalist ^abProfession Kräutersammler ^ae suchen in den Wäldern in der Umgebung ihrer Hütte
 			nach wild wachsenden Heilkräutern. Diese Kräuter wachsen nur in älteren Wäldern an den Wurzeln alter Bäume,
 			weswegen die Hütte nicht in von Förstern bewirtschafteten Waldstücken platziert werden sollte, da sich dort
-			kaum alte Bäume befinden.
+			durch die ständige Abholzung kaum alte Baumbestände befinden.
 			^p
 			Sobald ein Kräutersammler so viel Heilkräuter gesammelt hat, dass seine Taschen voll sind oder keine Kräuter
-			mehr zu finden sind, bringen sie die Ausbeute zum nächstgelegenen ^abStorageBarn Lagerhaus^ae.
+			mehr zu finden sind, bringt er die Ausbeute zum nächstgelegenen ^abStorageBarn Lagerhaus.^ae
 			^p
-			Wenn ^abCitizen Siedler^ae unter niedriger Gesundheit leiden, holen sie bei Verfügbarkeit automatisch eine
-			Einheit Kräuter vom ^abMarket Markt^ab bzw. aus dem ^abStorageBarn Lagerhaus^ae und gehen damit zur Hütte
+			Wenn ^abCitizen Siedler^ae unter niedriger Gesundheit leiden, holen sie sich bei Verfügbarkeit selbstständig eine
+			Einheit Kräuter vom ^abMarket Markt^ae bzw. aus dem ^abStorageBarn Lagerhaus^ae und gehen damit zur Hütte
 			des Kräutersammlers. Der Kräutersammler bereitet dann aus den Kräutern eine Medizin zu, die die Gesundheit
 			der Siedler ein wenig wiederherstellt. Dafür ist es erforderlich, dass gerade ein Kräutersammler in der Hütte
 			arbeitet. Auf diese Weise ist es möglich, dass Siedler ihre Gesundheit über die Zeit wieder voll

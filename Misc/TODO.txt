@@ -70,16 +70,16 @@ Hilfe (Raw translation):
     [x] Pasture Viehweiden
     [x] FishingDock Fischerhütten
     [x] HunterLodge Jagdhütte
-    [ ] GathererHut Sammlerhütte
+    [x] GathererHut Sammlerhütte
 
-[ ] ToolbarProduction Ressourcenproduktion
-    [ ] Woodcutter Holzhacker
-    [ ] Forester Förster
-    [ ] Herbalist Kräutersammler
-    [ ] Blacksmith Schmied
-    [ ] Tailor Schneidereien
-    [ ] Tavern Wirtshäuser
-    [ ] Mine Minen
+[x] ToolbarProduction Ressourcenproduktion
+    [x] Woodcutter Holzhacker
+    [x] Forester Förster
+    [x] Herbalist Kräutersammler
+    [x] Blacksmith Schmied
+    [x] Tailor Schneidereien
+    [x] Tavern Wirtshäuser
+    [x] Mine Minen
     [ ] Quarry Steinbrüche
 
 [ ] ToolbarRemoval Ressourcenabbau und Gebäudeabriss
