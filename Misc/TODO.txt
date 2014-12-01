@@ -80,15 +80,15 @@ Hilfe (Raw translation):
     [x] Tailor Schneidereien
     [x] Tavern Wirtshäuser
     [x] Mine Minen
-    [ ] Quarry Steinbrüche
+    [x] Quarry Steinbrüche
 
-[ ] ToolbarRemoval Ressourcenabbau und Gebäudeabriss
-    [ ] RemoveStructure Gebäude abreißen
-    [ ] RemoveResource Ressourcen abbauen
-    [ ] RemoveTree Bäume fällen
-    [ ] RemoveStone Stein abbauen
-    [ ] RemoveIron Eisen abbauen
-    [ ] RemoveRoad Wege entfernen
-    [ ] RemoveCancel Abbau stoppen
+[x] ToolbarRemoval Ressourcenabbau und Gebäudeabriss
+    [x] RemoveStructure Gebäude abreißen
+    [x] RemoveResource Ressourcen abbauen
+    [x] RemoveTree Bäume fällen
+    [x] RemoveStone Stein abbauen
+    [x] RemoveIron Eisen abbauen
+    [x] RemoveRoad Wege entfernen
+    [x] RemoveCancel Abbau stoppen
 
 [x] Credits Mitwirkende

@@ -20,9 +20,10 @@ StringTable resource
 			^p
 			^jc ^i3RemoveRoad ^jl ^jc ^f0
 			Alle abreiﬂbaren Wege und Straﬂen sind beim Markieren rot hinterlegt.
-			^jl ^f1 ^n ^i0ProfessionBuilder ^s
-			^abProfession Bauarbeiter ^ae werden anschlieﬂend an dem Weg entlanglaufen und ihn nach und nach abreiﬂen.
-			Aus ^abStoneRoad gepflasterten Straﬂen^ae kann beim Abriss kein Stein wiedergewonnen werden.
+			^jl ^f1 ^n
+			Anschlieﬂend werden ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae an dem Weg entlanglaufen und ihn
+			nach und nach abreiﬂen. Aus ^abStoneRoad gepflasterten Straﬂen^ae kann beim Abriss kein Stein
+			wiedergewonnen werden.
 			^p
 			^jc ^i3RemoveRoadIcon ^jl
 			^jc ^f0 Wege und Straﬂen, die abgerissen werden, sind mit einem orangenen X markiert. ^jl ^f1

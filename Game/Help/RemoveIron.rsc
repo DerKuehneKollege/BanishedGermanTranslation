@@ -17,15 +17,15 @@ StringTable resource
 			^abRemoveResource Ressourcen abbauen^ae verwenden.
 			Allerdings können Sie die Arbeiter ebenfalls anweisen, aus einer Region nur Eisen abzubauen.
 			^p
-			Wählen Sie hierzu die Funktion ^c1 Eisen abbauen, ^c0 markieren Sie anschließend durch Klicken und Ziehen mit der
-			Maus die Fläche aus, in welcher Eisen abgebaut werden soll.
+			Wählen Sie hierzu die Funktion ^c1 Eisen abbauen ^c0 und markieren Sie anschließend durch Klicken und
+			Ziehen mit der Maus die Fläche, in welcher Eisen abgebaut werden soll.
 			^p
 			^jc ^i3RemoveIron ^jl ^jc ^f0
 			Sämtliche abbaubare Eisenvorkommen sind beim Markieren rot hervorgehoben.
 			^jl ^f1 ^n
-			^i0ProfessionLaborer ^s
-			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit dem Abbau des Eisens beginnen. Das
-			gewonnene Eisen wird währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.^
+			^i0ProfessionLaborer ^abProfession Arbeiter^ae oder Siedler mit anderen Berufen, die untätig sind, werden
+			nun mit dem Abbau des Eisens beginnen. Das gewonnene Eisen wird währenddessen zum nächstgelegenen
+			^abStockPile Lagerplatz^ae transportiert.
 			^p
 			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
 			Eisenvorkommen, die abgebaut werden, sind mit einem orangenen X markiert.

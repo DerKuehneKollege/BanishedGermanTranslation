@@ -15,16 +15,17 @@ StringTable resource
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveStone ^s Stein abbauen ^n ^f1 ^jl
 			Wenn Sie in einer Region sämtliche Arten von Ressourcen abbauen wollen, sollten Sie die Funktion
             ^abRemoveResource Ressourcen abbauen^ae verwenden.
-            Allerdings können Sie die Arbeiter ebenfalls anweisen, aus einer Region nur Eisen abzubauen.
+            Allerdings können Sie die Arbeiter auch anweisen, aus einer Region nur Stein abzubauen.
 			^p
-			Wählen Sie hierzu die Funktion ^c1 Stein abbauen ^c0, markieren Sie anschließend durch Klicken und Ziehen mit der
-            Maus die Fläche aus, in welcher Stein abgebaut werden soll.
+			Wählen Sie hierzu die Funktion ^c1 Stein abbauen ^c0 und markieren Sie anschließend durch Klicken und
+			Ziehen mit der Maus die Fläche, in welcher Stein abgebaut werden soll.
 			^p
 			^jc ^i3RemoveStone ^jl ^jc ^f0
 			Sämtliche abbaubare Steinvorkommen sind beim Markieren rot hervorgehoben.
-			^jl ^f1 ^n ^i0ProfessionLaborer ^s
-			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit dem Abbau des Gesteins beginnen. Die
-            gewonnenen Steinmengen werden währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.
+			^jl ^f1 ^n
+			^i0ProfessionLaborer ^abProfession Arbeiter^ae oder untätige Siedler mit anderen Berufen werden nun mit
+			dem Abbau des Gesteins beginnen. Die gewonnenen Steinmengen werden währenddessen zum
+			nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.
 			^p
 			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
 			Steinvorkommen, die abgebaut werden, sind mit einem orangenen X markiert.

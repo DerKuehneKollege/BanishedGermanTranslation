@@ -14,7 +14,7 @@ StringTable resource
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveCancel ^s Abbau stoppen ^n ^f1 ^jl
 			Sobald ein ^abRemoveStructure Gebäude,^ae eine ^abRemoveResource Ressource^ae oder ein ^abRemoveRoad Weg^ae
-			für den Abbau ausgewählt wurde, werden die Arbeiter mit dem Abbau bzw. Abriss beginnen.^ae
+			für den Abbau bzw. Abriss ausgewählt wurde, werden die Arbeiter sobald wie möglich mit der Arbeit beginnen.^ae
 			^p
 			Falls Sie es sich anders überlegt haben und den Abbau in einem Gebiet stoppen wollen, können Sie den Auftrag
 			mit der Funktion ^c1 Abbau stoppen ^c0 abbrechen. Wählen Sie hierzu zuerst ^c1 Abbau stoppen ^c0 aus, markieren Sie

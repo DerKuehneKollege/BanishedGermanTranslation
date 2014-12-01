@@ -13,12 +13,12 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveStructure ^s Gebäude abreißen ^n ^f1 ^jl
-			In Banished geht es zwar darum, eine Stadt aufzubauen, allerdings ist es manchmal nötig Gebäude und Strukturen
-			wieder abzureißen, um manche Dinge in Ihrer Stadt neu zu gestalten und zu organisieren.
+			In Banished geht es zwar vorrangig darum, konstruktiv eine Stadt aufzubauen, allerdings ist es manchmal
+			nötig, Gebäude und Strukturen wieder abzureißen, um Dinge in der Stadt neu zu gestalten und zu organisieren.
 			^p
 			Mit der Funktion ^c1 Gebäude abreißen ^c0 können Sie sämtliche Konstruktionen wieder entfernen lassen. Wählen Sie
-			hierzu zunächst die Funktion aus, markieren Sie anschließend durch Klicken und Ziehen mit der Maus die
-			gewünschte Fläche aus, in welcher Gebäude und Felder abgerissen werden sollen.
+			hierzu zunächst die Funktion aus und markieren Sie anschließend durch Klicken und Ziehen mit der Maus die
+			gewünschte Fläche, in welcher Gebäude und Felder abgerissen werden sollen.
 			^p
 			^jc ^i3RemoveStructure ^n ^jc ^f0
 			Alle Konstruktionen, die für den Abriss vorgesehen werden, sind beim Markieren rot hinterlegt.

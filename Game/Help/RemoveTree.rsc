@@ -18,14 +18,15 @@ StringTable resource
             Allerdings können Sie die Arbeiter ebenfalls anweisen, in einer Region nur Bäume zu fällen und
             Holz zu gewinnen.
 			^p
-			Wählen Sie hierzu die Funktion ^c1 Bäume fällen ^c0, markieren Sie anschließend durch Klicken und Ziehen mit der
-            Maus die Fläche aus, in welcher Holz gewonnen werden soll.
+			Wählen Sie hierzu die Funktion ^c1 Bäume fällen ^c0 und markieren Sie anschließend durch Klicken und
+			Ziehen mit der Maus die Fläche, in welcher Holz gewonnen werden soll.
 			^p
 			^jc ^i3RemoveTree ^jl ^jc ^f0
 			Sämtliche fällbare Bäume sind beim Markieren rot hervorgehoben.
-			^jl ^f1 ^n ^i0ProfessionLaborer ^s
-			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit der dem Fällen der Bäume beginnen. Das
-            gewonnene Holz wird währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.
+			^jl ^f1 ^n
+			^i0ProfessionLaborer ^abProfession Arbeiter^ae oder untätige Siedler mit anderen Berufen werden nun mit
+			dem Fällen der Bäume beginnen. Das gewonnene Holz wird währenddessen zum nächstgelegenen
+			^abStockPile Lagerplatz^ae transportiert.
 			^p
 			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
 			Bäume, die gefällt werden, sind mit einem orangenen X markiert.
