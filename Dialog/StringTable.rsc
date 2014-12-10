@@ -999,7 +999,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EnablePriestTip";
-			String _text = "Gottesdienst in dieser Kapelle anbieten oder einstellen.";
+			String _text = "Gottesdienst in dieser Kirche anbieten oder einstellen.";
 		}
 		{
 			String _name = "ForesterCut";
@@ -3604,11 +3604,11 @@ StringTable objects
 		}
 		{
 			String _name = "Chapel";
-			String _text = "Kapelle";
+			String _text = "Kirche";
 		}
 		{
 			String _name = "ChapelLwr";
-			String _text = "Kapelle";
+			String _text = "Kirche";
 		}
 		{
 			String _name = "ChapelTip";

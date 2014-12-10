@@ -53,7 +53,7 @@ StringTable resource
 			Eine hohe Zufriedenheit in Ihrer Bevölkerung steigert die Produktivität. Eine unzufriedene Bevölkerung wird
 			dagegen häufig die Arbeit einstellen, was die Gesamtproduktivität wiederum stark senkt. Manche Gebäude steigern die
 			Zufriedenheit der Siedler, beispielsweise ^abMarket Märkte,^ae ^abWell Brunnen,^ae ^abTavern Wirtshäuser,^ae
-			^abTradingPost Handelsposten,^ae ^abCemetery Friedhöfe^ae und ^abChapel Kapellen.^ae
+			^abTradingPost Handelsposten,^ae ^abCemetery Friedhöfe^ae und ^abChapel Kirchen.^ae
 			Industriegebäude wie beispielsweise ^abMine Minen^ae und ^abQuarry Steinbrüche^ae hingegen senken die
 			Zufriedenheit der in der Nähe lebenden Einwohner. Hochzeiten und Geburten steigern die Zufriedenheit,
 			wohingegen Todesfälle, Krankheiten, Hunger und Frieren für Unzufriedenheit sorgen. ^f0

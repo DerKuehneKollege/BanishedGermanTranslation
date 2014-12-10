@@ -73,7 +73,7 @@ StringTable resource
                 ^li ^abSchool Schulen^ae
                 ^li ^abHospital Krankenhäuser^ae
                 ^li ^abTownHall Rathäuser^ae
-                ^li ^abChapel Kapellen^ae
+                ^li ^abChapel Kirchen^ae
                 ^li ^abCemetery Friedhöfe^ae
             ^le
             ^li ^abToolbarFood Nahrungsproduktion ^ae

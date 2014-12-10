@@ -1,7 +1,5 @@
 TODOs:
 TODO: Bilder in der Hilfe ebenfalls übersetzen
-TODO: Bei manchen Hilfeseiten sind die Bilder verrutscht. Korrigieren! Eine schöne Formatierung ist auf der Seite Woodcutter
-TODO: ^ab<ID> <Value>^ae: Leerzeichen, Punkt- und Kommasetzung überprüfen
 TODO: "Schmied" -> "Schmiede"
 TODO: Buildings: Aufzählung aufhübschen
 TODO: ToolbarTools: Aufzählung aufhübschen
@@ -61,7 +59,7 @@ Hilfe (Raw translation):
     [x] School Schulen
     [x] Hospital Krankenhäuser
     [x] TownHall Rathäuser
-    [x] Chapel Kapellen
+    [x] Chapel Kirchen
     [x] Cemetery Friedhöfe
 
 [x] ToolbarFood Nahrungsproduktion

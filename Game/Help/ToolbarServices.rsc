@@ -18,7 +18,7 @@ StringTable resource
 			^p
 			Brunnen können gebaut werden, um im Falle eines Feuers in der Stadt die Brände schneller unter Kontrolle
 			zu bekommen. Schulen sorgen für gebildete und produktivere Siedler, Krankenhäuser heilen kranke Siedler und
-			dämmen Seuchen ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kapellen und
+			dämmen Seuchen ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kirchen und
 			Friedhöfe erhöhen die Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken können.
 			^p
 			^jc ^dUIToolbarServices ^jl ^vc ^lb
@@ -30,7 +30,7 @@ StringTable resource
 			Krankheit leiden.
 			^lo ^dUITownHall ^s ^abTownHall Rathaus:^ae Rathäuser zeichnen Statistiken über die Stadt auf, welche dann
 			dort eingesehen werden können.
-			^lo ^dUIChapel ^s ^abChapel Kapelle:^ae Kapellen erhöhen die Zufriedenheit der Siedler.
+			^lo ^dUIChapel ^s ^abChapel Kirchen:^ae Kirchen erhöhen die Zufriedenheit der Siedler.
 			^lo ^dUICemetery ^s ^abCemetery Friedhof:^ae Friedhöfe verhindern, das im Falle des Todes eines Siedlers
 			die Angehörigen depressiv werden.
 			^le ^le ";

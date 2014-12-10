@@ -60,7 +60,7 @@ StringTable resource
 			Siedler, die Schulbildung genossen haben, produzieren in ihren späteren Berufen mehr Ressourcen.
 			^lo ^i0ProfessionDoctor ^s ^c1 Ärzte ^c0 arbeiten in ^abHospital Krankenhäusern.^ae Krankenhäuser
 			heilen kranke Siedler und dämmen ansteckende Krankheiten ein.
-			^lo ^i0ProfessionPriest ^s ^c1 Priester ^c0 halten in ^abChapel Kapellen^ae Gottesdienste. Gottesdienste
+			^lo ^i0ProfessionPriest ^s ^c1 Priester ^c0 halten in ^abChapel Kirchen^ae Gottesdienste. Gottesdienste
 			steigern die Zufriedenheit der Siedler, die sie besuchen.
 			^le ^n
 			Im Fenster ^c1 Berufe ^c0 wird angezeigt, wie viele Siedler in den einzelnen Berufen arbeiten und wie viele

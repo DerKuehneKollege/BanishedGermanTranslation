@@ -95,7 +95,7 @@ StringTable resource
 			einige Jahre in der Schule, durch die Ausbildung werden sie als erwachsene Arbeiter in ihren Berufen
 			effizienter arbeiten und mehr Ressourcen produzieren.
 			^p
-			^abChapel Kapellen^ae und ^abCemetery Friedhöfe^ae können gebaut werden, um den Zufriedenheitsgrad Ihrer
+			^abChapel Kirchen^ae und ^abCemetery Friedhöfe^ae können gebaut werden, um den Zufriedenheitsgrad Ihrer
 			Bevölkerung zu erhöhen. ^abTavern Wirtshäuser^ae steigern ebenfalls die Zufriedenheit der in der Nähe
 			wohnenden Siedler. In Wirtshäusern wird mithilfe verschiedener Getreide- oder Obstsorten Bier hergestellt.
 			^p
