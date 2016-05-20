@@ -5,7 +5,7 @@ PackageFile translationGerman
 	String _description = "All text strings were translated to German language. The default character set has been extended by German umlauts, preserving the default game font. Read more information at http://www.atomkraftzwerg.de";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
-	int _userVersion = 12;
+	int _userVersion = 11;
 
 	// all files in resource directory
 	String _includeList

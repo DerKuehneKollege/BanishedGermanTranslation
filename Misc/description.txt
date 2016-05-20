@@ -44,9 +44,17 @@ https://github.com/Atomkraftzwerg/BanishedGermanTranslation
 
 // --- STEAM ---
 [b]Deutsche Beschreibung[/b] (English version below)
+[b]
+21.05.2016: Die Übersetzung wurde aktualisiert und unterstützt jetzt Banished 1.0.5. Falls Fehler oder Unschönheiten auftreten sollte, bitte einfach melden.
+[/b]
+
+=========================================================
+
 Diese Mod stellt eine deutsche Übersetzung für Banished bereit. Die standardmäßige Schriftart im Spiel bleibt unverändert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefügt.
 
 Die Oberfläche des Spiels, die Tutorials und die Ingame-Hilfe wurden bereits komplett übersetzt. Lediglich die Bilder in der Hilfe wurden noch nicht angepasst, das ist allerdings nun in Bearbeitung.
+
+Bitte beachten: Die Benutzung von Mods in Banished deaktiviert immer die Achievements, wenn ihr diese Mod aktiviert habt, bekommt ihr leider keine neuen Achievements!
 
 Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr über einen Rechtschreibfehler oder hölzern klingende Ausdrücke stolpert, bzw. euch allgemein eine Übersetzung nicht gefällt, schreibt einen Kommentar für diese Mod.
 
@@ -60,6 +68,11 @@ Mehr Informationen zur Mod gibt es auf meiner persönlichen Seite:
 
 Die Mod wird auch separat auf banishedinfo.com angeboten:
 [url]http://banishedinfo.com/mods/view/652-German-translation#description[/url]
+
+Den Quellcode der Mod gibt es auf GitHub:
+[url]https://github.com/Atomkraftzwerg/BanishedGermanTranslation[/url]
+
+
 
 [b]English description[/b]
 This mod provides a German translation for Banished. The default game font has been preserved, the character set just has been extended by German umlauts.
@@ -76,5 +89,8 @@ This mod also provides translations for other mods! You can find more informatio
 Read more information at my page:
 [url]http://atomkraftzwerg.de/page/banisheddeutsch[/url]
 
-The mod is also available at banishedinfo.com, you can find the source code on GitHub::
+The mod is also available at banishedinfo.com:
 [url]http://steamcommunity.com/sharedfiles/filedetails/?id=319182984[/url]
+
+You can find the source code of this mod on GitHub:
+[url]https://github.com/Atomkraftzwerg/BanishedGermanTranslation[/url]

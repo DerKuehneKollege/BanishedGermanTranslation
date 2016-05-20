@@ -1393,6 +1393,9 @@ StringTable gameDialogs
 			String _name = "CoalTip";
 			String _text = "Gesamtlagermenge Kohle";
 		}
+		{ 
+			String _name = "TextileTip";
+			String _text = "Gesamtlagermenge Textilien."; }
 		{
 			String _name = "SeasonTip";
 			String _text = "Aktuelle Jahreszeit und Alter der Stadt in Jahren.";
@@ -2119,6 +2122,10 @@ StringTable graphTypes
 		{
 			String _name = "Type11";
 			String _text = "Bier";
+		}
+		{
+			String _name = "Type12";
+			String _text = "Textilien";
 		}
 	]
 }
