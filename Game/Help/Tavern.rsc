@@ -8,35 +8,35 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Wirtshäuser";
+			String _text = "WirtshÃ¤user";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTavern ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUITavern ^ Wirtshaus ^c0 ^f1 ^n
 			^i0Log x52 ^i0Stone x12 ^i0Iron x20 ^me ^f1 ^c0 ^jl ^vb
-			Wirtshäuser steigern die Zufriedenheit der in der Nähe wohnenden Siedler, vorausgesetzt es steht genügend
-			^i0AleSmall ^abResource Bier^ae zum Ausschank zur Verfügung.
+			WirtshÃ¤user steigern die Zufriedenheit der in der NÃ¤he wohnenden Siedler, vorausgesetzt es steht genÃ¼gend
+			^i0AleSmall ^abResource Bier^ae zum Ausschank zur VerfÃ¼gung.
 			^p
 			In einem Wirtshaus muss ein ^i0ProfessionBrewer ^abProfession Bierbrauer^ae arbeiten, damit es seinen Betrieb
-			aufnehmen kann. Dieser stellt aus Getreide und Früchten Bier her und bewirtschaftet die Gäste.
+			aufnehmen kann. Dieser stellt aus Getreide und FrÃ¼chten Bier her und bewirtschaftet die GÃ¤ste.
 			^p
-			Werden im Wirtshaus die zur Bierherstellung benötigten Ressourcen knapp, geht der Bierbrauer zum
-			nächstgelegenen ^abStorageBarn Lagerhaus^ae und holt sich die entsprechenden Güter.
-			Anschließend beginnt er mit dem Bierbrauen.
+			Werden im Wirtshaus die zur Bierherstellung benÃ¶tigten Ressourcen knapp, geht der Bierbrauer zum
+			nÃ¤chstgelegenen ^abStorageBarn Lagerhaus^ae und holt sich die entsprechenden GÃ¼ter.
+			AnschlieÃŸend beginnt er mit dem Bierbrauen.
 			^p
-			Nach der Herstellung wird das Bier im Wirtshaus gelagert und steht dort für den Genuss der einkehrenden
-			Siedler zur Verfügung.
+			Nach der Herstellung wird das Bier im Wirtshaus gelagert und steht dort fÃ¼r den Genuss der einkehrenden
+			Siedler zur VerfÃ¼gung.
 			^p
 			^mb ^mc ^dDialogTavern ^ml320 ^mc
-			Durch Klick auf ein Wirtshaus wird das entsprechende Detailfenster, welches unter anderem Informationen über den
-			Lagerstand enthält, angezeigt.
+			Durch Klick auf ein Wirtshaus wird das entsprechende Detailfenster, welches unter anderem Informationen Ã¼ber den
+			Lagerstand enthÃ¤lt, angezeigt.
 			^p
-			Für die Bierproduktion kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht
-			wird, wird das Bierbrauen automatisch vorübergehend eingestellt.
+			FÃ¼r die Bierproduktion kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht
+			wird, wird das Bierbrauen automatisch vorÃ¼bergehend eingestellt.
 			^ml0 ^me ^n
-			Für die Produktion stehen verschiedene Biersorten zur Auswahl, welche aus unterschiedlichen Grundstoffen
-			gebraut werden. Als Grundlage stehen folgende Ressourcen zur Verfügung:
+			FÃ¼r die Produktion stehen verschiedene Biersorten zur Auswahl, welche aus unterschiedlichen Grundstoffen
+			gebraut werden. Als Grundlage stehen folgende Ressourcen zur VerfÃ¼gung:
 			^lb
 			^lo ^i0WheatSmall ^s ^c1 Weizen ^c0
 			^lo ^i0AppleSmall ^s ^c1 Apfel ^c0

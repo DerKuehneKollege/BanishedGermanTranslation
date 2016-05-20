@@ -1,20 +1,20 @@
 // banishedinfo.com
 [b]Deutsche Beschreibung[/b] (English version below)
-Diese Mod stellt eine deutsche Übersetzung für Banished bereit. Die standardmäßige Schriftart im Spiel bleibt unverändert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefügt.
+Diese Mod stellt eine deutsche Ãœbersetzung fÃ¼r Banished bereit. Die standardmÃ¤ÃŸige Schriftart im Spiel bleibt unverÃ¤ndert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefÃ¼gt.
 
-Die Oberfläche des Spiels, die Tutorials und die Ingame-Hilfe wurden bereits komplett übersetzt. Lediglich die Bilder in der Hilfe wurden noch nicht angepasst, das ist allerdings nun in Bearbeitung.
+Die OberflÃ¤che des Spiels, die Tutorials und die Ingame-Hilfe wurden bereits komplett Ã¼bersetzt. Lediglich die Bilder in der Hilfe wurden noch nicht angepasst, das ist allerdings nun in Bearbeitung.
 
-Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr über einen Rechtschreibfehler oder hölzern klingende Ausdrücke stolpert, bzw. euch allgemein eine Übersetzung nicht gefällt, schreibt einen Kommentar für diese Mod.
+Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr Ã¼ber einen Rechtschreibfehler oder hÃ¶lzern klingende AusdrÃ¼cke stolpert, bzw. euch allgemein eine Ãœbersetzung nicht gefÃ¤llt, schreibt einen Kommentar fÃ¼r diese Mod.
 
-Feedback ist übrigens jederzeit gewünscht und wird zu Herzen genommen.
+Feedback ist Ã¼brigens jederzeit gewÃ¼nscht und wird zu Herzen genommen.
 
-Diese Übersetzung unterstützt auch folgende Banished-Mods:
+Diese Ãœbersetzung unterstÃ¼tzt auch folgende Banished-Mods:
 - {Colonial Charter: Maple Harpoon|http://colonialcharter.com/index.php/forum/add-ons-companion-mods-translations/276-translations-tradukado-traduction-uebersetzung}
 
-Mehr Informationen zur Mod gibt es auf meiner persönlichen Seite:
+Mehr Informationen zur Mod gibt es auf meiner persÃ¶nlichen Seite:
 http://atomkraftzwerg.de/page/banisheddeutsch
 
-Die Mod ist ebenfalls im Steam Workshop verfügbar, der Quellcode ist einsehbar bei GitHub:
+Die Mod ist ebenfalls im Steam Workshop verfÃ¼gbar, der Quellcode ist einsehbar bei GitHub:
 http://steamcommunity.com/sharedfiles/filedetails/?id=319182984
 https://github.com/Atomkraftzwerg/BanishedGermanTranslation
 
@@ -44,18 +44,18 @@ https://github.com/Atomkraftzwerg/BanishedGermanTranslation
 
 // --- STEAM ---
 [b]Deutsche Beschreibung[/b] (English version below)
-Diese Mod stellt eine deutsche Übersetzung für Banished bereit. Die standardmäßige Schriftart im Spiel bleibt unverändert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefügt.
+Diese Mod stellt eine deutsche Ãœbersetzung fÃ¼r Banished bereit. Die standardmÃ¤ÃŸige Schriftart im Spiel bleibt unverÃ¤ndert, es wurden lediglich Umlaute bzw. deutsche Sonderzeichen hinzugefÃ¼gt.
 
-Die Oberfläche des Spiels, die Tutorials und die Ingame-Hilfe wurden bereits komplett übersetzt. Lediglich die Bilder in der Hilfe wurden noch nicht angepasst, das ist allerdings nun in Bearbeitung.
+Die OberflÃ¤che des Spiels, die Tutorials und die Ingame-Hilfe wurden bereits komplett Ã¼bersetzt. Lediglich die Bilder in der Hilfe wurden noch nicht angepasst, das ist allerdings nun in Bearbeitung.
 
-Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr über einen Rechtschreibfehler oder hölzern klingende Ausdrücke stolpert, bzw. euch allgemein eine Übersetzung nicht gefällt, schreibt einen Kommentar für diese Mod.
+Bitte beachtet ebenfalls, dass diese Mod aktiv gewartet wird. Wenn ihr Ã¼ber einen Rechtschreibfehler oder hÃ¶lzern klingende AusdrÃ¼cke stolpert, bzw. euch allgemein eine Ãœbersetzung nicht gefÃ¤llt, schreibt einen Kommentar fÃ¼r diese Mod.
 
-Feedback ist übrigens jederzeit gewünscht und wird zu Herzen genommen.
+Feedback ist Ã¼brigens jederzeit gewÃ¼nscht und wird zu Herzen genommen.
 
-Diese Mod bietet übrigens auch Übersetzungen für andere Mods an! Näheres findet sich in diesem Forenthread:
-[url=http://steamcommunity.com/workshop/filedetails/discussion/319182984/617320628383573636/]Übersetzungen für andere Mods[/url]
+Diese Mod bietet Ã¼brigens auch Ãœbersetzungen fÃ¼r andere Mods an! NÃ¤heres findet sich in diesem Forenthread:
+[url=http://steamcommunity.com/workshop/filedetails/discussion/319182984/617320628383573636/]Ãœbersetzungen fÃ¼r andere Mods[/url]
 
-Mehr Informationen zur Mod gibt es auf meiner persönlichen Seite:
+Mehr Informationen zur Mod gibt es auf meiner persÃ¶nlichen Seite:
 [url]http://atomkraftzwerg.de/page/banisheddeutsch[/url]
 
 Die Mod wird auch separat auf banishedinfo.com angeboten:
@@ -71,7 +71,7 @@ Furthermore, please note, that this mod is still work in progress and is activel
 Feedback is requested at any time, at best as a comment on this page.
 
 This mod also provides translations for other mods! You can find more information in this thread (only German):
-[url=http://steamcommunity.com/workshop/filedetails/discussion/319182984/617320628383573636/]Übersetzungen für andere Mods[/url]
+[url=http://steamcommunity.com/workshop/filedetails/discussion/319182984/617320628383573636/]Ãœbersetzungen fÃ¼r andere Mods[/url]
 
 Read more information at my page:
 [url]http://atomkraftzwerg.de/page/banisheddeutsch[/url]

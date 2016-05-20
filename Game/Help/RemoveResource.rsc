@@ -13,26 +13,26 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveResource ^s Ressourcen abbauen ^n ^f1 ^jl
-			Für den ^abBuildings Gebäudebau^ae wird häufig eine Kombination aus Holz, Stein und Eisen benötigt.
-			Diese Ressourcen können von ^abForester Förstern,^ae in ^abQuarry Steinbrüchen^ae und in
-            ^abMine Minen^ae gefördert werden, allerdings können Arbeiter sie viel einfacher und schneller durch direkten Abbau
-            gewinnen. Allerdings ist die direkt abbaubare Ressourcenmenge auf der Karte beschränkt.
+			FÃ¼r den ^abBuildings GebÃ¤udebau^ae wird hÃ¤ufig eine Kombination aus Holz, Stein und Eisen benÃ¶tigt.
+			Diese Ressourcen kÃ¶nnen von ^abForester FÃ¶rstern,^ae in ^abQuarry SteinbrÃ¼chen^ae und in
+            ^abMine Minen^ae gefÃ¶rdert werden, allerdings kÃ¶nnen Arbeiter sie viel einfacher und schneller durch direkten Abbau
+            gewinnen. Allerdings ist die direkt abbaubare Ressourcenmenge auf der Karte beschrÃ¤nkt.
 			^p
-			Wählen Sie die Funktion ^c1 Ressourcen abbauen ^c0, markieren Sie anschließend durch Klicken und Ziehen mit der
-            Maus die Fläche aus, in welcher sämtliche dort vorkommenden Ressourcen gewonnen werden soll.
+			WÃ¤hlen Sie die Funktion ^c1 Ressourcen abbauen ^c0, markieren Sie anschlieÃŸend durch Klicken und Ziehen mit der
+            Maus die FlÃ¤che aus, in welcher sÃ¤mtliche dort vorkommenden Ressourcen gewonnen werden soll.
 			^p
 			^jc ^i3RemoveResources ^jl ^jc ^f0
-			Sämtliche abbaubare Ressourcen sind beim Markieren rot hervorgehoben.
+			SÃ¤mtliche abbaubare Ressourcen sind beim Markieren rot hervorgehoben.
 			^jl ^f1 ^n ^i0ProfessionLaborer ^s
 
-			^abProfession Arbeiter^ae oder andere untätige Siedler werden nun mit dem Fällen von Bäumen, dem Abbau von
+			^abProfession Arbeiter^ae oder andere untÃ¤tige Siedler werden nun mit dem FÃ¤llen von BÃ¤umen, dem Abbau von
 			Stein und dem Sammeln von Eisen in der markierten Region beginnen. Die gewonnenen Ressourcen werden
-			währenddessen zum nächstgelegenen ^abStockPile Lagerplatz^ae transportiert.
+			wÃ¤hrenddessen zum nÃ¤chstgelegenen ^abStockPile Lagerplatz^ae transportiert.
 			^p
 			^jc ^i3RemoveResourcesIcon ^jl ^jc ^f0
-			Sämtliche zum Abbau freigegebenen Ressourcen sind mit einem orangenen X markiert.
+			SÃ¤mtliche zum Abbau freigegebenen Ressourcen sind mit einem orangenen X markiert.
 			^jl ^f1 ^n
-			Während die Arbeiter die Ressourcen noch nicht abgebaut haben, können Sie die Arbeit jederzeit mit
+			WÃ¤hrend die Arbeiter die Ressourcen noch nicht abgebaut haben, kÃ¶nnen Sie die Arbeit jederzeit mit
             der Funktion ^abRemoveCancel Abbau stoppen^ae abbrechen.
 			^p ";
 		}

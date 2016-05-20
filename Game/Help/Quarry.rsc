@@ -8,39 +8,39 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Steinbrüche";
+			String _text = "SteinbrÃ¼che";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleQuarry ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIQuarry ^s Steinbruch ^c0 ^f1 ^n
 			^i0Log x80 ^i0Iron x40 ^me ^f1 ^c0 ^jl ^vb
-			Mit der Errichtung eines Steinbruchs wird ein Tagebau geschaffen, der es ermöglicht, Stein aus dem Erdreich
-			abzubauen. Steinbrüche müssen in einem großflächigen, ebenen Gebiet platziert werden. Nach der Errichtung
+			Mit der Errichtung eines Steinbruchs wird ein Tagebau geschaffen, der es ermÃ¶glicht, Stein aus dem Erdreich
+			abzubauen. SteinbrÃ¼che mÃ¼ssen in einem groÃŸflÃ¤chigen, ebenen Gebiet platziert werden. Nach der Errichtung
 			arbeiten dort ^i0ProfessionStoneCutter ^abProfession Steinmetze^ae und bauen Gesteinsbrocken ab, wobei der
 			Tagebau mit	der Zeit immer tiefer ausgehoben wird.
 			^p
-			Um mit einem Steinbruch Stein zu gewinnen ist mehr Arbeit vonnöten, als
+			Um mit einem Steinbruch Stein zu gewinnen ist mehr Arbeit vonnÃ¶ten, als
 			^abRemoveStone oberirdische Gesteinsvorkommen abzubauen.^ae Allerdings ist es - abgesehen vom
-			^abTradingPost Handel^ae - die einzige Möglichkeit an Stein zu kommen, wenn die oberirdischen
-			Vorkommen erschöpft sind.
+			^abTradingPost Handel^ae - die einzige MÃ¶glichkeit an Stein zu kommen, wenn die oberirdischen
+			Vorkommen erschÃ¶pft sind.
 			^p
-			Die in Steinbrüchen abbaubaren Steinvorkommen sind erschöpflich. Sobald in einem Steinbruch sämtliche
-			Vorkommen abgebaut wurden, wird der Tagebau geschlossen und ist nicht länger verwendbar.
+			Die in SteinbrÃ¼chen abbaubaren Steinvorkommen sind erschÃ¶pflich. Sobald in einem Steinbruch sÃ¤mtliche
+			Vorkommen abgebaut wurden, wird der Tagebau geschlossen und ist nicht lÃ¤nger verwendbar.
 			^p
 			Es ist zu beachten, dass
-			Steinbrüche nicht vollständig abgerissen werden können. Beim Abriss wird zwar das Gebäude entfernt,
+			SteinbrÃ¼che nicht vollstÃ¤ndig abgerissen werden kÃ¶nnen. Beim Abriss wird zwar das GebÃ¤ude entfernt,
 			allerdings ist die Stelle, an welcher sich der Steinbruch befand, nicht mehr nutzbar.
 			^p
-			Steinbrüche sind gefährlich - das Risiko, dass hier Arbeiter bei einem Arbeitsunfall umkommen ist höher
+			SteinbrÃ¼che sind gefÃ¤hrlich - das Risiko, dass hier Arbeiter bei einem Arbeitsunfall umkommen ist hÃ¶her
 			als bei anderen Berufen.
 			^p
 			^mb ^mc ^dDialogQuarry ^ml304 ^mc
-			Durch Klick auf einen Steinbruch kann das dazugehörige Detailfenster aufgerufen werden, in welchem
-			angezeigt wird, wie viel verbleibende Materialien dort noch abgebaut werden können.
+			Durch Klick auf einen Steinbruch kann das dazugehÃ¶rige Detailfenster aufgerufen werden, in welchem
+			angezeigt wird, wie viel verbleibende Materialien dort noch abgebaut werden kÃ¶nnen.
 			^ml0 ^me ^n
-			Für den Steinabbau kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht wird,
-			wird der Abbau vorübergehend eingestellt.
+			FÃ¼r den Steinabbau kann ein ^abLimit Ressourcenlimit^ae gesetzt werden. Sobald dieses Limit erreicht wird,
+			wird der Abbau vorÃ¼bergehend eingestellt.
 			^p
 			^mb ^mc ^dDialogQuarryWork ^ml60 ^mc
 			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann der Betrieb des Steinbruchs eingestellt bzw.

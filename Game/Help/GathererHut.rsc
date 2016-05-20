@@ -8,31 +8,31 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Sammlerhütte";
+			String _text = "SammlerhÃ¼tte";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleGathererHut ^mc ^f3 ^jl ^c0
-			^dUIFood ^i0ArrowRight ^dUIGathererHut ^s Sammlerhütte ^c0 ^f1 ^n
+			^dUIFood ^i0ArrowRight ^dUIGathererHut ^s SammlerhÃ¼tte ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			Sammlerhütten können in der Nähe von Wäldern platziert werden, in denen essbare Pflanzen, Beeren, Pilze
+			SammlerhÃ¼tten kÃ¶nnen in der NÃ¤he von WÃ¤ldern platziert werden, in denen essbare Pflanzen, Beeren, Pilze
 			und Wurzeln wachsen. Die ^i0ProfessionGatherer ^abProfession Sammler^ae suchen und sammeln dann in der
-			Umgebung der Sammlerhütte die wild wachsende Nahrung.
+			Umgebung der SammlerhÃ¼tte die wild wachsende Nahrung.
 			^p
-			Essbare Pflanzen wachsen nur in Wäldern. Um den größten Ertrag zu erzielen sollte die Hütte daher von
+			Essbare Pflanzen wachsen nur in WÃ¤ldern. Um den grÃ¶ÃŸten Ertrag zu erzielen sollte die HÃ¼tte daher von
 			dichtem Wald umgeben sein.
 			^p
 			Sobald ein Sammler so viel gesammelt hat, dass sein Inventar voll ist, bringt er die Nahrung zum
-            nächsten ^abStorageBarn Lagerhaus.^ae
+            nÃ¤chsten ^abStorageBarn Lagerhaus.^ae
 			^p
 			^mb ^mc ^dDialogGatherer ^ml320 ^mc
-			Mit einem Klick auf die Sammlerhütte wird das dazugehörige Detailfenster eingeblendet.
+			Mit einem Klick auf die SammlerhÃ¼tte wird das dazugehÃ¶rige Detailfenster eingeblendet.
             ^ml0 ^me
-			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+			FÃ¼r die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
             wird keine weitere Nahrung mehr produziert, bis das Limit wieder unterschritten wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogGathererWork ^n ^ml60 ^mc
-			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Arbeit in der Sammlerhütte eingestellt werden bzw. wieder
-            aufgenommen wird. Die Deaktivierung des Gebäudes stoppt die weitere Nahrungssuche.
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann die Arbeit in der SammlerhÃ¼tte eingestellt werden bzw. wieder
+            aufgenommen wird. Die Deaktivierung des GebÃ¤udes stoppt die weitere Nahrungssuche.
 			^ml0 ^me ";
 		}
 	]

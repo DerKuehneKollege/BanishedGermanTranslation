@@ -13,7 +13,7 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIToolHelp ^s Hilfe ^f1 ^n
-			    Wenn Sie dies hier lesen kˆnnen, haben Sie die Hilfe gefunden! ^c1 Groﬂartig! ^c0 ";
+			    Wenn Sie dies hier lesen k√∂nnen, haben Sie die Hilfe gefunden! ^c1 Gro√üartig! ^c0 ";
 		}
 	]
 }

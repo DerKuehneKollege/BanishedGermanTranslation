@@ -8,39 +8,39 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Kräutersammler";
+			String _text = "KrÃ¤utersammler";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleHerbalist ^mc ^f3 ^jl ^c0
-			^dUIProduction ^i0ArrowRight ^dUIHerbalist ^s Kräutersammler ^c0 ^f1 ^n
+			^dUIProduction ^i0ArrowRight ^dUIHerbalist ^s KrÃ¤utersammler ^c0 ^f1 ^n
 			^i0Log x30 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			^i0ProfessionHerbalist ^abProfession Kräutersammler ^ae suchen in den Wäldern in der Umgebung ihrer Hütte
-			nach wild wachsenden Heilkräutern. Diese Kräuter wachsen nur in älteren Wäldern an den Wurzeln alter Bäume,
-			weswegen die Hütte nicht in von Förstern bewirtschafteten Waldstücken platziert werden sollte, da sich dort
-			durch die ständige Abholzung kaum alte Baumbestände befinden.
+			^i0ProfessionHerbalist ^abProfession KrÃ¤utersammler ^ae suchen in den WÃ¤ldern in der Umgebung ihrer HÃ¼tte
+			nach wild wachsenden HeilkrÃ¤utern. Diese KrÃ¤uter wachsen nur in Ã¤lteren WÃ¤ldern an den Wurzeln alter BÃ¤ume,
+			weswegen die HÃ¼tte nicht in von FÃ¶rstern bewirtschafteten WaldstÃ¼cken platziert werden sollte, da sich dort
+			durch die stÃ¤ndige Abholzung kaum alte BaumbestÃ¤nde befinden.
 			^p
-			Sobald ein Kräutersammler so viel Heilkräuter gesammelt hat, dass seine Taschen voll sind oder keine Kräuter
-			mehr zu finden sind, bringt er die Ausbeute zum nächstgelegenen ^abStorageBarn Lagerhaus.^ae
+			Sobald ein KrÃ¤utersammler so viel HeilkrÃ¤uter gesammelt hat, dass seine Taschen voll sind oder keine KrÃ¤uter
+			mehr zu finden sind, bringt er die Ausbeute zum nÃ¤chstgelegenen ^abStorageBarn Lagerhaus.^ae
 			^p
-			Wenn ^abCitizen Siedler^ae unter niedriger Gesundheit leiden, holen sie sich bei Verfügbarkeit selbstständig eine
-			Einheit Kräuter vom ^abMarket Markt^ae bzw. aus dem ^abStorageBarn Lagerhaus^ae und gehen damit zur Hütte
-			des Kräutersammlers. Der Kräutersammler bereitet dann aus den Kräutern eine Medizin zu, die die Gesundheit
-			der Siedler ein wenig wiederherstellt. Dafür ist es erforderlich, dass gerade ein Kräutersammler in der Hütte
-			arbeitet. Auf diese Weise ist es möglich, dass Siedler ihre Gesundheit über die Zeit wieder voll
-			regenerieren können.
+			Wenn ^abCitizen Siedler^ae unter niedriger Gesundheit leiden, holen sie sich bei VerfÃ¼gbarkeit selbststÃ¤ndig eine
+			Einheit KrÃ¤uter vom ^abMarket Markt^ae bzw. aus dem ^abStorageBarn Lagerhaus^ae und gehen damit zur HÃ¼tte
+			des KrÃ¤utersammlers. Der KrÃ¤utersammler bereitet dann aus den KrÃ¤utern eine Medizin zu, die die Gesundheit
+			der Siedler ein wenig wiederherstellt. DafÃ¼r ist es erforderlich, dass gerade ein KrÃ¤utersammler in der HÃ¼tte
+			arbeitet. Auf diese Weise ist es mÃ¶glich, dass Siedler ihre Gesundheit Ã¼ber die Zeit wieder voll
+			regenerieren kÃ¶nnen.
 			^p
-			Die Gesundheit der Siedler sinkt hauptsächlich durch ungesunde Ernährung, wenn nur eine geringe Vielfalt an
-			verschiedenen Nahrungsmitteln zur Auswahl steht. Durch den Kräutersammler ist es möglich solch ein Defizit
+			Die Gesundheit der Siedler sinkt hauptsÃ¤chlich durch ungesunde ErnÃ¤hrung, wenn nur eine geringe Vielfalt an
+			verschiedenen Nahrungsmitteln zur Auswahl steht. Durch den KrÃ¤utersammler ist es mÃ¶glich solch ein Defizit
 			wieder auszugleichen.
 			^p
 			^mb ^mc ^dDialogHerbalist ^ml318 ^mc
-			Mit einem Klick auf die Hütte kann das dazugehörige Detailfenster eingeblendet werden.
+			Mit einem Klick auf die HÃ¼tte kann das dazugehÃ¶rige Detailfenster eingeblendet werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogHerbalistWork ^n ^ml60 ^mc
-			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann das Kräutersammeln eingestellt bzw. wiederaufgenommen werden.
+			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann das KrÃ¤utersammeln eingestellt bzw. wiederaufgenommen werden.
 			^ml0 ^me ^n
-			Des Weiteren lässt sich ein ^abLimit Ressourcenlimit ^ae für Kräuter einstellen. Wenn dieses Limit
-			erreicht wird, werden vorerst keine weiteren Kräuter mehr gesammelt. ";
+			Des Weiteren lÃ¤sst sich ein ^abLimit Ressourcenlimit ^ae fÃ¼r KrÃ¤uter einstellen. Wenn dieses Limit
+			erreicht wird, werden vorerst keine weiteren KrÃ¤uter mehr gesammelt. ";
 		}
 	]
 }

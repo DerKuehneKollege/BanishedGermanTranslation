@@ -13,23 +13,23 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIStorage ^s Lagerraum und Handel ^f1 ^jl ^vb
-			Im Menü ^c1 Lagerraum und Handel ^c0 stehen verschiedene Gebäude zum Lagern und Handeln von Ressourcen zur
-			Verfügung.
+			Im MenÃ¼ ^c1 Lagerraum und Handel ^c0 stehen verschiedene GebÃ¤ude zum Lagern und Handeln von Ressourcen zur
+			VerfÃ¼gung.
 			^p
-			Märkte bieten den Siedlern eine Anlaufstelle für eine Vielzahl verschiedener Ressourcen, ohne dass sie
-			verschiedene Lagergebäude aufsuchen müssen. Handelsposten ermöglichen es, mit den fahrenden Händlern Güter,
-			die im Überfluss vorhanden sind, gegen andere Güter, die in der Stadt benötigt werden, zu tauschen.
+			MÃ¤rkte bieten den Siedlern eine Anlaufstelle fÃ¼r eine Vielzahl verschiedener Ressourcen, ohne dass sie
+			verschiedene LagergebÃ¤ude aufsuchen mÃ¼ssen. Handelsposten ermÃ¶glichen es, mit den fahrenden HÃ¤ndlern GÃ¼ter,
+			die im Ãœberfluss vorhanden sind, gegen andere GÃ¼ter, die in der Stadt benÃ¶tigt werden, zu tauschen.
 			^p
 			^jc ^dUIToolbarStorage ^jl ^vc ^lb
 			^lb
-			^lo ^dUIStorageBarn ^s ^abStorageBarn Lagerhaus:^ae In Lagerhäusern können Nahrung, Kleidung und andere
-			produzierte Güter gelagert werden.
-			^lo ^dUIStockPile ^s ^abStockPile Lagerplatz:^ae Auf Lagerplätzen werden Rohmaterialien wie Holz, Stein, Eisen
+			^lo ^dUIStorageBarn ^s ^abStorageBarn Lagerhaus:^ae In LagerhÃ¤usern kÃ¶nnen Nahrung, Kleidung und andere
+			produzierte GÃ¼ter gelagert werden.
+			^lo ^dUIStockPile ^s ^abStockPile Lagerplatz:^ae Auf LagerplÃ¤tzen werden Rohmaterialien wie Holz, Stein, Eisen
 			und Brennmaterial gelagert.
-			^lo ^dUIMarket ^s ^abMarket Markt:^ae Märkte versorgen die Siedler mit verschiedenen Gütern und vermeiden
+			^lo ^dUIMarket ^s ^abMarket Markt:^ae MÃ¤rkte versorgen die Siedler mit verschiedenen GÃ¼tern und vermeiden
 			lange Laufwege.
-			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae An Handelsposten treffen regelmäßig
-			fahrende Händler ein, mit welchen Güter getauscht werden können.
+			^lo ^dUITradingPost ^s ^abTradingPost Handelsposten:^ae An Handelsposten treffen regelmÃ¤ÃŸig
+			fahrende HÃ¤ndler ein, mit welchen GÃ¼ter getauscht werden kÃ¶nnen.
 			^le ^le ";
 		}
 	]

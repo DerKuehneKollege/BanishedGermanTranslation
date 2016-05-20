@@ -13,20 +13,20 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveRoad ^s Wege entfernen ^n ^f1 ^jl
-			Wenn Sie errichtete Straﬂen und Wege wieder entfernen wollen, kˆnnen Sie die Funktion ^c1 Wege entfernen ^c0
+			Wenn Sie errichtete Stra√üen und Wege wieder entfernen wollen, k√∂nnen Sie die Funktion ^c1 Wege entfernen ^c0
 			verwenden.
-			W‰hlen Sie hierzu zun‰chst die Funktion aus, markieren Sie anschlieﬂend ein Gebiet mit abzureiﬂenden Straﬂen
+			W√§hlen Sie hierzu zun√§chst die Funktion aus, markieren Sie anschlie√üend ein Gebiet mit abzurei√üenden Stra√üen
 			durch Klicken und Ziehen mit der Maus.
 			^p
 			^jc ^i3RemoveRoad ^jl ^jc ^f0
-			Alle abreiﬂbaren Wege und Straﬂen sind beim Markieren rot hinterlegt.
+			Alle abrei√übaren Wege und Stra√üen sind beim Markieren rot hinterlegt.
 			^jl ^f1 ^n
-			Anschlieﬂend werden ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae an dem Weg entlanglaufen und ihn
-			nach und nach abreiﬂen. Aus ^abStoneRoad gepflasterten Straﬂen^ae kann beim Abriss kein Stein
+			Anschlie√üend werden ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae an dem Weg entlanglaufen und ihn
+			nach und nach abrei√üen. Aus ^abStoneRoad gepflasterten Stra√üen^ae kann beim Abriss kein Stein
 			wiedergewonnen werden.
 			^p
 			^jc ^i3RemoveRoadIcon ^jl
-			^jc ^f0 Wege und Straﬂen, die abgerissen werden, sind mit einem orangenen X markiert. ^jl ^f1
+			^jc ^f0 Wege und Stra√üen, die abgerissen werden, sind mit einem orangenen X markiert. ^jl ^f1
 			^p ";
 		}
 	]

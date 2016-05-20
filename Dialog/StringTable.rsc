@@ -32,7 +32,7 @@ StringTable achievement
 		}
 		{
 			String _name = "EducatedDesc";
-			String _text = "Lassen Sie eine Bevölkerung von 200 Erwachsenenen, in welcher jeder über Schulbildung verfügt, 4 Jahre lang überleben.";
+			String _text = "Lassen Sie eine Bevölkerung von 200 Erwachsenenen, in der jeder über Schulbildung verfügt, 4 Jahre lang überleben.";
 		}
 		{
 			String _name = "Uneducated";
@@ -52,7 +52,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MountainMen";
-			String _text = "Bergmenschen";
+			String _text = "Bergbewohner";
 		}
 		{
 			String _name = "MountainMenDesc";
@@ -1259,7 +1259,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PastureEmptyTip";
-			String _text = "Sämtliches Nutzvieh von dieser Weide entfernen. Benötigt eine andere genügend große Weide, auf welche das Vieh geschickt werden kann.";
+			String _text = "Sämtliches Nutzvieh von dieser Weide entfernen. Benötigt eine andere genügend große Weide, auf die das Vieh geschickt werden kann.";
 		}
 		{
 			String _name = "PastureSplitTip";
@@ -1267,7 +1267,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PastureSelectTip";
-			String _text = "Viehart auswählen, welche auf dieser Weide gehalten werden soll. Die Auswahl kann nur getroffen werden, wenn die Weide leer ist.";
+			String _text = "Viehart auswählen, die auf dieser Weide gehalten werden soll. Die Auswahl kann nur getroffen werden, wenn die Weide leer ist.";
 		}
 		{
 			String _name = "HerdSize";
@@ -1275,7 +1275,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HerdSizeTip";
-			String _text = "Steuert die Anzahl Tiere, welche auf dieser Weide gehalten werden. Wird diese Anzahl überschritten, wird das Vieh geschlachtet.";
+			String _text = "Steuert die Anzahl Tiere, die auf dieser Weide gehalten werden. Wird diese Anzahl überschritten, wird das Vieh geschlachtet.";
 		}
 		{
 			String _name = "Trade";
@@ -1295,7 +1295,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DesiredTradeTip";
-			String _text = "Gewünschte Anzahl Artikel, welche in dem Handelsposten gelagert werden sollen.";
+			String _text = "Gewünschte Anzahl Artikel, die in dem Handelsposten gelagert werden sollen.";
 		}
 		{
 			String _name = "TradeStoredTip";
@@ -3740,15 +3740,15 @@ StringTable objects
 		}
 		{
 			String _name = "ToolMaker";
-			String _text = "Schmied";
+			String _text = "Schmiede";
 		}
 		{
 			String _name = "ToolMakerLwr";
-			String _text = "Schmied";
+			String _text = "Schmiede";
 		}
 		{
 			String _name = "ToolMakerTip";
-			String _text = "Fertigt neues Werkzeug aus Holz und Eisen.";
+			String _text = "Der Schmied fertigt neues Werkzeug aus Holz und Eisen.";
 		}
 		{
 			String _name = "HunterLodge";

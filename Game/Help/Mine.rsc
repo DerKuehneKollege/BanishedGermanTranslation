@@ -15,32 +15,32 @@ StringTable resource
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleMine ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIMine ^s Mine ^c0 ^f1 ^n
 			^i0Log x48 ^i0Stone x68 ^me ^f1 ^c0 ^jl ^vb
-			Minen können an Gebirgsrändern platziert werden und ermöglichen den Abbau der Rohstoffe
-			^i0IronSmall Eisen und ^i0CoalSmall Kohle. Damit die Arbeit in einer Mine aufgenommen wird, müssen dieser
+			Minen kÃ¶nnen an GebirgsrÃ¤ndern platziert werden und ermÃ¶glichen den Abbau der Rohstoffe
+			^i0IronSmall Eisen und ^i0CoalSmall Kohle. Damit die Arbeit in einer Mine aufgenommen wird, mÃ¼ssen dieser
 			^i0ProfessionMiner ^abProfession Bergarbeiter ^ae zugewiesen werden.
 			^p
-			Um mit einer Mine Eisen zu gewinnen, ist mehr Arbeit vonnöten, als
+			Um mit einer Mine Eisen zu gewinnen, ist mehr Arbeit vonnÃ¶ten, als
 			^abRemoveIron Eisen aus oberirdischen Eisenvorkommen abzubauen.^ae Allerdings ist es - abgesehen vom
-			^abTradingPost Handel^ae - die einzige Möglichkeit an Eisen zu kommen, wenn die oberirdischen
-			Vorkommen erschöpft sind.
+			^abTradingPost Handel^ae - die einzige MÃ¶glichkeit an Eisen zu kommen, wenn die oberirdischen
+			Vorkommen erschÃ¶pft sind.
 			^p
-			Die in Minen abbaubaren Ressourcen sind erschöpflich. Sobald sämtliche Eisen- bzw. Kohlevorkommen
-			in der Mine abgebaut wurde, wird diese geschlossen und ist nicht länger verwendbar.
+			Die in Minen abbaubaren Ressourcen sind erschÃ¶pflich. Sobald sÃ¤mtliche Eisen- bzw. Kohlevorkommen
+			in der Mine abgebaut wurde, wird diese geschlossen und ist nicht lÃ¤nger verwendbar.
 			^p
-			Es ist zu beachten, dass Minen nicht vollständig abgerissen werden können. Beim Abriss wird zwar das
-			Gebäude entfernt, allerdings ist die Stelle, an welcher sich die Mine befand, nicht mehr nutzbar.
+			Es ist zu beachten, dass Minen nicht vollstÃ¤ndig abgerissen werden kÃ¶nnen. Beim Abriss wird zwar das
+			GebÃ¤ude entfernt, allerdings ist die Stelle, an welcher sich die Mine befand, nicht mehr nutzbar.
 			^p
-			Wie im echten Leben sind auch die Minen im Spiel gefährlich - das Risiko, dass Bergarbeiter bei einem
-			Grubenunglück umkommen ist höher als die Gefahr von tödlichen Arbeitsunfällen bei anderen Berufen.
+			Wie im echten Leben sind auch die Minen im Spiel gefÃ¤hrlich - das Risiko, dass Bergarbeiter bei einem
+			GrubenunglÃ¼ck umkommen ist hÃ¶her als die Gefahr von tÃ¶dlichen ArbeitsunfÃ¤llen bei anderen Berufen.
 			^p
 			^mb ^mc ^dDialogMine ^ml304 ^mc
-			Durch Klick auf eine Mine kann das dazugehörige Detailfenster aufgerufen werden, in welchem angezeigt
-			wird, wie viel verbleibende Materialien noch in der Mine abgebaut werden können.
+			Durch Klick auf eine Mine kann das dazugehÃ¶rige Detailfenster aufgerufen werden, in welchem angezeigt
+			wird, wie viel verbleibende Materialien noch in der Mine abgebaut werden kÃ¶nnen.
 			^ml0 ^me ^n
-			Für die beiden abbaubaren Ressourcen, Kohle und Eisen, kann jeweils ein ^abLimit Ressourcenlimit^ae gesetzt
+			FÃ¼r die beiden abbaubaren Ressourcen, Kohle und Eisen, kann jeweils ein ^abLimit Ressourcenlimit^ae gesetzt
 			werden. Sobald eins der Limits erreicht wird, wird in der Mine die jeweilige Ressource nicht mehr abgebaut.
-			Im Detailfenster kann über das Auswahlmenü eingestellt werden, welcher Rohstoff in der jeweiligen Mine
-			geschürft werden soll, wobei ^i0IronSmall Eisen oder ^i0CoalSmall Kohle zur Auswahl stehen.
+			Im Detailfenster kann Ã¼ber das AuswahlmenÃ¼ eingestellt werden, welcher Rohstoff in der jeweiligen Mine
+			geschÃ¼rft werden soll, wobei ^i0IronSmall Eisen oder ^i0CoalSmall Kohle zur Auswahl stehen.
 			^p
 			^mb ^mc ^dDialogMineWork ^ml60 ^mc
 			Durch Umschalten des Buttons ^c1 Arbeiten ^c0 kann der Betrieb der Mine eingestellt bzw. wiederaufgenommen

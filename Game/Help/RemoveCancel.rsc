@@ -13,15 +13,15 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveCancel ^s Abbau stoppen ^n ^f1 ^jl
-			Sobald ein ^abRemoveStructure Geb‰ude,^ae eine ^abRemoveResource Ressource^ae oder ein ^abRemoveRoad Weg^ae
-			f¸r den Abbau bzw. Abriss ausgew‰hlt wurde, werden die Arbeiter sobald wie mˆglich mit der Arbeit beginnen.^ae
+			Sobald ein ^abRemoveStructure Geb√§ude,^ae eine ^abRemoveResource Ressource^ae oder ein ^abRemoveRoad Weg^ae
+			f√ºr den Abbau bzw. Abriss ausgew√§hlt wurde, werden die Arbeiter sobald wie m√∂glich mit der Arbeit beginnen.^ae
 			^p
-			Falls Sie es sich anders ¸berlegt haben und den Abbau in einem Gebiet stoppen wollen, kˆnnen Sie den Auftrag
-			mit der Funktion ^c1 Abbau stoppen ^c0 abbrechen. W‰hlen Sie hierzu zuerst ^c1 Abbau stoppen ^c0 aus, markieren Sie
-			anschlieﬂend durch Klicken und Ziehen mit der Maus eine Fl‰che, in welcher die Abbau- bzw. Abrissvorg‰nge
+			Falls Sie es sich anders √ºberlegt haben und den Abbau in einem Gebiet stoppen wollen, k√∂nnen Sie den Auftrag
+			mit der Funktion ^c1 Abbau stoppen ^c0 abbrechen. W√§hlen Sie hierzu zuerst ^c1 Abbau stoppen ^c0 aus, markieren Sie
+			anschlie√üend durch Klicken und Ziehen mit der Maus eine Fl√§che, in welcher die Abbau- bzw. Abrissvorg√§nge
 			gestoppt werden sollen.
 			^p
-			^jc ^i3RemoveCancel ^jl ^jc ^f0 Alle anhaltbaren Abbauvorg‰nge sind beim Markieren rot hinterlegt.
+			^jc ^i3RemoveCancel ^jl ^jc ^f0 Alle anhaltbaren Abbauvorg√§nge sind beim Markieren rot hinterlegt.
 			^jl ^f1 ^n ";
 		}
 	]

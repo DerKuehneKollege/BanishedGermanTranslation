@@ -13,17 +13,17 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUICamera ^s Kameraansichten ^f1 ^n
-			Die Funktion ^c1 Kameraansichten ^c0 ermöglicht Ihnen das Abspeichern der aktuellen Kameraansicht. Dies können
-			Sie verwenden, um jederzeit zu einer von Ihnen gewählten Stelle auf der Karte zu springen.
+			Die Funktion ^c1 Kameraansichten ^c0 ermÃ¶glicht Ihnen das Abspeichern der aktuellen Kameraansicht. Dies kÃ¶nnen
+			Sie verwenden, um jederzeit zu einer von Ihnen gewÃ¤hlten Stelle auf der Karte zu springen.
 			^p
-			Wenn Sie die Funktion auswählen, wird zunächst ein Untermenü angezeigt:
+			Wenn Sie die Funktion auswÃ¤hlen, wird zunÃ¤chst ein UntermenÃ¼ angezeigt:
 			^p
 			^jc ^dUIToolbarCamera ^jl ^n
-			Durch Klicken auf eine der fünf Kameras speichern Sie die aktuelle Kameraansicht in dem ausgewählten Slot.
-			Sie können jederzeit durch Drücken der entsprechenden Taste, welche in eckigen Klammern im Tooltip für den
+			Durch Klicken auf eine der fÃ¼nf Kameras speichern Sie die aktuelle Kameraansicht in dem ausgewÃ¤hlten Slot.
+			Sie kÃ¶nnen jederzeit durch DrÃ¼cken der entsprechenden Taste, welche in eckigen Klammern im Tooltip fÃ¼r den
 			jeweiligen Button angezeigt wird, an die im Slot gespeicherte Stelle springen.
 			^p
-			In der Standardtastenbelegung sind die Hotkeys für die jeweiligen Ansichten
+			In der Standardtastenbelegung sind die Hotkeys fÃ¼r die jeweiligen Ansichten
 			^c1 Z, ^c0 ^c1 X, ^c0 ^c1 C, ^c0 ^c1 V, ^c0 und ^c1B^c0,
             welche entsprechend den Slots 1, 2, 3, 4 und 5 zugeordnet sind.
 			";

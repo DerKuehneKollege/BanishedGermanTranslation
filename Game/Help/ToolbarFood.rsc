@@ -13,29 +13,29 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIFood ^s Nahrungsproduktion ^f1 ^jl ^vb
-			Im Menü ^c1 Nahrungsproduktion ^c0 stehen verschiedene Gebäude für die Nahrungsversorgung Ihrer Bevölkerung zum
-			Bau zur Verfügung.
+			Im MenÃ¼ ^c1 Nahrungsproduktion ^c0 stehen verschiedene GebÃ¤ude fÃ¼r die Nahrungsversorgung Ihrer BevÃ¶lkerung zum
+			Bau zur VerfÃ¼gung.
 			^p
-			Jagen, Sammeln und Fischen ermöglichen die Nahrungsgewinnung aus der Natur ohne großen Aufwand, allerdings
-			müssen dafür Waldflächen, Wiesen und unbebaute Gegenden bzw. Gewässer zur Verfügung stehen, damit
-			genügend Nahrung gesammelt werden kann.
+			Jagen, Sammeln und Fischen ermÃ¶glichen die Nahrungsgewinnung aus der Natur ohne groÃŸen Aufwand, allerdings
+			mÃ¼ssen dafÃ¼r WaldflÃ¤chen, Wiesen und unbebaute Gegenden bzw. GewÃ¤sser zur VerfÃ¼gung stehen, damit
+			genÃ¼gend Nahrung gesammelt werden kann.
 			^p
-			Mit der Urbarmachung von Land, durch Errichtung von Äckern, Obstgärten und durch Viehzucht kann in
-			regelmäßigen Zeitintervallen viel Nahrung gewonnen werden, was einen starken Bevölkerungsanstieg ermöglicht.
-			Allerdings erfordert dies eine aktive Bewirtschaftung der Felder sowie Glück mit dem Wetter.
+			Mit der Urbarmachung von Land, durch Errichtung von Ã„ckern, ObstgÃ¤rten und durch Viehzucht kann in
+			regelmÃ¤ÃŸigen Zeitintervallen viel Nahrung gewonnen werden, was einen starken BevÃ¶lkerungsanstieg ermÃ¶glicht.
+			Allerdings erfordert dies eine aktive Bewirtschaftung der Felder sowie GlÃ¼ck mit dem Wetter.
 			^p
 			^jc ^dUIToolbarFood ^n ^jl ^vc
 			^lb ^lb
-			^lo ^dUICropField ^s ^abCropField Acker:^ae Auf Äckern können verschiedene Gemüse- und Getreidearten
+			^lo ^dUICropField ^s ^abCropField Acker:^ae Auf Ã„ckern kÃ¶nnen verschiedene GemÃ¼se- und Getreidearten
 			angebaut werden.
-			^lo ^dUIOrchard ^s ^abOrchard Obstgarten:^ae In Obstgärten können Obst- und Nussbäume angepflanzt
+			^lo ^dUIOrchard ^s ^abOrchard Obstgarten:^ae In ObstgÃ¤rten kÃ¶nnen Obst- und NussbÃ¤ume angepflanzt
 			werden.
-			^lo ^dUIPasture ^s ^abPasture Viehweide:^ae Auf Viehweiden können Nutztiere gehalten werden.
-			^lo ^dUIFishingDock ^s ^abFishingDock Fischerhütte:^ae Fischerhütten ermöglichen es Anglern, an Gewässern
+			^lo ^dUIPasture ^s ^abPasture Viehweide:^ae Auf Viehweiden kÃ¶nnen Nutztiere gehalten werden.
+			^lo ^dUIFishingDock ^s ^abFishingDock FischerhÃ¼tte:^ae FischerhÃ¼tten ermÃ¶glichen es Anglern, an GewÃ¤ssern
 			Fische zu fangen.
-			^lo ^dUIHunterLodge ^s ^abHunterLodge Jagdhütte:^ae An Jagdhütten suchen und jagen Jäger das in der Umgebung
+			^lo ^dUIHunterLodge ^s ^abHunterLodge JagdhÃ¼tte:^ae An JagdhÃ¼tten suchen und jagen JÃ¤ger das in der Umgebung
 			herumziehende Wild.
-			^lo ^dUIGathererHut ^s ^abGathererHut Sammler:^ae Sammler suchen in der Umgebung der Hütte nach essbaren
+			^lo ^dUIGathererHut ^s ^abGathererHut Sammler:^ae Sammler suchen in der Umgebung der HÃ¼tte nach essbaren
 			Wurzeln und Beeren.
 			^le ^le ";
 		}

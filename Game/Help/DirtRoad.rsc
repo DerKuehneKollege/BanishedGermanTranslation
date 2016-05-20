@@ -14,13 +14,13 @@ StringTable resource
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleDirtRoad ^mc ^f3 ^jl ^c0
 			^dUIRoads ^i0ArrowRight ^dUIDirtRoad ^s Feldwege ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb
-			Feldwege können platziert werden, um Siedlern eine schnellere Fortbewegung zwischen zwei Orten zu
-			ermöglichen. ^abStoneRoad Gepflasterte Straßen^ae ermöglichen eine noch schnellere Bewegung, benötigen aber
-			eine große Menge Stein für den Bau, wohingegen Feldwege kostenlos sind.
+			Feldwege kÃ¶nnen platziert werden, um Siedlern eine schnellere Fortbewegung zwischen zwei Orten zu
+			ermÃ¶glichen. ^abStoneRoad Gepflasterte StraÃŸen^ae ermÃ¶glichen eine noch schnellere Bewegung, benÃ¶tigen aber
+			eine groÃŸe Menge Stein fÃ¼r den Bau, wohingegen Feldwege kostenlos sind.
 			^p
-			Straßen werden von ^i0ProfessionBuilder ^abProfession Bauarbeitern^ae errichtet. Nach der Platzierung werden
-			die Wege Stück für Stück errichtet, wobei zunächst im Weg liegende Bäume, sowie Stein- und
-			Eisenvorkommen weggeräumt werden.
+			StraÃŸen werden von ^i0ProfessionBuilder ^abProfession Bauarbeitern^ae errichtet. Nach der Platzierung werden
+			die Wege StÃ¼ck fÃ¼r StÃ¼ck errichtet, wobei zunÃ¤chst im Weg liegende BÃ¤ume, sowie Stein- und
+			Eisenvorkommen weggerÃ¤umt werden.
 			";
 		}
 	]

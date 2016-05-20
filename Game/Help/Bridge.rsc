@@ -8,23 +8,23 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Brücken";
+			String _text = "BrÃ¼cken";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleBridge ^mc ^f3 ^jl ^c0
-			^dUIRoads ^i0ArrowRight ^dUIBridge ^s Holzbrücke ^c0 ^f1 ^n
-			^i0Log x4 ^i0Stone x1 (pro Längeneinheit) ^me ^f1 ^c0 ^jl ^vb
-			Eine Holzbrücke ermöglicht den Siedlern die Überquerung von Flüssen, Bächen und kleinen Seen. Siedler können
-			nicht schwimmen und daher ohne Brücke Wasser nicht überqueren.
+			^dUIRoads ^i0ArrowRight ^dUIBridge ^s HolzbrÃ¼cke ^c0 ^f1 ^n
+			^i0Log x4 ^i0Stone x1 (pro LÃ¤ngeneinheit) ^me ^f1 ^c0 ^jl ^vb
+			Eine HolzbrÃ¼cke ermÃ¶glicht den Siedlern die Ãœberquerung von FlÃ¼ssen, BÃ¤chen und kleinen Seen. Siedler kÃ¶nnen
+			nicht schwimmen und daher ohne BrÃ¼cke Wasser nicht Ã¼berqueren.
 			^p
-			Je länger die Brücke sein soll, desto teurer ist sie beim Bau. Auf Holzbrücken haben Siedler die selbe
+			Je lÃ¤nger die BrÃ¼cke sein soll, desto teurer ist sie beim Bau. Auf HolzbrÃ¼cken haben Siedler die selbe
 			Laufgeschwindigkeit wie auf ^abDirtRoad Feldwegen.^ae
 			^p
 			^mb ^mc ^dDialogWoodenBridge ^ml308 ^mc
-			Wenn Sie auf eine Holzbrücke klicken, wird ein Detailfenster eingeblendet, welches jedoch ohne Inhalt ist,
-			da an Brücken nichts eingestellt werden kann. Nur während der ^abBuildings Errichtung^ae oder beim
-			^abRemoveStructure Abriss^ae der Brücke wird im Detailfenster der aktuelle Fortschritt angezeigt.
+			Wenn Sie auf eine HolzbrÃ¼cke klicken, wird ein Detailfenster eingeblendet, welches jedoch ohne Inhalt ist,
+			da an BrÃ¼cken nichts eingestellt werden kann. Nur wÃ¤hrend der ^abBuildings Errichtung^ae oder beim
+			^abRemoveStructure Abriss^ae der BrÃ¼cke wird im Detailfenster der aktuelle Fortschritt angezeigt.
 			^me ";
 		}
 	]

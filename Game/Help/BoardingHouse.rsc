@@ -8,7 +8,7 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Notunterkünfte";
+			String _text = "NotunterkÃ¼nfte";
 		}
 		{
 			String _name = "Text";
@@ -16,25 +16,25 @@ StringTable resource
 			^c0 ^dUIHousing ^i0ArrowRight ^dUIBoardingHouse ^s
 			Notunterkunft
 			^c0 ^f1 ^n ^i0Log x100 ^i0Stone x45 ^me ^f1 ^c0 ^jl ^vb
-			Notunterkünfte sind als vorübergehende Wohnstätten gedacht. Wenn es in Ihrer Stadt zu
+			NotunterkÃ¼nfte sind als vorÃ¼bergehende WohnstÃ¤tten gedacht. Wenn es in Ihrer Stadt zu
 			^abDisaster Naturkatastrophen^ae kommt oder wenn Nomaden in ihrer Stadt eintreffen, kann es passieren, dass
-			Sie sehr schnell Wohnraum für obdachlose Siedler bzw. Nomaden benötigen. Hier bietet sich die
-			Notunterkunft als temporäre Lösung an, bis Sie neue Häuser gebaut haben oder beschädigte Häuser repariert
+			Sie sehr schnell Wohnraum fÃ¼r obdachlose Siedler bzw. Nomaden benÃ¶tigen. Hier bietet sich die
+			Notunterkunft als temporÃ¤re LÃ¶sung an, bis Sie neue HÃ¤user gebaut haben oder beschÃ¤digte HÃ¤user repariert
 			wurden.
 			^p
-			Notunterkünfte funktionieren genauso wie ^abWoodHouse Holzhäuser^ae und ^abStoneHouse Steinhäuser,^ae können
-			allerdings gleichzeitig bis zu fünf Familien beherbergen.
+			NotunterkÃ¼nfte funktionieren genauso wie ^abWoodHouse HolzhÃ¤user^ae und ^abStoneHouse SteinhÃ¤user,^ae kÃ¶nnen
+			allerdings gleichzeitig bis zu fÃ¼nf Familien beherbergen.
 			^p
             Siedler werden nur in eine Notunterkunft ziehen, wenn nirgendwo anders Platz ist. Ansonsten bevorzugen sie
-            ihre eigenen Häuser, da sie dort zufriedener sind. Junge Erwachsene, die von ihrer Familie in ein neues
+            ihre eigenen HÃ¤user, da sie dort zufriedener sind. Junge Erwachsene, die von ihrer Familie in ein neues
             Haus umziehen wollen, werden nicht in eine Notunterkunft umziehen.
 			^p
-			Wenn in einer Notunterkunft nicht genügend Brennmaterial zum Heizen zu Verfügung steht
-			oder für die Bewohner nicht genügend Nahrung vorhanden ist, werden folgende Statussymbole über dem Gebäude
+			Wenn in einer Notunterkunft nicht genÃ¼gend Brennmaterial zum Heizen zu VerfÃ¼gung steht
+			oder fÃ¼r die Bewohner nicht genÃ¼gend Nahrung vorhanden ist, werden folgende Statussymbole Ã¼ber dem GebÃ¤ude
 			angezeigt:
             ^lb ^lb ^vc
-            ^lo ^i2BuildingNoFood ^s Es steht nicht genügend Nahrung zur Verfügung.
-            ^lo ^i2BuildingNoFuel ^s Es ist nicht genügend Brennmaterial zum Heizen vorhanden.
+            ^lo ^i2BuildingNoFood ^s Es steht nicht genÃ¼gend Nahrung zur VerfÃ¼gung.
+            ^lo ^i2BuildingNoFuel ^s Es ist nicht genÃ¼gend Brennmaterial zum Heizen vorhanden.
             ^le ^le ^vb
             ^n
             Sollte eins dieser Symbole angezeigt werden, ist es empfehlenswert, sich darauf zu konzentrieren,
@@ -42,11 +42,11 @@ StringTable resource
             bzw. verhungern.
 			^p
 			^mb ^mc ^jl ^dDialogBoardingHouse ^ml372 ^mc
-			Mit einem Linksklick auf eine Notunterkunft wird das dazugehörige Detailfenster eingeblendet, in welchem die
-			Bewohner des Hauses inklusive Geschlecht, Alter und Beruf aufgeführt sind.
+			Mit einem Linksklick auf eine Notunterkunft wird das dazugehÃ¶rige Detailfenster eingeblendet, in welchem die
+			Bewohner des Hauses inklusive Geschlecht, Alter und Beruf aufgefÃ¼hrt sind.
 			^ml0 ^me ^n ^mb
-			Mit den Ansicht-Buttons ^dDialogWoodHouseRow können Sie die Kamera zum entsprechenden
-            ^abCitizen Bewohner^ae bewegen und sich Details über ihn anzeigen lassen.
+			Mit den Ansicht-Buttons ^dDialogWoodHouseRow kÃ¶nnen Sie die Kamera zum entsprechenden
+            ^abCitizen Bewohner^ae bewegen und sich Details Ã¼ber ihn anzeigen lassen.
             ^ml0 ^me ^vc";
 		}
 	]

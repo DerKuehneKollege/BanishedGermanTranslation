@@ -8,33 +8,33 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Märkte";
+			String _text = "MÃ¤rkte";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleMarket ^mc ^f3 ^jl ^c0 ^dUIStorage ^i0ArrowRight
 			^dUIMarket ^s Markt ^c0 ^f1 ^n ^i0Log x58 ^i0Stone x62 ^i0Iron x40 ^me ^f1 ^c0 ^jl ^vb
-			Ein Markt dient als zentraler Lagerort für jegliche Güter, die in der Stadt produziert werden.
-			^abProfession Verkäufer^ae suchen von Zeit zu Zeit viele verschiedene ^abStockPile Lagerplätze^ae und
-			^abStorageBarn Lagerhäuser^ae auf und transportieren von dort Waren zum Markt. Dort wird mit der Zeit
-			dadurch eine große Vielfalt der verschiedenen in der Stadt produzierten Güter angehäuft.
+			Ein Markt dient als zentraler Lagerort fÃ¼r jegliche GÃ¼ter, die in der Stadt produziert werden.
+			^abProfession VerkÃ¤ufer^ae suchen von Zeit zu Zeit viele verschiedene ^abStockPile LagerplÃ¤tze^ae und
+			^abStorageBarn LagerhÃ¤user^ae auf und transportieren von dort Waren zum Markt. Dort wird mit der Zeit
+			dadurch eine groÃŸe Vielfalt der verschiedenen in der Stadt produzierten GÃ¼ter angehÃ¤uft.
 			^p
-			Siedler, die in der Nähe eines Marktes wohnen, können sich benötigte Ressourcen von dort holen, ohne lange
-			Wege zu eventuell weit entfernten Lagern in Kauf nehmen zu müssen.
+			Siedler, die in der NÃ¤he eines Marktes wohnen, kÃ¶nnen sich benÃ¶tigte Ressourcen von dort holen, ohne lange
+			Wege zu eventuell weit entfernten Lagern in Kauf nehmen zu mÃ¼ssen.
 			^p
-			Sofern es in der Stadt viele verschiedene Nahrungsproduzenten gibt, wird auf den Märkten ebenfalls eine
-			große Auswahl an verschiedenen Nahrungsmitteln angeboten, was der Bevölkerung eine abwechslungsreiche
-			Ernährung und daraus folgend eine hohe Gesundheit ermöglicht. Ohne einen Markt in der Stadt, steigt das
-			Risiko, dass sich die Siedler ungesund ernähren, da die sie ihre Bedarfsgüter nur vom nächstgelegenen
-			Lagerhaus beziehen, wo häufig nur eine geringe Nahrungsvielfalt zur Verfügung steht.
+			Sofern es in der Stadt viele verschiedene Nahrungsproduzenten gibt, wird auf den MÃ¤rkten ebenfalls eine
+			groÃŸe Auswahl an verschiedenen Nahrungsmitteln angeboten, was der BevÃ¶lkerung eine abwechslungsreiche
+			ErnÃ¤hrung und daraus folgend eine hohe Gesundheit ermÃ¶glicht. Ohne einen Markt in der Stadt, steigt das
+			Risiko, dass sich die Siedler ungesund ernÃ¤hren, da die sie ihre BedarfsgÃ¼ter nur vom nÃ¤chstgelegenen
+			Lagerhaus beziehen, wo hÃ¤ufig nur eine geringe Nahrungsvielfalt zur VerfÃ¼gung steht.
 			^p
 			^mb ^mc ^jl ^dDialogMarket ^ml372 ^mc
-			Ein Linksklick auf einen Markt blendet ein Detailfenster ein, in welchem die Lagerkapazität des Marktes,
+			Ein Linksklick auf einen Markt blendet ein Detailfenster ein, in welchem die LagerkapazitÃ¤t des Marktes,
 			sowie die dort angebotenen Waren angezeigt werden.
 			^ml0 ^me ^mb
 			Durch Auswahl des Buttons ^dDialogMarketWork kann die Arbeit auf dem Markt eingestellt bzw.
 			wiederaufgenommen werden.
-			Wenn ein Markt deaktiviert wird, verhindert dies, dass die Verkäufer ihn mit neuen Gütern aufstocken.
+			Wenn ein Markt deaktiviert wird, verhindert dies, dass die VerkÃ¤ufer ihn mit neuen GÃ¼tern aufstocken.
 			^me ";
 		}
 	]

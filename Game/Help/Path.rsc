@@ -13,23 +13,23 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPath ^s Laufwege ^f1 ^n
-			Mithilfe der Funktion ^c1 Laufwege ^c0 können Sie den vom Spiel berechneten (idealen) Laufweg nachvollziehen,
-			welcher ein ausgewählter Siedler von	seinem Zuhause zu seinem Arbeitsort nimmt. Wählen Sie hierzu die
-			Funktion und anschließend ein Wohnhaus oder ein Arbeitsgebäude aus, um die Laufwege der Arbeiter anzuzeigen.
+			Mithilfe der Funktion ^c1 Laufwege ^c0 kÃ¶nnen Sie den vom Spiel berechneten (idealen) Laufweg nachvollziehen,
+			welcher ein ausgewÃ¤hlter Siedler von	seinem Zuhause zu seinem Arbeitsort nimmt. WÃ¤hlen Sie hierzu die
+			Funktion und anschlieÃŸend ein Wohnhaus oder ein ArbeitsgebÃ¤ude aus, um die Laufwege der Arbeiter anzuzeigen.
 			^p
 			^i3Path
 			^p
-			Von Zeit zu Zeit müssen die Siedler zu ihren Wohnstätten zurückkehren, um etwas zu essen und um sich im
-			Winter aufzuwärmen. Es ist daher wichtig, dass die Siedler kurze Wege zwischen Wohn- und Arbeitsort haben,
-			da sie so weniger Zeit mit Laufen verschwenden und mehr mit ihrer Arbeit beschäftigt sind, was zu höherer
-			Produktivität führt.
+			Von Zeit zu Zeit mÃ¼ssen die Siedler zu ihren WohnstÃ¤tten zurÃ¼ckkehren, um etwas zu essen und um sich im
+			Winter aufzuwÃ¤rmen. Es ist daher wichtig, dass die Siedler kurze Wege zwischen Wohn- und Arbeitsort haben,
+			da sie so weniger Zeit mit Laufen verschwenden und mehr mit ihrer Arbeit beschÃ¤ftigt sind, was zu hÃ¶herer
+			ProduktivitÃ¤t fÃ¼hrt.
 			^p
-			Wenn Sie Siedler mit langen Arbeitswegen finden, sollten Sie mehr Wohnhäuser in der Nähe der Arbeitsorte
-			bauen. Nach einer Weile werden die Siedler automatisch in das näher platzierte Haus umziehen oder die
+			Wenn Sie Siedler mit langen Arbeitswegen finden, sollten Sie mehr WohnhÃ¤user in der NÃ¤he der Arbeitsorte
+			bauen. Nach einer Weile werden die Siedler automatisch in das nÃ¤her platzierte Haus umziehen oder die
 			Arbeit mit Nachbarn tauschen, um die Distanz zwischen den Orten zu minimieren.
 			^p
-			Wenn Gewässer oder Berge die Ursache für einen längeren Arbeitsweg sind, sollten Sie ^abBridge Brücken^ae
-			bzw. ^abTunnel Tunnel^ae bauen, um die Wege zu verkürzen.
+			Wenn GewÃ¤sser oder Berge die Ursache fÃ¼r einen lÃ¤ngeren Arbeitsweg sind, sollten Sie ^abBridge BrÃ¼cken^ae
+			bzw. ^abTunnel Tunnel^ae bauen, um die Wege zu verkÃ¼rzen.
 			";
 		}
 	]

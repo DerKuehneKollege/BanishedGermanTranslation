@@ -13,16 +13,16 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUITime ^s Spielgeschwindigkeit ^f1 ^jl ^vb
-			Im Menü für die Spielgeschwindigkeit kann eingestellt werden, wie schnell die Zeit im Spiel vergeht. Sie
-			können die Spielzeit beschleunigen, verlangsamen oder auch das Spiel komplett anhalten. Es kann
-			gelegentlich nützlich sein, das Spiel zu pausieren, um einige Informationen oder Details der Stadt in Ruhe
-			näher in Augenschein nehmen zu können oder den Bau von Gebäuden zu planen.
-			Dahingegen kann das Beschleunigen der Spielzeit die erlebte Wartezeit, bis genügend Ressourcen angehäuft bzw.
-			Gebäude fertig gebaut wurden, verkürzen.
+			Im MenÃ¼ fÃ¼r die Spielgeschwindigkeit kann eingestellt werden, wie schnell die Zeit im Spiel vergeht. Sie
+			kÃ¶nnen die Spielzeit beschleunigen, verlangsamen oder auch das Spiel komplett anhalten. Es kann
+			gelegentlich nÃ¼tzlich sein, das Spiel zu pausieren, um einige Informationen oder Details der Stadt in Ruhe
+			nÃ¤her in Augenschein nehmen zu kÃ¶nnen oder den Bau von GebÃ¤uden zu planen.
+			Dahingegen kann das Beschleunigen der Spielzeit die erlebte Wartezeit, bis genÃ¼gend Ressourcen angehÃ¤uft bzw.
+			GebÃ¤ude fertig gebaut wurden, verkÃ¼rzen.
 			^p
-			Während das Spiel pausiert ist, sind alle Vorgänge und Aktionen im Spiel eingefroren. Sie können allerdings
-			weiterhin die Kamera frei umherbewegen, Gebäude platzieren und sich Detailfenster für Spielobjekte
-			anzeigen lassen. Bei normaler (1-facher) Spielgeschwindigkeit dauert ein Jahr im Spiel ungefähr eine Stunde
+			WÃ¤hrend das Spiel pausiert ist, sind alle VorgÃ¤nge und Aktionen im Spiel eingefroren. Sie kÃ¶nnen allerdings
+			weiterhin die Kamera frei umherbewegen, GebÃ¤ude platzieren und sich Detailfenster fÃ¼r Spielobjekte
+			anzeigen lassen. Bei normaler (1-facher) Spielgeschwindigkeit dauert ein Jahr im Spiel ungefÃ¤hr eine Stunde
 			in Echtzeit. Bei Beschleunigung auf maximale Spielgeschwindigkeit vergeht die Zeit zehnfach so schnell.
 			^p
 			^jc ^dUIToolbarTime ^jl ^vc ^lb ^lb

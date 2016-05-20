@@ -4,101 +4,101 @@ StringTable tutorialStrings
 	[ 
 		{
 			String _name = "Step_Begin_0_Pre";
-			String _text = "An Handelsposten können Sie neue Getreide-, Gemüse- und Obstsamen einkaufen. Ebenfalls erhältlich sind Nutzvieh, Nahrung und eine Vielzahl anderer Ressourcen.
+			String _text = "An Handelsposten kÃ¶nnen Sie neue Getreide-, GemÃ¼se- und Obstsamen einkaufen. Ebenfalls erhÃ¤ltlich sind Nutzvieh, Nahrung und eine Vielzahl anderer Ressourcen.
 
-Sobald ein Handelsposten errichtet wurde, treffen regelmäßig fahrende Händler mit Verkaufsgütern ein.";
+Sobald ein Handelsposten errichtet wurde, treffen regelmÃ¤ÃŸig fahrende HÃ¤ndler mit VerkaufsgÃ¼tern ein.";
 		}
 		{
 			String _name = "Step_Begin_1_Pre";
 			String _text = "Es wurde bereits ein Handelsposten errichtet.
 
-Klicken Sie auf den Handelsposten, um das dazugehörige Detailfenster einzublenden.";
+Klicken Sie auf den Handelsposten, um das dazugehÃ¶rige Detailfenster einzublenden.";
 		}
 		{
 			String _name = "Step_Begin_2_Pre";
-			String _text = "Handelsposten müssen an Flüssen platziert werden oder an einem See, welcher mit dem großen Fluss verbunden ist, der entlang der Stadt verläuft.
+			String _text = "Handelsposten mÃ¼ssen an FlÃ¼ssen platziert werden oder an einem See, welcher mit dem groÃŸen Fluss verbunden ist, der entlang der Stadt verlÃ¤uft.
 
-Andernfalls erreichen die fahrenden Händler mit ihren Booten den Handelsposten nicht.";
+Andernfalls erreichen die fahrenden HÃ¤ndler mit ihren Booten den Handelsposten nicht.";
 		}
 		{
 			String _name = "Step_Inventory_0_Pre";
-			String _text = "Bevor Sie mit einem fahrenden Händler einen Handel abschließen können, müssen Sie den Handelsposten mit Gütern, die Sie verkaufen wollen auffüllen.
+			String _text = "Bevor Sie mit einem fahrenden HÃ¤ndler einen Handel abschlieÃŸen kÃ¶nnen, mÃ¼ssen Sie den Handelsposten mit GÃ¼tern, die Sie verkaufen wollen auffÃ¼llen.
 
-Es können jegliche in der Stadt hergestellten Ressourcen gehandelt werden.";
+Es kÃ¶nnen jegliche in der Stadt hergestellten Ressourcen gehandelt werden.";
 		}
 		{
 			String _name = "Step_Inventory_1_Pre";
-			String _text = "Da der Stadt mehr Werkzeug und Kleidung als benötigt zur Verfügung stehen, bietet es sich an, diese im Handelsposten als Verkaufsgüter anzubieten.
+			String _text = "Da der Stadt mehr Werkzeug und Kleidung als benÃ¶tigt zur VerfÃ¼gung stehen, bietet es sich an, diese im Handelsposten als VerkaufsgÃ¼ter anzubieten.
 
-Setzen Sie die zu verkaufende Anzahl Ledermäntel auf 100, indem Sie die Auf- bzw. Ab-Pfeile anklicken oder das Eingabefeld entsprechend ausfüllen.";
+Setzen Sie die zu verkaufende Anzahl LedermÃ¤ntel auf 100, indem Sie die Auf- bzw. Ab-Pfeile anklicken oder das Eingabefeld entsprechend ausfÃ¼llen.";
 		}
 		{
 			String _name = "Step_Inventory_2_Pre";
-			String _text = "Setzen Sie als nächstes die Anzahl Eisenwerkzeug auf 120, indem Sie den Aufwärts- bzw. Abwärts-Pfeil anklicken oder das Eingabefeld entsprechend ausfüllen.";
+			String _text = "Setzen Sie als nÃ¤chstes die Anzahl Eisenwerkzeug auf 120, indem Sie den AufwÃ¤rts- bzw. AbwÃ¤rts-Pfeil anklicken oder das Eingabefeld entsprechend ausfÃ¼llen.";
 		}
 		{
 			String _name = "Step_Inventory_3_Pre";
-			String _text = "Für den Transport von Gütern vom Lager zum Handelsposten werden Arbeiter benötigt.
+			String _text = "FÃ¼r den Transport von GÃ¼tern vom Lager zum Handelsposten werden Arbeiter benÃ¶tigt.
 
-Weisen Sie vier Arbeiter dem Beruf 'Händler' zu.";
+Weisen Sie vier Arbeiter dem Beruf 'HÃ¤ndler' zu.";
 		}
 		{
 			String _name = "Step_Inventory_4_Pre";
-			String _text = "Während der Handelsposten befüllt wird, sollten Sie das Spiel beschleunigen.
+			String _text = "WÃ¤hrend der Handelsposten befÃ¼llt wird, sollten Sie das Spiel beschleunigen.
 
-Das Tutorial wird fortgesetzt, sobald im Handelsposten 120 Eisenwerkzeuge und 100 Ledermäntel gelagert werden.";
+Das Tutorial wird fortgesetzt, sobald im Handelsposten 120 Eisenwerkzeuge und 100 LedermÃ¤ntel gelagert werden.";
 		}
 		{
 			String _name = "Step_Trade_0_Pre";
-			String _text = "Sie haben nun die nötigen Verkaufsgüter angehäuft. Klicken Sie im Fenster auf die Kategorie 'Handeln', um mit dem fahrenden Händler zu interagieren.";
+			String _text = "Sie haben nun die nÃ¶tigen VerkaufsgÃ¼ter angehÃ¤uft. Klicken Sie im Fenster auf die Kategorie 'Handeln', um mit dem fahrenden HÃ¤ndler zu interagieren.";
 		}
 		{
 			String _name = "Step_Trade_1_Pre";
-			String _text = "Dieser fahrende Händler verkauft Hühner. Gekauftes Vieh können Sie auf die Weide schicken, wo es sich fortpflanzen kann und der Stadt eine stabile Nahrungsversorgung ermöglicht.
+			String _text = "Dieser fahrende HÃ¤ndler verkauft HÃ¼hner. Gekauftes Vieh kÃ¶nnen Sie auf die Weide schicken, wo es sich fortpflanzen kann und der Stadt eine stabile Nahrungsversorgung ermÃ¶glicht.
 
-Erhöhen Sie die Anzahl der zu kaufenden Hühner auf sechs, indem Sie den Aufwärts- bzw. Abwärts-Pfeil anklicken oder das Eingabefeld entsprechend ausfüllen.";
+ErhÃ¶hen Sie die Anzahl der zu kaufenden HÃ¼hner auf sechs, indem Sie den AufwÃ¤rts- bzw. AbwÃ¤rts-Pfeil anklicken oder das Eingabefeld entsprechend ausfÃ¼llen.";
 		}
 		{
 			String _name = "Step_Trade_2_Pre";
-			String _text = "Erhöhen Sie die Anzahl der zu verkaufenden Eisenwerkzeuge und Ledermäntel solange, bis sich der Verkaufspreis mit dem Einkaufspreis der Hühner deckt.";
+			String _text = "ErhÃ¶hen Sie die Anzahl der zu verkaufenden Eisenwerkzeuge und LedermÃ¤ntel solange, bis sich der Verkaufspreis mit dem Einkaufspreis der HÃ¼hner deckt.";
 		}
 		{
 			String _name = "Step_Trade_3_Pre";
-			String _text = "Klicken Sie auf den Button 'Handeln', um den Handel abzuschließen.";
+			String _text = "Klicken Sie auf den Button 'Handeln', um den Handel abzuschlieÃŸen.";
 		}
 		{
 			String _name = "Step_Trade_4_Pre";
-			String _text = "Sie können die gekauften Hühner nun in dem eingezäunten Bereich am Handelsposten sehen. Wenn Sie eine Viehweide für Hühner ausgewiesen haben, werden diese dort hingetrieben.
+			String _text = "Sie kÃ¶nnen die gekauften HÃ¼hner nun in dem eingezÃ¤unten Bereich am Handelsposten sehen. Wenn Sie eine Viehweide fÃ¼r HÃ¼hner ausgewiesen haben, werden diese dort hingetrieben.
 
-Durch den eben abgeschlossenen Handel sind die Güter aus dem Handelsposten entfernt worden und werden von den Arbeitern nachgefüllt.";
+Durch den eben abgeschlossenen Handel sind die GÃ¼ter aus dem Handelsposten entfernt worden und werden von den Arbeitern nachgefÃ¼llt.";
 		}
 		{
 			String _name = "Step_Purchase_0_Pre";
-			String _text = "Wenn Sie von einem fahrenden Händler immer dieselben Güter kaufen wollen, ohne ständig den Handelsposten dafür aufzurufen, können Sie einen automatischen Einkauf einrichten.
+			String _text = "Wenn Sie von einem fahrenden HÃ¤ndler immer dieselben GÃ¼ter kaufen wollen, ohne stÃ¤ndig den Handelsposten dafÃ¼r aufzurufen, kÃ¶nnen Sie einen automatischen Einkauf einrichten.
 
-Klicken Sie auf die Kategorie 'Einkauf', um näheres zu erfahren.";
+Klicken Sie auf die Kategorie 'Einkauf', um nÃ¤heres zu erfahren.";
 		}
 		{
 			String _name = "Step_Purchase_1_Pre";
-			String _text = "Der Einkaufsmodus gibt an, wann ein automatischer Handel mit den fahrenden Händlern durchgeführt wird.";
+			String _text = "Der Einkaufsmodus gibt an, wann ein automatischer Handel mit den fahrenden HÃ¤ndlern durchgefÃ¼hrt wird.";
 		}
 		{
 			String _name = "Step_Purchase_2_Pre";
-			String _text = "Sie können die maximale Anzahl einzukaufender Artikel für verschiedene Kategorien einstellen.
+			String _text = "Sie kÃ¶nnen die maximale Anzahl einzukaufender Artikel fÃ¼r verschiedene Kategorien einstellen.
 
-Die Händler werden bis zu dieser Grenze die angegebenen Artikel einkaufen, vorausgesetzt es sind genügend Güter zum Tauschen im Handelsposten gelagert.";
+Die HÃ¤ndler werden bis zu dieser Grenze die angegebenen Artikel einkaufen, vorausgesetzt es sind genÃ¼gend GÃ¼ter zum Tauschen im Handelsposten gelagert.";
 		}
 		{
 			String _name = "Step_Purchase_3_Pre";
-			String _text = "Wenn Sie mehr als einen Artikel für den automatischen Einkauf eingestellt haben, können Sie die Einkaufspriorität der Artikel bestimmen, indem Sie jeweils die entsprechenden Kategorien nach oben oder unten verschieben.
+			String _text = "Wenn Sie mehr als einen Artikel fÃ¼r den automatischen Einkauf eingestellt haben, kÃ¶nnen Sie die EinkaufsprioritÃ¤t der Artikel bestimmen, indem Sie jeweils die entsprechenden Kategorien nach oben oder unten verschieben.
 
 Kategorien, die weiter oben in der Liste platziert sind, werden zuerst eingekauft.";
 		}
 		{
 			String _name = "Step_Order_0_Pre";
-			String _text = "Normalerweise führen eintreffende Händler eine zufällige Auswahl Güter zum Verkauf mit sich. Anstatt sich auf den Zufall zu verlassen, können Sie bei den Händlern auch Bestellungen aufgeben.
+			String _text = "Normalerweise fÃ¼hren eintreffende HÃ¤ndler eine zufÃ¤llige Auswahl GÃ¼ter zum Verkauf mit sich. Anstatt sich auf den Zufall zu verlassen, kÃ¶nnen Sie bei den HÃ¤ndlern auch Bestellungen aufgeben.
 
-Klicken Sie auf die Kategorie 'Aufträge', um näheres zu erfahren.";
+Klicken Sie auf die Kategorie 'AuftrÃ¤ge', um nÃ¤heres zu erfahren.";
 		}
 		{
 			String _name = "Step_Order_1_Pre";
@@ -106,21 +106,21 @@ Klicken Sie auf die Kategorie 'Aufträge', um näheres zu erfahren.";
 		}
 		{
 			String _name = "Step_Order_2_Pre";
-			String _text = "Im Fenster werden die Güter, die der fahrende Händler liefern kann, angezeigt.
+			String _text = "Im Fenster werden die GÃ¼ter, die der fahrende HÃ¤ndler liefern kann, angezeigt.
 
-Um eine Bestellung aufzugeben, wählen Sie durch Anklicken die entsprechenden Artikel aus, die der Händler bei seinem nächsten Besuch liefern soll.";
+Um eine Bestellung aufzugeben, wÃ¤hlen Sie durch Anklicken die entsprechenden Artikel aus, die der HÃ¤ndler bei seinem nÃ¤chsten Besuch liefern soll.";
 		}
 		{
 			String _name = "Step_Order_3_Pre";
-			String _text = "Die fahrenden Händler haben in ihren Booten nur begrenzt Platz. Falls Sie zu viele Artikel auf einmal bestellt haben, können nicht sofort alle auf einmal geliefert werden.
+			String _text = "Die fahrenden HÃ¤ndler haben in ihren Booten nur begrenzt Platz. Falls Sie zu viele Artikel auf einmal bestellt haben, kÃ¶nnen nicht sofort alle auf einmal geliefert werden.
 
 Artikel, die per Bestellung gekauft werden, sind teurer als bei einem normalen, zufallsbasierten Einkauf.";
 		}
 		{
 			String _name = "Step_End_0_Pre";
-			String _text = "Handeln ist eine einfache und großartige Möglichkeit schnell an Waren heranzukommen, die in Ihrer Stadt knapp sind oder noch nicht produziert werden können.
+			String _text = "Handeln ist eine einfache und groÃŸartige MÃ¶glichkeit schnell an Waren heranzukommen, die in Ihrer Stadt knapp sind oder noch nicht produziert werden kÃ¶nnen.
 
-Das Tutorial über das Handeln ist hiermit abgeschlossen. Klicken Sie auf 'Beenden', um zum Hauptmenü zurückzukehren.";
+Das Tutorial Ã¼ber das Handeln ist hiermit abgeschlossen. Klicken Sie auf 'Beenden', um zum HauptmenÃ¼ zurÃ¼ckzukehren.";
 		}
 	]
 }

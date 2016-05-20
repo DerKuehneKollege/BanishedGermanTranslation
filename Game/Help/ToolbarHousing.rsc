@@ -8,20 +8,20 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Behausungen und Unterkünfte";
+			String _text = "Behausungen und UnterkÃ¼nfte";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^dUIHousing ^s Behausungen ^f1 ^jl ^vb
-			Im Menü ^c1 Behausungen ^c0 können verschiedene Wohnstätten für den Bau ausgewählt werden,
-			um zusätzlichen Wohnraum für die Bevölkerung zu schaffen.
+			Im MenÃ¼ ^c1 Behausungen ^c0 kÃ¶nnen verschiedene WohnstÃ¤tten fÃ¼r den Bau ausgewÃ¤hlt werden,
+			um zusÃ¤tzlichen Wohnraum fÃ¼r die BevÃ¶lkerung zu schaffen.
 			^p
 			^jc ^dUIToolbarHousing ^jl ^vc ^lb
 			^p
 			^lb
-			^lo ^dUIWoodHouse ^s ^abWoodHouse Holzhaus:^ae Ein einfaches und günstiges Wohnhaus für Ihre Siedler.
-			^lo ^dUIStoneHouse ^s ^abStoneHouse Steinhaus:^ae Etwas teurer, aber besser gedämmt als Holzhäuser.
-			^lo ^dUIBoardingHouse ^s ^abBoardingHouse Notunterkunft:^ae Ein großes Gebäude, welches Obdachlose und
+			^lo ^dUIWoodHouse ^s ^abWoodHouse Holzhaus:^ae Ein einfaches und gÃ¼nstiges Wohnhaus fÃ¼r Ihre Siedler.
+			^lo ^dUIStoneHouse ^s ^abStoneHouse Steinhaus:^ae Etwas teurer, aber besser gedÃ¤mmt als HolzhÃ¤user.
+			^lo ^dUIBoardingHouse ^s ^abBoardingHouse Notunterkunft:^ae Ein groÃŸes GebÃ¤ude, welches Obdachlose und
 			Nomaden beherbergen kann.
 			^le ^le ";
 		}

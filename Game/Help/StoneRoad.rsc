@@ -8,22 +8,22 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Gepflasterte Straße";
+			String _text = "Gepflasterte StraÃŸe";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleStoneRoad ^mc ^f3 ^jl ^c0
-			^dUIRoads ^i0ArrowRight ^dUIStoneRoad ^s Gepflasterte Straße ^c0 ^f1 ^n
-			^i0Stone x1 (pro Längeneinheit)
+			^dUIRoads ^i0ArrowRight ^dUIStoneRoad ^s Gepflasterte StraÃŸe ^c0 ^f1 ^n
+			^i0Stone x1 (pro LÃ¤ngeneinheit)
 			^me ^f1 ^c0 ^jl ^vb
-			Gepflasterte Straßen können platziert werden, um die Laufgeschwindigkeit der darauf laufenden Siedler
-			stark zu erhöhen. Gepflasterte Straßen werden von ^abProfession Bauarbeitern^ae errichtet und benötigen für
-			den Bau eine Einheit Stein pro Längeneinheit. Im Gegensatz zu den gepflasterten Straßen bringen
-			^abDirtRoad Feldwege^ae einen niedrigeren Geschwindigkeitsbonus, benötigen dafür allerdings keinerlei
+			Gepflasterte StraÃŸen kÃ¶nnen platziert werden, um die Laufgeschwindigkeit der darauf laufenden Siedler
+			stark zu erhÃ¶hen. Gepflasterte StraÃŸen werden von ^abProfession Bauarbeitern^ae errichtet und benÃ¶tigen fÃ¼r
+			den Bau eine Einheit Stein pro LÃ¤ngeneinheit. Im Gegensatz zu den gepflasterten StraÃŸen bringen
+			^abDirtRoad Feldwege^ae einen niedrigeren Geschwindigkeitsbonus, benÃ¶tigen dafÃ¼r allerdings keinerlei
 			Baumaterialien.
 			^p
-			Nach der Platzierung werden die Straßen Stück für Stück errichtet, wobei zunächst im Weg liegende Bäume,
-			sowie Stein- und Eisenvorkommen weggeräumt werden.
+			Nach der Platzierung werden die StraÃŸen StÃ¼ck fÃ¼r StÃ¼ck errichtet, wobei zunÃ¤chst im Weg liegende BÃ¤ume,
+			sowie Stein- und Eisenvorkommen weggerÃ¤umt werden.
 			";
 		}
 	]

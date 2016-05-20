@@ -8,49 +8,49 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Äcker";
+			String _text = "Ã„cker";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleField ^mc ^f3 ^jl ^c0 ^dUIFood
 			^i0ArrowRight ^dUICropField ^s Acker ^c0 ^f1 ^n ^me ^f1 ^c0 ^jl ^vb
-			Auf Äckern können verschiedene Getreide- und Gemüsearten angebaut werden. Äcker können beliebig groß
-			platziert werden - von kleinen Feldern, die überall Platz haben, bis zu großen Feldern, auf denen viel
-			angebaut und geerntet werden kann. Äcker müssen von ^i0ProfessionFarmer ^abProfession Bauern^ae bewirtet
-			werden, diese übernehmen das Anpflanzen, Bewässern und Ernten der Feldfrüchte.
+			Auf Ã„ckern kÃ¶nnen verschiedene Getreide- und GemÃ¼searten angebaut werden. Ã„cker kÃ¶nnen beliebig groÃŸ
+			platziert werden - von kleinen Feldern, die Ã¼berall Platz haben, bis zu groÃŸen Feldern, auf denen viel
+			angebaut und geerntet werden kann. Ã„cker mÃ¼ssen von ^i0ProfessionFarmer ^abProfession Bauern^ae bewirtet
+			werden, diese Ã¼bernehmen das Anpflanzen, BewÃ¤ssern und Ernten der FeldfrÃ¼chte.
 			^p
 			^mb ^mc ^dDialogCropField ^ml286 ^mc
-			Nach der Platzierung eines Ackers, können Sie durch Klick darauf in dem dazugehörigen Detailfenster
+			Nach der Platzierung eines Ackers, kÃ¶nnen Sie durch Klick darauf in dem dazugehÃ¶rigen Detailfenster
 			den aktuellen Ertrag einsehen.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldSeed ^n ^ml60 ^mc
-			Bevor mit der Bepflanzung begonnen werden kann, muss zunächst über den Button mit dem großen Fragezeichen
-			ein anzubauender Samentyp ausgewählt werden. Neue Samentypen können am ^abTradingPost Handelsposten^ae
+			Bevor mit der Bepflanzung begonnen werden kann, muss zunÃ¤chst Ã¼ber den Button mit dem groÃŸen Fragezeichen
+			ein anzubauender Samentyp ausgewÃ¤hlt werden. Neue Samentypen kÃ¶nnen am ^abTradingPost Handelsposten^ae
 			erworben werden.
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldHarvest ^n ^ml60 ^mc
-			Üblicherweise beginnen die Bauern im Frühling mit dem Anpflanzen der Feldfrüchte, diese sind im Herbst
-			reif und werden automatisch abgeerntet. Mit dem Button ^c1 Ernten ^c0 können Sie die Ernte sofort beginnen
-			lassen, müssen allerdings dann einen niedrigeren Ertrag in Kauf nehmen.
+			Ãœblicherweise beginnen die Bauern im FrÃ¼hling mit dem Anpflanzen der FeldfrÃ¼chte, diese sind im Herbst
+			reif und werden automatisch abgeerntet. Mit dem Button ^c1 Ernten ^c0 kÃ¶nnen Sie die Ernte sofort beginnen
+			lassen, mÃ¼ssen allerdings dann einen niedrigeren Ertrag in Kauf nehmen.
 			^p
-			Da die Siedler nur begrenzt Ressourcen tragen können, bringen die Bauern während der Ernte
-			zwischendurch gelegentlich die bereits gesammelte Nahrung ins nächstgelegene ^abStorageBarn Lagerhaus.^ae
+			Da die Siedler nur begrenzt Ressourcen tragen kÃ¶nnen, bringen die Bauern wÃ¤hrend der Ernte
+			zwischendurch gelegentlich die bereits gesammelte Nahrung ins nÃ¤chstgelegene ^abStorageBarn Lagerhaus.^ae
 			^ml0 ^me ^n ^mb ^mc ^dDialogCropFieldWork ^n ^ml60 ^mc
-			Sie können die Arbeit auf dem Acker aktivieren bzw. deaktivieren, indem Sie den Button ^c1 Arbeiten ^c0
-			umschalten. Im deaktivierten Zustand wird auf Äckern nichts gepflanzt, bewirtschaftet oder abgeerntet.
+			Sie kÃ¶nnen die Arbeit auf dem Acker aktivieren bzw. deaktivieren, indem Sie den Button ^c1 Arbeiten ^c0
+			umschalten. Im deaktivierten Zustand wird auf Ã„ckern nichts gepflanzt, bewirtschaftet oder abgeerntet.
 			^ml0 ^me ^n
-			Für die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
+			FÃ¼r die Nahrungsproduktion kann ein ^abLimit Limit^ae gesetzt werden. Sobald dieses Limit erreicht wurde,
 			wird keine weitere Nahrung mehr produziert, bis das Limit unterschritten wird.
 			^p
-			In dem Zeitraum zwischen Bepflanzung und Abernten des Ackers jäten die Bauern das Unkraut, Düngen und
-			Bewässern die Pflanzen, was die Pflanzen schneller wachsen lässt. Im Winter ist auf den Feldern nichts zu
-			tun, währenddessen arbeiten die Bauern als normale ^i0ProfessionLaborer ^abProfession Arbeiter ^ae weiter.
+			In dem Zeitraum zwischen Bepflanzung und Abernten des Ackers jÃ¤ten die Bauern das Unkraut, DÃ¼ngen und
+			BewÃ¤ssern die Pflanzen, was die Pflanzen schneller wachsen lÃ¤sst. Im Winter ist auf den Feldern nichts zu
+			tun, wÃ¤hrenddessen arbeiten die Bauern als normale ^i0ProfessionLaborer ^abProfession Arbeiter ^ae weiter.
 			^p
-			Wenn es im Verlauf des Jahres ^abDisaster zu früh kalt wird,^ae sterben die Pflanzen auf den Äckern ab.
-			Des Weiteren können Nutzpflanzen von ^abDisaster Schädlingen^ae befallen werden, welche ebenfalls für
-			große Ernteausfälle sorgen können. Ein befallener Acker sollte unverzüglich abgeerntet werden.
-			Anschließend sollte darauf ein anderer Pflanzentyp angebaut werden. Dies verhindert, dass der Befall
+			Wenn es im Verlauf des Jahres ^abDisaster zu frÃ¼h kalt wird,^ae sterben die Pflanzen auf den Ã„ckern ab.
+			Des Weiteren kÃ¶nnen Nutzpflanzen von ^abDisaster SchÃ¤dlingen^ae befallen werden, welche ebenfalls fÃ¼r
+			groÃŸe ErnteausfÃ¤lle sorgen kÃ¶nnen. Ein befallener Acker sollte unverzÃ¼glich abgeerntet werden.
+			AnschlieÃŸend sollte darauf ein anderer Pflanzentyp angebaut werden. Dies verhindert, dass der Befall
 			erneut auftritt.
 			^p
-			^jc ^i3CropInfestation ^n ^f0 Schädlingsbefall auf einem Acker. ^f1 ^jl ";
+			^jc ^i3CropInfestation ^n ^f0 SchÃ¤dlingsbefall auf einem Acker. ^f1 ^jl ";
 		}
 	]
 }

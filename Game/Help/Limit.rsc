@@ -13,41 +13,41 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUILimit ^s Ressourcenlimits ^f1 ^n
-			Das Fenster ^c1 Ressourcenlimits ^c0 ermöglicht Ihnen, für alle Ressourcen eine Obergrenze für die Produktion
+			Das Fenster ^c1 Ressourcenlimits ^c0 ermÃ¶glicht Ihnen, fÃ¼r alle Ressourcen eine Obergrenze fÃ¼r die Produktion
 			einzustellen. Dieses Limit kann genutzt werden, um zu verhindern, dass Ihre Lager voll werden und kein Platz
-			mehr für andere, akut benötigte Rohstoffe vorhanden ist.
+			mehr fÃ¼r andere, akut benÃ¶tigte Rohstoffe vorhanden ist.
 			^p
 			^jc ^dDialogLimit ^jl ^n
-			Ein Beispiel: Auf ^abStockPile Lagerplätzen^ae werden Holz, Stein, Eisen, Brennholz und Kohle gelagert.
-			Wenn Ihre Stadt über eine stabile Holzversorgung verfügt, aber andere Rohstoffe nicht so schnell produziert
+			Ein Beispiel: Auf ^abStockPile LagerplÃ¤tzen^ae werden Holz, Stein, Eisen, Brennholz und Kohle gelagert.
+			Wenn Ihre Stadt Ã¼ber eine stabile Holzversorgung verfÃ¼gt, aber andere Rohstoffe nicht so schnell produziert
 			werden, kann es passieren, dass durch die konstante Produktion von neuem Holz mittelfristig die Lager voll
-			werden und kein Platz mehr für andere Ressourcen ist. Nehmen wir an, es wäre jedoch Winter in Ihrer Stadt
-			und es herrscht ein	akuter Mangel an Brennholz. Obwohl genügend Holz da ist, produzieren die Holzhacker
-			kein Brennholz mehr, da	die Lager voll sind. Dies würde dazu führen, dass Ihre Stadtbevölkerung aufgrund
+			werden und kein Platz mehr fÃ¼r andere Ressourcen ist. Nehmen wir an, es wÃ¤re jedoch Winter in Ihrer Stadt
+			und es herrscht ein	akuter Mangel an Brennholz. Obwohl genÃ¼gend Holz da ist, produzieren die Holzhacker
+			kein Brennholz mehr, da	die Lager voll sind. Dies wÃ¼rde dazu fÃ¼hren, dass Ihre StadtbevÃ¶lkerung aufgrund
 			des Mangels	an Brennholz erfriert.
 			^p
-			Sie können natürlich jederzeit einen neuen Lagerplatz oder ein neues ^abStorageBarn Lagerhaus^ae zur
-			Erweiterung der Kapazitäten errichten. Sinnvoller ist es jedoch ein Produktionslimit zu setzen, um
-			den Bau von in diesem Fall eigentlich unnötigen Gebäuden zu vermeiden.
+			Sie kÃ¶nnen natÃ¼rlich jederzeit einen neuen Lagerplatz oder ein neues ^abStorageBarn Lagerhaus^ae zur
+			Erweiterung der KapazitÃ¤ten errichten. Sinnvoller ist es jedoch ein Produktionslimit zu setzen, um
+			den Bau von in diesem Fall eigentlich unnÃ¶tigen GebÃ¤uden zu vermeiden.
 			^p
 			Wenn Arbeiter mit einem speziellen Beruf Ihre Arbeit niederlegen, weil ein Produktionslimit erreicht wurde,
-			werden Sie vorübergehen zu normalen ^abProfession Arbeitern^ae für den Ressourcenabbau und Warentransport,
+			werden Sie vorÃ¼bergehen zu normalen ^abProfession Arbeitern^ae fÃ¼r den Ressourcenabbau und Warentransport,
 			bis die limitierten Ressourcen verbraucht sind und die Grenze wieder unterschritten wird.
 			^p
 			Wenn Ihre Lager zu voll werden, erhalten Sie im ^abEventLog Ereignisverlauf^ae eine Benachrichtigung,
-			dass nicht mehr genügend Platz vorhanden ist:
+			dass nicht mehr genÃ¼gend Platz vorhanden ist:
 			^p
 			^jc ^dDialogLimitFull ^jl ^n
 			Im umgekehrten Fall - wenn die Lagermenge einer Ressource 10% des gesetzten Limits unterschreitet - wird
-			ebenfalls im ^abEventLog Ereignisverlauf^ae eine Benachrichtigung angezeigt, dass sich für die Ressource
+			ebenfalls im ^abEventLog Ereignisverlauf^ae eine Benachrichtigung angezeigt, dass sich fÃ¼r die Ressource
 			ein Mangel anbahnt:
 			^p
 			^jc ^dDialogLimitEmpty ^jl ^n
-			Denken Sie daran, mit dem Wachstum Ihrer Stadt die voreingestellten Ressourcenlimits höher zu
-			stellen, beispielsweise um spätere, unerwartete Engpässe an Nahrung und Hungersnöte zu vermeiden.
+			Denken Sie daran, mit dem Wachstum Ihrer Stadt die voreingestellten Ressourcenlimits hÃ¶her zu
+			stellen, beispielsweise um spÃ¤tere, unerwartete EngpÃ¤sse an Nahrung und HungersnÃ¶te zu vermeiden.
 			^p
-			Ressourcenlimits für eine bestimmte Ressource können auch bei den jeweiligen Produktionsgebäuden eingesehen und
-			angepasst werden. Beispielsweise können Sie bei ^abCropField Äckern^ae das Produktionslimit für Nahrung und
+			Ressourcenlimits fÃ¼r eine bestimmte Ressource kÃ¶nnen auch bei den jeweiligen ProduktionsgebÃ¤uden eingesehen und
+			angepasst werden. Beispielsweise kÃ¶nnen Sie bei ^abCropField Ã„ckern^ae das Produktionslimit fÃ¼r Nahrung und
 			bei ^abWoodcutter Holzhackern^ae das Brennholz-Limit einstellen.
 			";
 		}

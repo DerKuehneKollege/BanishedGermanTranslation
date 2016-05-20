@@ -8,31 +8,31 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Priorität erhöhen";
+			String _text = "PrioritÃ¤t erhÃ¶hen";
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPriority ^s Priorität erhöhen ^f1 ^n
-			Die Funktion ^c1 Priorität erhöhen ^c0 erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
-			Aufgaben erfüllen, zu ändern.
+			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIPriority ^s PrioritÃ¤t erhÃ¶hen ^f1 ^n
+			Die Funktion ^c1 PrioritÃ¤t erhÃ¶hen ^c0 erlaubt es Ihnen, die Reihenfolge, in der die Siedler Ihrer Stadt
+			Aufgaben erfÃ¼llen, zu Ã¤ndern.
 			^p
-			Im Normalfall führen die Arbeiter die Tätigkeiten in der Reihenfolge aus, in der sie beauftragt wurden.
-			Wenn Sie beispielsweise zuerst einen ^abBlacksmith Schmied,^ae dann mehrere ^abWoodHouse Holzhäuser^ae und
-			anschließend ein ^abStorageBarn Lagerhaus^ae platzieren, werden die Gebäude in dieser Reihenfolge gebaut -
-			zuerst die Schmiede, dann die Häuser und anschließend das Lagerhaus.
+			Im Normalfall fÃ¼hren die Arbeiter die TÃ¤tigkeiten in der Reihenfolge aus, in der sie beauftragt wurden.
+			Wenn Sie beispielsweise zuerst einen ^abBlacksmith Schmied,^ae dann mehrere ^abWoodHouse HolzhÃ¤user^ae und
+			anschlieÃŸend ein ^abStorageBarn Lagerhaus^ae platzieren, werden die GebÃ¤ude in dieser Reihenfolge gebaut -
+			zuerst die Schmiede, dann die HÃ¤user und anschlieÃŸend das Lagerhaus.
 			^p
-			Wenn Sie aus irgendeinem Grund diese Reihenfolge ändern wollen, können Sie ^c1 Priorität erhöhen ^c0 verwenden.
-			Wählen Sie dazu einfach die Funktion aus und markieren Sie dann durch Klicken und Ziehen mit der linken
-			Maustaste eine Fläche, in welcher die dort beauftragten Arbeiten vorrangig behandelt werden sollen.
+			Wenn Sie aus irgendeinem Grund diese Reihenfolge Ã¤ndern wollen, kÃ¶nnen Sie ^c1 PrioritÃ¤t erhÃ¶hen ^c0 verwenden.
+			WÃ¤hlen Sie dazu einfach die Funktion aus und markieren Sie dann durch Klicken und Ziehen mit der linken
+			Maustaste eine FlÃ¤che, in welcher die dort beauftragten Arbeiten vorrangig behandelt werden sollen.
 			^p
 			^i3Priority
 			^p
-			Bedenken Sie, dass, wenn die Arbeit in dem Gebiet aus bestimmten Gründen nicht begonnen werden kann,
-			das Erhöhen der Priorität keine Auswirkungen hat. Wenn Sie beispielsweise eine ^abBlacksmith Schmiede^ae
-			errichten wollen, allerdings nicht genügend ^abResource Ressourcen^ae für den Bau verfügbar sind, können die
-			zuständigen ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae nicht mit der Arbeit beginnen und werden sich
-			anderen, machbaren Aufgaben zuwenden. Sobald die Ressourcen verfügbar sind, verfügt der Bau des Gebäudes
-			allerdings wieder über erhöhte Priorität.
+			Bedenken Sie, dass, wenn die Arbeit in dem Gebiet aus bestimmten GrÃ¼nden nicht begonnen werden kann,
+			das ErhÃ¶hen der PrioritÃ¤t keine Auswirkungen hat. Wenn Sie beispielsweise eine ^abBlacksmith Schmiede^ae
+			errichten wollen, allerdings nicht genÃ¼gend ^abResource Ressourcen^ae fÃ¼r den Bau verfÃ¼gbar sind, kÃ¶nnen die
+			zustÃ¤ndigen ^i0ProfessionBuilder ^abProfession Bauarbeiter^ae nicht mit der Arbeit beginnen und werden sich
+			anderen, machbaren Aufgaben zuwenden. Sobald die Ressourcen verfÃ¼gbar sind, verfÃ¼gt der Bau des GebÃ¤udes
+			allerdings wieder Ã¼ber erhÃ¶hte PrioritÃ¤t.
 			";
 		}
 	]

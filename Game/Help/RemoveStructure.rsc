@@ -8,44 +8,44 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Gebäude abreißen";
+			String _text = "GebÃ¤ude abreiÃŸen";
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveStructure ^s Gebäude abreißen ^n ^f1 ^jl
+			String _text = " ^f3 ^jl ^vc ^dUIRemoval ^i0ArrowRight ^dUIRemoveStructure ^s GebÃ¤ude abreiÃŸen ^n ^f1 ^jl
 			In Banished geht es zwar vorrangig darum, konstruktiv eine Stadt aufzubauen, allerdings ist es manchmal
-			nötig, Gebäude und Strukturen wieder abzureißen, um Dinge in der Stadt neu zu gestalten und zu organisieren.
+			nÃ¶tig, GebÃ¤ude und Strukturen wieder abzureiÃŸen, um Dinge in der Stadt neu zu gestalten und zu organisieren.
 			^p
-			Mit der Funktion ^c1 Gebäude abreißen ^c0 können Sie sämtliche Konstruktionen wieder entfernen lassen. Wählen Sie
-			hierzu zunächst die Funktion aus und markieren Sie anschließend durch Klicken und Ziehen mit der Maus die
-			gewünschte Fläche, in welcher Gebäude und Felder abgerissen werden sollen.
+			Mit der Funktion ^c1 GebÃ¤ude abreiÃŸen ^c0 kÃ¶nnen Sie sÃ¤mtliche Konstruktionen wieder entfernen lassen. WÃ¤hlen Sie
+			hierzu zunÃ¤chst die Funktion aus und markieren Sie anschlieÃŸend durch Klicken und Ziehen mit der Maus die
+			gewÃ¼nschte FlÃ¤che, in welcher GebÃ¤ude und Felder abgerissen werden sollen.
 			^p
 			^jc ^i3RemoveStructure ^n ^jc ^f0
-			Alle Konstruktionen, die für den Abriss vorgesehen werden, sind beim Markieren rot hinterlegt.
+			Alle Konstruktionen, die fÃ¼r den Abriss vorgesehen werden, sind beim Markieren rot hinterlegt.
 			^f1 ^jl ^n
-			Sobald ein Gebäude für den Abriss markiert wurde, erscheint darüber das Abriss-Symbol. Einige errichtete
-			Flächen, die keine Gebäude enthalten, wie beispielsweise ^abCropField Äcker^ae und ^abOrchard Obstgärten^ae
-			werden sofort entfernt. Auf dem Acker wachsende Pflanzen werden weiter wachsen, können jedoch nicht
+			Sobald ein GebÃ¤ude fÃ¼r den Abriss markiert wurde, erscheint darÃ¼ber das Abriss-Symbol. Einige errichtete
+			FlÃ¤chen, die keine GebÃ¤ude enthalten, wie beispielsweise ^abCropField Ã„cker^ae und ^abOrchard ObstgÃ¤rten^ae
+			werden sofort entfernt. Auf dem Acker wachsende Pflanzen werden weiter wachsen, kÃ¶nnen jedoch nicht
 			abgeerntet werden.
 			^p
 			^jc ^i3RemoveStructureIcon ^n ^jc ^f0
-			Für den Abriss markierte Gebäude.
+			FÃ¼r den Abriss markierte GebÃ¤ude.
 			^f1 ^jl ^n
-			Wenn Sie ein Gebäude auswählen, welches sich im Abriss befindet, können Sie im Informationsfenster den
+			Wenn Sie ein GebÃ¤ude auswÃ¤hlen, welches sich im Abriss befindet, kÃ¶nnen Sie im Informationsfenster den
 			Fortschritt des Abrisses einsehen.
 			^p
 			^jc ^dDialogRemoveStructure ^jl ^n
-			Die Arbeiter werden zunächst sämtliche Güter, die sich im Lager des Gebäudes befinden, entfernen. Wenn nicht
-			genug Lagerplatz für die herausgetragenen Güter zur Verfügung steht, wird der Abriss solange unterbrochen,
-			bis Sie mehr ^abStorageBarn Lagerhäuser^ae oder ^abStockPile Lagerplätze^ae errichten.
+			Die Arbeiter werden zunÃ¤chst sÃ¤mtliche GÃ¼ter, die sich im Lager des GebÃ¤udes befinden, entfernen. Wenn nicht
+			genug Lagerplatz fÃ¼r die herausgetragenen GÃ¼ter zur VerfÃ¼gung steht, wird der Abriss solange unterbrochen,
+			bis Sie mehr ^abStorageBarn LagerhÃ¤user^ae oder ^abStockPile LagerplÃ¤tze^ae errichten.
 			^p
-			^i0ProfessionBuilder ^s ^abProfession Bauarbeiter ^ae werden anschließend das Gebäude abreißen.
+			^i0ProfessionBuilder ^s ^abProfession Bauarbeiter ^ae werden anschlieÃŸend das GebÃ¤ude abreiÃŸen.
 			^p
-			Sobald das Gebäude abgerissen wurde, können manche der Ressourcen, die zum Bau des Gebäude verwendet wurden,
+			Sobald das GebÃ¤ude abgerissen wurde, kÃ¶nnen manche der Ressourcen, die zum Bau des GebÃ¤ude verwendet wurden,
 			wiederverwendet werden.
 			^p
 			^jc ^dDialogReclaim ^jl ^n
-			Wenn Sie auf den Button ^c1 Abbruch ^c0 klicken, können Sie den Abriss des Gebäudes stoppen. Abrisse können
+			Wenn Sie auf den Button ^c1 Abbruch ^c0 klicken, kÃ¶nnen Sie den Abriss des GebÃ¤udes stoppen. Abrisse kÃ¶nnen
 			ebenfalls mit der Funktion ^abRemoveCancel Abbau stoppen^ae unterbrochen werden.
 			^ml0 ^me ";
 		}

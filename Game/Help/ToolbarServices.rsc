@@ -8,31 +8,31 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Stadtgebäude";
+			String _text = "StadtgebÃ¤ude";
 		}
 		{
 			String _name = "Text";
-			String _text = " ^f3 ^jl ^dUIServices Stadtgebäude ^f1 ^jl ^vb
-			In der Kategorie ^c1 Stadtgebäude ^c0 stehen Gebäude für den Bau zur Auswahl, welche die Zufriedenheit der
-			Siedler und die Effizienz der Stadt steigern können.
+			String _text = " ^f3 ^jl ^dUIServices StadtgebÃ¤ude ^f1 ^jl ^vb
+			In der Kategorie ^c1 StadtgebÃ¤ude ^c0 stehen GebÃ¤ude fÃ¼r den Bau zur Auswahl, welche die Zufriedenheit der
+			Siedler und die Effizienz der Stadt steigern kÃ¶nnen.
 			^p
-			Brunnen können gebaut werden, um im Falle eines Feuers in der Stadt die Brände schneller unter Kontrolle
-			zu bekommen. Schulen sorgen für gebildete und produktivere Siedler, Krankenhäuser heilen kranke Siedler und
-			dämmen Seuchen ein. Im Rathaus können Statistiken über die Stadt eingesehen werden. Kirchen und
-			Friedhöfe erhöhen die Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken können.
+			Brunnen kÃ¶nnen gebaut werden, um im Falle eines Feuers in der Stadt die BrÃ¤nde schneller unter Kontrolle
+			zu bekommen. Schulen sorgen fÃ¼r gebildete und produktivere Siedler, KrankenhÃ¤user heilen kranke Siedler und
+			dÃ¤mmen Seuchen ein. Im Rathaus kÃ¶nnen Statistiken Ã¼ber die Stadt eingesehen werden. Kirchen und
+			FriedhÃ¶fe erhÃ¶hen die Zufriedenheit der Siedler, da sie dort ihrer Toten gedenken kÃ¶nnen.
 			^p
 			^jc ^dUIToolbarServices ^jl ^vc ^lb
 			^lb
-			^lo ^dUIWell ^s ^abWell Brunnen:^ae Brunnen ermöglichen, dass Feuer schneller gelöscht werden.
-			^lo ^dUISchool ^s ^abSchool Schule:^ae Schulen sorgen bei den Siedlern für Bildung und für eine höhere
-			Produktivität.
-			^lo ^dUIHospital ^s ^abHospital Krankenhaus:^ae Krankenhäuser isolieren und heilen Siedler, die unter einer
+			^lo ^dUIWell ^s ^abWell Brunnen:^ae Brunnen ermÃ¶glichen, dass Feuer schneller gelÃ¶scht werden.
+			^lo ^dUISchool ^s ^abSchool Schule:^ae Schulen sorgen bei den Siedlern fÃ¼r Bildung und fÃ¼r eine hÃ¶here
+			ProduktivitÃ¤t.
+			^lo ^dUIHospital ^s ^abHospital Krankenhaus:^ae KrankenhÃ¤user isolieren und heilen Siedler, die unter einer
 			Krankheit leiden.
-			^lo ^dUITownHall ^s ^abTownHall Rathaus:^ae Rathäuser zeichnen Statistiken über die Stadt auf, welche dann
-			dort eingesehen werden können.
-			^lo ^dUIChapel ^s ^abChapel Kirchen:^ae Kirchen erhöhen die Zufriedenheit der Siedler.
-			^lo ^dUICemetery ^s ^abCemetery Friedhof:^ae Friedhöfe verhindern, das im Falle des Todes eines Siedlers
-			die Angehörigen depressiv werden.
+			^lo ^dUITownHall ^s ^abTownHall Rathaus:^ae RathÃ¤user zeichnen Statistiken Ã¼ber die Stadt auf, welche dann
+			dort eingesehen werden kÃ¶nnen.
+			^lo ^dUIChapel ^s ^abChapel Kirchen:^ae Kirchen erhÃ¶hen die Zufriedenheit der Siedler.
+			^lo ^dUICemetery ^s ^abCemetery Friedhof:^ae FriedhÃ¶fe verhindern, das im Falle des Todes eines Siedlers
+			die AngehÃ¶rigen depressiv werden.
 			^le ^le ";
 		}
 	]

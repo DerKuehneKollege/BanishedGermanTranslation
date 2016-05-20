@@ -13,67 +13,67 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^vc ^dUITools ^i0ArrowRight ^dUIProfession ^s Berufe ^f1 ^n
-			Die meisten ^abBuildings Gebäude und Felder^ae benötigen Arbeiter mit speziellen Berufen, damit Sie Ihren
-			Zweck erfüllen bzw. Ressourcen produzieren. Ihre Aufgabe ist es, während des Wachstums der Stadt oder bei
+			Die meisten ^abBuildings GebÃ¤ude und Felder^ae benÃ¶tigen Arbeiter mit speziellen Berufen, damit Sie Ihren
+			Zweck erfÃ¼llen bzw. Ressourcen produzieren. Ihre Aufgabe ist es, wÃ¤hrend des Wachstums der Stadt oder bei
 			spielrelevanten Ereignissen wie bspw. Katastrophen den Siedlern je nach Bedarf Aufgaben und Berufe zuzuweisen.
 			^p
 			Es stehen folgende Berufe zur Auswahl:
 			^lb
-			^lo ^i0ProfessionLaborer ^s ^c1 Arbeiter ^c0 erfüllen einfache Aufgaben, wie beispielsweise das Fällen
-			von Bäumen, den Abbau von Stein und Eisen, sowie den Transport von Waren vom und zum Lager.
-			^lo ^i0ProfessionBuilder ^s ^c1 Bauarbeiter ^c0 ^ab errichten ^abBuildings Gebäude,^ae
-			^abDirtRoad Feldwege,^ae sowie ^abStoneRoad gepflasterte Straßen^ae und sind ebenfalls für den
-			^abRemoveStructure Abriss von Gebäuden^ae zuständig.
-			^lo ^i0ProfessionFarmer ^s ^c1 Bauern ^c0 bewirten die ^abCropField Felder^ae und ^abOrchard Obstgärten.^ae
-			^lo ^i0ProfessionHerdsman ^s ^c1 Viehhirten ^c0 hüten das Vieh auf den ^abPasture Viehweiden.^ae
-			^lo ^i0ProfessionGatherer ^s ^c1 Sammler ^c0 suchen und sammeln in den Wäldern essbare Wurzeln, Beeren
-			und andere Nahrung und bringen Sie zu Ihren ^abGathererHut Hütten.^ae
-			^lo ^i0ProfessionFisherman ^s ^c1 Fischer ^c0 gehen zu ^abFishingDock Fischerhütten^ae und angeln in den
-			dortigen Gewässern nach Fischen.
-			^lo ^i0ProfessionHunter ^s ^c1 Jäger ^c0 jagen in den Wäldern Wild und bringen Leder und Wildbret zur
-			^abHunterLodge Jagdhütte.^ae
+			^lo ^i0ProfessionLaborer ^s ^c1 Arbeiter ^c0 erfÃ¼llen einfache Aufgaben, wie beispielsweise das FÃ¤llen
+			von BÃ¤umen, den Abbau von Stein und Eisen, sowie den Transport von Waren vom und zum Lager.
+			^lo ^i0ProfessionBuilder ^s ^c1 Bauarbeiter ^c0 ^ab errichten ^abBuildings GebÃ¤ude,^ae
+			^abDirtRoad Feldwege,^ae sowie ^abStoneRoad gepflasterte StraÃŸen^ae und sind ebenfalls fÃ¼r den
+			^abRemoveStructure Abriss von GebÃ¤uden^ae zustÃ¤ndig.
+			^lo ^i0ProfessionFarmer ^s ^c1 Bauern ^c0 bewirten die ^abCropField Felder^ae und ^abOrchard ObstgÃ¤rten.^ae
+			^lo ^i0ProfessionHerdsman ^s ^c1 Viehhirten ^c0 hÃ¼ten das Vieh auf den ^abPasture Viehweiden.^ae
+			^lo ^i0ProfessionGatherer ^s ^c1 Sammler ^c0 suchen und sammeln in den WÃ¤ldern essbare Wurzeln, Beeren
+			und andere Nahrung und bringen Sie zu Ihren ^abGathererHut HÃ¼tten.^ae
+			^lo ^i0ProfessionFisherman ^s ^c1 Fischer ^c0 gehen zu ^abFishingDock FischerhÃ¼tten^ae und angeln in den
+			dortigen GewÃ¤ssern nach Fischen.
+			^lo ^i0ProfessionHunter ^s ^c1 JÃ¤ger ^c0 jagen in den WÃ¤ldern Wild und bringen Leder und Wildbret zur
+			^abHunterLodge JagdhÃ¼tte.^ae
 			^lo ^i0ProfessionCutter ^s ^c1 Holzhacker ^c0 zerhacken am ^abWoodcutter Hackklotz^ae Holz in
 			Brennholzscheite.
-			^lo ^i0ProfessionForester ^s ^c1 Förster ^c0 bewirtschaften um ^abForester Forsthäuser^ae gelegene
-			Waldstücke, indem sie dort alte Baumbestände fällen und Jungbäume pflanzen.
+			^lo ^i0ProfessionForester ^s ^c1 FÃ¶rster ^c0 bewirtschaften um ^abForester ForsthÃ¤user^ae gelegene
+			WaldstÃ¼cke, indem sie dort alte BaumbestÃ¤nde fÃ¤llen und JungbÃ¤ume pflanzen.
 			^lo ^i0ProfessionToolMaker ^s ^c1 Schmiede ^c0 stellen am ^abBlacksmith Schmiedeofen^ae aus Holz, Eisen und
 			Kohle Werkzeug her.
-			^lo ^i0ProfessionHerbalist ^s ^c1 Kräutersammler ^c0 suchen in den Wäldern in der Umgebung ihrer
-			^abHerbalist Hütten^ae nach wild wachsenden Heilkräutern. Diese können verwendet werden, um eine geringe
-			Nahrungsvielfalt bei den Siedlern auszugleichen und die Gesundheit zu erhöhen.
-			^lo ^i0ProfessionBrewer ^s ^c1 Bierbrauer ^c0 arbeiten in ^abTavern Wirtshäusern^ae und brauen dort
-			aus Getreide und Früchten Bier. Wenn Siedler Wirtshäuser besuchen und Bier trinken, erhöht das
+			^lo ^i0ProfessionHerbalist ^s ^c1 KrÃ¤utersammler ^c0 suchen in den WÃ¤ldern in der Umgebung ihrer
+			^abHerbalist HÃ¼tten^ae nach wild wachsenden HeilkrÃ¤utern. Diese kÃ¶nnen verwendet werden, um eine geringe
+			Nahrungsvielfalt bei den Siedlern auszugleichen und die Gesundheit zu erhÃ¶hen.
+			^lo ^i0ProfessionBrewer ^s ^c1 Bierbrauer ^c0 arbeiten in ^abTavern WirtshÃ¤usern^ae und brauen dort
+			aus Getreide und FrÃ¼chten Bier. Wenn Siedler WirtshÃ¤user besuchen und Bier trinken, erhÃ¶ht das
 			ihre Zufriedenheit.
 			^lo ^i0ProfessionTailor ^s ^c1 Schneider ^c0 verarbeiten in der ^abTailor Schneiderei^ae Leder und Wolle zu
 			Kleidung.
-			^lo ^i0ProfessionVendor ^s ^c1 Verkäufer ^c0 transportieren Güter aus ^abStorageBarn Lagerhäusern^ae und von
-			^abStockPile Lagerplätzen^ae zu zentral gelegenen ^abMarket Märkten,^ae auf welchen die Siedler alle
-			nötigen Sachen erhalten, ohne große Laufwege zurücklegen zu müssen.
-			^lo ^i0ProfessionTrader ^s ^c1 Händler ^c0 transportieren Güter aus ^abStorageBarn Lagerhäusern^ae und von
-            ^abStockPile Lagerplätzen^ae zu ^abTradingPost Handelsposten.^ae Diese Güter können mit den dort eintreffenden
-            fahrenden Händlern getauscht werden.
+			^lo ^i0ProfessionVendor ^s ^c1 VerkÃ¤ufer ^c0 transportieren GÃ¼ter aus ^abStorageBarn LagerhÃ¤usern^ae und von
+			^abStockPile LagerplÃ¤tzen^ae zu zentral gelegenen ^abMarket MÃ¤rkten,^ae auf welchen die Siedler alle
+			nÃ¶tigen Sachen erhalten, ohne groÃŸe Laufwege zurÃ¼cklegen zu mÃ¼ssen.
+			^lo ^i0ProfessionTrader ^s ^c1 HÃ¤ndler ^c0 transportieren GÃ¼ter aus ^abStorageBarn LagerhÃ¤usern^ae und von
+            ^abStockPile LagerplÃ¤tzen^ae zu ^abTradingPost Handelsposten.^ae Diese GÃ¼ter kÃ¶nnen mit den dort eintreffenden
+            fahrenden HÃ¤ndlern getauscht werden.
 			^lo ^i0ProfessionMiner ^s ^c1 Bergarbeiter ^c0 bauen in ^abMine Minen^ae Eisen und Kohle aus dem
 			Untergrund ab.
-			^lo ^i0ProfessionStoneCutter ^s ^c1 Steinmetze ^c0 bauen in ^abQuarry Steinbrüchen^ae Gestein aus dem
+			^lo ^i0ProfessionStoneCutter ^s ^c1 Steinmetze ^c0 bauen in ^abQuarry SteinbrÃ¼chen^ae Gestein aus dem
 			Erdboden ab.
 			^lo ^i0ProfessionTeacher ^s ^c1 Lehrer ^c0 unterrichten an ^abSchool Schulen^ae die Kinder der Siedler.
-			Siedler, die Schulbildung genossen haben, produzieren in ihren späteren Berufen mehr Ressourcen.
-			^lo ^i0ProfessionDoctor ^s ^c1 Ärzte ^c0 arbeiten in ^abHospital Krankenhäusern.^ae Krankenhäuser
-			heilen kranke Siedler und dämmen ansteckende Krankheiten ein.
+			Siedler, die Schulbildung genossen haben, produzieren in ihren spÃ¤teren Berufen mehr Ressourcen.
+			^lo ^i0ProfessionDoctor ^s ^c1 Ã„rzte ^c0 arbeiten in ^abHospital KrankenhÃ¤usern.^ae KrankenhÃ¤user
+			heilen kranke Siedler und dÃ¤mmen ansteckende Krankheiten ein.
 			^lo ^i0ProfessionPriest ^s ^c1 Priester ^c0 halten in ^abChapel Kirchen^ae Gottesdienste. Gottesdienste
 			steigern die Zufriedenheit der Siedler, die sie besuchen.
 			^le ^n
 			Im Fenster ^c1 Berufe ^c0 wird angezeigt, wie viele Siedler in den einzelnen Berufen arbeiten und wie viele
-			Arbeitsstellen für die Berufe zurzeit verfügbar sind. Über die Pfeil-Buttons oder das Eingabefeld kann die
+			Arbeitsstellen fÃ¼r die Berufe zurzeit verfÃ¼gbar sind. Ãœber die Pfeil-Buttons oder das Eingabefeld kann die
 			Anzahl der Arbeiter in den jeweiligen Berufen eingestellt werden.
 			^p
 			^jc ^dDialogProfession ^jl ^n
-			Wird die Anzahl der zugewiesenen Siedler für einen speziellen Beruf erhöht, wird der Anteil allgemeiner
-			^i0ProfessionLaborer Arbeiter, die für Ressourcenabbau und Transport zuständig sind, verringert. Ebenso kann durch Verringern
-			der Siedler für spezielle Berufe die Anzahl ^i0ProfessionLaborer Arbeiter wieder erhöht werden.
+			Wird die Anzahl der zugewiesenen Siedler fÃ¼r einen speziellen Beruf erhÃ¶ht, wird der Anteil allgemeiner
+			^i0ProfessionLaborer Arbeiter, die fÃ¼r Ressourcenabbau und Transport zustÃ¤ndig sind, verringert. Ebenso kann durch Verringern
+			der Siedler fÃ¼r spezielle Berufe die Anzahl ^i0ProfessionLaborer Arbeiter wieder erhÃ¶ht werden.
 			^p
 			Durch Linksklick auf den Auswahl-Button ^dDialogProfessionCycle ^s kann man durch alle Siedler, die dem Beruf
-			zugewiesen sind, durchwechseln, so dass die Kamera den gerade ausgewählten Siedler fokussiert.
+			zugewiesen sind, durchwechseln, so dass die Kamera den gerade ausgewÃ¤hlten Siedler fokussiert.
 			^p ";
 		}
 	]

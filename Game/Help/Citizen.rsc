@@ -13,99 +13,99 @@ StringTable resource
 		{
 			String _name = "Text";
 			String _text = " ^f3 ^jl ^c0 Siedler ^c0 ^f1 ^n ^jl ^vb ^f1 ^c0
-			Die Bevölkerung ist das Herzstück jeder Stadt - die Siedler halten die Stadt lebendig und die Arbeiten am Laufen.
-			Ohne Siedler kann nichts gebaut, geschweige denn produziert werden und Ihre Stadt würde nicht wachsen.
-			Ihre Bevölkerung muss mit allem versorgt werden, was sie für das tägliche Leben benötigt.
-			Wenn Ihre Bevölkerung gesund und zufrieden ist, wird sie wachsen - die Siedler werden heiraten, in freie
-			Wohnstätten einziehen, sowie Kinder und Enkelkinder bekommen.
+			Die BevÃ¶lkerung ist das HerzstÃ¼ck jeder Stadt - die Siedler halten die Stadt lebendig und die Arbeiten am Laufen.
+			Ohne Siedler kann nichts gebaut, geschweige denn produziert werden und Ihre Stadt wÃ¼rde nicht wachsen.
+			Ihre BevÃ¶lkerung muss mit allem versorgt werden, was sie fÃ¼r das tÃ¤gliche Leben benÃ¶tigt.
+			Wenn Ihre BevÃ¶lkerung gesund und zufrieden ist, wird sie wachsen - die Siedler werden heiraten, in freie
+			WohnstÃ¤tten einziehen, sowie Kinder und Enkelkinder bekommen.
 			^p
-			Ihre Bevölkerung besteht nicht aus hirnlosen Robotern, die Bürger haben eine Vielzahl von Bedürfnissen, die es zu
-			befriedigen gilt. Die Siedler arbeiten hart, sofern sie satt, gesund und zufrieden sind und über ein
-			warmes Plätzchen zum Aufwärmen verfügen. Sind sie hingegen hungrig, krank, unzufrieden oder frieren, können
+			Ihre BevÃ¶lkerung besteht nicht aus hirnlosen Robotern, die BÃ¼rger haben eine Vielzahl von BedÃ¼rfnissen, die es zu
+			befriedigen gilt. Die Siedler arbeiten hart, sofern sie satt, gesund und zufrieden sind und Ã¼ber ein
+			warmes PlÃ¤tzchen zum AufwÃ¤rmen verfÃ¼gen. Sind sie hingegen hungrig, krank, unzufrieden oder frieren, kÃ¶nnen
 			sie deprimiert oder krank werden und legen ihre Arbeit nieder.
 			^p
-			Siedler suchen ihre Wohnstätte auf, wenn sie hungrig werden. In den kalten Jahreszeiten legen sie häufig
-			einen Zwischenstopp bei den Nachbarhäusern ein, um sich aufzuwärmen.
+			Siedler suchen ihre WohnstÃ¤tte auf, wenn sie hungrig werden. In den kalten Jahreszeiten legen sie hÃ¤ufig
+			einen Zwischenstopp bei den NachbarhÃ¤usern ein, um sich aufzuwÃ¤rmen.
 			Sind Siedler deprimiert, arbeiten sie nicht, sondern besuchen lieber Orte, die sie wieder aufmuntern, wie
 			beispielsweise das Wirtshaus.
-			Siedler besorgen sich selbstständig Nahrung und Feuerholz aus den Lagern oder von den Märkten und legen sich
-			in ihren Häusern einen Vorrat davon an.
+			Siedler besorgen sich selbststÃ¤ndig Nahrung und Feuerholz aus den Lagern oder von den MÃ¤rkten und legen sich
+			in ihren HÃ¤usern einen Vorrat davon an.
 			^p
 			Es ist wichtig, diese Dinge im Kopf zu behalten. Sie sollten beim Bau ihrer Siedlung daran denken, jedem
-			Ihrer Einwohner ein bestmögliches Leben zu ermöglichen. Das nackte Überleben Ihrer Bevölkerung ist eine Sache -
-			eine andere ist es, für zufriedene Gesichter bei den Siedlern sorgen.
+			Ihrer Einwohner ein bestmÃ¶gliches Leben zu ermÃ¶glichen. Das nackte Ãœberleben Ihrer BevÃ¶lkerung ist eine Sache -
+			eine andere ist es, fÃ¼r zufriedene Gesichter bei den Siedlern sorgen.
 			^p
 			^f2 ^li ^c1 Wohnraum ^f1 ^n ^c0
-			Ihre Bevölkerung benötigt Wohnraum zum Leben. Häuser bieten den Siedlern ein warmes Plätzchen zum Ausruhen,
-			zur Nahrungsaufnahme und zur Lagerung von Gebrauchsgut. Häuser können aus Holz oder Stein gebaut werden.
-			^abWoodHouse Holzhäuser^ae sind schnell und günstig errichtet, wohingegen ^abStoneHouse Steinhäuser^ae die
-			Wärme besser speichern und für einen geringeren Bedarf an Brennmaterial sorgen, aber teurer im Bau sind. ^vc ^f0
+			Ihre BevÃ¶lkerung benÃ¶tigt Wohnraum zum Leben. HÃ¤user bieten den Siedlern ein warmes PlÃ¤tzchen zum Ausruhen,
+			zur Nahrungsaufnahme und zur Lagerung von Gebrauchsgut. HÃ¤user kÃ¶nnen aus Holz oder Stein gebaut werden.
+			^abWoodHouse HolzhÃ¤user^ae sind schnell und gÃ¼nstig errichtet, wohingegen ^abStoneHouse SteinhÃ¤user^ae die
+			WÃ¤rme besser speichern und fÃ¼r einen geringeren Bedarf an Brennmaterial sorgen, aber teurer im Bau sind. ^vc ^f0
 			^p
 			^f2 ^li ^c1 Gesundheit ^i0HeartFilled^i0HeartFilled^i0HeartFilled^i0HeartFilled^i0HeartFilled ^f1 ^n ^c0 ^vb
-			Damit die Einwohner Ihrer Stadt gesund bleiben, muss zunächst eine große Vielfalt an verschiedenen
-			Nahrungsmitteln zur Verfügung stehen. Weiterhin sollte mindestens ein ^abHerbalist Kräutersammler,^ae sowie
-			ein Vorrat an Heilkräutern zur Verfügung stehen. Eine hohe Gesundheit ist essentiell für die Vermeidung
-			von Krankheiten in ihrer Bevölkerung. Wenn ansteckende Krankheiten ausbrechen, helfen
-			^abHospital Krankenhäuser^ae bei der Eindämmung von Seuchen und bei der Heilung der infizierten Siedler,
+			Damit die Einwohner Ihrer Stadt gesund bleiben, muss zunÃ¤chst eine groÃŸe Vielfalt an verschiedenen
+			Nahrungsmitteln zur VerfÃ¼gung stehen. Weiterhin sollte mindestens ein ^abHerbalist KrÃ¤utersammler,^ae sowie
+			ein Vorrat an HeilkrÃ¤utern zur VerfÃ¼gung stehen. Eine hohe Gesundheit ist essentiell fÃ¼r die Vermeidung
+			von Krankheiten in ihrer BevÃ¶lkerung. Wenn ansteckende Krankheiten ausbrechen, helfen
+			^abHospital KrankenhÃ¤user^ae bei der EindÃ¤mmung von Seuchen und bei der Heilung der infizierten Siedler,
 			was die Todesrate stark senkt.^vc ^f0
 			^p
 			^f2 ^li ^c1 Zufriedenheit ^i0StarFilled^i0StarFilled^i0StarFilled^i0StarFilled^i0StarFilled ^f1 ^n ^c0 ^vb
-			Eine hohe Zufriedenheit in Ihrer Bevölkerung steigert die Produktivität. Eine unzufriedene Bevölkerung wird
-			dagegen häufig die Arbeit einstellen, was die Gesamtproduktivität wiederum stark senkt. Manche Gebäude steigern die
-			Zufriedenheit der Siedler, beispielsweise ^abMarket Märkte,^ae ^abWell Brunnen,^ae ^abTavern Wirtshäuser,^ae
-			^abTradingPost Handelsposten,^ae ^abCemetery Friedhöfe^ae und ^abChapel Kirchen.^ae
-			Industriegebäude wie beispielsweise ^abMine Minen^ae und ^abQuarry Steinbrüche^ae hingegen senken die
-			Zufriedenheit der in der Nähe lebenden Einwohner. Hochzeiten und Geburten steigern die Zufriedenheit,
-			wohingegen Todesfälle, Krankheiten, Hunger und Frieren für Unzufriedenheit sorgen. ^f0
+			Eine hohe Zufriedenheit in Ihrer BevÃ¶lkerung steigert die ProduktivitÃ¤t. Eine unzufriedene BevÃ¶lkerung wird
+			dagegen hÃ¤ufig die Arbeit einstellen, was die GesamtproduktivitÃ¤t wiederum stark senkt. Manche GebÃ¤ude steigern die
+			Zufriedenheit der Siedler, beispielsweise ^abMarket MÃ¤rkte,^ae ^abWell Brunnen,^ae ^abTavern WirtshÃ¤user,^ae
+			^abTradingPost Handelsposten,^ae ^abCemetery FriedhÃ¶fe^ae und ^abChapel Kirchen.^ae
+			IndustriegebÃ¤ude wie beispielsweise ^abMine Minen^ae und ^abQuarry SteinbrÃ¼che^ae hingegen senken die
+			Zufriedenheit der in der NÃ¤he lebenden Einwohner. Hochzeiten und Geburten steigern die Zufriedenheit,
+			wohingegen TodesfÃ¤lle, Krankheiten, Hunger und Frieren fÃ¼r Unzufriedenheit sorgen. ^f0
 			^p
-			^f2 ^li ^c1 Aufwärmmöglichkeit ^f1 ^n ^c0
-			Aufwärmmöglichkeit sind unentbehrlich für das Überleben Ihrer Bevölkerung im Winter. Um Ihre Siedler warm zu
-			halten benötigen Sie zwei Dinge: Kleidung und beheizte Häuser. Jedes Haus, welches über einen
-			ausreichenden Vorrat an Feuerholz oder Kohle verfügt, wird beheizt. Frierende Siedler werden sich nach Hause
-			oder zum nächstgelegenen warmen Wohnhaus begegnen, wenn raues, kaltes Wetter sie dazu zwingt.
-			Kleidung wird vom ^abTailor Schneider^ae gefertigt und ermöglicht es den Siedlern, sich längere Zeit bei
+			^f2 ^li ^c1 AufwÃ¤rmmÃ¶glichkeit ^f1 ^n ^c0
+			AufwÃ¤rmmÃ¶glichkeit sind unentbehrlich fÃ¼r das Ãœberleben Ihrer BevÃ¶lkerung im Winter. Um Ihre Siedler warm zu
+			halten benÃ¶tigen Sie zwei Dinge: Kleidung und beheizte HÃ¤user. Jedes Haus, welches Ã¼ber einen
+			ausreichenden Vorrat an Feuerholz oder Kohle verfÃ¼gt, wird beheizt. Frierende Siedler werden sich nach Hause
+			oder zum nÃ¤chstgelegenen warmen Wohnhaus begegnen, wenn raues, kaltes Wetter sie dazu zwingt.
+			Kleidung wird vom ^abTailor Schneider^ae gefertigt und ermÃ¶glicht es den Siedlern, sich lÃ¤ngere Zeit bei
 			kaltem Wetter im Freien aufzuhalten. ^f0
 			^p
 			^f2 ^li ^c1 Bildung ^f1 ^n ^c0
-			Gebildete Siedler verfügen in allen Berufen über einen Produktivitätsbonus. Beispielsweise produzieren
-			Förster, die über Bildung verfügen, über das Jahr verteilt mehr Holz als ungelernte Förster. Des Weiteren
+			Gebildete Siedler verfÃ¼gen in allen Berufen Ã¼ber einen ProduktivitÃ¤tsbonus. Beispielsweise produzieren
+			FÃ¶rster, die Ã¼ber Bildung verfÃ¼gen, Ã¼ber das Jahr verteilt mehr Holz als ungelernte FÃ¶rster. Des Weiteren
 			sammeln ausgebildete Sammler im Wald mehr Nahrung als nicht gebildete Sammler. Die Siedler, die bei Spielanfang zur
-			Verfügung stehen, haben in ihrer Heimat Bildung erfahren. Nachfolgende Generationen müssen als Kind zur
+			VerfÃ¼gung stehen, haben in ihrer Heimat Bildung erfahren. Nachfolgende Generationen mÃ¼ssen als Kind zur
 			^abSchool Schule^ae gehen, um Bildung zu erlangen. ^f0
 			^p
-			^f2 ^li ^c1 Gesunde Ernährung ^f1 ^n ^c0
-			Eine gesunde Ernährung besteht aus einer Mischung aus Getreide (Mais oder Weizen), Obst, Gemüse und
-			eiweißreicher Nahrung (Fleisch, Fisch oder Nüsse). Solch eine abwechslungsreiche Ernährung führt im Spiel
-			zu maximaler Gesundheit der Bevölkerung. Im Fall von mangelhafter Ernährung können
-			^abHerbalist Heilkräuter^ae helfen, die Gesundheit zu verbessern und Nahrungsdefizite auszugleichen. ^f0
+			^f2 ^li ^c1 Gesunde ErnÃ¤hrung ^f1 ^n ^c0
+			Eine gesunde ErnÃ¤hrung besteht aus einer Mischung aus Getreide (Mais oder Weizen), Obst, GemÃ¼se und
+			eiweiÃŸreicher Nahrung (Fleisch, Fisch oder NÃ¼sse). Solch eine abwechslungsreiche ErnÃ¤hrung fÃ¼hrt im Spiel
+			zu maximaler Gesundheit der BevÃ¶lkerung. Im Fall von mangelhafter ErnÃ¤hrung kÃ¶nnen
+			^abHerbalist HeilkrÃ¤uter^ae helfen, die Gesundheit zu verbessern und Nahrungsdefizite auszugleichen. ^f0
 			^p
 			^f2 ^li ^c1 Werkzeug ^f1 ^n ^c0
-			Einwohner benötigen Werkzeug, um effizient arbeiten zu können. Allerdings nutzt sich Werkzeug nach einer
+			Einwohner benÃ¶tigen Werkzeug, um effizient arbeiten zu kÃ¶nnen. Allerdings nutzt sich Werkzeug nach einer
 			gewissen Zeit ab, besonders in sehr fordernden Berufen wie beispielsweise bei ^abMine Bergarbeiter^ae und
-			^abCropField Bauern.^ae Im Laufe der Zeit wird Ihre Stadt einen ^abBlacksmith Schmied^ae benötigen,
+			^abCropField Bauern.^ae Im Laufe der Zeit wird Ihre Stadt einen ^abBlacksmith Schmied^ae benÃ¶tigen,
 			welcher neues Werkzeug produziert. ^f0
 			^p
 			^f2 ^li ^c1 Nomaden ^f1 ^n ^c0
-			Sobald Ihre Stadt über ein ^abTownHall Rathaus,^ae einen ^abTradingPost Handelsposten^ae und einen
-			^abMarket Markt^ae verfügt, werden gelegentlich Nomaden im Rathaus eintreffen, welche eventuell in Ihrer Stadt
-			aufgenommen werden wollen. Dies ist ein großartiger Weg, um schlagartig die Bevölkerung der Stadt zu vergrößern.
-			Allerdings steigert sich die Wahrscheinlichkeit des Ausbruchs einer Seuche, wenn Nomaden in Ihre Bevölkerung
+			Sobald Ihre Stadt Ã¼ber ein ^abTownHall Rathaus,^ae einen ^abTradingPost Handelsposten^ae und einen
+			^abMarket Markt^ae verfÃ¼gt, werden gelegentlich Nomaden im Rathaus eintreffen, welche eventuell in Ihrer Stadt
+			aufgenommen werden wollen. Dies ist ein groÃŸartiger Weg, um schlagartig die BevÃ¶lkerung der Stadt zu vergrÃ¶ÃŸern.
+			Allerdings steigert sich die Wahrscheinlichkeit des Ausbruchs einer Seuche, wenn Nomaden in Ihre BevÃ¶lkerung
 			aufgenommen werden.
 			^p
-			Im Verlauf des Spiels erscheinen gelegentlich bestimmte Symbole über den Köpfen Ihrer Siedler, welche auf
+			Im Verlauf des Spiels erscheinen gelegentlich bestimmte Symbole Ã¼ber den KÃ¶pfen Ihrer Siedler, welche auf
 			ein Problem oder eine negative Beeinflussung hinweisen. ^vc ^lb
 			^n ^i1CitizenHome^s Dieser Siedler ist obdachlos. ^n
 			^n ^i1CitizenFood^s Dieser Siedler leidet unter Hunger. ^n
 			^n ^i1CitizenCold^s Dieser Siedler friert. ^n
-			^n ^i1CitizenJob^s Es gibt keinen freien Arbeitsplatz für den Beruf des Siedlers. ^n
+			^n ^i1CitizenJob^s Es gibt keinen freien Arbeitsplatz fÃ¼r den Beruf des Siedlers. ^n
 			^n ^i1CitizenTool^s Diesem Siedler fehlt Werkzeug. ^n
 			^n ^i1CitizenDisease^s Dieser Siedler leidet an einer Krankheit. ^le ^vb
 			^n ^mb ^mc ^dDialogCitizen ^ml380 ^mc
-			Klickt man einen Siedler an, wird ein Detailfenster angezeigt, welches Informationen über dessen
-			Gesundheitszustand, Zufriedenheit, Ausbildung, Beruf, aktuelle Aktion und weiteres enthält. ^ml0 ^me
+			Klickt man einen Siedler an, wird ein Detailfenster angezeigt, welches Informationen Ã¼ber dessen
+			Gesundheitszustand, Zufriedenheit, Ausbildung, Beruf, aktuelle Aktion und weiteres enthÃ¤lt. ^ml0 ^me
 			^n ^vc
-			^mb ^mc ^dDialogCitizenFollow ^n ^ml80 ^mc  Wenn Sie auf den Button ^c1 Verfolgen ^c0 klicken, wird die Ansicht auf den ausgewählten Siedler fokussiert und die Kamera verfolgt den Siedler. ^ml0 ^me ^n
-			^mb ^mc ^dDialogInventory ^n ^ml80 ^mc Wenn Sie auf den Button ^c1 Lager ^c0 klicken, wird angezeigt, welche Güter der Siedler mit sich herumträgt. ^ml0 ^me ^n
+			^mb ^mc ^dDialogCitizenFollow ^n ^ml80 ^mc  Wenn Sie auf den Button ^c1 Verfolgen ^c0 klicken, wird die Ansicht auf den ausgewÃ¤hlten Siedler fokussiert und die Kamera verfolgt den Siedler. ^ml0 ^me ^n
+			^mb ^mc ^dDialogInventory ^n ^ml80 ^mc Wenn Sie auf den Button ^c1 Lager ^c0 klicken, wird angezeigt, welche GÃ¼ter der Siedler mit sich herumtrÃ¤gt. ^ml0 ^me ^n
 			^mb ^mc ^dDialogCitizenHome ^n ^ml80 ^mc Wenn Sie auf den Button mit dem Haus klicken, wird die Ansicht auf das Wohnhaus des Siedlers fokussiert. ^ml0 ^me ^n
 			^mb ^mc ^dDialogCitizenWorkplace ^n ^ml80 ^mc Wenn Sie auf den Button mit dem Arbeitswerkzeug klicken, wird die Ansicht auf	den Arbeitsplatz des Siedlers fokussiert. ^ml0 ^me ^n";
 		}

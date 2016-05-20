@@ -8,40 +8,40 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Rathäuser";
+			String _text = "RathÃ¤user";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleTownHall ^mc ^f3 ^jl ^c0
 			^dUIServices ^i0ArrowRight ^dUITownHall ^s Rathaus ^c0 ^f1 ^n
 			^i0Log x62 ^i0Stone x124 ^i0Iron x48 ^me ^f1 ^c0 ^jl ^vc
-			In Rathäuser werden verschiedene Statistiken und Zensusdaten aufgezeichnet, nach dem Bau des Gebäudes
-			können diese eingesehen werden. Verfügbar sind Informationen über Bevölkerungszuwachs, Bildung, Ausstattung
-			mit Kleidung, Gesundheit, Zufriedenheit, Arbeiter, Berufe, Arbeitsgebäude, Ressourcenlimits,
-			Ressourcenproduktion, verfügbare Samenarten und Viehsorten, sowie Gesamtlagerbestände. Weiterhin können die
-			Bevölkerungsentwicklung und die Produktionsraten anhand von Diagrammen visualisiert werden.
+			In RathÃ¤user werden verschiedene Statistiken und Zensusdaten aufgezeichnet, nach dem Bau des GebÃ¤udes
+			kÃ¶nnen diese eingesehen werden. VerfÃ¼gbar sind Informationen Ã¼ber BevÃ¶lkerungszuwachs, Bildung, Ausstattung
+			mit Kleidung, Gesundheit, Zufriedenheit, Arbeiter, Berufe, ArbeitsgebÃ¤ude, Ressourcenlimits,
+			Ressourcenproduktion, verfÃ¼gbare Samenarten und Viehsorten, sowie GesamtlagerbestÃ¤nde. Weiterhin kÃ¶nnen die
+			BevÃ¶lkerungsentwicklung und die Produktionsraten anhand von Diagrammen visualisiert werden.
 			^p
-			Während des Spiels kann es vorkommen, dass Nomaden Ihre Stadt besuchen. Sie versammeln sich dann am Rathaus.
-			Eventuell stellen die Nomaden den Antrag, Bürger ihrer Stadt zu werden. Im Rathaus können Sie in diesem Fall
-			auswählen, ob Sie die Nomaden in die Stadt aufnehmen oder sie wegschicken wollen.
+			WÃ¤hrend des Spiels kann es vorkommen, dass Nomaden Ihre Stadt besuchen. Sie versammeln sich dann am Rathaus.
+			Eventuell stellen die Nomaden den Antrag, BÃ¼rger ihrer Stadt zu werden. Im Rathaus kÃ¶nnen Sie in diesem Fall
+			auswÃ¤hlen, ob Sie die Nomaden in die Stadt aufnehmen oder sie wegschicken wollen.
 			^p
 			^jc ^dDialogTownHall1 ^jl
-			Ein Linksklick auf das Rathaus öffnet das dazugehörige Detailfenster, in welchem die zuvor aufgezählen
-			Informationen über die Stadt angezeigt werden.
+			Ein Linksklick auf das Rathaus Ã¶ffnet das dazugehÃ¶rige Detailfenster, in welchem die zuvor aufgezÃ¤hlen
+			Informationen Ã¼ber die Stadt angezeigt werden.
 			^p
-			In der Tabelle ^c1 Status ^c0 werden allgemeine Statistiken über die Stadt aufgelistet. Die Tabelle ^c1Berufe^c0
+			In der Tabelle ^c1 Status ^c0 werden allgemeine Statistiken Ã¼ber die Stadt aufgelistet. Die Tabelle ^c1Berufe^c0
 			erlaubt es in gleicher Weise wie das ^abProfession Berufe-Fenster,^ae den Siedlern neue Berufe zuzuweisen.
-			Ebenfalls wird für jeden Beruf die Anzahl freier Plätze und die Anzahl der dazugehörigen Arbeitsgebäude
-			angezeigt. Mit dem Pfeil-Button ^dDialogTownHallGoto können die einzelnen Arbeitsgebäude angewählt werden.
+			Ebenfalls wird fÃ¼r jeden Beruf die Anzahl freier PlÃ¤tze und die Anzahl der dazugehÃ¶rigen ArbeitsgebÃ¤ude
+			angezeigt. Mit dem Pfeil-Button ^dDialogTownHallGoto kÃ¶nnen die einzelnen ArbeitsgebÃ¤ude angewÃ¤hlt werden.
 			^p
 			^jc ^dDialogTownHall2 ^jl ^n
-			Im Reiter ^dDialogTownHallProduction werden für die einzelnen Güter deren Produktionsraten angezeigt.
-			Sie können anhand dieser Informationen sicherstellen, dass der Bedarf an einer Ressource die dazugehörige
-			Produktionsrate nicht übersteigt.
+			Im Reiter ^dDialogTownHallProduction werden fÃ¼r die einzelnen GÃ¼ter deren Produktionsraten angezeigt.
+			Sie kÃ¶nnen anhand dieser Informationen sicherstellen, dass der Bedarf an einer Ressource die dazugehÃ¶rige
+			Produktionsrate nicht Ã¼bersteigt.
 			^p
 			^lb
-			^li Die Spalte ^c1 Limit ^c0 ermöglicht das Setzen von Produktionslimit für verschiedene Ressourcenarten,
-			genau so wie im ^abLimit dazugehörigen Fenster.^ae
+			^li Die Spalte ^c1 Limit ^c0 ermÃ¶glicht das Setzen von Produktionslimit fÃ¼r verschiedene Ressourcenarten,
+			genau so wie im ^abLimit dazugehÃ¶rigen Fenster.^ae
 			^li Die Spalte ^c1 Aktuell ^c0 zeigt an, wie viel Einheiten einer entsprechenden Ressource sich zurzeit
 			insgesamt in den Lagern befinden.
 			^li Die Spalte ^c1 Verbraucht ^c0 zeigt an, wie viel Einheiten der entsprechenden Ressourcen im aktuellen
@@ -49,29 +49,29 @@ StringTable resource
 			^li Die Spalte ^c1 Produziert ^c0 zeigt an, wie viel Einheiten der entsprechenden Ressourcen im aktuellen
 			Jahr bisher produziert wurden.
 			^li Die Spalte ^c1 Verbraucht (1 J.) ^c0 zeigt an, wie viele Ressourcen in den vergangenen Jahren verbraucht
-			wurden. Die Anzahl der berücksichtigten Jahre kann in der darüberliegenden Auswahlliste ausgewählt werden.
+			wurden. Die Anzahl der berÃ¼cksichtigten Jahre kann in der darÃ¼berliegenden Auswahlliste ausgewÃ¤hlt werden.
 			^li Die Spalte ^c1 Produziert (1 J.) ^c0 zeigt an, wie viele Ressourcen in den vergangenen Jahren
-			produziert wurden. Die Anzahl der berücksichtigten Jahre kann in der darüberliegenden Auswahlliste
-			ausgewählt werden.
+			produziert wurden. Die Anzahl der berÃ¼cksichtigten Jahre kann in der darÃ¼berliegenden Auswahlliste
+			ausgewÃ¤hlt werden.
 			^le
 			^p
 			^jc ^dDialogTownHall3 ^jl ^n
-			Im Reiter ^dDialogTownHallInventory wird für alle Ressourcen der jeweilige Gesamtlagerbestand aufgelistet.
-			In der Standardeinstellung werden die Bestände in den ^abMarket Märkten,^ae ^abStockPile Lagerplätzen ^ae
-			und ^abStorageBarn Lagerhäusern^ae aufaddiert. Sie können allerdings auch einstellen, dass nur die Lagerbestände
-			in den ^abTradingPost Handelsposten^ae oder in den ^abWoodHouse Holzhäusern^ae bzw.
-			^abStoneHouse Steinhäusern^ae aufaddiert wird.
+			Im Reiter ^dDialogTownHallInventory wird fÃ¼r alle Ressourcen der jeweilige Gesamtlagerbestand aufgelistet.
+			In der Standardeinstellung werden die BestÃ¤nde in den ^abMarket MÃ¤rkten,^ae ^abStockPile LagerplÃ¤tzen ^ae
+			und ^abStorageBarn LagerhÃ¤usern^ae aufaddiert. Sie kÃ¶nnen allerdings auch einstellen, dass nur die LagerbestÃ¤nde
+			in den ^abTradingPost Handelsposten^ae oder in den ^abWoodHouse HolzhÃ¤usern^ae bzw.
+			^abStoneHouse SteinhÃ¤usern^ae aufaddiert wird.
 			^p
-			Ebenfalls können die Ressourcen alphabetisch oder nach Anzahl sortiert angezeigt werden.
+			Ebenfalls kÃ¶nnen die Ressourcen alphabetisch oder nach Anzahl sortiert angezeigt werden.
 			^p
 			^jc ^dDialogTownHall4 ^jl
-			Über den Reiter ^dDialogTownHallGraph können verschiedene Statistiken über die Stadt in Diagrammform
+			Ãœber den Reiter ^dDialogTownHallGraph kÃ¶nnen verschiedene Statistiken Ã¼ber die Stadt in Diagrammform
 			dargestellt werden. Dies kann hilfreich sein, um sich beispielsweise den Anstieg bzw. den Fall der
 			Produktionsrate verschiedener Ressourcen zu veranschaulichen und entsprechend zu reagieren.
 			^p
-			Folgende Daten können in Diagrammform angezeigt werden:
+			Folgende Daten kÃ¶nnen in Diagrammform angezeigt werden:
 			^lb
-			^li Bevölkerungszahlen: Anzahl Erwachsener, Schüler und Kinder
+			^li BevÃ¶lkerungszahlen: Anzahl Erwachsener, SchÃ¼ler und Kinder
 			^li Durchschnittliche Gesundheit, Zufriedenheit und Ausstattung mit Kleidung
 			^li Nahrung
 			^li Holz
@@ -80,7 +80,7 @@ StringTable resource
 			^li Brennholz
 			^li Kohle
 			^li Werkzeug
-			^li Kräuter
+			^li KrÃ¤uter
 			^li Kleidung
 			^li Bier
 			^le ^n
@@ -90,18 +90,18 @@ StringTable resource
 			^jc ^dDialogTownHall5 ^jl
 			Im Reiter ^dDialogTownHallNomad wird angezeigt, ob sich derzeit Nomaden in der Stadt befinden. Wenn
 			Nomaden eingetroffen sind und diese in die Stadt aufgenommen werden wollen, kann hier die Aufnahme in die
-			Stadt zugestimmt oder abgelehnt werden. Die Aufnahme der Nomaden in die Stadt ermöglicht einen sprunghaften
-			Anstieg der Bevölkerungszahl, was der Stadt viele neue Arbeiter bringt, allerdings steigt auf für eine
+			Stadt zugestimmt oder abgelehnt werden. Die Aufnahme der Nomaden in die Stadt ermÃ¶glicht einen sprunghaften
+			Anstieg der BevÃ¶lkerungszahl, was der Stadt viele neue Arbeiter bringt, allerdings steigt auf fÃ¼r eine
 			gewisse Zeit die Gefahr, dass in der Stadt eine Krankheit ausbricht.
 			^p
 			Sollten Sie der Aufnahme der Nomaden in die Stadt zustimmen, ist es empfehlenswert eine
-			^abBoardingHouse Notunterkunft^ae errichtet zu haben, damit diesen eine vorübergehende Wohnstätte zur
-			Verfügung steht, bis genügend Wohnhäuser gebaut wurden.
+			^abBoardingHouse Notunterkunft^ae errichtet zu haben, damit diesen eine vorÃ¼bergehende WohnstÃ¤tte zur
+			VerfÃ¼gung steht, bis genÃ¼gend WohnhÃ¤user gebaut wurden.
 			^p
 			^jc ^dDialogTownHall6 ^jl
 			Im Reiter ^dDialogTownHallTrade sind alle am ^abTradingPost Handelsposten^ae erworbenen Samentypen und
-			Nutzvieharten aufgelistet. Dies bietet Ihnen eine Übersicht, falls Sie anstreben, alle im Spiel
-			möglichen Samentypen bzw. Vieharten zu erlangen. ";
+			Nutzvieharten aufgelistet. Dies bietet Ihnen eine Ãœbersicht, falls Sie anstreben, alle im Spiel
+			mÃ¶glichen Samentypen bzw. Vieharten zu erlangen. ";
 		}
 	]
 }

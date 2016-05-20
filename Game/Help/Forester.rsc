@@ -8,45 +8,45 @@ StringTable resource
 		}
 		{
 			String _name = "Title";
-			String _text = "Förster";
+			String _text = "FÃ¶rster";
 		}
 		{
 			String _name = "Text";
 			String _text = " ^vc ^mb ^mc ^jr ^i3TitleForester ^mc ^f3 ^jl ^c0
 			^dUIProduction ^i0ArrowRight ^dUIForester ^s Forsthaus ^c0 ^f1 ^n
 			^i0Log x32 ^i0Stone x12 ^me ^f1 ^c0 ^jl ^vb
-			Durch den Bau von Forsthäuser können Areale festgelegt werden, in denen
-			^i0ProfessionForester ^abProfession Förster^ae ausgewachsene Bäume fällen und zu Holz weiterverarbeiten.
-			Die Förster sorgen in demselben Areal weiterhin für Nachhaltigkeit, indem sie dort Jungbäume anpflanzen,
-			welche nach ein paar Jahren, wenn diese ausgewachsen sind, ebenfalls wieder gefällt werden können.
+			Durch den Bau von ForsthÃ¤user kÃ¶nnen Areale festgelegt werden, in denen
+			^i0ProfessionForester ^abProfession FÃ¶rster^ae ausgewachsene BÃ¤ume fÃ¤llen und zu Holz weiterverarbeiten.
+			Die FÃ¶rster sorgen in demselben Areal weiterhin fÃ¼r Nachhaltigkeit, indem sie dort JungbÃ¤ume anpflanzen,
+			welche nach ein paar Jahren, wenn diese ausgewachsen sind, ebenfalls wieder gefÃ¤llt werden kÃ¶nnen.
 			^p
-			Forsthäuser können in bereits vorhandenen Waldstücken platziert werden, was die sofortige Holzproduktion
-			ermöglicht. Alternativ ist auch die Errichtung auf einer freien Wiesenfläche, auf welcher dann
-			allerdings zunächst ein Wald durch Pflanzen neuer Bäume angelegt werden muss, bevor Holz produziert werden
+			ForsthÃ¤user kÃ¶nnen in bereits vorhandenen WaldstÃ¼cken platziert werden, was die sofortige Holzproduktion
+			ermÃ¶glicht. Alternativ ist auch die Errichtung auf einer freien WiesenflÃ¤che, auf welcher dann
+			allerdings zunÃ¤chst ein Wald durch Pflanzen neuer BÃ¤ume angelegt werden muss, bevor Holz produziert werden
 			kann.
 			^p
-			Es kann einige Jahre dauern, bis die Förster eine wirklich große Menge Holz produzieren, doch sobald sich
+			Es kann einige Jahre dauern, bis die FÃ¶rster eine wirklich groÃŸe Menge Holz produzieren, doch sobald sich
 			ein funktionierender Abholzungs- und Neuanpflanzungszyklus etabliert hat, ist die nachhaltige Holzproduktion
-			durch Forsthäuser eine bessere Alternative als die bloße Rodung von Wäldern. Des Weiteren gibt es einen
-			ständigen Holznachschub für die ^abWoodcutter Holzhacker,^ae welche ebenfalls laufend Brennholz
-			produzieren müssen.
+			durch ForsthÃ¤user eine bessere Alternative als die bloÃŸe Rodung von WÃ¤ldern. Des Weiteren gibt es einen
+			stÃ¤ndigen Holznachschub fÃ¼r die ^abWoodcutter Holzhacker,^ae welche ebenfalls laufend Brennholz
+			produzieren mÃ¼ssen.
 			^p
-			Sollte ein Waldgebiet gerodet werden, das nicht von einem Förster bewirtschaftet wird und es bleiben ein
-			paar Bäume übrig, wächst der Wald selbstverständlich auch auf natürlichem Wege wieder nach. Es ist
-			allerdings zu beachten, dass dieser Prozess viel mehr Zeit benötigt und die Wälder dann nicht so dicht
-			bewachsen sind, wie Wälder, die durch Förster bewirtschaftet werden.
+			Sollte ein Waldgebiet gerodet werden, das nicht von einem FÃ¶rster bewirtschaftet wird und es bleiben ein
+			paar BÃ¤ume Ã¼brig, wÃ¤chst der Wald selbstverstÃ¤ndlich auch auf natÃ¼rlichem Wege wieder nach. Es ist
+			allerdings zu beachten, dass dieser Prozess viel mehr Zeit benÃ¶tigt und die WÃ¤lder dann nicht so dicht
+			bewachsen sind, wie WÃ¤lder, die durch FÃ¶rster bewirtschaftet werden.
 			^p
 			^mb ^mc ^dDialogForester ^ml318 ^mc
-			Mit einem Klick auf ein Forsthaus wird das dazugehörige Detailfenster eingeblendet.
+			Mit einem Klick auf ein Forsthaus wird das dazugehÃ¶rige Detailfenster eingeblendet.
 			^ml0 ^me ^n ^mb ^mc ^dDialogForesterCut ^n ^ml60 ^mc
-			Durch Umschalten des Buttons ^c1 Fällen ^c0 kann das Fällen der ausgewachsenen Bäume verboten bzw. zugelassen
-			werden. Gefällte Bäume werden von den Förstern zu Holz weiterverarbeitet, welches dann zum nächstgelegenen
+			Durch Umschalten des Buttons ^c1 FÃ¤llen ^c0 kann das FÃ¤llen der ausgewachsenen BÃ¤ume verboten bzw. zugelassen
+			werden. GefÃ¤llte BÃ¤ume werden von den FÃ¶rstern zu Holz weiterverarbeitet, welches dann zum nÃ¤chstgelegenen
 			^abStockPile Lagerplatz^ae gebracht wird.
 			^ml0 ^me ^n ^mb ^mc ^dDialogForesterPlant ^n ^ml60 ^mc
 			Umschalten des Buttons ^c1 Pflanzen ^c0 aktiviert bzw. deaktiviert das weitere Anpflanzen von
 			Jungbaumsetzlingen.
 			^ml0 ^me ^n
-			Ebenfalls ist es möglich ein ^abLimit Produktionslimit^ae für Holz zu setzen. Sobald das gesetzte Limit
+			Ebenfalls ist es mÃ¶glich ein ^abLimit Produktionslimit^ae fÃ¼r Holz zu setzen. Sobald das gesetzte Limit
 			erreicht wird, wird vorerst kein weiteres Holz mehr produziert.
 			^n ";
 		}
