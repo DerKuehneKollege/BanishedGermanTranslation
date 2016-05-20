@@ -8,7 +8,7 @@ StringTable achievement
 		}
 		{
 			String _name = "SettlementDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 300 Einwohnern.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 300 Einwohnern.";
 		}
 		{
 			String _name = "Village";
@@ -16,7 +16,7 @@ StringTable achievement
 		}
 		{
 			String _name = "VillageDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 600 Einwohnern.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 600 Einwohnern.";
 		}
 		{
 			String _name = "Town";
@@ -24,7 +24,7 @@ StringTable achievement
 		}
 		{
 			String _name = "TownDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 900 Einwohnern.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 900 Einwohnern.";
 		}
 		{
 			String _name = "Educated";
@@ -32,7 +32,7 @@ StringTable achievement
 		}
 		{
 			String _name = "EducatedDesc";
-			String _text = "Lassen Sie eine Bevölkerung von 200 Erwachsenenen, in welcher jeder über Schulbildung verfügt, 4 Jahre lang überleben.";
+			String _text = "Lassen Sie eine BevÃ¶lkerung von 200 Erwachsenenen, in welcher jeder Ã¼ber Schulbildung verfÃ¼gt, 4 Jahre lang Ã¼berleben.";
 		}
 		{
 			String _name = "Uneducated";
@@ -40,15 +40,15 @@ StringTable achievement
 		}
 		{
 			String _name = "UneducatedDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 300 Einwohnern, ohne Schulen zu errichten.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 300 Einwohnern, ohne Schulen zu errichten.";
 		}
 		{
 			String _name = "JackofallTrades";
-			String _text = "Alleskönner";
+			String _text = "AlleskÃ¶nner";
 		}
 		{
 			String _name = "JackofallTradesDesc";
-			String _text = "Halten Sie 5 Jahre lang eine Stadt mit über 200 Einwohnern am Leben, in welcher jeder Beruf von mindestens einem Siedler ausgeübt wird.";
+			String _text = "Halten Sie 5 Jahre lang eine Stadt mit Ã¼ber 200 Einwohnern am Leben, in welcher jeder Beruf von mindestens einem Siedler ausgeÃ¼bt wird.";
 		}
 		{
 			String _name = "MountainMen";
@@ -56,7 +56,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MountainMenDesc";
-			String _text = "Halten Sie über 20 Jahre lang eine Bevölkerung von über 50 Einwohnern auf einer kleinen, bergigen Karte mit rauem Klima am Leben.";
+			String _text = "Halten Sie Ã¼ber 20 Jahre lang eine BevÃ¶lkerung von Ã¼ber 50 Einwohnern auf einer kleinen, bergigen Karte mit rauem Klima am Leben.";
 		}
 		{
 			String _name = "Tombstone";
@@ -64,7 +64,7 @@ StringTable achievement
 		}
 		{
 			String _name = "TombstoneDesc";
-			String _text = "Lassen Sie Friedhöfe auf mindestens 400 Gräber anwachsen.";
+			String _text = "Lassen Sie FriedhÃ¶fe auf mindestens 400 GrÃ¤ber anwachsen.";
 		}
 		{
 			String _name = "Blacksmith";
@@ -72,7 +72,7 @@ StringTable achievement
 		}
 		{
 			String _name = "BlacksmithDesc";
-			String _text = "Halten Sie bei einer Bevölkerung mit über 200 Erwachsenen 4 Jahre lang die Versorgung mit Stahlwerkzeug aufrecht.";
+			String _text = "Halten Sie bei einer BevÃ¶lkerung mit Ã¼ber 200 Erwachsenen 4 Jahre lang die Versorgung mit Stahlwerkzeug aufrecht.";
 		}
 		{
 			String _name = "Stylish";
@@ -80,7 +80,7 @@ StringTable achievement
 		}
 		{
 			String _name = "StylishDesc";
-			String _text = "Statten Sie eine Bevölkerung von über 200 Einwohnern 4 Jahre lang mit warmen Mänteln aus";
+			String _text = "Statten Sie eine BevÃ¶lkerung von Ã¼ber 200 Einwohnern 4 Jahre lang mit warmen MÃ¤nteln aus";
 		}
 		{
 			String _name = "Isolationist";
@@ -88,7 +88,7 @@ StringTable achievement
 		}
 		{
 			String _name = "IsolationistDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 300 Einwohnern, ohne einen Handelsposten zu bauen.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 300 Einwohnern, ohne einen Handelsposten zu bauen.";
 		}
 		{
 			String _name = "OnewithNature";
@@ -96,11 +96,11 @@ StringTable achievement
 		}
 		{
 			String _name = "OnewithNatureDesc";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 400 Einwohnern, ohne Äcker, Obstgärten oder Viehweiden zu errichten.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 400 Einwohnern, ohne Ã„cker, ObstgÃ¤rten oder Viehweiden zu errichten.";
 		}
 		{
 			String _name = "Trader";
-			String _text = "Händler";
+			String _text = "HÃ¤ndler";
 		}
 		{
 			String _name = "TraderDesc";
@@ -108,7 +108,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MasterTrader";
-			String _text = "Meisterhändler";
+			String _text = "MeisterhÃ¤ndler";
 		}
 		{
 			String _name = "MasterTraderDesc";
@@ -116,11 +116,11 @@ StringTable achievement
 		}
 		{
 			String _name = "Exports";
-			String _text = "Exportgüter";
+			String _text = "ExportgÃ¼ter";
 		}
 		{
 			String _name = "ExportsDesc";
-			String _text = "Statten Sie den Handelsposten mit mindestens 500 Einheiten Bier, 300 Einheiten Stahlwerkzeug und 200 warmen Mänteln aus.";
+			String _text = "Statten Sie den Handelsposten mit mindestens 500 Einheiten Bier, 300 Einheiten Stahlwerkzeug und 200 warmen MÃ¤nteln aus.";
 		}
 		{
 			String _name = "Firefighter";
@@ -144,7 +144,7 @@ StringTable achievement
 		}
 		{
 			String _name = "LivestockDesc";
-			String _text = "Errichten Sie eine Stadt, in welcher die Einwohner insgesamt 60 Rinder, 75 Schafe und 180 Hühner halten.";
+			String _text = "Errichten Sie eine Stadt, in welcher die Einwohner insgesamt 60 Rinder, 75 Schafe und 180 HÃ¼hner halten.";
 		}
 		{
 			String _name = "PlantVariety";
@@ -168,7 +168,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MasonDesc";
-			String _text = "Unterhalten Sie 3 Jahre lang mindestens 2 Steinbrüche mit jeweils 30 Arbeitern.";
+			String _text = "Unterhalten Sie 3 Jahre lang mindestens 2 SteinbrÃ¼che mit jeweils 30 Arbeitern.";
 		}
 		{
 			String _name = "Foodie";
@@ -176,7 +176,7 @@ StringTable achievement
 		}
 		{
 			String _name = "FoodieDesc";
-			String _text = "Produzieren Sie innerhalb eines Jahres jeweils mindestens 2.000 Einheiten Nahrung durch Jäger, Sammler, Fischer, Viehhaltung und Obstgärten.";
+			String _text = "Produzieren Sie innerhalb eines Jahres jeweils mindestens 2.000 Einheiten Nahrung durch JÃ¤ger, Sammler, Fischer, Viehhaltung und ObstgÃ¤rten.";
 		}
 		{
 			String _name = "Lumberjack";
@@ -208,7 +208,7 @@ StringTable achievement
 		}
 		{
 			String _name = "HighwaymenDesc";
-			String _text = "Errichten Sie eine Stadt, in der 2.000 Blöcke gepflasterte Straße verlegt wurden.";
+			String _text = "Errichten Sie eine Stadt, in der 2.000 BlÃ¶cke gepflasterte StraÃŸe verlegt wurden.";
 		}
 		{
 			String _name = "GoldenGate";
@@ -216,7 +216,7 @@ StringTable achievement
 		}
 		{
 			String _name = "GoldenGateDesc";
-			String _text = "Bauen Sie eine Brücke, die mindestens 50 Blöcke lang ist.";
+			String _text = "Bauen Sie eine BrÃ¼cke, die mindestens 50 BlÃ¶cke lang ist.";
 		}
 		{
 			String _name = "Immigrants";
@@ -224,7 +224,7 @@ StringTable achievement
 		}
 		{
 			String _name = "ImmigrantsDesc";
-			String _text = "Nehmen Sie 200 Nomaden als Bürger in Ihre Stadt auf.";
+			String _text = "Nehmen Sie 200 Nomaden als BÃ¼rger in Ihre Stadt auf.";
 		}
 		{
 			String _name = "Smilesallaround";
@@ -244,11 +244,11 @@ StringTable achievement
 		}
 		{
 			String _name = "BuiltfromStone";
-			String _text = "Aus Stein gemeißelt";
+			String _text = "Aus Stein gemeiÃŸelt";
 		}
 		{
 			String _name = "BuiltfromStoneDesc";
-			String _text = "Errichten Sie eine Stadt mit 100 Steinhäusern.";
+			String _text = "Errichten Sie eine Stadt mit 100 SteinhÃ¤usern.";
 		}
 		{
 			String _name = "ReadyforAnything";
@@ -256,7 +256,7 @@ StringTable achievement
 		}
 		{
 			String _name = "ReadyforAnythingDesc";
-			String _text = "Lagern Sie gleichzeitig 2.000 Einheiten Brennmaterial, 2.000 Einheiten Holz, 500 Einheiten Eisen, 200 Einheiten Werkzeug, 200 Mäntel und 30000 Einheiten Nahrung.";
+			String _text = "Lagern Sie gleichzeitig 2.000 Einheiten Brennmaterial, 2.000 Einheiten Holz, 500 Einheiten Eisen, 200 Einheiten Werkzeug, 200 MÃ¤ntel und 30000 Einheiten Nahrung.";
 		}
 		{
 			String _name = "Builder";
@@ -264,7 +264,7 @@ StringTable achievement
 		}
 		{
 			String _name = "BuilderDesc";
-			String _text = "Errichten Sie eine Stadt, in welcher jede Gebäudeart mindestens einmal gebaut wurde.";
+			String _text = "Errichten Sie eine Stadt, in welcher jede GebÃ¤udeart mindestens einmal gebaut wurde.";
 		}
 		{
 			String _name = "MasterBuilder";
@@ -272,7 +272,7 @@ StringTable achievement
 		}
 		{
 			String _name = "MasterBuilderDesc";
-			String _text = "Errichten Sie eine Stadt mit 3 Kirchen, 5 Notunterkünften, 4 Märkten, 5 Krankenhäusern, 2 Handelsposten, 6 Wirtshäusern und einem Rathaus.";
+			String _text = "Errichten Sie eine Stadt mit 3 Kirchen, 5 NotunterkÃ¼nften, 4 MÃ¤rkten, 5 KrankenhÃ¤usern, 2 Handelsposten, 6 WirtshÃ¤usern und einem Rathaus.";
 		}
 		{
 			String _name = "Established";
@@ -346,11 +346,11 @@ StringTable citizenActions
 		}
 		{
 			String _name = "AttainWarmth";
-			String _text = "friert und sucht sich einen Platz zum Aufwärmen.";
+			String _text = "friert und sucht sich einen Platz zum AufwÃ¤rmen.";
 		}
 		{
 			String _name = "PutOutFire";
-			String _text = "löscht ein Feuer!";
+			String _text = "lÃ¶scht ein Feuer!";
 		}
 		{
 			String _name = "AttainClothing";
@@ -358,7 +358,7 @@ StringTable citizenActions
 		}
 		{
 			String _name = "AttainHealth";
-			String _text = "besucht den Kräutersammler.";
+			String _text = "besucht den KrÃ¤utersammler.";
 		}
 		{
 			String _name = "AttainDoctor";
@@ -390,11 +390,11 @@ StringTable citizenActions
 		}
 		{
 			String _name = "Idle";
-			String _text = "ist untätig.";
+			String _text = "ist untÃ¤tig.";
 		}
 		{
 			String _name = "ReturnGoods";
-			String _text = "bringt Güter ins Lager.";
+			String _text = "bringt GÃ¼ter ins Lager.";
 		}
 		{
 			String _name = "FoodEmergency";
@@ -402,7 +402,7 @@ StringTable citizenActions
 		}
 		{
 			String _name = "ColdEmergency";
-			String _text = "sucht dringend einen Platz zum Aufwärmen.";
+			String _text = "sucht dringend einen Platz zum AufwÃ¤rmen.";
 		}
 		{
 			String _name = "MaxAction";
@@ -421,7 +421,7 @@ StringTable climate
 		}
 		{
 			String _name = "Fair";
-			String _text = "Gemäßigt";
+			String _text = "GemÃ¤ÃŸigt";
 		}
 		{
 			String _name = "Harsh";
@@ -471,7 +471,7 @@ StringTable common
 		}
 		{
 			String _name = "Apply";
-			String _text = "Übernehmen";
+			String _text = "Ãœbernehmen";
 		}
 		{
 			String _name = "Next";
@@ -572,7 +572,7 @@ StringTable events
 		}
 		{
 			String _name = "Event2";
-			String _text = "@0 @1: @2 (@3) ist an Altersschwäche gestorben.";
+			String _text = "@0 @1: @2 (@3) ist an AltersschwÃ¤che gestorben.";
 		}
 		{
 			String _name = "Event3";
@@ -588,7 +588,7 @@ StringTable events
 		}
 		{
 			String _name = "Event6";
-			String _text = "@0 @1: @2 (@3) ist während der Geburt gestorben.";
+			String _text = "@0 @1: @2 (@3) ist wÃ¤hrend der Geburt gestorben.";
 		}
 		{
 			String _name = "Event7";
@@ -600,7 +600,7 @@ StringTable events
 		}
 		{
 			String _name = "Event9";
-			String _text = "@0 @1: @2 ist erwachsen geworden und als @3 beschäftigt.";
+			String _text = "@0 @1: @2 ist erwachsen geworden und als @3 beschÃ¤ftigt.";
 		}
 		{
 			String _name = "Event10";
@@ -612,11 +612,11 @@ StringTable events
 		}
 		{
 			String _name = "Event12";
-			String _text = "@0 @1: Eine Agrarfläche (@2) ist von einem Schädling befallen!";
+			String _text = "@0 @1: Eine AgrarflÃ¤che (@2) ist von einem SchÃ¤dling befallen!";
 		}
 		{
 			String _name = "Event13";
-			String _text = "@0 @1: Ein fahrender Händler hat einen Handelsposten erreicht.";
+			String _text = "@0 @1: Ein fahrender HÃ¤ndler hat einen Handelsposten erreicht.";
 		}
 		{
 			String _name = "Event14";
@@ -628,39 +628,39 @@ StringTable events
 		}
 		{
 			String _name = "Event16";
-			String _text = "@0 @1: Es ist kein Arbeiter verfügbar, der @2 ersetzen kann.";
+			String _text = "@0 @1: Es ist kein Arbeiter verfÃ¼gbar, der @2 ersetzen kann.";
 		}
 		{
 			String _name = "Event17";
-			String _text = "@0 @1: Die Holzvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die HolzvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event18";
-			String _text = "@0 @1: Die Steinvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die SteinvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event19";
-			String _text = "@0 @1: Die Eisenvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die EisenvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event20";
-			String _text = "@0 @1: Die Brennholzvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die BrennholzvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event21";
-			String _text = "@0 @1: Die Werkzeugvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die WerkzeugvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event22";
-			String _text = "@0 @1: Die Lebensmittelvorräte sind fast aufgebraucht!";
+			String _text = "@0 @1: Die LebensmittelvorrÃ¤te sind fast aufgebraucht!";
 		}
 		{
 			String _name = "Event23";
-			String _text = "@0 @1: Die Lager für produzierte Güter sind nahezu voll!";
+			String _text = "@0 @1: Die Lager fÃ¼r produzierte GÃ¼ter sind nahezu voll!";
 		}
 		{
 			String _name = "Event24";
-			String _text = "@0 @1: Die Lager für Holz, Stein und Eisen sind fast voll!";
+			String _text = "@0 @1: Die Lager fÃ¼r Holz, Stein und Eisen sind fast voll!";
 		}
 		{
 			String _name = "Event25";
@@ -668,27 +668,27 @@ StringTable events
 		}
 		{
 			String _name = "Event26";
-			String _text = "Herzlichen Glückwunsch! Sie haben das Szenario '@2' erfolgreich abgeschlossen.";
+			String _text = "Herzlichen GlÃ¼ckwunsch! Sie haben das Szenario '@2' erfolgreich abgeschlossen.";
 		}
 		{
 			String _name = "Event27";
-			String _text = "Sie haben ein Ziel im Szenario '@2' nicht erfüllt!";
+			String _text = "Sie haben ein Ziel im Szenario '@2' nicht erfÃ¼llt!";
 		}
 		{
 			String _name = "Event28";
-			String _text = "Herzlichen Glückwunsch! Sie haben alle Ziele erreicht!";
+			String _text = "Herzlichen GlÃ¼ckwunsch! Sie haben alle Ziele erreicht!";
 		}
 		{
 			String _name = "Event29";
-			String _text = "Sie haben ein Ziel nicht erfüllt.";
+			String _text = "Sie haben ein Ziel nicht erfÃ¼llt.";
 		}
 		{
 			String _name = "Event30";
-			String _text = "In der Nähe Ihrer Stadt wütet ein Tornado!";
+			String _text = "In der NÃ¤he Ihrer Stadt wÃ¼tet ein Tornado!";
 		}
 		{
 			String _name = "Event31";
-			String _text = "Ein Gebäude ist in Brand geraten!";
+			String _text = "Ein GebÃ¤ude ist in Brand geraten!";
 		}
 	]
 }
@@ -723,19 +723,19 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyRemove";
-			String _text = "Dieses Gebäude wird zurzeit abgerissen.";
+			String _text = "Dieses GebÃ¤ude wird zurzeit abgerissen.";
 		}
 		{
 			String _name = "DestroyUpgrade";
-			String _text = "Dieses Gebäude wird zurzeit aufgewertet.";
+			String _text = "Dieses GebÃ¤ude wird zurzeit aufgewertet.";
 		}
 		{
 			String _name = "DestroyDamage";
-			String _text = "Dieses Gebäude wurde erheblich beschädigt.";
+			String _text = "Dieses GebÃ¤ude wurde erheblich beschÃ¤digt.";
 		}
 		{
 			String _name = "DestroyFixing";
-			String _text = "Dieses Gebäude wird zurzeit ersetzt.";
+			String _text = "Dieses GebÃ¤ude wird zurzeit ersetzt.";
 		}
 		{
 			String _name = "DestroyReclaim";
@@ -743,7 +743,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyReclaimTip";
-			String _text = "Abriss des Gebäudes des Gebäudes stoppen.";
+			String _text = "Abriss des GebÃ¤udes des GebÃ¤udes stoppen.";
 		}
 		{
 			String _name = "DestroyRebuild";
@@ -751,15 +751,15 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DestroyRebuildTip";
-			String _text = "Das beschädigte Gebäude wiederaufbauen.";
+			String _text = "Das beschÃ¤digte GebÃ¤ude wiederaufbauen.";
 		}
 		{
 			String _name = "DestroyDestroy";
-			String _text = "Abreißen";
+			String _text = "AbreiÃŸen";
 		}
 		{
 			String _name = "DestroyDestroyTip";
-			String _text = "Das beschädigte Gebäude abreißen.";
+			String _text = "Das beschÃ¤digte GebÃ¤ude abreiÃŸen.";
 		}
 		{
 			String _name = "TownNameTip";
@@ -803,7 +803,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StudentCount";
-			String _text = "@0 Schüler";
+			String _text = "@0 SchÃ¼ler";
 		}
 		{
 			String _name = "PatientCount";
@@ -819,7 +819,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "GraveCount";
-			String _text = "@0 von @1 Gräbern";
+			String _text = "@0 von @1 GrÃ¤bern";
 		}
 		{
 			String _name = "FollowCitizen";
@@ -851,11 +851,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PauseBuildTip";
-			String _text = "Materialbeschaffung und Bau des Gebäudes pausieren.";
+			String _text = "Materialbeschaffung und Bau des GebÃ¤udes pausieren.";
 		}
 		{
 			String _name = "CloseTip";
-			String _text = "Dieses Fenster schließen.";
+			String _text = "Dieses Fenster schlieÃŸen.";
 		}
 		{
 			String _name = "PinTip";
@@ -867,11 +867,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProductionTip";
-			String _text = "Produktionsstatistiken für diesen Ort anzeigen oder ausblenden.";
+			String _text = "Produktionsstatistiken fÃ¼r diesen Ort anzeigen oder ausblenden.";
 		}
 		{
 			String _name = "ClearAreaTip";
-			String _text = "Aus diesem Gebiet müssen zunächst Bäume, Steine und andere Hindernisse entfernt werden.";
+			String _text = "Aus diesem Gebiet mÃ¼ssen zunÃ¤chst BÃ¤ume, Steine und andere Hindernisse entfernt werden.";
 		}
 		{
 			String _name = "ResourceTip";
@@ -899,7 +899,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Overview";
-			String _text = "Übersicht";
+			String _text = "Ãœbersicht";
 		}
 		{
 			String _name = "Graphs";
@@ -911,7 +911,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Agri";
-			String _text = "Handelsgüter";
+			String _text = "HandelsgÃ¼ter";
 		}
 		{
 			String _name = "Nomads";
@@ -923,7 +923,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Order";
-			String _text = "Aufträge";
+			String _text = "AuftrÃ¤ge";
 		}
 		{
 			String _name = "Purchase";
@@ -943,11 +943,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PurchasePriorityTip";
-			String _text = "Eintrag verschieben, um die Einkaufspriorität einzustellen.";
+			String _text = "Eintrag verschieben, um die EinkaufsprioritÃ¤t einzustellen.";
 		}
 		{
 			String _name = "PurchaseCountTip";
-			String _text = "Die Anzahl Güter, die automatisch eingekauft werden.";
+			String _text = "Die Anzahl GÃ¼ter, die automatisch eingekauft werden.";
 		}
 		{
 			String _name = "TimeRange";
@@ -975,7 +975,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "WorkerCountTip";
-			String _text = "Anzahl Siedler, die an diesem Ort arbeiten. Klicken, um die Arbeiter auszuwählen.";
+			String _text = "Anzahl Siedler, die an diesem Ort arbeiten. Klicken, um die Arbeiter auszuwÃ¤hlen.";
 		}
 		{
 			String _name = "EnableSchoolTip";
@@ -983,15 +983,15 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProfessionCountTip";
-			String _text = "Die Gesamtzahl Arbeiter für diesen Beruf.";
+			String _text = "Die Gesamtzahl Arbeiter fÃ¼r diesen Beruf.";
 		}
 		{
 			String _name = "ProfessionJobsTip";
-			String _text = "Die Anzahl verfügbarer Plätze für diesen Beruf.";
+			String _text = "Die Anzahl verfÃ¼gbarer PlÃ¤tze fÃ¼r diesen Beruf.";
 		}
 		{
 			String _name = "ProfessionGotoTip";
-			String _text = "Siedler, die diesen Beruf ausüben, auswählen.";
+			String _text = "Siedler, die diesen Beruf ausÃ¼ben, auswÃ¤hlen.";
 		}
 		{
 			String _name = "CitizenGotoTip";
@@ -1003,7 +1003,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ForesterCut";
-			String _text = "Fällen";
+			String _text = "FÃ¤llen";
 		}
 		{
 			String _name = "ForesterPlant";
@@ -1011,7 +1011,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ForesterCutTip";
-			String _text = "Abholzen alter Baumbestände erlauben oder verbieten.";
+			String _text = "Abholzen alter BaumbestÃ¤nde erlauben oder verbieten.";
 		}
 		{
 			String _name = "ForesterPlantTip";
@@ -1019,7 +1019,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CropFieldCutTip";
-			String _text = "Dieses Feld unverzüglich abernten.";
+			String _text = "Dieses Feld unverzÃ¼glich abernten.";
 		}
 		{
 			String _name = "CropFieldAutoTip";
@@ -1031,7 +1031,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CropFieldPlant";
-			String _text = "Säen";
+			String _text = "SÃ¤en";
 		}
 		{
 			String _name = "CropFieldHarvest";
@@ -1043,7 +1043,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CropFieldSelect";
-			String _text = "Auswählen";
+			String _text = "AuswÃ¤hlen";
 		}
 		{
 			String _name = "ReturnToStorage";
@@ -1051,7 +1051,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ReturnToStorageTip";
-			String _text = "Falls aktiviert, werden alle Güter von den jeweiligen Produzenten unmittelbar ins Lager gebracht. Ansonsten wird der Transport von den allgemeinen Arbeitern vorgenommen.";
+			String _text = "Falls aktiviert, werden alle GÃ¼ter von den jeweiligen Produzenten unmittelbar ins Lager gebracht. Ansonsten wird der Transport von den allgemeinen Arbeitern vorgenommen.";
 		}
 		{
 			String _name = "ProductionCurrent";
@@ -1087,7 +1087,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "FuelLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Brennmaterial. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Brennmaterial. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "LogLimit";
@@ -1099,19 +1099,19 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "LogLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Holz. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Holz. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "HerbLimit";
-			String _text = "Kräuter-Limit";
+			String _text = "KrÃ¤uter-Limit";
 		}
 		{
 			String _name = "HerbLimitShort";
-			String _text = "Kräuter";
+			String _text = "KrÃ¤uter";
 		}
 		{
 			String _name = "HerbLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Kräutern. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an KrÃ¤utern. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "ToolLimit";
@@ -1123,7 +1123,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Werkzeug. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Werkzeug. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "IronLimit";
@@ -1135,7 +1135,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "IronLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Eisen. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Eisen. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "StoneLimit";
@@ -1147,7 +1147,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StoneLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Steinen. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Steinen. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "FoodLimit";
@@ -1159,7 +1159,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "FoodLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Nahrung. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Nahrung. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "ClothesLimit";
@@ -1171,7 +1171,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ClothesLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Kleidung. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Kleidung. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "TextileLimit";
@@ -1183,7 +1183,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TextileLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Textilien. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Textilien. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "AlcoholLimit";
@@ -1195,7 +1195,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "AlcoholLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Bier. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Bier. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "CoalLimit";
@@ -1207,11 +1207,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "CoalLimitTip";
-			String _text = "Steuert die maximale Lagermenge an Kohle. Wenn dieses Limit überschritten wird, wird die Produktion automatisch eingestellt.";
+			String _text = "Steuert die maximale Lagermenge an Kohle. Wenn dieses Limit Ã¼berschritten wird, wird die Produktion automatisch eingestellt.";
 		}
 		{
 			String _name = "VegetableLimitShort";
-			String _text = "Gemüse";
+			String _text = "GemÃ¼se";
 		}
 		{
 			String _name = "FruitLimitShort";
@@ -1231,7 +1231,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "OrchardHarvestTip";
-			String _text = "Den Obstgarten unverzüglich abernten.";
+			String _text = "Den Obstgarten unverzÃ¼glich abernten.";
 		}
 		{
 			String _name = "OrchardAutoTip";
@@ -1239,11 +1239,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "OrchardSelectTip";
-			String _text = "Die hier anzupflanzende Obstbaumart auswählen.";
+			String _text = "Die hier anzupflanzende Obstbaumart auswÃ¤hlen.";
 		}
 		{
 			String _name = "OrchardCutTip";
-			String _text = "Alle Bäume in diesem Obstgarten abholzen.";
+			String _text = "Alle BÃ¤ume in diesem Obstgarten abholzen.";
 		}
 		{
 			String _name = "OrchardCut";
@@ -1259,23 +1259,23 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PastureEmptyTip";
-			String _text = "Sämtliches Nutzvieh von dieser Weide entfernen. Benötigt eine andere genügend große Weide, auf welche das Vieh geschickt werden kann.";
+			String _text = "SÃ¤mtliches Nutzvieh von dieser Weide entfernen. BenÃ¶tigt eine andere genÃ¼gend groÃŸe Weide, auf welche das Vieh geschickt werden kann.";
 		}
 		{
 			String _name = "PastureSplitTip";
-			String _text = "Die Hälfte des Viehbestands auf eine andere Weide schicken. Die als Ziel ausgewählte Weide muss dafür groß genug sein.";
+			String _text = "Die HÃ¤lfte des Viehbestands auf eine andere Weide schicken. Die als Ziel ausgewÃ¤hlte Weide muss dafÃ¼r groÃŸ genug sein.";
 		}
 		{
 			String _name = "PastureSelectTip";
-			String _text = "Viehart auswählen, welche auf dieser Weide gehalten werden soll. Die Auswahl kann nur getroffen werden, wenn die Weide leer ist.";
+			String _text = "Viehart auswÃ¤hlen, welche auf dieser Weide gehalten werden soll. Die Auswahl kann nur getroffen werden, wenn die Weide leer ist.";
 		}
 		{
 			String _name = "HerdSize";
-			String _text = "Herdengröße";
+			String _text = "HerdengrÃ¶ÃŸe";
 		}
 		{
 			String _name = "HerdSizeTip";
-			String _text = "Steuert die Anzahl Tiere, welche auf dieser Weide gehalten werden. Wird diese Anzahl überschritten, wird das Vieh geschlachtet.";
+			String _text = "Steuert die Anzahl Tiere, welche auf dieser Weide gehalten werden. Wird diese Anzahl Ã¼berschritten, wird das Vieh geschlachtet.";
 		}
 		{
 			String _name = "Trade";
@@ -1287,7 +1287,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DismissTip";
-			String _text = "Den fahrenden Händler wegschicken, ohne das ein Handel zustande kommt.";
+			String _text = "Den fahrenden HÃ¤ndler wegschicken, ohne das ein Handel zustande kommt.";
 		}
 		{
 			String _name = "Total";
@@ -1295,11 +1295,11 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "DesiredTradeTip";
-			String _text = "Gewünschte Anzahl Artikel, welche in dem Handelsposten gelagert werden sollen.";
+			String _text = "GewÃ¼nschte Anzahl Artikel, welche in dem Handelsposten gelagert werden sollen.";
 		}
 		{
 			String _name = "TradeStoredTip";
-			String _text = "Anzahl der für den Handel verfügbaren Artikel.";
+			String _text = "Anzahl der fÃ¼r den Handel verfÃ¼gbaren Artikel.";
 		}
 		{
 			String _name = "TradeSellValueTip";
@@ -1315,7 +1315,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TradeNotEnough";
-			String _text = "Es müssen noch @0 Einheiten verkauft werden.";
+			String _text = "Es mÃ¼ssen noch @0 Einheiten verkauft werden.";
 		}
 		{
 			String _name = "TradeTooMuch";
@@ -1323,7 +1323,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "TradeNoStorage";
-			String _text = "Nicht genügend Platz vorhanden, um alle gehandelten Artikel zu lagern.";
+			String _text = "Nicht genÃ¼gend Platz vorhanden, um alle gehandelten Artikel zu lagern.";
 		}
 		{
 			String _name = "TradeDesired";
@@ -1351,7 +1351,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "PopulationTip";
-			String _text = "Bevölkerungszahl (Erwachsene / Schüler / Kinder)";
+			String _text = "BevÃ¶lkerungszahl (Erwachsene / SchÃ¼ler / Kinder)";
 		}
 		{
 			String _name = "WoodTip";
@@ -1379,7 +1379,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HerbsTip";
-			String _text = "Gesamtlagermenge Kräuter";
+			String _text = "Gesamtlagermenge KrÃ¤uter";
 		}
 		{
 			String _name = "ClothesTip";
@@ -1407,27 +1407,27 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StatusHomeTip";
-			String _text = "Es gibt obdachlose Siedler! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt obdachlose Siedler! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusFoodTip";
-			String _text = "Es gibt hungernde Siedler! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt hungernde Siedler! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusColdTip";
-			String _text = "Es gibt frierende Siedler! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt frierende Siedler! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusJobTip";
-			String _text = "Es gibt Siedler ohne Arbeit! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt Siedler ohne Arbeit! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusToolTip";
-			String _text = "Es gibt Siedler ohne Werkzeug! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt Siedler ohne Werkzeug! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusDiseaseTip";
-			String _text = "Es gibt Siedler, die an einer Krankheit leiden! Klicken Sie hier, um durch diese durchzuwählen.";
+			String _text = "Es gibt Siedler, die an einer Krankheit leiden! Klicken Sie hier, um durch diese durchzuwÃ¤hlen.";
 		}
 		{
 			String _name = "StatusHome2Tip";
@@ -1459,7 +1459,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "MaleTip";
-			String _text = "männlich";
+			String _text = "mÃ¤nnlich";
 		}
 		{
 			String _name = "CitizenName";
@@ -1515,7 +1515,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProductTip";
-			String _text = "Steuert den Produkttyp, der in diesem Gebäude gefertigt wird.";
+			String _text = "Steuert den Produkttyp, der in diesem GebÃ¤ude gefertigt wird.";
 		}
 		{
 			String _name = "Stats";
@@ -1563,7 +1563,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Homes";
-			String _text = "Wohnhäuser";
+			String _text = "WohnhÃ¤user";
 		}
 		{
 			String _name = "Citizens";
@@ -1575,7 +1575,7 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "Students";
-			String _text = "Schüler";
+			String _text = "SchÃ¼ler";
 		}
 		{
 			String _name = "Children";
@@ -1607,35 +1607,35 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "HelpBackTip";
-			String _text = "Eine Seite zurückblättern.";
+			String _text = "Eine Seite zurÃ¼ckblÃ¤ttern.";
 		}
 		{
 			String _name = "HelpForwardTip";
-			String _text = "Eine Seite weiterblättern.";
+			String _text = "Eine Seite weiterblÃ¤ttern.";
 		}
 		{
 			String _name = "BuildingStatusPausedTip";
-			String _text = "Konstruktion dieses Gebäudes wurde pausiert.";
+			String _text = "Konstruktion dieses GebÃ¤udes wurde pausiert.";
 		}
 		{
 			String _name = "BuildingStatusDisabledTip";
-			String _text = "Arbeit in diesem Gebäude wurde deaktiviert.";
+			String _text = "Arbeit in diesem GebÃ¤ude wurde deaktiviert.";
 		}
 		{
 			String _name = "BuildingStatusLimitTip";
-			String _text = "Das Produktionslimit für diese Ressource wurde erreicht.";
+			String _text = "Das Produktionslimit fÃ¼r diese Ressource wurde erreicht.";
 		}
 		{
 			String _name = "BuildingStatusNoWorkTip";
-			String _text = "Die zur Arbeit benötigten Materialien sind nicht verfügbar.";
+			String _text = "Die zur Arbeit benÃ¶tigten Materialien sind nicht verfÃ¼gbar.";
 		}
 		{
 			String _name = "BuildingStatusNoWorkersTip";
-			String _text = "Es ist kein Siedler zur Arbeit in diesem Gebäude verfügbar.";
+			String _text = "Es ist kein Siedler zur Arbeit in diesem GebÃ¤ude verfÃ¼gbar.";
 		}
 		{
 			String _name = "BuildingStatusDestroyTip";
-			String _text = "Dieses Gebäude wird zurzeit abgerissen.";
+			String _text = "Dieses GebÃ¤ude wird zurzeit abgerissen.";
 		}
 		{
 			String _name = "ThisYear";
@@ -1647,23 +1647,23 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "EventNotifyDeathOldTip";
-			String _text = "Benachrichtigungen über Todesfälle durch Altersschwäche aktivieren.";
+			String _text = "Benachrichtigungen Ã¼ber TodesfÃ¤lle durch AltersschwÃ¤che aktivieren.";
 		}
 		{
 			String _name = "EventNotifyDeathTip";
-			String _text = "Benachrichtigungen über Todesfälle aktivieren.";
+			String _text = "Benachrichtigungen Ã¼ber TodesfÃ¤lle aktivieren.";
 		}
 		{
 			String _name = "EventNotifyDisasterTip";
-			String _text = "Benachrichtigungen über Katastrophen aktivieren.";
+			String _text = "Benachrichtigungen Ã¼ber Katastrophen aktivieren.";
 		}
 		{
 			String _name = "EventNotifyStorageTip";
-			String _text = "Benachrichtigungen über Ressourcen und Lagerstand aktivieren.";
+			String _text = "Benachrichtigungen Ã¼ber Ressourcen und Lagerstand aktivieren.";
 		}
 		{
 			String _name = "EventNotifyTownTip";
-			String _text = "Benachrichtigungen über allgemeine Stadtereignisse aktivieren.";
+			String _text = "Benachrichtigungen Ã¼ber allgemeine Stadtereignisse aktivieren.";
 		}
 	]
 }
@@ -1694,7 +1694,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Mouse_Left";
-			String _text = "Primäre Aktion";
+			String _text = "PrimÃ¤re Aktion";
 		}
 		{
 			String _name = "Mouse_Right";
@@ -1706,7 +1706,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Cancel";
-			String _text = "Menü/Pause";
+			String _text = "MenÃ¼/Pause";
 		}
 		{
 			String _name = "Camera_RotateLeft";
@@ -1718,11 +1718,11 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Camera_Forward";
-			String _text = "Kamera vorwärts";
+			String _text = "Kamera vorwÃ¤rts";
 		}
 		{
 			String _name = "Camera_Back";
-			String _text = "Kamera rückwärts";
+			String _text = "Kamera rÃ¼ckwÃ¤rts";
 		}
 		{
 			String _name = "Camera_Left";
@@ -1742,7 +1742,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Camera_PitchUp";
-			String _text = "Kameraneigung erhöhen";
+			String _text = "Kameraneigung erhÃ¶hen";
 		}
 		{
 			String _name = "Camera_PitchDown";
@@ -1750,15 +1750,15 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Structure_Left";
-			String _text = "Gebäude links rotieren";
+			String _text = "GebÃ¤ude links rotieren";
 		}
 		{
 			String _name = "Structure_Right";
-			String _text = "Gebäude rechts rotieren";
+			String _text = "GebÃ¤ude rechts rotieren";
 		}
 		{
 			String _name = "Structure_Type";
-			String _text = "Gebäudeoptik ändern";
+			String _text = "GebÃ¤udeoptik Ã¤ndern";
 		}
 		{
 			String _name = "Toggle_PathMethod";
@@ -1782,7 +1782,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Toolbar3";
-			String _text = "Straßen und Brücken";
+			String _text = "StraÃŸen und BrÃ¼cken";
 		}
 		{
 			String _name = "Toolbar4";
@@ -1790,7 +1790,7 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Toolbar5";
-			String _text = "Stadtgebäude";
+			String _text = "StadtgebÃ¤ude";
 		}
 		{
 			String _name = "Toolbar6";
@@ -1915,7 +1915,7 @@ StringTable graphKeys
 	[ 
 		{
 			String _name = "Record0";
-			String _text = "Bevölkerung";
+			String _text = "BevÃ¶lkerung";
 		}
 		{
 			String _name = "Record1";
@@ -1923,7 +1923,7 @@ StringTable graphKeys
 		}
 		{
 			String _name = "Record2";
-			String _text = "Schüler";
+			String _text = "SchÃ¼ler";
 		}
 		{
 			String _name = "Record3";
@@ -2019,7 +2019,7 @@ StringTable graphKeys
 		}
 		{
 			String _name = "Record26";
-			String _text = "Kräuter";
+			String _text = "KrÃ¤uter";
 		}
 		{
 			String _name = "Record27";
@@ -2074,7 +2074,7 @@ StringTable graphTypes
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "Bevölkerung";
+			String _text = "BevÃ¶lkerung";
 		}
 		{
 			String _name = "Type1";
@@ -2110,7 +2110,7 @@ StringTable graphTypes
 		}
 		{
 			String _name = "Type9";
-			String _text = "Kräuter";
+			String _text = "KrÃ¤uter";
 		}
 		{
 			String _name = "Type10";
@@ -2191,7 +2191,7 @@ StringTable inventoryType
 		}
 		{
 			String _name = "Type2";
-			String _text = "Artikel in Wohnhäusern";
+			String _text = "Artikel in WohnhÃ¤usern";
 		}
 	]
 }
@@ -2757,19 +2757,19 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading1";
-			String _text = "(Berge aufschütten)";
+			String _text = "(Berge aufschÃ¼tten)";
 		}
 		{
 			String _name = "Loading2";
-			String _text = "(Seen und Flüsse befüllen)";
+			String _text = "(Seen und FlÃ¼sse befÃ¼llen)";
 		}
 		{
 			String _name = "Loading3";
-			String _text = "(Täler einebnen)";
+			String _text = "(TÃ¤ler einebnen)";
 		}
 		{
 			String _name = "Loading4";
-			String _text = "(Gelände aushöhlen)";
+			String _text = "(GelÃ¤nde aushÃ¶hlen)";
 		}
 		{
 			String _name = "Loading5";
@@ -2785,7 +2785,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading8";
-			String _text = "(Flüsse mit Fischen auffüllen)";
+			String _text = "(FlÃ¼sse mit Fischen auffÃ¼llen)";
 		}
 		{
 			String _name = "Loading9";
@@ -2801,7 +2801,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading12";
-			String _text = "(Gelände grün einfärben)";
+			String _text = "(GelÃ¤nde grÃ¼n einfÃ¤rben)";
 		}
 		{
 			String _name = "Loading13";
@@ -2809,7 +2809,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading14";
-			String _text = "(Kräutern beim Wachsen zuschauen)";
+			String _text = "(KrÃ¤utern beim Wachsen zuschauen)";
 		}
 		{
 			String _name = "Loading15";
@@ -2821,15 +2821,15 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading17";
-			String _text = "(Zufallsgenerator überprüfen)";
+			String _text = "(Zufallsgenerator Ã¼berprÃ¼fen)";
 		}
 		{
 			String _name = "Loading18";
-			String _text = "(Brandschutzmaßnahmen umsetzen)";
+			String _text = "(BrandschutzmaÃŸnahmen umsetzen)";
 		}
 		{
 			String _name = "Loading19";
-			String _text = "(einen aufkeimenden Tornado besänftigen)";
+			String _text = "(einen aufkeimenden Tornado besÃ¤nftigen)";
 		}
 		{
 			String _name = "Loading20";
@@ -2837,15 +2837,15 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading21";
-			String _text = "(Kleidung für den Spielbeginn weben)";
+			String _text = "(Kleidung fÃ¼r den Spielbeginn weben)";
 		}
 		{
 			String _name = "Loading22";
-			String _text = "(Apfelbäume pflanzen)";
+			String _text = "(ApfelbÃ¤ume pflanzen)";
 		}
 		{
 			String _name = "Loading23";
-			String _text = "(Güter mit den Ureinwohnern handeln)";
+			String _text = "(GÃ¼ter mit den Ureinwohnern handeln)";
 		}
 		{
 			String _name = "Loading24";
@@ -2857,7 +2857,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading26";
-			String _text = "(Zufallsnamen für Stadtbewohner kreieren)";
+			String _text = "(Zufallsnamen fÃ¼r Stadtbewohner kreieren)";
 		}
 		{
 			String _name = "Loading27";
@@ -2869,7 +2869,7 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading29";
-			String _text = "(Blumen bestäuben)";
+			String _text = "(Blumen bestÃ¤uben)";
 		}
 		{
 			String _name = "Loading30";
@@ -2893,19 +2893,19 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading35";
-			String _text = "(mit den fahrenden Händlern feilschen)";
+			String _text = "(mit den fahrenden HÃ¤ndlern feilschen)";
 		}
 		{
 			String _name = "Loading36";
-			String _text = "(Auftauchen von Kobolden unterdrücken)";
+			String _text = "(Auftauchen von Kobolden unterdrÃ¼cken)";
 		}
 		{
 			String _name = "Loading37";
-			String _text = "(Kühe melken)";
+			String _text = "(KÃ¼he melken)";
 		}
 		{
 			String _name = "Loading38";
-			String _text = "(Hühnereier verstecken)";
+			String _text = "(HÃ¼hnereier verstecken)";
 		}
 	]
 }
@@ -2916,23 +2916,23 @@ StringTable modUpload
 	[
 		{
 			String _name = "UserAgreement";
-			String _text = "Durch das Hochladen dieser Mod erklären Sie sich mit den Nutzungsbedingungen vom Steam Workshop einverstanden. Klicken Sie auf den unteren Link, um sich die Nutzungsbedingungen durchzulesen.";
+			String _text = "Durch das Hochladen dieser Mod erklÃ¤ren Sie sich mit den Nutzungsbedingungen vom Steam Workshop einverstanden. Klicken Sie auf den unteren Link, um sich die Nutzungsbedingungen durchzulesen.";
 		}
 		{
             String _name = "BeginSearch";
-            String _text = "Suche nach bisher veröffentlichten Mods...";
+            String _text = "Suche nach bisher verÃ¶ffentlichten Mods...";
         }
 		{
             String _name = "Searching";
-            String _text = "Suche nach bisher veröffentlichten Mods...";
+            String _text = "Suche nach bisher verÃ¶ffentlichten Mods...";
         }
 		{
             String _name = "SearchFailed";
-            String _text = "Es konnten keine bisher veröffentlichten Mods gefunden werden oder es ist ein Fehler während der Suche aufgetreten.";
+            String _text = "Es konnten keine bisher verÃ¶ffentlichten Mods gefunden werden oder es ist ein Fehler wÃ¤hrend der Suche aufgetreten.";
         }
 		{
             String _name = "SearchComplete";
-            String _text = "Klicken Sie im Steam Workshop auf die Mod, die Sie aktualisieren möchten.";
+            String _text = "Klicken Sie im Steam Workshop auf die Mod, die Sie aktualisieren mÃ¶chten.";
         }
 		{
             String _name = "SearchConfirm";
@@ -2940,7 +2940,7 @@ StringTable modUpload
         }
 		{
             String _name = "ChangeNote";
-            String _text = "Sie können in einer Notiz angeben, welche Änderungen mit dieser Mod-Version vorgenommen wurden.";
+            String _text = "Sie kÃ¶nnen in einer Notiz angeben, welche Ã„nderungen mit dieser Mod-Version vorgenommen wurden.";
         }
 		{
             String _name = "BeginCreate";
@@ -2976,11 +2976,11 @@ StringTable modUpload
         }
 		{
             String _name = "FinishedCreate";
-            String _text = "'@0' wurde erfolgreich erstellt und zum Steam Workshop hochgeladen.~n~nBesuchen Sie den unten angezeigten Link, um Änderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
+            String _text = "'@0' wurde erfolgreich erstellt und zum Steam Workshop hochgeladen.~n~nBesuchen Sie den unten angezeigten Link, um Ã„nderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
         }
 		{
             String _name = "FinishedUpdate";
-            String _text = "'@0' wurde erfolgreich beim Steam Workshop aktualisiert.~n~nBesuchen Sie den unten angezeigten Link, um Änderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
+            String _text = "'@0' wurde erfolgreich beim Steam Workshop aktualisiert.~n~nBesuchen Sie den unten angezeigten Link, um Ã„nderungen am Eintrag auf der Seite vom Steam Workshop vorzunehmen.";
         }
 	]
 }
@@ -3110,7 +3110,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModAdd";
-			String _text = "Hinzufügen";
+			String _text = "HinzufÃ¼gen";
 		}
 		{
 			String _name = "ModUpdate";
@@ -3118,7 +3118,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModCreate";
-			String _text = "Zum Workshop hinzufügen";
+			String _text = "Zum Workshop hinzufÃ¼gen";
 		}
 		{
 			String _name = "ModUpdating";
@@ -3134,7 +3134,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModUpdateAvailable";
-			String _text = "Aktualisierungen verfügbar.";
+			String _text = "Aktualisierungen verfÃ¼gbar.";
 		}
 		{
 			String _name = "ModSubscribeTip";
@@ -3142,7 +3142,7 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModSearchError";
-			String _text = "Während der Suche ist ein Fehler aufgetreten. Versuchen Sie es später nochmal.";
+			String _text = "WÃ¤hrend der Suche ist ein Fehler aufgetreten. Versuchen Sie es spÃ¤ter nochmal.";
 		}
 		{
 			String _name = "ModSearchNone";
@@ -3154,15 +3154,15 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModUpdateReload";
-			String _text = "Eine oder mehrere Mods wurden heruntergeladen oder aktualisiert. Ein Klick auf diesen Button startet das Spiel neu und macht die Verwendung der Mods möglich. Ansonsten sind die neuen Mods verfügbar, sobald das nächste mal ein Spiel oder das Hauptmenü geladen wird.";
+			String _text = "Eine oder mehrere Mods wurden heruntergeladen oder aktualisiert. Ein Klick auf diesen Button startet das Spiel neu und macht die Verwendung der Mods mÃ¶glich. Ansonsten sind die neuen Mods verfÃ¼gbar, sobald das nÃ¤chste mal ein Spiel oder das HauptmenÃ¼ geladen wird.";
 		}
 		{
 			String _name = "ModConflictTitle";
-			String _text = "^jl^f1^c0Konflikte^f0^n Diese Mod steht möglicherweise in Konflikt mit den unten aufgelisteten Mods. Die in Konflikt stehenden Einträge sind ^c1in orange hervorgehoben^c0.";
+			String _text = "^jl^f1^c0Konflikte^f0^n Diese Mod steht mÃ¶glicherweise in Konflikt mit den unten aufgelisteten Mods. Die in Konflikt stehenden EintrÃ¤ge sind ^c1in orange hervorgehoben^c0.";
 		}
 		{
 			String _name = "ModResourceTitle";
-			String _text = "^jl^f1^c0Ressourcen^f0^n Die in der Mod enthaltenen Ressourcen sind unten aufgelistet. ^c1In orange hervorgehobene^c0 Einträge sind Dateien, die in Konflikt mit einer anderen Mod stehen, in diesem Fall werden die Dateien dieser Mod verwendet. Einträge, die ^c2in gelb hervorgehoben^c0 sind, stehen ebenfalls in Konflikt mit einer anderen Mod, werden aber nicht geladen.";
+			String _text = "^jl^f1^c0Ressourcen^f0^n Die in der Mod enthaltenen Ressourcen sind unten aufgelistet. ^c1In orange hervorgehobene^c0 EintrÃ¤ge sind Dateien, die in Konflikt mit einer anderen Mod stehen, in diesem Fall werden die Dateien dieser Mod verwendet. EintrÃ¤ge, die ^c2in gelb hervorgehoben^c0 sind, stehen ebenfalls in Konflikt mit einer anderen Mod, werden aber nicht geladen.";
 		}
 		{
             String _name = "ModUserAgreement";
@@ -3182,11 +3182,11 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModUpTip";
-			String _text = "Verschiebt Mod aufwärts in der Liste.";
+			String _text = "Verschiebt Mod aufwÃ¤rts in der Liste.";
 		}
 		{
 			String _name = "ModDownTip";
-			String _text = "Verschiebt Mod abwärts in der Liste.";
+			String _text = "Verschiebt Mod abwÃ¤rts in der Liste.";
 		}
 		{
 			String _name = "ModLoadedTip";
@@ -3215,25 +3215,25 @@ StringTable mainMenu
 @0 [@1]
 Gespeichert mit Version @2
 
-Das Laden dieses Spielstands kann unerwartete Phänomene oder Spielabstürze zur Folge haben. Wollen Sie diesen Spielstand trotzdem laden?";
+Das Laden dieses Spielstands kann unerwartete PhÃ¤nomene oder SpielabstÃ¼rze zur Folge haben. Wollen Sie diesen Spielstand trotzdem laden?";
 		}
 		{
 			String _name = "ModOutOfDate";
-			String _text = "Die folgende Mod ist veraltet. Ihr Datenformat wird nicht länger unterstützt.
+			String _text = "Die folgende Mod ist veraltet. Ihr Datenformat wird nicht lÃ¤nger unterstÃ¼tzt.
 
 @0 [@1]
 Gespeichert mit Version @2
 
-Das Laden dieses Spielstands kann unerwartete Phänomene oder Spielabstürze zur Folge haben. Wollen Sie diesen Spielstand trotzdem laden?";
+Das Laden dieses Spielstands kann unerwartete PhÃ¤nomene oder SpielabstÃ¼rze zur Folge haben. Wollen Sie diesen Spielstand trotzdem laden?";
 		}
 		{
 			String _name = "ModDifferentVersion";
-			String _text = "Die folgende Mod hat eine geänderte Version.
+			String _text = "Die folgende Mod hat eine geÃ¤nderte Version.
 
 @0 [@1]
 NGespeichert mit Version @2
 
-Der Autor der Mod könnte lediglich eine Aktualisierung der Mod mit Fehlerkorrekturen oder neuen Funktionen vorgenommen haben, allerdings kann das Laden dieses Spielstands unerwartete Folgen bzw. Spielabstürze zur Folge haben. Soll der Spielstand trotzdem geladen werden?";
+Der Autor der Mod kÃ¶nnte lediglich eine Aktualisierung der Mod mit Fehlerkorrekturen oder neuen Funktionen vorgenommen haben, allerdings kann das Laden dieses Spielstands unerwartete Folgen bzw. SpielabstÃ¼rze zur Folge haben. Soll der Spielstand trotzdem geladen werden?";
 		}
 		{
 			String _name = "ModChanged";
@@ -3242,27 +3242,27 @@ Der Autor der Mod könnte lediglich eine Aktualisierung der Mod mit Fehlerkorrekt
 @0 [@1]
 Gespeichert mit Version @2
 
-Es ist möglich, dass der Autor die Mod aktualisiert hat, ohne die Versionsnummer anzupassen oder dass eine Mod mit demselben Namen die alte Mod überschrieben hat. Beim Laden dieses Spielstands kann es zu unerwarteten Folgen bzw. Spielabstürzen kommen. Soll der Spielstand trotzdem geladen werden?";
+Es ist mÃ¶glich, dass der Autor die Mod aktualisiert hat, ohne die Versionsnummer anzupassen oder dass eine Mod mit demselben Namen die alte Mod Ã¼berschrieben hat. Beim Laden dieses Spielstands kann es zu unerwarteten Folgen bzw. SpielabstÃ¼rzen kommen. Soll der Spielstand trotzdem geladen werden?";
 		}
 		{
 			String _name = "ReloadMenu";
-			String _text = "Das Menü muss nach Änderung der aktivierten Mods neu geladen werden.
+			String _text = "Das MenÃ¼ muss nach Ã„nderung der aktivierten Mods neu geladen werden.
 
-Wollen Sie die Änderungen übernehmen und die Ansicht aktualisieren?";
+Wollen Sie die Ã„nderungen Ã¼bernehmen und die Ansicht aktualisieren?";
 		}
 		{
 			String _name = "ReloadGame";
-			String _text = "Das Spiel muss nach Änderung der aktivierten Mods neu geladen werden.
+			String _text = "Das Spiel muss nach Ã„nderung der aktivierten Mods neu geladen werden.
 
-Neustarten mit veränderten Mods, während ein Spiel läuft, kann unerwartete Auswirkungen auf das Spiel haben bzw. zu Spielabstürzen führen.
+Neustarten mit verÃ¤nderten Mods, wÃ¤hrend ein Spiel lÃ¤uft, kann unerwartete Auswirkungen auf das Spiel haben bzw. zu SpielabstÃ¼rzen fÃ¼hren.
 
-Wollen Sie die Änderungen übernehmen und die Ansicht aktualisieren?";
+Wollen Sie die Ã„nderungen Ã¼bernehmen und die Ansicht aktualisieren?";
 		}
 		{
 			String _name = "ModConflict";
-			String _text = "Diese Mod enthält Ressourcen, die in Konflikt zu einer anderen aktivierten Mod stehen (rot hervorgehoben). Dies kann unerwartete Auswirkungen auf das Spiel haben.
+			String _text = "Diese Mod enthÃ¤lt Ressourcen, die in Konflikt zu einer anderen aktivierten Mod stehen (rot hervorgehoben). Dies kann unerwartete Auswirkungen auf das Spiel haben.
 
-Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktiviert.";
+Es werden bei Konflikten die jeweils hÃ¶her platzierten Mods bevorzugt und aktiviert.";
 		}
 		{
 			String _name = "ResumeGame";
@@ -3274,7 +3274,7 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "DeleteGame";
-			String _text = "Löschen";
+			String _text = "LÃ¶schen";
 		}
 		{
 			String _name = "TownName";
@@ -3286,11 +3286,11 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "Terrain";
-			String _text = "Geländetyp";
+			String _text = "GelÃ¤ndetyp";
 		}
 		{
 			String _name = "TerrainSize";
-			String _text = "Terraingröße";
+			String _text = "TerraingrÃ¶ÃŸe";
 		}
 		{
 			String _name = "Climate";
@@ -3298,11 +3298,11 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "NewNameTip";
-			String _text = "Einen neuen zufälligen Stadtnamen generieren.";
+			String _text = "Einen neuen zufÃ¤lligen Stadtnamen generieren.";
 		}
 		{
 			String _name = "NewSeedTip";
-			String _text = "Einen neuen zufälligen Karten-Seed generieren.";
+			String _text = "Einen neuen zufÃ¤lligen Karten-Seed generieren.";
 		}
 		{
 			String _name = "StartCondition";
@@ -3342,11 +3342,11 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "Resolution";
-			String _text = "Auflösung";
+			String _text = "AuflÃ¶sung";
 		}
 		{
 			String _name = "Antialiasing";
-			String _text = "Kantenglättung";
+			String _text = "KantenglÃ¤ttung";
 		}
 		{
 			String _name = "Fullscreen";
@@ -3362,15 +3362,15 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "ShadowResolution";
-			String _text = "Schattenauflösung";
+			String _text = "SchattenauflÃ¶sung";
 		}
 		{
 			String _name = "ShadowQuality";
-			String _text = "Schattenqualität";
+			String _text = "SchattenqualitÃ¤t";
 		}
 		{
 			String _name = "ReflectionQuality";
-			String _text = "Reflektionsqualität";
+			String _text = "ReflektionsqualitÃ¤t";
 		}
 		{
 			String _name = "SoftwareMouse";
@@ -3378,7 +3378,7 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "Bind";
-			String _text = "Drücken Sie eine beliebige Taste um sie '@0' zuzuordnen.";
+			String _text = "DrÃ¼cken Sie eine beliebige Taste um sie '@0' zuzuordnen.";
 		}
 		{
 			String _name = "Unbind";
@@ -3410,7 +3410,7 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "ReturnMenuTip";
-			String _text = "Zum Hauptmenü zurückkehren.";
+			String _text = "Zum HauptmenÃ¼ zurÃ¼ckkehren.";
 		}
 		{
 			String _name = "ResumeGameTip";
@@ -3418,11 +3418,11 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "TutorialTip";
-			String _text = "Tutorials spielen, die in die grundlegenden Spielmechaniken einführen.";
+			String _text = "Tutorials spielen, die in die grundlegenden Spielmechaniken einfÃ¼hren.";
 		}
 		{
 			String _name = "AchievementTip";
-			String _text = "Errungenschaften und erfüllte Ziele anzeigen.";
+			String _text = "Errungenschaften und erfÃ¼llte Ziele anzeigen.";
 		}
 		{
 			String _name = "ModTip";
@@ -3450,31 +3450,31 @@ Es werden bei Konflikten die jeweils höher platzierten Mods bevorzugt und aktivi
 		}
 		{
 			String _name = "VolumeUI";
-			String _text = "UI-Lautstärke";
+			String _text = "UI-LautstÃ¤rke";
 		}
 		{
 			String _name = "VolumeMusic";
-			String _text = "Musiklautstärke";
+			String _text = "MusiklautstÃ¤rke";
 		}
 		{
 			String _name = "VolumeEffect";
-			String _text = "Effektlautstärke";
+			String _text = "EffektlautstÃ¤rke";
 		}
 		{
 			String _name = "VolumeAmbient";
-			String _text = "Umgebungslautstärke";
+			String _text = "UmgebungslautstÃ¤rke";
 		}
 		{
 			String _name = "ConfirmDelete";
-			String _text = "Wollen Sie den ausgewählten Spielstand wirklich löschen?";
+			String _text = "Wollen Sie den ausgewÃ¤hlten Spielstand wirklich lÃ¶schen?";
 		}
 		{
 			String _name = "ConfirmSave";
-			String _text = "Wollen Sie den ausgewählten Spielstand wirklich überschreiben?";
+			String _text = "Wollen Sie den ausgewÃ¤hlten Spielstand wirklich Ã¼berschreiben?";
 		}
 		{
 			String _name = "ConfirmLoad";
-			String _text = "Wollen Sie den ausgewählten Spielstand wirklich laden?
+			String _text = "Wollen Sie den ausgewÃ¤hlten Spielstand wirklich laden?
 Jeglicher ungespeicherter Spielstand wird verworfen.";
 		}
 		{
@@ -3483,7 +3483,7 @@ Jeglicher ungespeicherter Spielstand wird verworfen.";
 		}
 		{
 			String _name = "GameUIScale";
-			String _text = "Skalierung der Oberfläche";
+			String _text = "Skalierung der OberflÃ¤che";
 		}
 		{
 			String _name = "GameStatusIconEnable";
@@ -3499,7 +3499,7 @@ Jeglicher ungespeicherter Spielstand wird verworfen.";
 		}
 		{
 			String _name = "GameUseEdgeScroll";
-			String _text = "An den Bildschirmrändern scrollen";
+			String _text = "An den BildschirmrÃ¤ndern scrollen";
 		}
 		{
 			String _name = "GameShowCelsius";
@@ -3530,23 +3530,23 @@ StringTable merchant
 	[ 
 		{
 			String _name = "MerchantFood";
-			String _text = "Lebensmittelhändler";
+			String _text = "LebensmittelhÃ¤ndler";
 		}
 		{
 			String _name = "MerchantGoods";
-			String _text = "Rohstoffhändler";
+			String _text = "RohstoffhÃ¤ndler";
 		}
 		{
 			String _name = "MerchantGeneral";
-			String _text = "Händler von Allgemeingütern";
+			String _text = "HÃ¤ndler von AllgemeingÃ¼tern";
 		}
 		{
 			String _name = "MerchantSeed";
-			String _text = "Saatguthändler";
+			String _text = "SaatguthÃ¤ndler";
 		}
 		{
 			String _name = "MerchantLivestock";
-			String _text = "Viehhändler";
+			String _text = "ViehhÃ¤ndler";
 		}
 	]
 }
@@ -3588,7 +3588,7 @@ StringTable objects
 		}
 		{
 			String _name = "WellTip";
-			String _text = "Liefert Wasser zur Brandbekämpfung.";
+			String _text = "Liefert Wasser zur BrandbekÃ¤mpfung.";
 		}
 		{
 			String _name = "Hostel";
@@ -3600,7 +3600,7 @@ StringTable objects
 		}
 		{
 			String _name = "HostelTip";
-			String _text = "Bietet vorläufig Platz für obdachlose Siedler.";
+			String _text = "Bietet vorlÃ¤ufig Platz fÃ¼r obdachlose Siedler.";
 		}
 		{
 			String _name = "Chapel";
@@ -3612,7 +3612,7 @@ StringTable objects
 		}
 		{
 			String _name = "ChapelTip";
-			String _text = "Erhöht die Zufriedenheit der frommen Siedler und bietet einen Platz zum Treffen und Beten.";
+			String _text = "ErhÃ¶ht die Zufriedenheit der frommen Siedler und bietet einen Platz zum Treffen und Beten.";
 		}
 		{
 			String _name = "BathHouse";
@@ -3624,7 +3624,7 @@ StringTable objects
 		}
 		{
 			String _name = "BathHouseTip";
-			String _text = "Begünstigt Sauberkeit, Gesundheit und Zufriedenheit der Siedler.";
+			String _text = "BegÃ¼nstigt Sauberkeit, Gesundheit und Zufriedenheit der Siedler.";
 		}
 		{
 			String _name = "Tavern";
@@ -3636,7 +3636,7 @@ StringTable objects
 		}
 		{
 			String _name = "TavernTip";
-			String _text = "Braut Bier und stellt die Bevölkerung zufrieden.";
+			String _text = "Braut Bier und stellt die BevÃ¶lkerung zufrieden.";
 		}
 		{
 			String _name = "Cemetery";
@@ -3648,7 +3648,7 @@ StringTable objects
 		}
 		{
 			String _name = "CemeteryTip";
-			String _text = "Verhindert, dass die Siedler unglücklich werden, wenn ihre Ältesten sterben.";
+			String _text = "Verhindert, dass die Siedler unglÃ¼cklich werden, wenn ihre Ã„ltesten sterben.";
 		}
 		{
 			String _name = "StorageCart";
@@ -3660,7 +3660,7 @@ StringTable objects
 		}
 		{
 			String _name = "StorageCartTip";
-			String _text = "Enthält zum Spielanfang Nachschub, während die Stadt aufgebaut wird.";
+			String _text = "EnthÃ¤lt zum Spielanfang Nachschub, wÃ¤hrend die Stadt aufgebaut wird.";
 		}
 		{
 			String _name = "WoodHome";
@@ -3672,11 +3672,11 @@ StringTable objects
 		}
 		{
 			String _name = "WoodHomeTip";
-			String _text = "Bietet Siedlern ein warmes Plätzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln.";
+			String _text = "Bietet Siedlern ein warmes PlÃ¤tzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln.";
 		}
 		{
 			String _name = "WoodHomeUpgradeTip";
-			String _text = "Zu einem Steinhaus aufwerten. Steinhäuser halten die Bewohner besser warm als Holzhäuser. Ein paar Ressourcen vom aktuellen Haus bleiben nach dem Umbau erhalten.";
+			String _text = "Zu einem Steinhaus aufwerten. SteinhÃ¤user halten die Bewohner besser warm als HolzhÃ¤user. Ein paar Ressourcen vom aktuellen Haus bleiben nach dem Umbau erhalten.";
 		}
 		{
 			String _name = "StoneHome";
@@ -3688,7 +3688,7 @@ StringTable objects
 		}
 		{
 			String _name = "StoneHomeTip";
-			String _text = "Bietet Siedlern ein warmes Plätzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln. Hält die Bewohner besser warm als ein Holzhaus.";
+			String _text = "Bietet Siedlern ein warmes PlÃ¤tzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln. HÃ¤lt die Bewohner besser warm als ein Holzhaus.";
 		}
 		{
 			String _name = "StorageBarn";
@@ -3700,7 +3700,7 @@ StringTable objects
 		}
 		{
 			String _name = "StorageBarnTip";
-			String _text = "Ein Ort zum Lagern von Gütern wie Lebensmittel, Kleidung, Textilien und Werkzeug.";
+			String _text = "Ein Ort zum Lagern von GÃ¼tern wie Lebensmittel, Kleidung, Textilien und Werkzeug.";
 		}
 		{
 			String _name = "CutterYard";
@@ -3712,7 +3712,7 @@ StringTable objects
 		}
 		{
 			String _name = "CutterYardTip";
-			String _text = "Verarbeitet Holz zu Brennholz weiter, welches zum Heizen der Wohnhäuser genutzt wird.";
+			String _text = "Verarbeitet Holz zu Brennholz weiter, welches zum Heizen der WohnhÃ¤user genutzt wird.";
 		}
 		{
 			String _name = "ForesterLodge";
@@ -3724,19 +3724,19 @@ StringTable objects
 		}
 		{
 			String _name = "ForesterLodgeTip";
-			String _text = "Verwaltet ein ausgewähltes Waldgebiet, in welchem Bäume abgeholzt und neu angepflanzt werden.";
+			String _text = "Verwaltet ein ausgewÃ¤hltes Waldgebiet, in welchem BÃ¤ume abgeholzt und neu angepflanzt werden.";
 		}
 		{
 			String _name = "FishermansDock";
-			String _text = "Fischerhütte";
+			String _text = "FischerhÃ¼tte";
 		}
 		{
 			String _name = "FishermansDockLwr";
-			String _text = "Fischerhütte";
+			String _text = "FischerhÃ¼tte";
 		}
 		{
 			String _name = "FishermansDockTip";
-			String _text = "Muss an einem Gewässer platziert werden. Bietet Fischern einen Steg zum Angeln.";
+			String _text = "Muss an einem GewÃ¤sser platziert werden. Bietet Fischern einen Steg zum Angeln.";
 		}
 		{
 			String _name = "ToolMaker";
@@ -3752,27 +3752,27 @@ StringTable objects
 		}
 		{
 			String _name = "HunterLodge";
-			String _text = "Jagdhütte";
+			String _text = "JagdhÃ¼tte";
 		}
 		{
 			String _name = "HunterLodgeLwr";
-			String _text = "Jagdhütte";
+			String _text = "JagdhÃ¼tte";
 		}
 		{
 			String _name = "HunterLodgeTip";
-			String _text = "Der Jäger jagt Wild in einem ausgewählten Waldstück.";
+			String _text = "Der JÃ¤ger jagt Wild in einem ausgewÃ¤hlten WaldstÃ¼ck.";
 		}
 		{
 			String _name = "Herbalist";
-			String _text = "Kräutersammler";
+			String _text = "KrÃ¤utersammler";
 		}
 		{
 			String _name = "HerbalistLwr";
-			String _text = "Kräutersammler";
+			String _text = "KrÃ¤utersammler";
 		}
 		{
 			String _name = "HerbalistTip";
-			String _text = "Der Kräutersammler sammelt Kräuter und verbessert die Gesundheit der Siedler, die ihn besuchen.";
+			String _text = "Der KrÃ¤utersammler sammelt KrÃ¤uter und verbessert die Gesundheit der Siedler, die ihn besuchen.";
 		}
 		{
 			String _name = "Doctor";
@@ -3784,7 +3784,7 @@ StringTable objects
 		}
 		{
 			String _name = "DoctorTip";
-			String _text = "Hier können Siedler ihre Krankheiten behandeln lassen.";
+			String _text = "Hier kÃ¶nnen Siedler ihre Krankheiten behandeln lassen.";
 		}
 		{
 			String _name = "TownHall";
@@ -3796,7 +3796,7 @@ StringTable objects
 		}
 		{
 			String _name = "TownHallTip";
-			String _text = "Zeichnet Zensusdaten auf und ermöglicht die Ansicht der Daten.";
+			String _text = "Zeichnet Zensusdaten auf und ermÃ¶glicht die Ansicht der Daten.";
 		}
 		{
 			String _name = "Market";
@@ -3808,7 +3808,7 @@ StringTable objects
 		}
 		{
 			String _name = "MarketTip";
-			String _text = "Bietet den Siedlern einen zentralen Ort zum Einkauf von Nahrung, Werkzeug, Brennmaterial und anderen Gütern.";
+			String _text = "Bietet den Siedlern einen zentralen Ort zum Einkauf von Nahrung, Werkzeug, Brennmaterial und anderen GÃ¼tern.";
 		}
 		{
 			String _name = "TradingPost";
@@ -3820,7 +3820,7 @@ StringTable objects
 		}
 		{
 			String _name = "TradingPostTip";
-			String _text = "Ermöglicht es, Rohstoffe mit fahrenden Händlern zu handeln.";
+			String _text = "ErmÃ¶glicht es, Rohstoffe mit fahrenden HÃ¤ndlern zu handeln.";
 		}
 		{
 			String _name = "IronMine";
@@ -3832,7 +3832,7 @@ StringTable objects
 		}
 		{
 			String _name = "IronMineTip";
-			String _text = "Ermöglicht es, Eisen und Kohle aus dem Untergrund abzubauen. Minen können nach dem Bau nicht mehr abgerissen werden.";
+			String _text = "ErmÃ¶glicht es, Eisen und Kohle aus dem Untergrund abzubauen. Minen kÃ¶nnen nach dem Bau nicht mehr abgerissen werden.";
 		}
 		{
 			String _name = "Quarry";
@@ -3844,19 +3844,19 @@ StringTable objects
 		}
 		{
 			String _name = "QuarryTip";
-			String _text = "Ermöglicht es, Gestein aus dem Erdreich abzubauen. Steinbrüche können nach dem Bau nicht mehr abgerissen werden.";
+			String _text = "ErmÃ¶glicht es, Gestein aus dem Erdreich abzubauen. SteinbrÃ¼che kÃ¶nnen nach dem Bau nicht mehr abgerissen werden.";
 		}
 		{
 			String _name = "GathererShelter";
-			String _text = "Sammlerhütte";
+			String _text = "SammlerhÃ¼tte";
 		}
 		{
 			String _name = "GathererShelterLwr";
-			String _text = "Sammlerhütte";
+			String _text = "SammlerhÃ¼tte";
 		}
 		{
 			String _name = "GathererShelterTip";
-			String _text = "Der Sammler sucht und pflückt Beeren und essbare Wurzeln.";
+			String _text = "Der Sammler sucht und pflÃ¼ckt Beeren und essbare Wurzeln.";
 		}
 		{
 			String _name = "Tailor";
@@ -3868,7 +3868,7 @@ StringTable objects
 		}
 		{
 			String _name = "TailorTip";
-			String _text = "In der Schneiderei wird warme Winterkleidung für die Bevölkerung angefertigt.";
+			String _text = "In der Schneiderei wird warme Winterkleidung fÃ¼r die BevÃ¶lkerung angefertigt.";
 		}
 		{
 			String _name = "SchoolHouse";
@@ -3880,7 +3880,7 @@ StringTable objects
 		}
 		{
 			String _name = "SchoolHouseTip";
-			String _text = "In der Schule lernen Kinder, wie sie ihrer späteren Arbeit produktiver nachgehen.";
+			String _text = "In der Schule lernen Kinder, wie sie ihrer spÃ¤teren Arbeit produktiver nachgehen.";
 		}
 		{
 			String _name = "CropField";
@@ -3892,7 +3892,7 @@ StringTable objects
 		}
 		{
 			String _name = "CropFieldTip";
-			String _text = "Auf Äckern können Kulturpflanzen angebaut werden.";
+			String _text = "Auf Ã„ckern kÃ¶nnen Kulturpflanzen angebaut werden.";
 		}
 		{
 			String _name = "Orchard";
@@ -3904,7 +3904,7 @@ StringTable objects
 		}
 		{
 			String _name = "OrchardTip";
-			String _text = "In Obstgärten können Obstbäume angepflanzt werden.";
+			String _text = "In ObstgÃ¤rten kÃ¶nnen ObstbÃ¤ume angepflanzt werden.";
 		}
 		{
 			String _name = "StorageYard";
@@ -3916,7 +3916,7 @@ StringTable objects
 		}
 		{
 			String _name = "StorageYardTip";
-			String _text = "Auf Lagerplätzen wird Rohmaterial wie Holz, Brennholz, Stein, Kohle und Eisen gelagert.";
+			String _text = "Auf LagerplÃ¤tzen wird Rohmaterial wie Holz, Brennholz, Stein, Kohle und Eisen gelagert.";
 		}
 		{
 			String _name = "Pasture";
@@ -3944,27 +3944,27 @@ StringTable objects
 		}
 		{
 			String _name = "StoneRoad";
-			String _text = "Gepflasterte Straße";
+			String _text = "Gepflasterte StraÃŸe";
 		}
 		{
 			String _name = "StoneRoadLwr";
-			String _text = "Gepflasterte Straße";
+			String _text = "Gepflasterte StraÃŸe";
 		}
 		{
 			String _name = "StoneRoadTip";
-			String _text = "Siedler erreichen auf gepflasterten Straßen noch schneller ihren Zielort als auf Feldwegen.";
+			String _text = "Siedler erreichen auf gepflasterten StraÃŸen noch schneller ihren Zielort als auf Feldwegen.";
 		}
 		{
 			String _name = "Bridge";
-			String _text = "Holzbrücke";
+			String _text = "HolzbrÃ¼cke";
 		}
 		{
 			String _name = "BridgeLwr";
-			String _text = "Holzbrücke";
+			String _text = "HolzbrÃ¼cke";
 		}
 		{
 			String _name = "BridgeTip";
-			String _text = "Ermöglicht es Siedlern, Flüsse zu überqueren.";
+			String _text = "ErmÃ¶glicht es Siedlern, FlÃ¼sse zu Ã¼berqueren.";
 		}
 		{
 			String _name = "Tunnel";
@@ -3976,7 +3976,7 @@ StringTable objects
 		}
 		{
 			String _name = "TunnelTip";
-			String _text = "Ermöglicht es Siedlern, Berge ohne Umweg zu passieren.";
+			String _text = "ErmÃ¶glicht es Siedlern, Berge ohne Umweg zu passieren.";
 		}
 		{
 			String _name = "ClearResources";
@@ -3984,23 +3984,23 @@ StringTable objects
 		}
 		{
 			String _name = "ClearResourcesTip";
-			String _text = "Alle möglichen Ressourcen im gewählten Gebiet abbauen.";
+			String _text = "Alle mÃ¶glichen Ressourcen im gewÃ¤hlten Gebiet abbauen.";
 		}
 		{
 			String _name = "ClearBuildings";
-			String _text = "Gebäude abreißen";
+			String _text = "GebÃ¤ude abreiÃŸen";
 		}
 		{
 			String _name = "ClearBuildingsTip";
-			String _text = "Alle Gebäude im gewählten Gebiet niederreißen.";
+			String _text = "Alle GebÃ¤ude im gewÃ¤hlten Gebiet niederreiÃŸen.";
 		}
 		{
 			String _name = "ClearTree";
-			String _text = "Bäume fällen";
+			String _text = "BÃ¤ume fÃ¤llen";
 		}
 		{
 			String _name = "ClearTreeTip";
-			String _text = "Holz im gewählten Gebiet abbauen.";
+			String _text = "Holz im gewÃ¤hlten Gebiet abbauen.";
 		}
 		{
 			String _name = "ClearIron";
@@ -4008,7 +4008,7 @@ StringTable objects
 		}
 		{
 			String _name = "ClearIronTip";
-			String _text = "Eisen im gewählten Gebiet abbauen.";
+			String _text = "Eisen im gewÃ¤hlten Gebiet abbauen.";
 		}
 		{
 			String _name = "ClearStone";
@@ -4016,7 +4016,7 @@ StringTable objects
 		}
 		{
 			String _name = "ClearStoneTip";
-			String _text = "Steine im gewählten Gebiet abbauen.";
+			String _text = "Steine im gewÃ¤hlten Gebiet abbauen.";
 		}
 		{
 			String _name = "ClearRoad";
@@ -4024,15 +4024,15 @@ StringTable objects
 		}
 		{
 			String _name = "ClearRoadTip";
-			String _text = "Wege und Straßen im ausgewählten Bereich entfernen.";
+			String _text = "Wege und StraÃŸen im ausgewÃ¤hlten Bereich entfernen.";
 		}
 		{
 			String _name = "ClearMushroom";
-			String _text = "Kräuter sammeln";
+			String _text = "KrÃ¤uter sammeln";
 		}
 		{
 			String _name = "ClearMushroomTip";
-			String _text = "Kräuter im ausgewählten Gebiet sammeln.";
+			String _text = "KrÃ¤uter im ausgewÃ¤hlten Gebiet sammeln.";
 		}
 		{
 			String _name = "ClearWild";
@@ -4040,15 +4040,15 @@ StringTable objects
 		}
 		{
 			String _name = "ClearWildTip";
-			String _text = "Sammelt sämtliche wild vorkommende Nahrung im ausgewählten Gebiet.";
+			String _text = "Sammelt sÃ¤mtliche wild vorkommende Nahrung im ausgewÃ¤hlten Gebiet.";
 		}
 		{
 			String _name = "ClearPriority";
-			String _text = "Priorität erhöhen";
+			String _text = "PrioritÃ¤t erhÃ¶hen";
 		}
 		{
 			String _name = "ClearPriorityTip";
-			String _text = "Gebiet auswählen, in welchem die dort beauftragten Arbeiten vorrangig behandelt werden sollen.";
+			String _text = "Gebiet auswÃ¤hlen, in welchem die dort beauftragten Arbeiten vorrangig behandelt werden sollen.";
 		}
 		{
 			String _name = "ClearCancel";
@@ -4056,7 +4056,7 @@ StringTable objects
 		}
 		{
 			String _name = "ClearCancelTip";
-			String _text = "Bricht sämtliche Abbau- bzw. Abrissvorgänge im ausgewählten Gebiet ab.";
+			String _text = "Bricht sÃ¤mtliche Abbau- bzw. AbrissvorgÃ¤nge im ausgewÃ¤hlten Gebiet ab.";
 		}
 		{
 			String _name = "ToolProfession";
@@ -4072,7 +4072,7 @@ StringTable objects
 		}
 		{
 			String _name = "ToolMapTip";
-			String _text = "Zeige eine Übersichtskarte des Gebiets";
+			String _text = "Zeige eine Ãœbersichtskarte des Gebiets";
 		}
 		{
 			String _name = "ToolPath";
@@ -4088,7 +4088,7 @@ StringTable objects
 		}
 		{
 			String _name = "ToolDebugTip";
-			String _text = "Zeige Optionen für Entwickler.";
+			String _text = "Zeige Optionen fÃ¼r Entwickler.";
 		}
 		{
 			String _name = "ToolCapture";
@@ -4104,7 +4104,7 @@ StringTable objects
 		}
 		{
 			String _name = "ToolHelpTip";
-			String _text = "Zeige die Hilfe und zusätzliches Referenzmaterial.";
+			String _text = "Zeige die Hilfe und zusÃ¤tzliches Referenzmaterial.";
 		}
 		{
 			String _name = "ToolNoise";
@@ -4116,11 +4116,11 @@ StringTable objects
 		}
 		{
 			String _name = "ToolStatusBar";
-			String _text = "Übersicht";
+			String _text = "Ãœbersicht";
 		}
 		{
 			String _name = "ToolStatusBarTip";
-			String _text = "Zeige allgemeine Statistiken über die Stadt.";
+			String _text = "Zeige allgemeine Statistiken Ã¼ber die Stadt.";
 		}
 		{
 			String _name = "ToolEventLog";
@@ -4136,7 +4136,7 @@ StringTable objects
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "Zeige Limits, die für die Ressourcenproduktion gesetzt wurden.";
+			String _text = "Zeige Limits, die fÃ¼r die Ressourcenproduktion gesetzt wurden.";
 		}
 		{
 			String _name = "ToolTutorial";
@@ -4152,7 +4152,7 @@ StringTable objects
 		}
 		{
 			String _name = "CreateTooBig";
-			String _text = "@0 ist zu groß.";
+			String _text = "@0 ist zu groÃŸ.";
 		}
 		{
 			String _name = "CreateBlocked";
@@ -4221,15 +4221,15 @@ StringTable professions
 	[ 
 		{
 			String _name = "ProfessionLaborer";
-			String _text = "Arbeiter";
+			String _text = "Hilfsarbeiter";
 		}
 		{
 			String _name = "ProfessionLaborerTip";
-			String _text = "Arbeiter erledigen einfache Aufgaben, wie beispielsweise den Abbau von Ressourcen und den Warentransport.";
+			String _text = "Hilfsarbeiter erledigen einfache Aufgaben, wie beispielsweise den Abbau von Ressourcen und den Warentransport.";
 		}
 		{
 			String _name = "ProfessionLaborerDeath";
-			String _text = "ist an einer Herzschwäche gestorben.";
+			String _text = "ist an einer HerzschwÃ¤che gestorben.";
 		}
 		{
 			String _name = "ProfessionBuilder";
@@ -4237,7 +4237,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionBuilderTip";
-			String _text = "Bauarbeiter konstruieren neue Gebäude, Straßen und Brücken.";
+			String _text = "Bauarbeiter konstruieren neue GebÃ¤ude, StraÃŸen und BrÃ¼cken.";
 		}
 		{
 			String _name = "ProfessionBuilderDeath";
@@ -4249,7 +4249,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionFarmerTip";
-			String _text = "Bauer bewirtschaften Äcker und Obstgärten.";
+			String _text = "Bauer bewirtschaften Ã„cker und ObstgÃ¤rten.";
 		}
 		{
 			String _name = "ProfessionFarmeDeathr";
@@ -4261,7 +4261,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionHerdsmanTip";
-			String _text = "Viehhirten hüten und versorgen das Vieh auf den Weiden.";
+			String _text = "Viehhirten hÃ¼ten und versorgen das Vieh auf den Weiden.";
 		}
 		{
 			String _name = "ProfessionHerdsmanDeath";
@@ -4293,11 +4293,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionHunter";
-			String _text = "Jäger";
+			String _text = "JÃ¤ger";
 		}
 		{
 			String _name = "ProfessionHunterTip";
-			String _text = "Jäger jagen in den Wäldern nach Wild zur Nahrungsversorgung.";
+			String _text = "JÃ¤ger jagen in den WÃ¤ldern nach Wild zur Nahrungsversorgung.";
 		}
 		{
 			String _name = "ProfessionHunterDeath";
@@ -4313,15 +4313,15 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionCutterDeath";
-			String _text = "wurde bei einem Axtunfall getötet.";
+			String _text = "wurde bei einem Axtunfall getÃ¶tet.";
 		}
 		{
 			String _name = "ProfessionForester";
-			String _text = "Förster";
+			String _text = "FÃ¶rster";
 		}
 		{
 			String _name = "ProfessionForesterTip";
-			String _text = "Förster pflanzen neue Baumsetzlinge und fällen ausgewachsene Bäume.";
+			String _text = "FÃ¶rster pflanzen neue Baumsetzlinge und fÃ¤llen ausgewachsene BÃ¤ume.";
 		}
 		{
 			String _name = "ProfessionForesterDeath";
@@ -4341,11 +4341,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionHerbalist";
-			String _text = "Kräutersammler";
+			String _text = "KrÃ¤utersammler";
 		}
 		{
 			String _name = "ProfessionHerbalistTip";
-			String _text = "Kräutersammler sammeln Wildkräuter und heilen kleinere Gebrechen.";
+			String _text = "KrÃ¤utersammler sammeln WildkrÃ¤uter und heilen kleinere Gebrechen.";
 		}
 		{
 			String _name = "ProfessionHerbalistDeath";
@@ -4357,7 +4357,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionBrewerTip";
-			String _text = "Bierbrauer brauen Bier und bewirten Gasthäuser.";
+			String _text = "Bierbrauer brauen Bier und bewirten GasthÃ¤user.";
 		}
 		{
 			String _name = "ProfessionBrewerDeath";
@@ -4369,7 +4369,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionTailorTip";
-			String _text = "Schneider fertigen warme Winterkleidung für die Bevölkerung an.";
+			String _text = "Schneider fertigen warme Winterkleidung fÃ¼r die BevÃ¶lkerung an.";
 		}
 		{
 			String _name = "ProfessionTailorDeath";
@@ -4377,11 +4377,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionVendor";
-			String _text = "Verkäufer";
+			String _text = "VerkÃ¤ufer";
 		}
 		{
 			String _name = "ProfessionVendorTip";
-			String _text = "Verkäufer beschaffen Güter und verkaufen sie auf dem Markt.";
+			String _text = "VerkÃ¤ufer beschaffen GÃ¼ter und verkaufen sie auf dem Markt.";
 		}
 		{
 			String _name = "ProfessionVendorDeath";
@@ -4389,11 +4389,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionTrader";
-			String _text = "Händler";
+			String _text = "HÃ¤ndler";
 		}
 		{
 			String _name = "ProfessionTraderTip";
-			String _text = "Händler beschaffen Güter und verkaufen sie am Handelsposten an fahrende Händler.";
+			String _text = "HÃ¤ndler beschaffen GÃ¼ter und verkaufen sie am Handelsposten an fahrende HÃ¤ndler.";
 		}
 		{
 			String _name = "ProfessionTraderDeath";
@@ -4409,7 +4409,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionMinerDeath";
-			String _text = "ist bei einem Höhleneinsturz umgekommen.";
+			String _text = "ist bei einem HÃ¶hleneinsturz umgekommen.";
 		}
 		{
 			String _name = "ProfessionStoneCutter";
@@ -4429,11 +4429,11 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionTeacherTip";
-			String _text = "Lehrer unterrichten die Schüler, wie sie in späteren Berufen ihre Arbeit effizienter erledigen können.";
+			String _text = "Lehrer unterrichten die SchÃ¼ler, wie sie in spÃ¤teren Berufen ihre Arbeit effizienter erledigen kÃ¶nnen.";
 		}
 		{
 			String _name = "ProfessionTeacherDeath";
-			String _text = "ist verrückt geworden und wurde aus der Stadt verbannt.";
+			String _text = "ist verrÃ¼ckt geworden und wurde aus der Stadt verbannt.";
 		}
 		{
 			String _name = "ProfessionDoctor";
@@ -4441,7 +4441,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionDoctorTip";
-			String _text = "Ärzte heilen die Siedler von Krankheiten und verbessern die allgemeine Gesundheit der Bevölkerung.";
+			String _text = "Ã„rzte heilen die Siedler von Krankheiten und verbessern die allgemeine Gesundheit der BevÃ¶lkerung.";
 		}
 		{
 			String _name = "ProfessionDoctorDeath";
@@ -4453,7 +4453,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionPriestTip";
-			String _text = "Priester halten einen regelmäßigen Gottesdienstbetrieb aufrecht und steigern die Zufriedenheit der Bevölkerung.";
+			String _text = "Priester halten einen regelmÃ¤ÃŸigen Gottesdienstbetrieb aufrecht und steigern die Zufriedenheit der BevÃ¶lkerung.";
 		}
 		{
 			String _name = "ProfessionPriestDeath";
@@ -4465,7 +4465,7 @@ StringTable professions
 		}
 		{
 			String _name = "ProfessionStudent";
-			String _text = "Schüler";
+			String _text = "SchÃ¼ler";
 		}
 	]
 }
@@ -4480,11 +4480,11 @@ StringTable purchaseTypes
 		}
 		{
 			String _name = "Type1";
-			String _text = "Wenn der Händler eintrifft";
+			String _text = "Wenn der HÃ¤ndler eintrifft";
 		}
 		{
 			String _name = "Type2";
-			String _text = "Wenn der Händler abreist";
+			String _text = "Wenn der HÃ¤ndler abreist";
 		}
 	]
 }
@@ -4539,7 +4539,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "Squash";
-			String _text = "Speisekürbis";
+			String _text = "SpeisekÃ¼rbis";
 		}
 		{
 			String _name = "Bean";
@@ -4547,7 +4547,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "Pumpkin";
-			String _text = "Großer Kürbis";
+			String _text = "GroÃŸer KÃ¼rbis";
 		}
 		{
 			String _name = "Pepper";
@@ -4591,7 +4591,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "Chicken";
-			String _text = "Hühnerfleisch";
+			String _text = "HÃ¼hnerfleisch";
 		}
 		{
 			String _name = "Venison";
@@ -4623,7 +4623,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "Herb";
-			String _text = "Kräuter";
+			String _text = "KrÃ¤uter";
 		}
 		{
 			String _name = "Egg";
@@ -4655,7 +4655,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "Chickens";
-			String _text = "Hühner";
+			String _text = "HÃ¼hner";
 		}
 		{
 			String _name = "Cows";
@@ -4691,11 +4691,11 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "SeedPecan";
-			String _text = "Pecannüsse";
+			String _text = "PecannÃ¼sse";
 		}
 		{
 			String _name = "SeedWalnut";
-			String _text = "Walnüsse";
+			String _text = "WalnÃ¼sse";
 		}
 		{
 			String _name = "SeedCabbage";
@@ -4711,7 +4711,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "SeedSquash";
-			String _text = "Speisekürbissamen";
+			String _text = "SpeisekÃ¼rbissamen";
 		}
 		{
 			String _name = "SeedWheat";
@@ -4727,7 +4727,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "SeedPumpkin";
-			String _text = "Kürbissamen";
+			String _text = "KÃ¼rbissamen";
 		}
 		{
 			String _name = "LeatherCoatRequire";
@@ -4798,7 +4798,7 @@ StringTable reflectionQuality
 		}
 		{
 			String _name = "Level1";
-			String _text = "Gelände";
+			String _text = "GelÃ¤nde";
 		}
 		{
 			String _name = "Level2";
@@ -4817,11 +4817,11 @@ StringTable scenario
 		}
 		{
 			String _name = "ScenarioIsolationDesc";
-			String _text = "Das Spiel beginnt mit wenig Ressourcen und ein paar Siedlern. Erreichen Sie eine Bevölkerung von 300 Einwohnern, ohne einen Handelsposten zu bauen.";
+			String _text = "Das Spiel beginnt mit wenig Ressourcen und ein paar Siedlern. Erreichen Sie eine BevÃ¶lkerung von 300 Einwohnern, ohne einen Handelsposten zu bauen.";
 		}
 		{
 			String _name = "ScenarioIsolationGoal0";
-			String _text = "Erreichen Sie eine Bevölkerungszahl von 300 Einwohnern.";
+			String _text = "Erreichen Sie eine BevÃ¶lkerungszahl von 300 Einwohnern.";
 		}
 		{
 			String _name = "ScenarioIsolationGoal1";
@@ -4829,23 +4829,23 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialGoal";
-			String _text = "Schließen Sie das Tutorial ab.";
+			String _text = "SchlieÃŸen Sie das Tutorial ab.";
 		}
 		{
 			String _name = "TutorialGettingStarted";
-			String _text = "Einführung";
+			String _text = "EinfÃ¼hrung";
 		}
 		{
 			String _name = "TutorialGettingStartedDesc";
-			String _text = "Lernen Sie die Grundlagen des Spiels kennen, wie zum Beispiel die Bewegung der Kamera, Errichtung einiger grundlegender Gebäude, Zuteilung von Arbeitern und die Gründung einer neuen Stadt.";
+			String _text = "Lernen Sie die Grundlagen des Spiels kennen, wie zum Beispiel die Bewegung der Kamera, Errichtung einiger grundlegender GebÃ¤ude, Zuteilung von Arbeitern und die GrÃ¼ndung einer neuen Stadt.";
 		}
 		{
 			String _name = "TutorialSurvival";
-			String _text = "Überleben";
+			String _text = "Ãœberleben";
 		}
 		{
 			String _name = "TutorialSurvivalDesc";
-			String _text = "Lernen Sie Produktionsgebäude kennen, welche die Überlebenschancen Ihrer Stadt erhöhen, wie zum Beispiel die Gebäude des Schmieds, des Schneiders und des Försters.";
+			String _text = "Lernen Sie ProduktionsgebÃ¤ude kennen, welche die Ãœberlebenschancen Ihrer Stadt erhÃ¶hen, wie zum Beispiel die GebÃ¤ude des Schmieds, des Schneiders und des FÃ¶rsters.";
 		}
 		{
 			String _name = "TutorialFood";
@@ -4853,7 +4853,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialFoodDesc";
-			String _text = "Lernen Sie, Ihre Bevölkerung mit Nahrung durch Fischen, Jagen, Sammeln, Ernten von Kulturpflanzen, Anbau von Obstbäumen und Viehzucht zu versorgen.";
+			String _text = "Lernen Sie, Ihre BevÃ¶lkerung mit Nahrung durch Fischen, Jagen, Sammeln, Ernten von Kulturpflanzen, Anbau von ObstbÃ¤umen und Viehzucht zu versorgen.";
 		}
 		{
 			String _name = "TutorialTrade";
@@ -4861,7 +4861,7 @@ StringTable scenario
 		}
 		{
 			String _name = "TutorialTradeDesc";
-			String _text = "Lernen Sie, wie durch Austausch von produzierten Gütern gegen Saatgut, Obstbäume, Nutzvieh, Nahrung, Werkzeug und andere Ressourcen gehandelt werden kann.";
+			String _text = "Lernen Sie, wie durch Austausch von produzierten GÃ¼tern gegen Saatgut, ObstbÃ¤ume, Nutzvieh, Nahrung, Werkzeug und andere Ressourcen gehandelt werden kann.";
 		}
 	]
 }
@@ -4872,19 +4872,19 @@ StringTable seasons
 	[ 
 		{
 			String _name = "Month0";
-			String _text = "Frühlingsanfang";
+			String _text = "FrÃ¼hlingsanfang";
 		}
 		{
 			String _name = "Month1";
-			String _text = "Frühling";
+			String _text = "FrÃ¼hling";
 		}
 		{
 			String _name = "Month2";
-			String _text = "Später Frühling";
+			String _text = "SpÃ¤ter FrÃ¼hling";
 		}
 		{
 			String _name = "Month3";
-			String _text = "Frühsommer";
+			String _text = "FrÃ¼hsommer";
 		}
 		{
 			String _name = "Month4";
@@ -4892,11 +4892,11 @@ StringTable seasons
 		}
 		{
 			String _name = "Month5";
-			String _text = "Spätsommer";
+			String _text = "SpÃ¤tsommer";
 		}
 		{
 			String _name = "Month6";
-			String _text = "Frühherbst";
+			String _text = "FrÃ¼hherbst";
 		}
 		{
 			String _name = "Month7";
@@ -4904,11 +4904,11 @@ StringTable seasons
 		}
 		{
 			String _name = "Month8";
-			String _text = "Spätherbst";
+			String _text = "SpÃ¤therbst";
 		}
 		{
 			String _name = "Month9";
-			String _text = "Frühwinter";
+			String _text = "FrÃ¼hwinter";
 		}
 		{
 			String _name = "Month10";
@@ -4916,7 +4916,7 @@ StringTable seasons
 		}
 		{
 			String _name = "Month11";
-			String _text = "Spätwinter";
+			String _text = "SpÃ¤twinter";
 		}
 	]
 }
@@ -4973,7 +4973,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "HardDesc";
-			String _text = "Ein schwieriges Spiel beginnt mit vier Familien. Eine kleine Startmenge Kleidung, Nahrung, Brennholz und Werkzeug steht zur Verfügung. Es ist kein Saatgut vorrätig.";
+			String _text = "Ein schwieriges Spiel beginnt mit vier Familien. Eine kleine Startmenge Kleidung, Nahrung, Brennholz und Werkzeug steht zur VerfÃ¼gung. Es ist kein Saatgut vorrÃ¤tig.";
 		}
 		{
 			String _name = "MediumName";
@@ -4981,7 +4981,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "MediumDesc";
-			String _text = "Ein mittelschweres Spiel beginnt mit fünf Familien. Kleidung, Nahrung, Brennholz und Baumaterial stehen zur Verfügung. Ein Lagerhaus wurde bereits gebaut. Ein wenig Saatgut für Felder und Obstgärten ist gegeben.";
+			String _text = "Ein mittelschweres Spiel beginnt mit fÃ¼nf Familien. Kleidung, Nahrung, Brennholz und Baumaterial stehen zur VerfÃ¼gung. Ein Lagerhaus wurde bereits gebaut. Ein wenig Saatgut fÃ¼r Felder und ObstgÃ¤rten ist gegeben.";
 		}
 		{
 			String _name = "EasyName";
@@ -4989,7 +4989,7 @@ StringTable startConditions
 		}
 		{
 			String _name = "EasyDesc";
-			String _text = "Ein leichtes Spiel beginnt mit sechs Familien. Zu Anfang ist eine große Menge an Kleidung, Nahrung, Brennholz, Baumaterial und Werkzeug gegeben. Wohnhäuser und Lagerplätze sind bereits errichtet. Saatgut für Felder und Obstgärten stehen zur Verfügung, ebenso ein kleiner Bestand an Nutzvieh.";
+			String _text = "Ein leichtes Spiel beginnt mit sechs Familien. Zu Anfang ist eine groÃŸe Menge an Kleidung, Nahrung, Brennholz, Baumaterial und Werkzeug gegeben. WohnhÃ¤user und LagerplÃ¤tze sind bereits errichtet. Saatgut fÃ¼r Felder und ObstgÃ¤rten stehen zur VerfÃ¼gung, ebenso ein kleiner Bestand an Nutzvieh.";
 		}
 	]
 }
@@ -5008,7 +5008,7 @@ StringTable terrainSize
 		}
 		{
 			String _name = "TerrainSize2";
-			String _text = "Groß";
+			String _text = "GroÃŸ";
 		}
 	]
 }
@@ -5019,7 +5019,7 @@ StringTable terrainType
 	[ 
 		{
 			String _name = "Valleys";
-			String _text = "Täler";
+			String _text = "TÃ¤ler";
 		}
 		{
 			String _name = "Mountains";
@@ -5065,7 +5065,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "PerUnit";
-			String _text = "pro Längeneinheit";
+			String _text = "pro LÃ¤ngeneinheit";
 		}
 		{
 			String _name = "HousingTip";
@@ -5073,7 +5073,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "TransportTip";
-			String _text = "Straßen und Brücken";
+			String _text = "StraÃŸen und BrÃ¼cken";
 		}
 		{
 			String _name = "StorageTip";
@@ -5081,7 +5081,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "ServiceTip";
-			String _text = "Stadtgebäude";
+			String _text = "StadtgebÃ¤ude";
 		}
 		{
 			String _name = "FoodTip";
@@ -5093,7 +5093,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "RemoveTip";
-			String _text = "Ressourcenabbau und Gebäudeabriss";
+			String _text = "Ressourcenabbau und GebÃ¤udeabriss";
 		}
 		{
 			String _name = "TimeTip";
@@ -5125,7 +5125,7 @@ StringTable toolBar
 		}
 		{
 			String _name = "FastTip";
-			String _text = "Spielgeschwindigkeit erhöhen";
+			String _text = "Spielgeschwindigkeit erhÃ¶hen";
 		}
 		{
 			String _name = "ToolTownHallTip";
