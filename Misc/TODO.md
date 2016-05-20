@@ -2,6 +2,9 @@ TODOs
 =====
 
 # Release-Prozess:
+
+http://www.dafont.com/francophil-sans.font
+
 1. Versionsnummer überprüfen
 2. Steam
 3. BanishedInfo
