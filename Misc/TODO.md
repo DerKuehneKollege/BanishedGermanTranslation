@@ -12,6 +12,7 @@ http://www.dafont.com/francophil-sans.font
 
 # Bugs
 * Fenstergröße unpassend bei: Viehweide
+* "Wintermantel" wird beim Schneider als "Warmer Mantel" angefertigt und verwandelt sich durch Zauberei auf dem Weg zum Markt in ersteren
 
 # Zu erledigen
 * Bilder in der Hilfe ebenfalls übersetzen
