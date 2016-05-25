@@ -80,7 +80,7 @@ StringTable achievement
 		}
 		{
 			String _name = "StylishDesc";
-			String _text = "Statten Sie eine Bevölkerung von über 200 Einwohnern 4 Jahre lang mit warmen Mänteln aus";
+			String _text = "Statten Sie eine Bevölkerung von über 200 Einwohnern 4 Jahre lang mit Wintermänteln aus.";
 		}
 		{
 			String _name = "Isolationist";
@@ -136,7 +136,7 @@ StringTable achievement
 		}
 		{
 			String _name = "FarmerDesc";
-			String _text = "Beschaffen Sie 3 Sorten Nutzvieh, 8 Sorten Kulturpflanzen und 8 Sorten Obstsamen";
+			String _text = "Beschaffen Sie 3 Sorten Nutzvieh, 8 Sorten Kulturpflanzen und 8 Sorten Obstsamen.";
 		}
 		{
 			String _name = "Livestock";
@@ -3679,7 +3679,7 @@ StringTable objects
 		}
 		{
 			String _name = "WoodHomeTip";
-			String _text = "Bietet Siedlern ein warmes Plätzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln.";
+			String _text = "Bietet Siedlern einen warmen Platz zum Wohnen, Essen und Aufbewahren von Lebensmitteln.";
 		}
 		{
 			String _name = "WoodHomeUpgradeTip";
@@ -3695,7 +3695,7 @@ StringTable objects
 		}
 		{
 			String _name = "StoneHomeTip";
-			String _text = "Bietet Siedlern ein warmes Plätzchen zum Wohnen, Essen und Aufbewahren von Lebensmitteln. Hält die Bewohner besser warm als ein Holzhaus.";
+			String _text = "Bietet Siedlern einen warmen Platz zum Wohnen, Essen und Aufbewahren von Lebensmitteln. Hält die Bewohner besser warm als ein Holzhaus.";
 		}
 		{
 			String _name = "StorageBarn";
@@ -4746,7 +4746,7 @@ StringTable rawMaterial
 		}
 		{
 			String _name = "WinterCoatRequire";
-			String _text = "Warmer Mantel [Leder + Wolle]";
+			String _text = "Wintermantel [Leder + Wolle]";
 		}
 		{
 			String _name = "ToolRequire";
